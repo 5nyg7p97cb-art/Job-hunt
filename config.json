@@ -1,0 +1,46 @@
+{
+  "filters": {
+    "include_title": [
+      "new grad", "new graduate", "entry level", "entry-level", "early career", "early-career",
+      "junior", "graduate", "associate", "analyst", "campus", "university", "rotational",
+      "apprentice", "fellow", "2026", "2027", "Engineer I", "Analyst I"
+    ],
+    "exclude_title": [
+      "senior", "sr", "sr.", "staff", "principal", "lead", "manager", "director", "head",
+      "vp", "vice president", "II", "III", "IV", "intern", "internship", "phd", "partner"
+    ],
+    "locations": ["New York", "NYC", "NY", "Remote"]
+  },
+  "companies": [
+    {
+      "name": "Bilt",
+      "ats": "gem",
+      "slug": "bilt",
+      "locations": ["New York", "NYC", "NY"],
+      "extra_include": ["specialist", "coordinator", "all levels", "concierge", "representative"],
+      "extra_exclude": ["experienced"]
+    },
+    {
+      "name": "Evercore (Students & Grads)",
+      "ats": "oleeo",
+      "slug": "https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-ext/brand-6/candidate/jobboard/vacancy/2/adv/",
+      "locations": ["New York", "NYC", "NY"],
+      "include_title": ["analyst", "full-time", "full time", "2026", "2027", "graduate", "entry"],
+      "extra_exclude": ["summer", "experienced", "associate", "mba"]
+    },
+    {
+      "name": "Evercore (Professionals)",
+      "ats": "oleeo",
+      "slug": "https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-ext/brand-5/candidate/jobboard/vacancy/3/adv/",
+      "locations": ["New York", "NYC", "NY"],
+      "include_title": ["analyst", "entry", "junior", "graduate", "coordinator"],
+      "extra_exclude": ["summer", "experienced", "associate", "mba"]
+    },
+
+    { "name": "Anthropic", "ats": "greenhouse", "slug": "anthropic", "enabled": false },
+    { "name": "Stripe",    "ats": "greenhouse", "slug": "stripe",    "enabled": false },
+    { "name": "Datadog",   "ats": "greenhouse", "slug": "datadog",   "enabled": false },
+    { "name": "Palantir",  "ats": "lever",      "slug": "palantir",  "enabled": false },
+    { "name": "Ramp",      "ats": "ashby",      "slug": "ramp",      "enabled": false }
+  ]
+}
