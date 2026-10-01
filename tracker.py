@@ -6,6 +6,7 @@ entry-level roles in your locations, and pushes new matches to your phone via nt
 No dependencies beyond the Python standard library.
 """
 import json
+from datetime import datetime, timezone
 import os
 import re
 import sys
@@ -204,22 +205,31 @@ def notify(title, message, click=None):
 
 
 # ---------- Board (JOBS.md) ----------
-def write_board(current, new_ids, errors):
+def write_board(current, new_ids, errors, results):
     cell = lambda s: str(s).replace("|", "/").strip()
     lines = [
         "# Entry-level openings",
         "",
-        f"{len(current)} matching roles open. 🆕 = found in the latest run.",
+        f"Last checked: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}",
+        "",
+        f"{len(current)} matching roles open. ð = found in the latest run.",
         "",
         "| | Company | Role | Location |",
         "|---|---|---|---|",
     ]
     for j in sorted(current, key=lambda j: (j["id"] not in new_ids, j["company"].lower(), j["title"])):
-        flag = "🆕" if j["id"] in new_ids else ""
+        flag = "ð" if j["id"] in new_ids else ""
         lines.append(f"| {flag} | {cell(j['company'])} | [{cell(j['title'])}]({j['url']}) | {cell(j['location'])} |")
     if errors:
         lines += ["", "## Boards that failed this run", ""] + [f"- {cell(e)}" for e in errors]
+    lines += ["", "## Board check results", "", "| Company | Open roles | Matching roles | Status |", "|---|---:|---:|---|"]
+    for r in results:
+        lines.append(f"| {cell(r['company'])} | {r['open']} | {r['matches']} | {cell(r['status'])} |")
     BOARD_FILE.write_text("\n".join(lines) + "\n")
+    summary = os.environ.get("GITHUB_STEP_SUMMARY")
+    if summary:
+        with open(summary, "a") as f:
+            f.write("\n".join(lines) + "\n")
 
 
 # ---------- Main ----------
@@ -231,6 +241,7 @@ def main():
     seen = set(state.get("seen", []))
     was_failing = set(state.get("failing", []))
     current, new, errors, failing = [], [], [], set()
+    results = []
     presets = CONFIG.get("presets", {})
     companies = [
         {**presets.get(c.get("preset"), {}), **c}
@@ -243,12 +254,14 @@ def main():
         except Exception as e:
             errors.append(f"{c['name']}: {e}")
             failing.add(c["name"])
+            results.append({"company": c["name"], "open": "â", "matches": "â", "status": "FAILED"})
             print(f"{c['name']}: ERROR {e}", file=sys.stderr)
             if c["name"] not in was_failing:
                 notify(f"Tracker can't read {c['name']}", str(e)[:200])
             continue
         hits = [dict(j, company=c["name"]) for j in jobs if matches(j, c)]
         print(f"{c['name']}: {len(jobs)} open, {len(hits)} match")
+        results.append({"company": c["name"], "open": len(jobs), "matches": len(hits), "status": "OK"})
         current += hits
         new += [j for j in hits if j["id"] not in seen]
 
@@ -266,7 +279,10 @@ def main():
 
     state = {"seen": sorted(seen | {j["id"] for j in current}), "failing": sorted(failing)}
     SEEN_FILE.write_text(json.dumps(state, indent=0))
-    write_board(current, {j["id"] for j in new} if not first_run else set(), errors)
+    write_board(current, {j["id"] for j in new} if not first_run else set(), errors, results)
+    print(f"Checked {len(companies)} boards: {len(companies) - len(failing)} succeeded, {len(failing)} failed; {len(current)} matches, {len(new)} new.")
+    if companies and len(failing) == len(companies):
+        raise SystemExit("All enabled boards failed; see JOBS.md and the run summary.")
 
 
 if __name__ == "__main__":
