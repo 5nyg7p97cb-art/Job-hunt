@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-01 19:50:05 UTC
+Last checked: 2026-10-01 20:25:51 UTC
 
 232 matching roles open. ð = found in the latest run.
 
@@ -253,7 +253,7 @@ Last checked: 2026-10-01 19:50:05 UTC
 | General Atlantic | 10 | 0 | OK |
 | Anthropic | 637 | 14 | OK |
 | Stripe | 714 | 12 | OK |
-| Datadog | 441 | 8 | OK |
+| Datadog | 442 | 8 | OK |
 | Palantir | 320 | 13 | OK |
 | Ramp | 158 | 13 | OK |
 | iCapital | 212 | 8 | OK |
@@ -281,4 +281,4 @@ Last checked: 2026-10-01 19:50:05 UTC
 | Kalshi | 44 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 132 | 4 | OK |
-| Vanta | 82 | 2 | OK |
+| Vanta | 81 | 2 | OK |
