@@ -94,10 +94,12 @@ def fetch_workday(board_url, search_text=""):
             total = data.get("total", 0)  # Workday only reports total on the first page
         for j in posts:
             path = j.get("externalPath", "")
+            loc = j.get("locationsText", "")
             yield {
                 "id": f"wd-{tenant}-{path}",
                 "title": j.get("title", ""),
-                "location": j.get("locationsText", ""),
+                "location": loc,
+                "location_unknown": bool(re.fullmatch(r"\d+ Locations", loc.strip())),
                 "url": f"https://{host}/{site}{path}",
             }
         offset += 20
@@ -181,7 +183,7 @@ def matches(job, company):
         return False
     locations = company.get("locations", FILTERS["locations"])
     where = f"{job['location']} {job.get('match_text', '')}"
-    if locations and not has_any(where, locations):
+    if locations and not job.get("location_unknown") and not has_any(where, locations):
         return False
     return True
 
@@ -229,7 +231,11 @@ def main():
     seen = set(state.get("seen", []))
     was_failing = set(state.get("failing", []))
     current, new, errors, failing = [], [], [], set()
-    companies = [c for c in CONFIG["companies"] if c.get("enabled", True)]
+    presets = CONFIG.get("presets", {})
+    companies = [
+        {**presets.get(c.get("preset"), {}), **c}
+        for c in CONFIG["companies"] if c.get("enabled", True)
+    ]
 
     for c in companies:
         try:
