@@ -1,46 +1,535 @@
 {
   "filters": {
     "include_title": [
-      "new grad", "new graduate", "entry level", "entry-level", "early career", "early-career",
-      "junior", "graduate", "associate", "analyst", "campus", "university", "rotational",
-      "apprentice", "fellow", "2026", "2027", "Engineer I", "Analyst I"
+      "new grad",
+      "new graduate",
+      "entry level",
+      "entry-level",
+      "early career",
+      "early-career",
+      "junior",
+      "graduate",
+      "associate",
+      "analyst",
+      "campus",
+      "university",
+      "rotational",
+      "apprentice",
+      "fellow",
+      "2026",
+      "2027",
+      "Engineer I",
+      "Analyst I"
     ],
     "exclude_title": [
-      "senior", "sr", "sr.", "staff", "principal", "lead", "manager", "director", "head",
-      "vp", "vice president", "II", "III", "IV", "intern", "internship", "phd", "partner"
+      "senior",
+      "sr",
+      "sr.",
+      "staff",
+      "principal",
+      "lead",
+      "manager",
+      "director",
+      "head",
+      "vp",
+      "vice president",
+      "II",
+      "III",
+      "IV",
+      "intern",
+      "internship",
+      "phd",
+      "partner"
     ],
-    "locations": ["New York", "NYC", "NY", "Remote"]
+    "locations": [
+      "New York",
+      "NYC",
+      "NY",
+      "Remote"
+    ]
+  },
+  "presets": {
+    "finance_nyc": {
+      "locations": [
+        "New York",
+        "NYC",
+        "NY"
+      ],
+      "include_title": [
+        "analyst",
+        "new grad",
+        "graduate",
+        "entry level",
+        "entry-level",
+        "junior",
+        "2026",
+        "2027"
+      ],
+      "extra_exclude": [
+        "summer",
+        "experienced",
+        "associate",
+        "mba",
+        "principal"
+      ],
+      "search_text": "analyst"
+    }
   },
   "companies": [
     {
       "name": "Bilt",
       "ats": "gem",
       "slug": "bilt",
-      "locations": ["New York", "NYC", "NY"],
-      "extra_include": ["specialist", "coordinator", "all levels", "concierge", "representative"],
-      "extra_exclude": ["experienced"]
+      "locations": [
+        "New York",
+        "NYC",
+        "NY"
+      ],
+      "extra_include": [
+        "specialist",
+        "coordinator",
+        "all levels",
+        "concierge",
+        "representative"
+      ],
+      "extra_exclude": [
+        "experienced"
+      ]
     },
     {
       "name": "Evercore (Students & Grads)",
       "ats": "oleeo",
       "slug": "https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-ext/brand-6/candidate/jobboard/vacancy/2/adv/",
-      "locations": ["New York", "NYC", "NY"],
-      "include_title": ["analyst", "full-time", "full time", "2026", "2027", "graduate", "entry"],
-      "extra_exclude": ["summer", "experienced", "associate", "mba"]
+      "locations": [
+        "New York",
+        "NYC",
+        "NY"
+      ],
+      "include_title": [
+        "analyst",
+        "full-time",
+        "full time",
+        "2026",
+        "2027",
+        "graduate",
+        "entry"
+      ],
+      "extra_exclude": [
+        "summer",
+        "experienced",
+        "associate",
+        "mba"
+      ]
     },
     {
       "name": "Evercore (Professionals)",
       "ats": "oleeo",
       "slug": "https://evercore.tal.net/vx/lang-en-GB/mobile-0/channel-1/appcentre-ext/brand-5/candidate/jobboard/vacancy/3/adv/",
-      "locations": ["New York", "NYC", "NY"],
-      "include_title": ["analyst", "entry", "junior", "graduate", "coordinator"],
-      "extra_exclude": ["summer", "experienced", "associate", "mba"]
+      "locations": [
+        "New York",
+        "NYC",
+        "NY"
+      ],
+      "include_title": [
+        "analyst",
+        "entry",
+        "junior",
+        "graduate",
+        "coordinator"
+      ],
+      "extra_exclude": [
+        "summer",
+        "experienced",
+        "associate",
+        "mba"
+      ]
     },
-
-    { "name": "Anthropic", "ats": "greenhouse", "slug": "anthropic", "enabled": false },
-    { "name": "Stripe",    "ats": "greenhouse", "slug": "stripe",    "enabled": false },
-    { "name": "Datadog",   "ats": "greenhouse", "slug": "datadog",   "enabled": false },
-    { "name": "Palantir",  "ats": "lever",      "slug": "palantir",  "enabled": false },
-    { "name": "Ramp",      "ats": "ashby",      "slug": "ramp",      "enabled": false }
+    {
+      "name": "BlackRock",
+      "preset": "finance_nyc",
+      "ats": "workday",
+      "slug": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional"
+    },
+    {
+      "name": "Blackstone",
+      "preset": "finance_nyc",
+      "ats": "workday",
+      "slug": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers"
+    },
+    {
+      "name": "Blackstone (Campus)",
+      "preset": "finance_nyc",
+      "ats": "workday",
+      "slug": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers"
+    },
+    {
+      "name": "Point72",
+      "preset": "finance_nyc",
+      "ats": "greenhouse",
+      "slug": "point72",
+      "enabled": true
+    },
+    {
+      "name": "General Atlantic",
+      "preset": "finance_nyc",
+      "ats": "greenhouse",
+      "slug": "generalatlantic",
+      "enabled": true
+    },
+    {
+      "name": "PJT Partners",
+      "preset": "finance_nyc",
+      "ats": "greenhouse",
+      "slug": "pjtpartners",
+      "enabled": false
+    },
+    {
+      "name": "PJT Partners (Students)",
+      "preset": "finance_nyc",
+      "ats": "greenhouse",
+      "slug": "pjtpartnersstudents",
+      "enabled": false
+    },
+    {
+      "name": "Anthropic",
+      "ats": "greenhouse",
+      "slug": "anthropic",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "Stripe",
+      "ats": "greenhouse",
+      "slug": "stripe",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "Datadog",
+      "ats": "greenhouse",
+      "slug": "datadog",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "Palantir",
+      "ats": "lever",
+      "slug": "palantir",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "Ramp",
+      "ats": "ashby",
+      "slug": "ramp",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "iCapital",
+      "ats": "greenhouse",
+      "slug": "icapitalnetwork",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "AlphaSights",
+      "ats": "greenhouse",
+      "slug": "alphasights",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "Jane Street",
+      "ats": "greenhouse",
+      "slug": "janestreet",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "Schonfeld",
+      "ats": "greenhouse",
+      "slug": "schonfeld",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "Robinhood",
+      "ats": "greenhouse",
+      "slug": "robinhood",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "SoFi",
+      "ats": "greenhouse",
+      "slug": "sofi",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "Affirm",
+      "ats": "greenhouse",
+      "slug": "affirm",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "Brex",
+      "ats": "greenhouse",
+      "slug": "brex",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "Betterment",
+      "ats": "greenhouse",
+      "slug": "betterment",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "Clear Street",
+      "ats": "greenhouse",
+      "slug": "clearstreet",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "Scale AI",
+      "ats": "greenhouse",
+      "slug": "scaleai",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "Dataiku",
+      "ats": "greenhouse",
+      "slug": "dataiku",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "ats": "greenhouse",
+      "slug": "mongodb",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "Oscar Health",
+      "ats": "greenhouse",
+      "slug": "oscar",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "The Trade Desk",
+      "ats": "greenhouse",
+      "slug": "thetradedesk",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "Guidepoint",
+      "ats": "greenhouse",
+      "slug": "guidepoint",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "Gusto",
+      "ats": "greenhouse",
+      "slug": "gusto",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "Flatiron Health",
+      "ats": "greenhouse",
+      "slug": "flatironhealth",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "OpenAI",
+      "ats": "ashby",
+      "slug": "openai",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "Perplexity",
+      "ats": "ashby",
+      "slug": "perplexity",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "Notion",
+      "ats": "ashby",
+      "slug": "notion",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "Harvey",
+      "ats": "ashby",
+      "slug": "harvey",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "Kalshi",
+      "ats": "ashby",
+      "slug": "kalshi",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "Unify",
+      "ats": "ashby",
+      "slug": "unify",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "Cohere",
+      "ats": "ashby",
+      "slug": "cohere",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    },
+    {
+      "name": "Vanta",
+      "ats": "ashby",
+      "slug": "vanta",
+      "enabled": true,
+      "extra_include": [
+        "sales development representative",
+        "business development representative",
+        "coordinator"
+      ]
+    }
   ]
 }
