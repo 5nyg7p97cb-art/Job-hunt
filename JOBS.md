@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-01 21:23:50 UTC
+Last checked: 2026-10-01 21:52:10 UTC
 
 232 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -87,7 +87,7 @@ Last checked: 2026-10-01 21:23:50 UTC
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8715494002) | New York, New York, United States |
 |  | Gusto | [Health Insurance Sales Operations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8075901) | Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid |
-|  | Gusto | [Payment Operations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8180461) | New York, NY - Hybrid; San Francisco, CA - Hybrid |
+|  | Gusto | [Payment Operations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8180461) | San Francisco, CA - Hybrid; Seattle, WA - Remote |
 |  | Harvey | [Analyst, Customer Trust](https://jobs.ashbyhq.com/harvey/284a0861-026b-45ff-a4ad-c2d187d7184d) | San Francisco / Remote |
 |  | Harvey | [Analyst, Customer Trust](https://jobs.ashbyhq.com/harvey/1cf585c3-27e2-4813-ade9-dc8c53c2d5b0) | New York / Remote |
 |  | Harvey | [Analyst, Customer Trust](https://jobs.ashbyhq.com/harvey/8caa7beb-d41c-4802-a23d-4e72b6838f13) | London / Remote |
@@ -157,8 +157,8 @@ Last checked: 2026-10-01 21:23:50 UTC
 |  | Oscar Health | [Associate, Network Contracting (Central Region)](https://job-boards.greenhouse.io/oscar/jobs/8168122) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
-|  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
 |  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8146212) | Remote |
+|  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
 |  | Oscar Health | [Associate, Process Improvement](https://job-boards.greenhouse.io/oscar/jobs/8146250) | New York, New York, United States |
 |  | Oscar Health | [Associate, Process Optimization](https://job-boards.greenhouse.io/oscar/jobs/8107490) | New York, New York, United States |
 |  | Oscar Health | [Associate, Provider Success](https://job-boards.greenhouse.io/oscar/jobs/8154397) | New York, New York, United States |
@@ -251,8 +251,8 @@ Last checked: 2026-10-01 21:23:50 UTC
 | Blackstone (Campus) | 29 | 2 | OK |
 | Point72 | 214 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
-| Anthropic | 636 | 14 | OK |
-| Stripe | 714 | 12 | OK |
+| Anthropic | 637 | 14 | OK |
+| Stripe | 713 | 12 | OK |
 | Datadog | 442 | 8 | OK |
 | Palantir | 320 | 13 | OK |
 | Ramp | 158 | 13 | OK |
@@ -270,14 +270,14 @@ Last checked: 2026-10-01 21:23:50 UTC
 | Dataiku | 22 | 0 | OK |
 | MongoDB | 391 | 2 | OK |
 | Oscar Health | 250 | 22 | OK |
-| The Trade Desk | 93 | 6 | OK |
+| The Trade Desk | 94 | 6 | OK |
 | Guidepoint | 109 | 6 | OK |
 | Gusto | 102 | 2 | OK |
 | Flatiron Health | 29 | 4 | OK |
 | OpenAI | 836 | 15 | OK |
 | Perplexity | 125 | 3 | OK |
 | Notion | 134 | 7 | OK |
-| Harvey | 309 | 15 | OK |
+| Harvey | 308 | 15 | OK |
 | Kalshi | 45 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 132 | 4 | OK |
