@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-02 12:55:23 UTC
+Last checked: 2026-10-02 13:26:44 UTC
 
-232 matching roles open. ð = found in the latest run.
+231 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -75,7 +75,6 @@ Last checked: 2026-10-02 12:55:23 UTC
 |  | Datadog | [Legal Operations Analyst](https://careers.datadoghq.com/detail/8202086/?gh_jid=8202086) | New York, New York, USA |
 |  | Datadog | [People Solutions Coordinator (NYC)](https://careers.datadoghq.com/detail/7728298/?gh_jid=7728298) | New York, New York, USA |
 |  | Datadog | [Sales Revenue Analyst - NYC](https://careers.datadoghq.com/detail/8132294/?gh_jid=8132294) | New York, New York, USA |
-|  | Datadog | [Strategic Finance Analyst](https://careers.datadoghq.com/detail/8237942/?gh_jid=8237942) | New York, New York, USA |
 |  | Flatiron Health | [Associate, Life Science Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=7611841) | NY office |
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
@@ -157,8 +156,8 @@ Last checked: 2026-10-02 12:55:23 UTC
 |  | Oscar Health | [Associate, Network Contracting (Central Region)](https://job-boards.greenhouse.io/oscar/jobs/8168122) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
-|  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
 |  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8146212) | Remote |
+|  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
 |  | Oscar Health | [Associate, Process Improvement](https://job-boards.greenhouse.io/oscar/jobs/8146250) | New York, New York, United States |
 |  | Oscar Health | [Associate, Process Optimization](https://job-boards.greenhouse.io/oscar/jobs/8107490) | New York, New York, United States |
 |  | Oscar Health | [Associate, Provider Success](https://job-boards.greenhouse.io/oscar/jobs/8154397) | New York, New York, United States |
@@ -251,12 +250,12 @@ Last checked: 2026-10-02 12:55:23 UTC
 | Blackstone (Campus) | 29 | 2 | OK |
 | Point72 | 213 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
-| Anthropic | 638 | 14 | OK |
+| Anthropic | 640 | 14 | OK |
 | Stripe | 711 | 12 | OK |
-| Datadog | 442 | 8 | OK |
+| Datadog | 442 | 7 | OK |
 | Palantir | 320 | 13 | OK |
 | Ramp | 158 | 13 | OK |
-| iCapital | 212 | 8 | OK |
+| iCapital | 211 | 8 | OK |
 | AlphaSights | 58 | 13 | OK |
 | Jane Street | 231 | 11 | OK |
 | Schonfeld | 74 | 7 | OK |
@@ -280,5 +279,5 @@ Last checked: 2026-10-02 12:55:23 UTC
 | Harvey | 309 | 15 | OK |
 | Kalshi | 45 | 1 | OK |
 | Unify | 10 | 1 | OK |
-| Cohere | 134 | 4 | OK |
+| Cohere | 136 | 4 | OK |
 | Vanta | 82 | 2 | OK |
