@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-02 12:30:21 UTC
+Last checked: 2026-10-02 12:55:23 UTC
 
 232 matching roles open. ð = found in the latest run.
 
@@ -251,7 +251,7 @@ Last checked: 2026-10-02 12:30:21 UTC
 | Blackstone (Campus) | 29 | 2 | OK |
 | Point72 | 213 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
-| Anthropic | 637 | 14 | OK |
+| Anthropic | 638 | 14 | OK |
 | Stripe | 711 | 12 | OK |
 | Datadog | 442 | 8 | OK |
 | Palantir | 320 | 13 | OK |
@@ -280,5 +280,5 @@ Last checked: 2026-10-02 12:30:21 UTC
 | Harvey | 309 | 15 | OK |
 | Kalshi | 45 | 1 | OK |
 | Unify | 10 | 1 | OK |
-| Cohere | 133 | 4 | OK |
+| Cohere | 134 | 4 | OK |
 | Vanta | 82 | 2 | OK |
