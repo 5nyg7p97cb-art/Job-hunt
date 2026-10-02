@@ -1,12 +1,13 @@
 # Entry-level openings
 
-Last checked: 2026-10-02 18:53:30 UTC
+Last checked: 2026-10-02 19:25:03 UTC
 
-234 matching roles open. ð = found in the latest run.
+236 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
+| ð | Harvey | [Software Engineer, New Grad (2027)](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5) | San Francisco / Remote |
+| ð | Harvey | [Software Engineer, New Grad (2027)](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc) | New York |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -223,6 +224,7 @@ Last checked: 2026-10-02 18:53:30 UTC
 |  | Stripe | [Credit Risk Analyst, North American Underwriter](https://stripe.com/jobs/search?gh_jid=7612192) | Toronto, Remote-Canada |
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
+|  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
 |  | Stripe | [Fraud Patterns Analyst](https://stripe.com/jobs/search?gh_jid=7913410) | US-Remote |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
@@ -276,10 +278,10 @@ Last checked: 2026-10-02 18:53:30 UTC
 | Guidepoint | 109 | 6 | OK |
 | Gusto | 100 | 2 | OK |
 | Flatiron Health | 29 | 4 | OK |
-| OpenAI | 827 | 16 | OK |
+| OpenAI | 828 | 16 | OK |
 | Perplexity | 124 | 3 | OK |
 | Notion | 136 | 7 | OK |
-| Harvey | 321 | 15 | OK |
+| Harvey | 324 | 17 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 136 | 4 | OK |
