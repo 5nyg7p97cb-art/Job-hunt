@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-02 14:27:15 UTC
+Last checked: 2026-10-02 14:54:21 UTC
 
 232 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Clear Street | [Associate - Tax Operations](https://job-boards.greenhouse.io/clearstreet/jobs/8249141) | New York, NY |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -63,6 +62,7 @@ Last checked: 2026-10-02 14:27:15 UTC
 |  | Clear Street | [AML Onboarding Associate](https://job-boards.greenhouse.io/clearstreet/jobs/7557381) | New York, NY |
 |  | Clear Street | [Associate - Active Trading Support](https://job-boards.greenhouse.io/clearstreet/jobs/8168021) | New York, NY |
 |  | Clear Street | [Associate - Client Onboarding](https://job-boards.greenhouse.io/clearstreet/jobs/8227249) | New York, NY |
+|  | Clear Street | [Associate - Tax Operations](https://job-boards.greenhouse.io/clearstreet/jobs/8249141) | New York, NY |
 |  | Clear Street | [Associate - Trade Surveillance](https://job-boards.greenhouse.io/clearstreet/jobs/7561417) | New York, NY |
 |  | Clear Street | [Associate, Equity & Middle Office](https://job-boards.greenhouse.io/clearstreet/jobs/8240535) | New York |
 |  | Cohere | [Business Development Representative](https://jobs.ashbyhq.com/cohere/f959be10-be25-4918-bcf3-39e1a83d2957) | Germany / Berlin / Remote |
@@ -222,8 +222,8 @@ Last checked: 2026-10-02 14:27:15 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Fraud Patterns Analyst](https://stripe.com/jobs/search?gh_jid=7913410) | US-Remote |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -246,20 +246,20 @@ Last checked: 2026-10-02 14:27:15 UTC
 | Bilt | 19 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 40 | 1 | OK |
+| BlackRock | 41 | 1 | OK |
 | Blackstone | 37 | 10 | OK |
 | Blackstone (Campus) | 29 | 2 | OK |
 | Point72 | 213 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
 | Anthropic | 640 | 14 | OK |
-| Stripe | 710 | 12 | OK |
-| Datadog | 443 | 7 | OK |
+| Stripe | 709 | 12 | OK |
+| Datadog | 444 | 7 | OK |
 | Palantir | 319 | 13 | OK |
 | Ramp | 158 | 13 | OK |
 | iCapital | 211 | 8 | OK |
 | AlphaSights | 58 | 13 | OK |
 | Jane Street | 231 | 11 | OK |
-| Schonfeld | 74 | 7 | OK |
+| Schonfeld | 72 | 7 | OK |
 | Robinhood | 160 | 0 | OK |
 | SoFi | 58 | 0 | OK |
 | Affirm | 189 | 4 | OK |
@@ -270,15 +270,15 @@ Last checked: 2026-10-02 14:27:15 UTC
 | Dataiku | 21 | 0 | OK |
 | MongoDB | 393 | 2 | OK |
 | Oscar Health | 249 | 22 | OK |
-| The Trade Desk | 98 | 6 | OK |
+| The Trade Desk | 99 | 6 | OK |
 | Guidepoint | 109 | 6 | OK |
 | Gusto | 101 | 2 | OK |
 | Flatiron Health | 29 | 4 | OK |
-| OpenAI | 833 | 15 | OK |
+| OpenAI | 832 | 15 | OK |
 | Perplexity | 124 | 3 | OK |
 | Notion | 134 | 7 | OK |
 | Harvey | 309 | 15 | OK |
-| Kalshi | 45 | 1 | OK |
+| Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 136 | 4 | OK |
 | Vanta | 82 | 2 | OK |
