@@ -1,11 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-10-02 17:50:31 UTC
+Last checked: 2026-10-02 18:28:37 UTC
 
-232 matching roles open. ð = found in the latest run.
+233 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Stripe | [Comms Strategy & Operations Associate](https://stripe.com/jobs/search?gh_jid=8241857) | NYC, SF |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -252,7 +253,7 @@ Last checked: 2026-10-02 17:50:31 UTC
 | Point72 | 212 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
 | Anthropic | 637 | 14 | OK |
-| Stripe | 713 | 12 | OK |
+| Stripe | 710 | 13 | OK |
 | Datadog | 443 | 7 | OK |
 | Palantir | 319 | 13 | OK |
 | Ramp | 158 | 13 | OK |
@@ -266,15 +267,15 @@ Last checked: 2026-10-02 17:50:31 UTC
 | Brex | 271 | 2 | OK |
 | Betterment | 29 | 2 | OK |
 | Clear Street | 42 | 6 | OK |
-| Scale AI | 191 | 2 | OK |
+| Scale AI | 192 | 2 | OK |
 | Dataiku | 21 | 0 | OK |
 | MongoDB | 393 | 2 | OK |
 | Oscar Health | 246 | 22 | OK |
 | The Trade Desk | 102 | 6 | OK |
 | Guidepoint | 109 | 6 | OK |
-| Gusto | 101 | 2 | OK |
+| Gusto | 100 | 2 | OK |
 | Flatiron Health | 29 | 4 | OK |
-| OpenAI | 829 | 16 | OK |
+| OpenAI | 827 | 16 | OK |
 | Perplexity | 124 | 3 | OK |
 | Notion | 136 | 7 | OK |
 | Harvey | 321 | 15 | OK |
