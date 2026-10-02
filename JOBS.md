@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-02 13:26:44 UTC
+Last checked: 2026-10-02 13:53:24 UTC
 
 231 matching roles open. ð = found in the latest run.
 
@@ -252,8 +252,8 @@ Last checked: 2026-10-02 13:26:44 UTC
 | General Atlantic | 10 | 0 | OK |
 | Anthropic | 640 | 14 | OK |
 | Stripe | 711 | 12 | OK |
-| Datadog | 442 | 7 | OK |
-| Palantir | 320 | 13 | OK |
+| Datadog | 443 | 7 | OK |
+| Palantir | 319 | 13 | OK |
 | Ramp | 158 | 13 | OK |
 | iCapital | 211 | 8 | OK |
 | AlphaSights | 58 | 13 | OK |
@@ -263,7 +263,7 @@ Last checked: 2026-10-02 13:26:44 UTC
 | SoFi | 58 | 0 | OK |
 | Affirm | 189 | 4 | OK |
 | Brex | 271 | 2 | OK |
-| Betterment | 29 | 3 | OK |
+| Betterment | 30 | 3 | OK |
 | Clear Street | 40 | 5 | OK |
 | Scale AI | 194 | 2 | OK |
 | Dataiku | 21 | 0 | OK |
