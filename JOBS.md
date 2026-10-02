@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-02 02:50:48 UTC
+Last checked: 2026-10-02 03:24:56 UTC
 
 232 matching roles open. ð = found in the latest run.
 
@@ -261,7 +261,7 @@ Last checked: 2026-10-02 02:50:48 UTC
 | Jane Street | 231 | 11 | OK |
 | Schonfeld | 75 | 7 | OK |
 | Robinhood | 161 | 0 | OK |
-| SoFi | 59 | 0 | OK |
+| SoFi | 58 | 0 | OK |
 | Affirm | 189 | 4 | OK |
 | Brex | 271 | 2 | OK |
 | Betterment | 29 | 3 | OK |
