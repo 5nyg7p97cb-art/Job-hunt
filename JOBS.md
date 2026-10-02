@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-02 17:25:16 UTC
+Last checked: 2026-10-02 17:50:31 UTC
 
 232 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | OpenAI | [People Technology Analyst, Workday PATT & Benefits](https://jobs.ashbyhq.com/openai/bb28a39e-eb1f-41ef-96de-98adf58a8c3c) | US - Remote / Remote |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -142,6 +141,7 @@ Last checked: 2026-10-02 17:25:16 UTC
 |  | OpenAI | [Associate General Counsel, Commercial – Infrastructure](https://jobs.ashbyhq.com/openai/2b148425-b807-46a5-97e1-fae307aacb80) | San Francisco / Remote |
 |  | OpenAI | [BIM Designer & Coordinator](https://jobs.ashbyhq.com/openai/ad6b55f9-fa63-4860-b852-d90592e49d1c) | San Francisco / Seattle / US - Remote / Remote |
 |  | OpenAI | [Data Center Compute, OpenHouse Savannah 2026](https://jobs.ashbyhq.com/openai/6ba0ce24-ad32-4c3b-b49c-b373be9a8480) | US - Remote / Seattle / San Francisco / Remote |
+|  | OpenAI | [People Technology Analyst, Workday PATT & Benefits](https://jobs.ashbyhq.com/openai/bb28a39e-eb1f-41ef-96de-98adf58a8c3c) | US - Remote / Remote |
 |  | OpenAI | [Recruiting Coordinator - Contract](https://jobs.ashbyhq.com/openai/dbd5ae8a-7c01-4f17-be39-b8caa8fd95d5) | San Francisco / New York City / Seattle / Remote |
 |  | OpenAI | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | San Francisco / Remote |
 |  | OpenAI | [Technical Operations Analyst, User Safety & Risk](https://jobs.ashbyhq.com/openai/0f78e08a-669d-4d87-960f-518c649e6700) | London, UK / Remote |
@@ -251,28 +251,28 @@ Last checked: 2026-10-02 17:25:16 UTC
 | Blackstone (Campus) | 30 | 2 | OK |
 | Point72 | 212 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
-| Anthropic | 639 | 14 | OK |
-| Stripe | 712 | 12 | OK |
-| Datadog | 445 | 7 | OK |
+| Anthropic | 637 | 14 | OK |
+| Stripe | 713 | 12 | OK |
+| Datadog | 443 | 7 | OK |
 | Palantir | 319 | 13 | OK |
 | Ramp | 158 | 13 | OK |
 | iCapital | 208 | 8 | OK |
 | AlphaSights | 58 | 13 | OK |
 | Jane Street | 230 | 11 | OK |
 | Schonfeld | 72 | 7 | OK |
-| Robinhood | 161 | 0 | OK |
+| Robinhood | 163 | 0 | OK |
 | SoFi | 58 | 0 | OK |
 | Affirm | 190 | 4 | OK |
 | Brex | 271 | 2 | OK |
 | Betterment | 29 | 2 | OK |
 | Clear Street | 42 | 6 | OK |
-| Scale AI | 192 | 2 | OK |
+| Scale AI | 191 | 2 | OK |
 | Dataiku | 21 | 0 | OK |
 | MongoDB | 393 | 2 | OK |
-| Oscar Health | 245 | 22 | OK |
+| Oscar Health | 246 | 22 | OK |
 | The Trade Desk | 102 | 6 | OK |
 | Guidepoint | 109 | 6 | OK |
-| Gusto | 102 | 2 | OK |
+| Gusto | 101 | 2 | OK |
 | Flatiron Health | 29 | 4 | OK |
 | OpenAI | 829 | 16 | OK |
 | Perplexity | 124 | 3 | OK |
