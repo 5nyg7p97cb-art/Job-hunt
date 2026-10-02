@@ -1,14 +1,15 @@
 # Entry-level openings
 
-Last checked: 2026-10-02 13:53:24 UTC
+Last checked: 2026-10-02 14:27:15 UTC
 
-231 matching roles open. ð = found in the latest run.
+232 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Clear Street | [Associate - Tax Operations](https://job-boards.greenhouse.io/clearstreet/jobs/8249141) | New York, NY |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -156,8 +157,8 @@ Last checked: 2026-10-02 13:53:24 UTC
 |  | Oscar Health | [Associate, Network Contracting (Central Region)](https://job-boards.greenhouse.io/oscar/jobs/8168122) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
-|  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8146212) | Remote |
 |  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
+|  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8146212) | Remote |
 |  | Oscar Health | [Associate, Process Improvement](https://job-boards.greenhouse.io/oscar/jobs/8146250) | New York, New York, United States |
 |  | Oscar Health | [Associate, Process Optimization](https://job-boards.greenhouse.io/oscar/jobs/8107490) | New York, New York, United States |
 |  | Oscar Health | [Associate, Provider Success](https://job-boards.greenhouse.io/oscar/jobs/8154397) | New York, New York, United States |
@@ -251,7 +252,7 @@ Last checked: 2026-10-02 13:53:24 UTC
 | Point72 | 213 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
 | Anthropic | 640 | 14 | OK |
-| Stripe | 711 | 12 | OK |
+| Stripe | 710 | 12 | OK |
 | Datadog | 443 | 7 | OK |
 | Palantir | 319 | 13 | OK |
 | Ramp | 158 | 13 | OK |
@@ -259,17 +260,17 @@ Last checked: 2026-10-02 13:53:24 UTC
 | AlphaSights | 58 | 13 | OK |
 | Jane Street | 231 | 11 | OK |
 | Schonfeld | 74 | 7 | OK |
-| Robinhood | 161 | 0 | OK |
+| Robinhood | 160 | 0 | OK |
 | SoFi | 58 | 0 | OK |
 | Affirm | 189 | 4 | OK |
 | Brex | 271 | 2 | OK |
 | Betterment | 30 | 3 | OK |
-| Clear Street | 40 | 5 | OK |
+| Clear Street | 41 | 6 | OK |
 | Scale AI | 194 | 2 | OK |
 | Dataiku | 21 | 0 | OK |
 | MongoDB | 393 | 2 | OK |
 | Oscar Health | 249 | 22 | OK |
-| The Trade Desk | 97 | 6 | OK |
+| The Trade Desk | 98 | 6 | OK |
 | Guidepoint | 109 | 6 | OK |
 | Gusto | 101 | 2 | OK |
 | Flatiron Health | 29 | 4 | OK |
