@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-01 23:49:30 UTC
+Last checked: 2026-10-02 00:31:53 UTC
 
 232 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -157,8 +157,8 @@ Last checked: 2026-10-01 23:49:30 UTC
 |  | Oscar Health | [Associate, Network Contracting (Central Region)](https://job-boards.greenhouse.io/oscar/jobs/8168122) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
-|  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
 |  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8146212) | Remote |
+|  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
 |  | Oscar Health | [Associate, Process Improvement](https://job-boards.greenhouse.io/oscar/jobs/8146250) | New York, New York, United States |
 |  | Oscar Health | [Associate, Process Optimization](https://job-boards.greenhouse.io/oscar/jobs/8107490) | New York, New York, United States |
 |  | Oscar Health | [Associate, Provider Success](https://job-boards.greenhouse.io/oscar/jobs/8154397) | New York, New York, United States |
@@ -222,8 +222,8 @@ Last checked: 2026-10-01 23:49:30 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Fraud Patterns Analyst](https://stripe.com/jobs/search?gh_jid=7913410) | US-Remote |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -251,16 +251,16 @@ Last checked: 2026-10-01 23:49:30 UTC
 | Blackstone (Campus) | 29 | 2 | OK |
 | Point72 | 214 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
-| Anthropic | 638 | 14 | OK |
-| Stripe | 712 | 12 | OK |
+| Anthropic | 637 | 14 | OK |
+| Stripe | 713 | 12 | OK |
 | Datadog | 442 | 8 | OK |
 | Palantir | 320 | 13 | OK |
 | Ramp | 158 | 13 | OK |
-| iCapital | 210 | 8 | OK |
+| iCapital | 211 | 8 | OK |
 | AlphaSights | 58 | 13 | OK |
 | Jane Street | 231 | 11 | OK |
 | Schonfeld | 75 | 7 | OK |
-| Robinhood | 160 | 0 | OK |
+| Robinhood | 161 | 0 | OK |
 | SoFi | 59 | 0 | OK |
 | Affirm | 189 | 4 | OK |
 | Brex | 271 | 2 | OK |
@@ -272,9 +272,9 @@ Last checked: 2026-10-01 23:49:30 UTC
 | Oscar Health | 250 | 22 | OK |
 | The Trade Desk | 95 | 6 | OK |
 | Guidepoint | 109 | 6 | OK |
-| Gusto | 103 | 2 | OK |
+| Gusto | 102 | 2 | OK |
 | Flatiron Health | 29 | 4 | OK |
-| OpenAI | 836 | 15 | OK |
+| OpenAI | 835 | 15 | OK |
 | Perplexity | 125 | 3 | OK |
 | Notion | 134 | 7 | OK |
 | Harvey | 308 | 15 | OK |
