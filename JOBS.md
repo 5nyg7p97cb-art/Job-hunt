@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-02 20:23:13 UTC
+Last checked: 2026-10-02 20:51:47 UTC
 
 237 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Notion | [Payroll Analyst - Accounting](https://jobs.ashbyhq.com/notion/92de7ece-b7d9-4b2a-b9cb-b978cc690a46) | San Francisco, California / Remote |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -132,6 +131,7 @@ Last checked: 2026-10-02 20:23:13 UTC
 |  | Notion | [Business Development Representative](https://jobs.ashbyhq.com/notion/a59ae31e-059e-4f6b-84a7-0fa9db88c72b) | Sydney, Australia / Remote |
 |  | Notion | [Business Development Representative, New York](https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13) | New York, New York / Remote |
 |  | Notion | [Business Development Representative, San Francisco](https://jobs.ashbyhq.com/notion/b21fef72-4864-4a3e-a627-91557a0f8a36) | San Francisco, California / Remote |
+|  | Notion | [Payroll Analyst - Accounting](https://jobs.ashbyhq.com/notion/92de7ece-b7d9-4b2a-b9cb-b978cc690a46) | San Francisco, California / Remote |
 |  | Notion | [Software Engineer, Early Career (AI)](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) | San Francisco, California / Remote |
 |  | Notion | [Software Engineer, New Grad (Dec 2026)](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816) | San Francisco, California / Remote |
 |  | OpenAI | [Account Associate - EMEA](https://jobs.ashbyhq.com/openai/d29b455a-9fee-4610-8e08-ce6a9ea8a37e) | Dublin, Ireland / Remote |
@@ -160,8 +160,8 @@ Last checked: 2026-10-02 20:23:13 UTC
 |  | Oscar Health | [Associate, Network Contracting (Central Region)](https://job-boards.greenhouse.io/oscar/jobs/8168122) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
-|  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8146212) | Remote |
 |  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
+|  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8146212) | Remote |
 |  | Oscar Health | [Associate, Process Improvement](https://job-boards.greenhouse.io/oscar/jobs/8146250) | New York, New York, United States |
 |  | Oscar Health | [Associate, Process Optimization](https://job-boards.greenhouse.io/oscar/jobs/8107490) | New York, New York, United States |
 |  | Oscar Health | [Associate, Provider Success](https://job-boards.greenhouse.io/oscar/jobs/8154397) | New York, New York, United States |
@@ -256,8 +256,8 @@ Last checked: 2026-10-02 20:23:13 UTC
 | Blackstone (Campus) | 30 | 2 | OK |
 | Point72 | 212 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
-| Anthropic | 638 | 14 | OK |
-| Stripe | 714 | 14 | OK |
+| Anthropic | 639 | 14 | OK |
+| Stripe | 713 | 14 | OK |
 | Datadog | 442 | 7 | OK |
 | Palantir | 319 | 13 | OK |
 | Ramp | 158 | 13 | OK |
@@ -270,20 +270,20 @@ Last checked: 2026-10-02 20:23:13 UTC
 | Affirm | 190 | 4 | OK |
 | Brex | 276 | 2 | OK |
 | Betterment | 29 | 2 | OK |
-| Clear Street | 42 | 6 | OK |
+| Clear Street | 43 | 6 | OK |
 | Scale AI | 192 | 2 | OK |
 | Dataiku | 21 | 0 | OK |
 | MongoDB | 391 | 2 | OK |
-| Oscar Health | 239 | 22 | OK |
+| Oscar Health | 241 | 22 | OK |
 | The Trade Desk | 102 | 6 | OK |
 | Guidepoint | 109 | 6 | OK |
 | Gusto | 99 | 2 | OK |
 | Flatiron Health | 29 | 4 | OK |
-| OpenAI | 830 | 16 | OK |
+| OpenAI | 828 | 16 | OK |
 | Perplexity | 124 | 3 | OK |
 | Notion | 138 | 8 | OK |
 | Harvey | 327 | 17 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 136 | 4 | OK |
-| Vanta | 83 | 2 | OK |
+| Vanta | 85 | 2 | OK |
