@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-02 21:23:52 UTC
+Last checked: 2026-10-02 21:50:55 UTC
 
 238 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Oscar Health | [Strategic Insights Associate, Data Analytics](https://job-boards.greenhouse.io/oscar/jobs/8249773) | New York, New York, United States |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -173,6 +172,7 @@ Last checked: 2026-10-02 21:23:52 UTC
 |  | Oscar Health | [Network Contracting & Services Associate](https://job-boards.greenhouse.io/oscar/jobs/8080961) | Remote |
 |  | Oscar Health | [Process Management Associate, Provider Operations](https://job-boards.greenhouse.io/oscar/jobs/8146248) | New York, New York, United States |
 |  | Oscar Health | [Provider Network Associate](https://job-boards.greenhouse.io/oscar/jobs/8178503) | Remote |
+|  | Oscar Health | [Strategic Insights Associate, Data Analytics](https://job-boards.greenhouse.io/oscar/jobs/8249773) | New York, New York, United States |
 |  | Palantir | [Forward Deployed Infrastructure Engineer, New Grad - US Government](https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8) | New York, NY |
 |  | Palantir | [Forward Deployed Software Engineer, New Grad - Commercial](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728) | New York, NY |
 |  | Palantir | [Forward Deployed Software Engineer, New Grad - US Government](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca) | New York, NY |
@@ -228,8 +228,8 @@ Last checked: 2026-10-02 21:23:52 UTC
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
 |  | Stripe | [Fraud Patterns Analyst](https://stripe.com/jobs/search?gh_jid=7913410) | US-Remote |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -258,7 +258,7 @@ Last checked: 2026-10-02 21:23:52 UTC
 | Point72 | 212 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
 | Anthropic | 639 | 14 | OK |
-| Stripe | 713 | 14 | OK |
+| Stripe | 712 | 14 | OK |
 | Datadog | 442 | 7 | OK |
 | Palantir | 319 | 13 | OK |
 | Ramp | 158 | 13 | OK |
@@ -275,16 +275,16 @@ Last checked: 2026-10-02 21:23:52 UTC
 | Scale AI | 192 | 2 | OK |
 | Dataiku | 21 | 0 | OK |
 | MongoDB | 391 | 2 | OK |
-| Oscar Health | 245 | 23 | OK |
+| Oscar Health | 249 | 23 | OK |
 | The Trade Desk | 102 | 6 | OK |
 | Guidepoint | 109 | 6 | OK |
-| Gusto | 95 | 2 | OK |
+| Gusto | 96 | 2 | OK |
 | Flatiron Health | 29 | 4 | OK |
-| OpenAI | 828 | 16 | OK |
+| OpenAI | 829 | 16 | OK |
 | Perplexity | 124 | 3 | OK |
 | Notion | 138 | 8 | OK |
 | Harvey | 327 | 17 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 136 | 4 | OK |
-| Vanta | 85 | 2 | OK |
+| Vanta | 84 | 2 | OK |
