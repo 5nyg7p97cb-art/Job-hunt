@@ -1,11 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-10-02 16:52:40 UTC
+Last checked: 2026-10-02 17:25:16 UTC
 
-231 matching roles open. ð = found in the latest run.
+232 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | OpenAI | [People Technology Analyst, Workday PATT & Benefits](https://jobs.ashbyhq.com/openai/bb28a39e-eb1f-41ef-96de-98adf58a8c3c) | US - Remote / Remote |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -245,13 +246,13 @@ Last checked: 2026-10-02 16:52:40 UTC
 | Bilt | 19 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 41 | 1 | OK |
+| BlackRock | 43 | 1 | OK |
 | Blackstone | 37 | 10 | OK |
 | Blackstone (Campus) | 30 | 2 | OK |
 | Point72 | 212 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
-| Anthropic | 638 | 14 | OK |
-| Stripe | 711 | 12 | OK |
+| Anthropic | 639 | 14 | OK |
+| Stripe | 712 | 12 | OK |
 | Datadog | 445 | 7 | OK |
 | Palantir | 319 | 13 | OK |
 | Ramp | 158 | 13 | OK |
@@ -265,7 +266,7 @@ Last checked: 2026-10-02 16:52:40 UTC
 | Brex | 271 | 2 | OK |
 | Betterment | 29 | 2 | OK |
 | Clear Street | 42 | 6 | OK |
-| Scale AI | 191 | 2 | OK |
+| Scale AI | 192 | 2 | OK |
 | Dataiku | 21 | 0 | OK |
 | MongoDB | 393 | 2 | OK |
 | Oscar Health | 245 | 22 | OK |
@@ -273,10 +274,10 @@ Last checked: 2026-10-02 16:52:40 UTC
 | Guidepoint | 109 | 6 | OK |
 | Gusto | 102 | 2 | OK |
 | Flatiron Health | 29 | 4 | OK |
-| OpenAI | 828 | 15 | OK |
+| OpenAI | 829 | 16 | OK |
 | Perplexity | 124 | 3 | OK |
-| Notion | 134 | 7 | OK |
-| Harvey | 318 | 15 | OK |
+| Notion | 136 | 7 | OK |
+| Harvey | 321 | 15 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 136 | 4 | OK |
