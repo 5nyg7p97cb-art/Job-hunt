@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-02 16:25:03 UTC
+Last checked: 2026-10-02 16:52:40 UTC
 
-232 matching roles open. ð = found in the latest run.
+231 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -37,7 +37,6 @@ Last checked: 2026-10-02 16:25:03 UTC
 |  | Anthropic | [Safeguards Enforcement Analyst, Integrity & Authenticity](https://job-boards.greenhouse.io/anthropic/jobs/5311149008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Safety Evaluations](https://job-boards.greenhouse.io/anthropic/jobs/5137183008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, User Well-being](https://job-boards.greenhouse.io/anthropic/jobs/5374778008) | San Francisco, CA / New York City, NY / Washington, DC |
-|  | Betterment | [401(k) Compliance Associate](https://www.betterment.com/careers/current-openings/job?gh_jid=8144052&gh_jid=8144052) | Betterment HQ - New York City |
 |  | Betterment | [Business Development Representative](https://www.betterment.com/careers/current-openings/job?gh_jid=8195434&gh_jid=8195434) | Betterment HQ - New York City |
 |  | Betterment | [Payroll & Benefits Coordinator](https://www.betterment.com/careers/current-openings/job?gh_jid=8154486&gh_jid=8154486) | Betterment HQ - New York City |
 |  | Bilt | [Back End Engineer (All Levels)](https://jobs.gem.com/bilt/am9icG9zdDqaZ6Eb1hZZ8_pRooaUHvdo) | New York, United States / New York |
@@ -222,8 +221,8 @@ Last checked: 2026-10-02 16:25:03 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Fraud Patterns Analyst](https://stripe.com/jobs/search?gh_jid=7913410) | US-Remote |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -251,7 +250,7 @@ Last checked: 2026-10-02 16:25:03 UTC
 | Blackstone (Campus) | 30 | 2 | OK |
 | Point72 | 212 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
-| Anthropic | 639 | 14 | OK |
+| Anthropic | 638 | 14 | OK |
 | Stripe | 711 | 12 | OK |
 | Datadog | 445 | 7 | OK |
 | Palantir | 319 | 13 | OK |
@@ -264,21 +263,21 @@ Last checked: 2026-10-02 16:25:03 UTC
 | SoFi | 58 | 0 | OK |
 | Affirm | 190 | 4 | OK |
 | Brex | 271 | 2 | OK |
-| Betterment | 30 | 3 | OK |
+| Betterment | 29 | 2 | OK |
 | Clear Street | 42 | 6 | OK |
 | Scale AI | 191 | 2 | OK |
 | Dataiku | 21 | 0 | OK |
 | MongoDB | 393 | 2 | OK |
 | Oscar Health | 245 | 22 | OK |
-| The Trade Desk | 100 | 6 | OK |
+| The Trade Desk | 102 | 6 | OK |
 | Guidepoint | 109 | 6 | OK |
-| Gusto | 101 | 2 | OK |
+| Gusto | 102 | 2 | OK |
 | Flatiron Health | 29 | 4 | OK |
-| OpenAI | 829 | 15 | OK |
+| OpenAI | 828 | 15 | OK |
 | Perplexity | 124 | 3 | OK |
 | Notion | 134 | 7 | OK |
-| Harvey | 314 | 15 | OK |
+| Harvey | 318 | 15 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 136 | 4 | OK |
-| Vanta | 82 | 2 | OK |
+| Vanta | 83 | 2 | OK |
