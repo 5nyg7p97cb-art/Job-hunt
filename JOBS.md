@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-03 05:52:56 UTC
+Last checked: 2026-10-03 06:31:09 UTC
 
-239 matching roles open. ð = found in the latest run.
+226 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -43,19 +43,6 @@ Last checked: 2026-10-03 05:52:56 UTC
 |  | Bilt | [Product Specialist - Concierge](https://jobs.gem.com/bilt/am9icG9zdDo146VFDypaafJ-o3lfwj-N) | New York, United States / New York |
 |  | Bilt | [Product Specialist - Housing](https://jobs.gem.com/bilt/am9icG9zdDomdgsgAMh6F4vcm7KhuGLN) | New York, United States / New York |
 |  | Bilt | [Product Specialist - Rentals](https://jobs.gem.com/bilt/am9icG9zdDqsNnnE7MCdbcnEXNRijoSv) | New York, United States / New York |
-|  | BlackRock | [Analyst - Private Equity, Fund Accounting / Princeton, NJ OR Wilmington, DE](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Princeton-NJ/Analyst---Private-equity--Fund-Accounting---Princeton--NJ-OR-Wilmington--DE_R263807) | 2 Locations |
-|  | Blackstone | [2026 Portfolio Management Program](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/XMLNAME-2026-Portfolio-Management-Program_43989) | New York |
-|  | Blackstone | [AI Engineer, Analyst – Data Analytics & AI](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/AI-Engineer--Analyst---Data-Analytics---AI_45238-1) | New York |
-|  | Blackstone | [BXMA - Business & Financial Evaluation - Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA---Business---Financial-Evaluation---Analyst_45566) | New York |
-|  | Blackstone | [BXMA- Direct Trading Operations, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA--Direct-Trading-Operations--Analyst_43372) | New York |
-|  | Blackstone | [Blackstone Executive Offices - Leadership Program, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Blackstone-Executive-Offices---Leadership-Program--Analyst_45155-2) | New York |
-|  | Blackstone | [Blackstone Executive Offices - Strategic Relationships, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Blackstone-Executive-Offices---Strategic-Relationships--Analyst_43716) | New York |
-|  | Blackstone | [Blackstone Multi-Asset Investing (BXMA), Pricing Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/Miami/Blackstone-Multi-Asset-Investing--BXMA---Pricing-Analyst_43203) | 2 Locations |
-|  | Blackstone | [Blackstone Multi-Asset Investing (BXMA)- Treasury, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Blackstone-Multi-Asset-Investing--BXMA---Treasury--Analyst_39176) | New York |
-|  | Blackstone | [Blackstone Private Wealth - Internal Sales, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York-601-Lex/Private-Wealth-Solutions---Internal-Sales--Associate_31726-5) | New York 601 Lex |
-|  | Blackstone | [Public Affairs, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Public-Affairs--Associate_43586) | New York |
-|  | Blackstone (Campus) | [2026 Blackstone US Future Leaders Program](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/New-York/XMLNAME-2026-Blackstone-US-Future-Leaders-Program_45140) | New York |
-|  | Blackstone (Campus) | [2027 Blackstone Real Estate Acquisitions Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Blackstone-Real-Estate-Acquisitions-Analyst_45626) | New York |
 |  | Brex | [Finance Associate](https://www.brex.com/careers/8606825002?gh_jid=8606825002) | New York, New York, United States |
 |  | Brex | [Fraud Operations Associate](https://www.brex.com/careers/8698248002?gh_jid=8698248002) | New York, New York, United States |
 |  | Clear Street | [AML Onboarding Associate](https://job-boards.greenhouse.io/clearstreet/jobs/7557381) | New York, NY |
@@ -156,8 +143,8 @@ Last checked: 2026-10-03 05:52:56 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, Network Contracting (Central Region)](https://job-boards.greenhouse.io/oscar/jobs/8168122) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
@@ -246,6 +233,12 @@ Last checked: 2026-10-03 05:52:56 UTC
 |  | Vanta | [Business Development Representative [German Fluency]](https://jobs.ashbyhq.com/vanta/cb338edc-a332-4f01-ab3f-b3e45ade44ba) | Dublin, Ireland / Remote |
 |  | Vanta | [Business Development Representative [German Fluency]](https://jobs.ashbyhq.com/vanta/7d5ac715-c4ba-45d5-a390-665a93f618cd) | London, UK / Remote |
 
+## Boards that failed this run
+
+- BlackRock: Expecting value: line 1 column 1 (char 0)
+- Blackstone: Expecting value: line 1 column 1 (char 0)
+- Blackstone (Campus): Expecting value: line 1 column 1 (char 0)
+
 ## Board check results
 
 | Company | Open roles | Matching roles | Status |
@@ -253,9 +246,9 @@ Last checked: 2026-10-03 05:52:56 UTC
 | Bilt | 19 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 44 | 1 | OK |
-| Blackstone | 37 | 10 | OK |
-| Blackstone (Campus) | 29 | 2 | OK |
+| BlackRock | â | â | FAILED |
+| Blackstone | â | â | FAILED |
+| Blackstone (Campus) | â | â | FAILED |
 | Point72 | 212 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
 | Anthropic | 641 | 14 | OK |
