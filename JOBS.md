@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-03 01:23:21 UTC
+Last checked: 2026-10-03 01:49:40 UTC
 
 239 matching roles open. ð = found in the latest run.
 
@@ -281,7 +281,7 @@ Last checked: 2026-10-03 01:23:21 UTC
 | Guidepoint | 109 | 6 | OK |
 | Gusto | 95 | 2 | OK |
 | Flatiron Health | 29 | 4 | OK |
-| OpenAI | 828 | 16 | OK |
+| OpenAI | 829 | 16 | OK |
 | Perplexity | 127 | 3 | OK |
 | Notion | 137 | 8 | OK |
 | Harvey | 326 | 17 | OK |
