@@ -1,11 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-10-02 23:48:21 UTC
+Last checked: 2026-10-03 00:30:26 UTC
 
-238 matching roles open. ð = found in the latest run.
+239 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Datadog | [Recruiting Coordinator](https://careers.datadoghq.com/detail/8247346/?gh_jid=8247346) | Boston, Massachusetts, USA; New York, New York, USA |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -155,8 +156,8 @@ Last checked: 2026-10-02 23:48:21 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, Network Contracting (Central Region)](https://job-boards.greenhouse.io/oscar/jobs/8168122) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
@@ -259,7 +260,7 @@ Last checked: 2026-10-02 23:48:21 UTC
 | General Atlantic | 10 | 0 | OK |
 | Anthropic | 641 | 14 | OK |
 | Stripe | 714 | 14 | OK |
-| Datadog | 442 | 7 | OK |
+| Datadog | 444 | 8 | OK |
 | Palantir | 319 | 13 | OK |
 | Ramp | 157 | 13 | OK |
 | iCapital | 209 | 8 | OK |
@@ -274,14 +275,14 @@ Last checked: 2026-10-02 23:48:21 UTC
 | Clear Street | 43 | 6 | OK |
 | Scale AI | 192 | 2 | OK |
 | Dataiku | 21 | 0 | OK |
-| MongoDB | 391 | 2 | OK |
+| MongoDB | 390 | 2 | OK |
 | Oscar Health | 246 | 23 | OK |
 | The Trade Desk | 102 | 6 | OK |
 | Guidepoint | 109 | 6 | OK |
 | Gusto | 94 | 2 | OK |
 | Flatiron Health | 29 | 4 | OK |
-| OpenAI | 827 | 16 | OK |
-| Perplexity | 126 | 3 | OK |
+| OpenAI | 828 | 16 | OK |
+| Perplexity | 127 | 3 | OK |
 | Notion | 138 | 8 | OK |
 | Harvey | 326 | 17 | OK |
 | Kalshi | 46 | 1 | OK |
