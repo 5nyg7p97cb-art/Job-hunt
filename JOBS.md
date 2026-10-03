@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-03 00:30:26 UTC
+Last checked: 2026-10-03 00:54:19 UTC
 
 239 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Datadog | [Recruiting Coordinator](https://careers.datadoghq.com/detail/8247346/?gh_jid=8247346) | Boston, Massachusetts, USA; New York, New York, USA |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -75,6 +74,7 @@ Last checked: 2026-10-03 00:30:26 UTC
 |  | Datadog | [GTM Strategy/Operations Associate - New York](https://careers.datadoghq.com/detail/8179647/?gh_jid=8179647) | New York, New York, USA |
 |  | Datadog | [Legal Operations Analyst](https://careers.datadoghq.com/detail/8202086/?gh_jid=8202086) | New York, New York, USA |
 |  | Datadog | [People Solutions Coordinator (NYC)](https://careers.datadoghq.com/detail/7728298/?gh_jid=7728298) | New York, New York, USA |
+|  | Datadog | [Recruiting Coordinator](https://careers.datadoghq.com/detail/8247346/?gh_jid=8247346) | Boston, Massachusetts, USA; New York, New York, USA |
 |  | Datadog | [Sales Revenue Analyst - NYC](https://careers.datadoghq.com/detail/8132294/?gh_jid=8132294) | New York, New York, USA |
 |  | Flatiron Health | [Associate, Life Science Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=7611841) | NY office |
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
@@ -260,7 +260,7 @@ Last checked: 2026-10-03 00:30:26 UTC
 | General Atlantic | 10 | 0 | OK |
 | Anthropic | 641 | 14 | OK |
 | Stripe | 714 | 14 | OK |
-| Datadog | 444 | 8 | OK |
+| Datadog | 445 | 8 | OK |
 | Palantir | 319 | 13 | OK |
 | Ramp | 157 | 13 | OK |
 | iCapital | 209 | 8 | OK |
