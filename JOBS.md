@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-04 21:53:40 UTC
+Last checked: 2026-10-04 22:23:22 UTC
 
 239 matching roles open. ð = found in the latest run.
 
@@ -250,7 +250,7 @@ Last checked: 2026-10-04 21:53:40 UTC
 
 | Company | Open roles | Matching roles | Status |
 |---|---:|---:|---|
-| Bilt | 19 | 4 | OK |
+| Bilt | 18 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 44 | 1 | OK |
