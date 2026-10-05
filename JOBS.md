@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-05 21:52:44 UTC
+Last checked: 2026-10-05 22:23:40 UTC
 
-238 matching roles open. ð = found in the latest run.
+237 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -141,7 +141,6 @@ Last checked: 2026-10-05 21:52:44 UTC
 |  | OpenAI | [Account Associate, Japan](https://jobs.ashbyhq.com/openai/2f3f416d-cc2a-4836-bcff-daee80c94e95) | Tokyo, Japan / Remote |
 |  | OpenAI | [Account Associate- EMEA (French Speaking)](https://jobs.ashbyhq.com/openai/1eb6ef0f-0e51-46d3-b888-c1a4c22c190a) | Dublin, Ireland / Remote |
 |  | OpenAI | [Associate General Counsel, Commercial – Infrastructure](https://jobs.ashbyhq.com/openai/2b148425-b807-46a5-97e1-fae307aacb80) | San Francisco / Remote |
-|  | OpenAI | [BIM Designer & Coordinator](https://jobs.ashbyhq.com/openai/ad6b55f9-fa63-4860-b852-d90592e49d1c) | San Francisco / Seattle / US - Remote / Remote |
 |  | OpenAI | [Data Center Compute, OpenHouse Savannah 2026](https://jobs.ashbyhq.com/openai/6ba0ce24-ad32-4c3b-b49c-b373be9a8480) | US - Remote / Seattle / San Francisco / Remote |
 |  | OpenAI | [People Technology Analyst, Workday PATT & Benefits](https://jobs.ashbyhq.com/openai/bb28a39e-eb1f-41ef-96de-98adf58a8c3c) | US - Remote / Remote |
 |  | OpenAI | [Recruiting Coordinator - Contract](https://jobs.ashbyhq.com/openai/dbd5ae8a-7c01-4f17-be39-b8caa8fd95d5) | San Francisco / New York City / Seattle / Remote |
@@ -255,7 +254,7 @@ Last checked: 2026-10-05 21:52:44 UTC
 | BlackRock | 46 | 1 | OK |
 | Blackstone | 37 | 10 | OK |
 | Blackstone (Campus) | 28 | 2 | OK |
-| Point72 | 212 | 10 | OK |
+| Point72 | 213 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
 | Anthropic | 645 | 14 | OK |
 | Stripe | 718 | 14 | OK |
@@ -266,7 +265,7 @@ Last checked: 2026-10-05 21:52:44 UTC
 | AlphaSights | 59 | 13 | OK |
 | Jane Street | 231 | 11 | OK |
 | Schonfeld | 68 | 6 | OK |
-| Robinhood | 155 | 0 | OK |
+| Robinhood | 156 | 0 | OK |
 | SoFi | 56 | 0 | OK |
 | Affirm | 187 | 4 | OK |
 | Brex | 284 | 2 | OK |
@@ -275,12 +274,12 @@ Last checked: 2026-10-05 21:52:44 UTC
 | Scale AI | 192 | 3 | OK |
 | Dataiku | 20 | 0 | OK |
 | MongoDB | 393 | 2 | OK |
-| Oscar Health | 253 | 24 | OK |
+| Oscar Health | 254 | 24 | OK |
 | The Trade Desk | 102 | 6 | OK |
 | Guidepoint | 108 | 6 | OK |
-| Gusto | 95 | 2 | OK |
+| Gusto | 94 | 2 | OK |
 | Flatiron Health | 25 | 4 | OK |
-| OpenAI | 824 | 16 | OK |
+| OpenAI | 822 | 15 | OK |
 | Perplexity | 129 | 3 | OK |
 | Notion | 135 | 8 | OK |
 | Harvey | 322 | 16 | OK |
