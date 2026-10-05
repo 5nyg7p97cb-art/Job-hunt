@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-05 07:54:07 UTC
+Last checked: 2026-10-05 08:29:06 UTC
 
 238 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -155,8 +155,8 @@ Last checked: 2026-10-05 07:54:07 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
 |  | Oscar Health | [Associate, Network Contracting (Central Region)](https://job-boards.greenhouse.io/oscar/jobs/8168122) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
@@ -252,13 +252,13 @@ Last checked: 2026-10-05 07:54:07 UTC
 | Bilt | 18 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 44 | 1 | OK |
+| BlackRock | 45 | 1 | OK |
 | Blackstone | 37 | 10 | OK |
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 212 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
-| Anthropic | 639 | 13 | OK |
-| Stripe | 717 | 14 | OK |
+| Anthropic | 638 | 13 | OK |
+| Stripe | 718 | 14 | OK |
 | Datadog | 442 | 8 | OK |
 | Palantir | 319 | 13 | OK |
 | Ramp | 158 | 13 | OK |
@@ -277,7 +277,7 @@ Last checked: 2026-10-05 07:54:07 UTC
 | MongoDB | 389 | 2 | OK |
 | Oscar Health | 246 | 23 | OK |
 | The Trade Desk | 103 | 6 | OK |
-| Guidepoint | 109 | 6 | OK |
+| Guidepoint | 108 | 6 | OK |
 | Gusto | 94 | 2 | OK |
 | Flatiron Health | 29 | 4 | OK |
 | OpenAI | 828 | 16 | OK |
@@ -286,5 +286,5 @@ Last checked: 2026-10-05 07:54:07 UTC
 | Harvey | 326 | 17 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
-| Cohere | 137 | 4 | OK |
+| Cohere | 136 | 4 | OK |
 | Vanta | 83 | 2 | OK |
