@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-05 15:28:35 UTC
+Last checked: 2026-10-05 15:54:13 UTC
 
 238 matching roles open. ð = found in the latest run.
 
@@ -228,8 +228,8 @@ Last checked: 2026-10-05 15:28:35 UTC
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
 |  | Stripe | [Fraud Patterns Analyst](https://stripe.com/jobs/search?gh_jid=7913410) | US-Remote |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -255,17 +255,17 @@ Last checked: 2026-10-05 15:28:35 UTC
 | BlackRock | 46 | 1 | OK |
 | Blackstone | 37 | 10 | OK |
 | Blackstone (Campus) | 28 | 2 | OK |
-| Point72 | 210 | 10 | OK |
+| Point72 | 212 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
-| Anthropic | 636 | 13 | OK |
+| Anthropic | 637 | 13 | OK |
 | Stripe | 716 | 14 | OK |
 | Datadog | 441 | 8 | OK |
 | Palantir | 316 | 13 | OK |
 | Ramp | 158 | 13 | OK |
 | iCapital | 209 | 8 | OK |
-| AlphaSights | 60 | 13 | OK |
+| AlphaSights | 59 | 13 | OK |
 | Jane Street | 231 | 11 | OK |
-| Schonfeld | 70 | 7 | OK |
+| Schonfeld | 71 | 7 | OK |
 | Robinhood | 163 | 0 | OK |
 | SoFi | 56 | 0 | OK |
 | Affirm | 188 | 4 | OK |
