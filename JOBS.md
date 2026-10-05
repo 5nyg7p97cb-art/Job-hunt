@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-05 02:24:53 UTC
+Last checked: 2026-10-05 02:53:06 UTC
 
 238 matching roles open. ð = found in the latest run.
 
@@ -263,7 +263,7 @@ Last checked: 2026-10-05 02:24:53 UTC
 | Palantir | 319 | 13 | OK |
 | Ramp | 158 | 13 | OK |
 | iCapital | 209 | 8 | OK |
-| AlphaSights | 58 | 13 | OK |
+| AlphaSights | 59 | 13 | OK |
 | Jane Street | 230 | 11 | OK |
 | Schonfeld | 72 | 7 | OK |
 | Robinhood | 162 | 0 | OK |
