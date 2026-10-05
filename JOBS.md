@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-05 09:29:38 UTC
+Last checked: 2026-10-05 09:54:13 UTC
 
 238 matching roles open. ð = found in the latest run.
 
@@ -263,7 +263,7 @@ Last checked: 2026-10-05 09:29:38 UTC
 | Palantir | 319 | 13 | OK |
 | Ramp | 158 | 13 | OK |
 | iCapital | 209 | 8 | OK |
-| AlphaSights | 59 | 13 | OK |
+| AlphaSights | 60 | 13 | OK |
 | Jane Street | 231 | 11 | OK |
 | Schonfeld | 72 | 7 | OK |
 | Robinhood | 162 | 0 | OK |
@@ -274,7 +274,7 @@ Last checked: 2026-10-05 09:29:38 UTC
 | Clear Street | 43 | 6 | OK |
 | Scale AI | 192 | 2 | OK |
 | Dataiku | 21 | 0 | OK |
-| MongoDB | 388 | 2 | OK |
+| MongoDB | 387 | 2 | OK |
 | Oscar Health | 246 | 23 | OK |
 | The Trade Desk | 103 | 6 | OK |
 | Guidepoint | 109 | 6 | OK |
