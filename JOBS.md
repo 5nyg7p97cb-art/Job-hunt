@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-05 15:54:13 UTC
+Last checked: 2026-10-05 16:27:01 UTC
 
 238 matching roles open. ð = found in the latest run.
 
@@ -228,8 +228,8 @@ Last checked: 2026-10-05 15:54:13 UTC
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
 |  | Stripe | [Fraud Patterns Analyst](https://stripe.com/jobs/search?gh_jid=7913410) | US-Remote |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -257,24 +257,24 @@ Last checked: 2026-10-05 15:54:13 UTC
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 212 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
-| Anthropic | 637 | 13 | OK |
-| Stripe | 716 | 14 | OK |
+| Anthropic | 638 | 13 | OK |
+| Stripe | 718 | 14 | OK |
 | Datadog | 441 | 8 | OK |
 | Palantir | 316 | 13 | OK |
-| Ramp | 158 | 13 | OK |
+| Ramp | 159 | 13 | OK |
 | iCapital | 209 | 8 | OK |
 | AlphaSights | 59 | 13 | OK |
 | Jane Street | 231 | 11 | OK |
 | Schonfeld | 71 | 7 | OK |
-| Robinhood | 163 | 0 | OK |
+| Robinhood | 162 | 0 | OK |
 | SoFi | 56 | 0 | OK |
 | Affirm | 188 | 4 | OK |
-| Brex | 282 | 2 | OK |
-| Betterment | 30 | 2 | OK |
-| Clear Street | 43 | 6 | OK |
+| Brex | 284 | 2 | OK |
+| Betterment | 29 | 2 | OK |
+| Clear Street | 44 | 6 | OK |
 | Scale AI | 191 | 2 | OK |
 | Dataiku | 20 | 0 | OK |
-| MongoDB | 387 | 2 | OK |
+| MongoDB | 388 | 2 | OK |
 | Oscar Health | 246 | 23 | OK |
 | The Trade Desk | 103 | 6 | OK |
 | Guidepoint | 104 | 6 | OK |
@@ -283,8 +283,8 @@ Last checked: 2026-10-05 15:54:13 UTC
 | OpenAI | 829 | 16 | OK |
 | Perplexity | 129 | 3 | OK |
 | Notion | 135 | 8 | OK |
-| Harvey | 324 | 17 | OK |
+| Harvey | 325 | 17 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
-| Cohere | 134 | 4 | OK |
-| Vanta | 84 | 2 | OK |
+| Cohere | 133 | 4 | OK |
+| Vanta | 82 | 2 | OK |
