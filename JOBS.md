@@ -1,15 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-05 17:24:40 UTC
+Last checked: 2026-10-05 17:52:48 UTC
 
 239 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Scale AI | [COLM 2026 - General Interest](https://job-boards.greenhouse.io/scaleai/jobs/4736877005) | San Francisco, CA; Seattle, WA; New York, NY |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -156,13 +155,13 @@ Last checked: 2026-10-05 17:24:40 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, Network Contracting (Central Region)](https://job-boards.greenhouse.io/oscar/jobs/8168122) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
-|  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
 |  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8146212) | Remote |
+|  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
 |  | Oscar Health | [Associate, Process Improvement](https://job-boards.greenhouse.io/oscar/jobs/8146250) | New York, New York, United States |
 |  | Oscar Health | [Associate, Process Optimization](https://job-boards.greenhouse.io/oscar/jobs/8107490) | New York, New York, United States |
 |  | Oscar Health | [Associate, Provider Success](https://job-boards.greenhouse.io/oscar/jobs/8154397) | New York, New York, United States |
@@ -214,6 +213,7 @@ Last checked: 2026-10-05 17:24:40 UTC
 |  | Ramp | [Sales Development Representative, Strategic Accounts](https://jobs.ashbyhq.com/ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284) | New York, NY (HQ) / Remote |
 |  | Ramp | [University Grad / Customer Experience Associate](https://jobs.ashbyhq.com/ramp/fc971889-db1d-4a20-a25e-f282f9296936) | New York, NY (HQ) / San Francisco, CA / Remote (US) / Remote |
 |  | Scale AI | [Business Development Representative, Partnerships (Physical AI)](https://job-boards.greenhouse.io/scaleai/jobs/4694836005) | New York, NY |
+|  | Scale AI | [COLM 2026 - General Interest](https://job-boards.greenhouse.io/scaleai/jobs/4736877005) | San Francisco, CA; Seattle, WA; New York, NY |
 |  | Scale AI | [National Security Hackathon 2026 - General Interest](https://job-boards.greenhouse.io/scaleai/jobs/4687588005) | San Francisco, CA; New York, NY; Washington, DC |
 |  | Schonfeld | [Associate Counsel, PM Legal and Fund Formation](https://job-boards.greenhouse.io/schonfeld/jobs/8186867) | New York, New York, United States |
 |  | Schonfeld | [Enterprise Risk Associate, FX & Rates](https://job-boards.greenhouse.io/schonfeld/jobs/7535613) | New York, New York, United States |
@@ -258,21 +258,21 @@ Last checked: 2026-10-05 17:24:40 UTC
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 212 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
-| Anthropic | 638 | 13 | OK |
-| Stripe | 716 | 14 | OK |
+| Anthropic | 639 | 13 | OK |
+| Stripe | 717 | 14 | OK |
 | Datadog | 441 | 8 | OK |
 | Palantir | 318 | 13 | OK |
 | Ramp | 159 | 13 | OK |
 | iCapital | 209 | 8 | OK |
 | AlphaSights | 59 | 13 | OK |
 | Jane Street | 231 | 11 | OK |
-| Schonfeld | 71 | 7 | OK |
-| Robinhood | 162 | 0 | OK |
+| Schonfeld | 70 | 7 | OK |
+| Robinhood | 161 | 0 | OK |
 | SoFi | 55 | 0 | OK |
 | Affirm | 188 | 4 | OK |
 | Brex | 285 | 2 | OK |
 | Betterment | 29 | 2 | OK |
-| Clear Street | 44 | 6 | OK |
+| Clear Street | 45 | 6 | OK |
 | Scale AI | 192 | 3 | OK |
 | Dataiku | 20 | 0 | OK |
 | MongoDB | 389 | 2 | OK |
@@ -280,11 +280,11 @@ Last checked: 2026-10-05 17:24:40 UTC
 | The Trade Desk | 103 | 6 | OK |
 | Guidepoint | 104 | 6 | OK |
 | Gusto | 94 | 2 | OK |
-| Flatiron Health | 26 | 4 | OK |
+| Flatiron Health | 25 | 4 | OK |
 | OpenAI | 827 | 16 | OK |
 | Perplexity | 129 | 3 | OK |
 | Notion | 135 | 8 | OK |
-| Harvey | 325 | 17 | OK |
+| Harvey | 323 | 17 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 133 | 4 | OK |
