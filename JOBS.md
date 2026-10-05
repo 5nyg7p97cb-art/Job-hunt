@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-05 23:21:51 UTC
+Last checked: 2026-10-05 23:48:12 UTC
 
 237 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -256,7 +256,7 @@ Last checked: 2026-10-05 23:21:51 UTC
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 215 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
-| Anthropic | 644 | 14 | OK |
+| Anthropic | 645 | 14 | OK |
 | Stripe | 718 | 14 | OK |
 | Datadog | 442 | 7 | OK |
 | Palantir | 318 | 13 | OK |
@@ -265,13 +265,13 @@ Last checked: 2026-10-05 23:21:51 UTC
 | AlphaSights | 59 | 13 | OK |
 | Jane Street | 231 | 11 | OK |
 | Schonfeld | 68 | 6 | OK |
-| Robinhood | 156 | 0 | OK |
-| SoFi | 56 | 0 | OK |
-| Affirm | 185 | 4 | OK |
+| Robinhood | 155 | 0 | OK |
+| SoFi | 57 | 0 | OK |
+| Affirm | 186 | 4 | OK |
 | Brex | 284 | 2 | OK |
 | Betterment | 29 | 2 | OK |
 | Clear Street | 45 | 6 | OK |
-| Scale AI | 192 | 3 | OK |
+| Scale AI | 188 | 3 | OK |
 | Dataiku | 20 | 0 | OK |
 | MongoDB | 393 | 2 | OK |
 | Oscar Health | 255 | 24 | OK |
@@ -279,10 +279,10 @@ Last checked: 2026-10-05 23:21:51 UTC
 | Guidepoint | 108 | 6 | OK |
 | Gusto | 94 | 2 | OK |
 | Flatiron Health | 25 | 4 | OK |
-| OpenAI | 820 | 15 | OK |
+| OpenAI | 822 | 15 | OK |
 | Perplexity | 129 | 3 | OK |
 | Notion | 135 | 8 | OK |
-| Harvey | 322 | 16 | OK |
+| Harvey | 323 | 16 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 135 | 4 | OK |
