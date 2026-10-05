@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-05 16:27:01 UTC
+Last checked: 2026-10-05 16:53:57 UTC
 
 238 matching roles open. ð = found in the latest run.
 
@@ -155,8 +155,8 @@ Last checked: 2026-10-05 16:27:01 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, Network Contracting (Central Region)](https://job-boards.greenhouse.io/oscar/jobs/8168122) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
@@ -258,29 +258,29 @@ Last checked: 2026-10-05 16:27:01 UTC
 | Point72 | 212 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
 | Anthropic | 638 | 13 | OK |
-| Stripe | 718 | 14 | OK |
+| Stripe | 716 | 14 | OK |
 | Datadog | 441 | 8 | OK |
-| Palantir | 316 | 13 | OK |
+| Palantir | 317 | 13 | OK |
 | Ramp | 159 | 13 | OK |
 | iCapital | 209 | 8 | OK |
 | AlphaSights | 59 | 13 | OK |
 | Jane Street | 231 | 11 | OK |
 | Schonfeld | 71 | 7 | OK |
-| Robinhood | 162 | 0 | OK |
+| Robinhood | 163 | 0 | OK |
 | SoFi | 56 | 0 | OK |
 | Affirm | 188 | 4 | OK |
-| Brex | 284 | 2 | OK |
+| Brex | 285 | 2 | OK |
 | Betterment | 29 | 2 | OK |
 | Clear Street | 44 | 6 | OK |
 | Scale AI | 191 | 2 | OK |
 | Dataiku | 20 | 0 | OK |
 | MongoDB | 388 | 2 | OK |
-| Oscar Health | 246 | 23 | OK |
+| Oscar Health | 247 | 23 | OK |
 | The Trade Desk | 103 | 6 | OK |
 | Guidepoint | 104 | 6 | OK |
 | Gusto | 94 | 2 | OK |
 | Flatiron Health | 26 | 4 | OK |
-| OpenAI | 829 | 16 | OK |
+| OpenAI | 827 | 16 | OK |
 | Perplexity | 129 | 3 | OK |
 | Notion | 135 | 8 | OK |
 | Harvey | 325 | 17 | OK |
