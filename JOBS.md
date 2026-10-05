@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-04 23:49:42 UTC
+Last checked: 2026-10-05 00:34:21 UTC
 
-239 matching roles open. ð = found in the latest run.
+238 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -36,7 +36,6 @@ Last checked: 2026-10-04 23:49:42 UTC
 |  | Anthropic | [Safeguards Enforcement Analyst, Cyber Harm](https://job-boards.greenhouse.io/anthropic/jobs/5311159008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Integrity & Authenticity](https://job-boards.greenhouse.io/anthropic/jobs/5311149008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Safety Evaluations](https://job-boards.greenhouse.io/anthropic/jobs/5137183008) | San Francisco, CA / New York City, NY / Washington, DC |
-|  | Anthropic | [Safeguards Enforcement Analyst, User Well-being](https://job-boards.greenhouse.io/anthropic/jobs/5374778008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Betterment | [Business Development Representative](https://www.betterment.com/careers/current-openings/job?gh_jid=8195434&gh_jid=8195434) | Betterment HQ - New York City |
 |  | Betterment | [Payroll & Benefits Coordinator](https://www.betterment.com/careers/current-openings/job?gh_jid=8154486&gh_jid=8154486) | Betterment HQ - New York City |
 |  | Bilt | [Back End Engineer (All Levels)](https://jobs.gem.com/bilt/am9icG9zdDqaZ6Eb1hZZ8_pRooaUHvdo) | New York, United States / New York |
@@ -258,7 +257,7 @@ Last checked: 2026-10-04 23:49:42 UTC
 | Blackstone (Campus) | 29 | 2 | OK |
 | Point72 | 212 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
-| Anthropic | 639 | 14 | OK |
+| Anthropic | 638 | 13 | OK |
 | Stripe | 716 | 14 | OK |
 | Datadog | 443 | 8 | OK |
 | Palantir | 319 | 13 | OK |
@@ -275,7 +274,7 @@ Last checked: 2026-10-04 23:49:42 UTC
 | Clear Street | 43 | 6 | OK |
 | Scale AI | 192 | 2 | OK |
 | Dataiku | 21 | 0 | OK |
-| MongoDB | 389 | 2 | OK |
+| MongoDB | 390 | 2 | OK |
 | Oscar Health | 246 | 23 | OK |
 | The Trade Desk | 103 | 6 | OK |
 | Guidepoint | 109 | 6 | OK |
