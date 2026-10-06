@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-06 21:23:44 UTC
+Last checked: 2026-10-06 21:50:30 UTC
 
 240 matching roles open. ð = found in the latest run.
 
@@ -230,8 +230,8 @@ Last checked: 2026-10-06 21:23:44 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -258,18 +258,18 @@ Last checked: 2026-10-06 21:23:44 UTC
 | Blackstone | 37 | 10 | OK |
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 216 | 10 | OK |
-| General Atlantic | 10 | 0 | OK |
+| General Atlantic | 11 | 0 | OK |
 | Anthropic | 641 | 14 | OK |
-| Stripe | 727 | 13 | OK |
+| Stripe | 728 | 13 | OK |
 | Datadog | 435 | 9 | OK |
 | Palantir | 314 | 13 | OK |
 | Ramp | 161 | 13 | OK |
-| iCapital | 209 | 9 | OK |
+| iCapital | 208 | 9 | OK |
 | AlphaSights | 58 | 12 | OK |
 | Jane Street | 232 | 11 | OK |
 | Schonfeld | 68 | 6 | OK |
 | Robinhood | 160 | 0 | OK |
-| SoFi | 55 | 0 | OK |
+| SoFi | 54 | 0 | OK |
 | Affirm | 187 | 5 | OK |
 | Brex | 287 | 2 | OK |
 | Betterment | 28 | 2 | OK |
@@ -277,7 +277,7 @@ Last checked: 2026-10-06 21:23:44 UTC
 | Scale AI | 190 | 3 | OK |
 | Dataiku | 20 | 0 | OK |
 | MongoDB | 397 | 2 | OK |
-| Oscar Health | 252 | 23 | OK |
+| Oscar Health | 253 | 23 | OK |
 | The Trade Desk | 103 | 6 | OK |
 | Guidepoint | 106 | 6 | OK |
 | Gusto | 95 | 2 | OK |
