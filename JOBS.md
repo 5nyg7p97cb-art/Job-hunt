@@ -1,16 +1,15 @@
 # Entry-level openings
 
-Last checked: 2026-10-06 14:27:16 UTC
+Last checked: 2026-10-06 14:54:30 UTC
 
 241 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Datadog | [Strategic Finance Analyst](https://careers.datadoghq.com/detail/8257306/?gh_jid=8257306) | New York, New York, USA |
-| ð | iCapital | [Artificial Intelligence / Machine Learning Engineer - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8802717002) | New York, New York, United States |
+| ð | Datadog | [Accounts Payable Analyst](https://careers.datadoghq.com/detail/8257324/?gh_jid=8257324) | New York, New York, USA |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -77,6 +76,7 @@ Last checked: 2026-10-06 14:27:16 UTC
 |  | Datadog | [Legal Operations Analyst](https://careers.datadoghq.com/detail/8202086/?gh_jid=8202086) | New York, New York, USA |
 |  | Datadog | [Recruiting Coordinator](https://careers.datadoghq.com/detail/8247346/?gh_jid=8247346) | Boston, Massachusetts, USA; New York, New York, USA |
 |  | Datadog | [Sales Revenue Analyst - NYC](https://careers.datadoghq.com/detail/8132294/?gh_jid=8132294) | New York, New York, USA |
+|  | Datadog | [Strategic Finance Analyst](https://careers.datadoghq.com/detail/8257306/?gh_jid=8257306) | New York, New York, USA |
 |  | Flatiron Health | [Associate, Life Science Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=7611841) | NY office |
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
@@ -107,6 +107,7 @@ Last checked: 2026-10-06 14:27:16 UTC
 |  | Harvey | [Software Engineer, New Grad (2027)](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5) | San Francisco / Remote |
 |  | Harvey | [Software Engineer, New Grad (2027)](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc) | New York |
 |  | iCapital | [Annuities Sales - Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8649096002) | New York, New York, United States |
+|  | iCapital | [Artificial Intelligence / Machine Learning Engineer - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8802717002) | New York, New York, United States |
 |  | iCapital | [Business Process Analyst, UiPath Developer - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8853762002) | New York, New York, United States |
 |  | iCapital | [Corporate Finance, FP&A - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8576018002) | New York, New York, United States |
 |  | iCapital | [Investment Strategy - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8766868002) | New York, New York, United States |
@@ -229,7 +230,6 @@ Last checked: 2026-10-06 14:27:16 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [Fraud Patterns Analyst](https://stripe.com/jobs/search?gh_jid=7913410) | US-Remote |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
@@ -261,8 +261,8 @@ Last checked: 2026-10-06 14:27:16 UTC
 | Point72 | 215 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
 | Anthropic | 642 | 14 | OK |
-| Stripe | 723 | 15 | OK |
-| Datadog | 434 | 8 | OK |
+| Stripe | 721 | 14 | OK |
+| Datadog | 436 | 9 | OK |
 | Palantir | 314 | 13 | OK |
 | Ramp | 160 | 13 | OK |
 | iCapital | 211 | 9 | OK |
@@ -273,19 +273,19 @@ Last checked: 2026-10-06 14:27:16 UTC
 | SoFi | 57 | 0 | OK |
 | Affirm | 186 | 4 | OK |
 | Brex | 283 | 2 | OK |
-| Betterment | 29 | 2 | OK |
-| Clear Street | 45 | 6 | OK |
+| Betterment | 28 | 2 | OK |
+| Clear Street | 44 | 6 | OK |
 | Scale AI | 188 | 3 | OK |
 | Dataiku | 20 | 0 | OK |
 | MongoDB | 395 | 2 | OK |
-| Oscar Health | 255 | 24 | OK |
+| Oscar Health | 259 | 24 | OK |
 | The Trade Desk | 101 | 6 | OK |
 | Guidepoint | 106 | 6 | OK |
 | Gusto | 95 | 2 | OK |
 | Flatiron Health | 25 | 4 | OK |
-| OpenAI | 820 | 15 | OK |
+| OpenAI | 819 | 15 | OK |
 | Perplexity | 130 | 3 | OK |
-| Notion | 135 | 8 | OK |
+| Notion | 134 | 8 | OK |
 | Harvey | 326 | 17 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
