@@ -1,15 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-06 14:54:30 UTC
+Last checked: 2026-10-06 15:25:45 UTC
 
-241 matching roles open. ð = found in the latest run.
+239 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Datadog | [Accounts Payable Analyst](https://careers.datadoghq.com/detail/8257324/?gh_jid=8257324) | New York, New York, USA |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -17,7 +16,6 @@ Last checked: 2026-10-06 14:54:30 UTC
 |  | AlphaSights | [Associate, Client Service, Portuguese Speaker, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7909414) | New York |
 |  | AlphaSights | [Associate, Client Service, Spanish Speaker, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7909447) | New York |
 |  | AlphaSights | [Coordinator, Campus Recruitment](https://www.alphasights.com/careers/open-roles?gh_jid=8179804) | New York |
-|  | AlphaSights | [Legal & Compliance Associate](https://www.alphasights.com/careers/open-roles?gh_jid=8026778) | New York |
 |  | AlphaSights | [Legal & Compliance, Research Compliance Associate](https://www.alphasights.com/careers/open-roles?gh_jid=8026758) | New York |
 |  | AlphaSights | [Summer Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7872333) | New York |
 |  | AlphaSights | [Summer Associate, Client Service, Mandarin Speaker, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7909518) | New York |
@@ -64,11 +62,11 @@ Last checked: 2026-10-06 14:54:30 UTC
 |  | Clear Street | [Associate - Client Onboarding](https://job-boards.greenhouse.io/clearstreet/jobs/8227249) | New York, NY |
 |  | Clear Street | [Associate - Tax Operations](https://job-boards.greenhouse.io/clearstreet/jobs/8249141) | New York, NY |
 |  | Clear Street | [Associate - Trade Surveillance](https://job-boards.greenhouse.io/clearstreet/jobs/7561417) | New York, NY |
-|  | Clear Street | [Associate, Equity & Middle Office](https://job-boards.greenhouse.io/clearstreet/jobs/8240535) | New York |
 |  | Cohere | [Business Development Representative](https://jobs.ashbyhq.com/cohere/f959be10-be25-4918-bcf3-39e1a83d2957) | Germany / Berlin / Remote |
 |  | Cohere | [Business Development Representative](https://jobs.ashbyhq.com/cohere/e824f0bd-72e6-4a9b-aecb-e604e3ca8ac2) | Toronto / Remote |
 |  | Cohere | [Business Development Representative](https://jobs.ashbyhq.com/cohere/dbe76343-a8ae-445c-b2f9-c5a304d54f6a) | Dubai / Remote |
 |  | Cohere | [Business Development Representative - French Speaking](https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89) | United Kingdom / Remote |
+|  | Datadog | [Accounts Payable Analyst](https://careers.datadoghq.com/detail/8257324/?gh_jid=8257324) | New York, New York, USA |
 |  | Datadog | [FP&A Analyst](https://careers.datadoghq.com/detail/8204554/?gh_jid=8204554) | New York, New York, USA |
 |  | Datadog | [GTM Strategy and Operations Associate](https://careers.datadoghq.com/detail/7843331/?gh_jid=7843331) | New York, New York, USA |
 |  | Datadog | [GTM Strategy/Operations Associate](https://careers.datadoghq.com/detail/8171303/?gh_jid=8171303) | New York, New York, USA |
@@ -157,14 +155,14 @@ Last checked: 2026-10-06 14:54:30 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8257364) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Central Region)](https://job-boards.greenhouse.io/oscar/jobs/8168122) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
-|  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
 |  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8146212) | Remote |
+|  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
 |  | Oscar Health | [Associate, Process Improvement](https://job-boards.greenhouse.io/oscar/jobs/8146250) | New York, New York, United States |
 |  | Oscar Health | [Associate, Process Optimization](https://job-boards.greenhouse.io/oscar/jobs/8107490) | New York, New York, United States |
 |  | Oscar Health | [Associate, Provider Success](https://job-boards.greenhouse.io/oscar/jobs/8154397) | New York, New York, United States |
@@ -259,31 +257,31 @@ Last checked: 2026-10-06 14:54:30 UTC
 | Blackstone | 37 | 10 | OK |
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 215 | 10 | OK |
-| General Atlantic | 10 | 0 | OK |
-| Anthropic | 642 | 14 | OK |
-| Stripe | 721 | 14 | OK |
+| General Atlantic | 11 | 0 | OK |
+| Anthropic | 640 | 14 | OK |
+| Stripe | 723 | 14 | OK |
 | Datadog | 436 | 9 | OK |
 | Palantir | 314 | 13 | OK |
 | Ramp | 160 | 13 | OK |
-| iCapital | 211 | 9 | OK |
-| AlphaSights | 59 | 13 | OK |
+| iCapital | 210 | 9 | OK |
+| AlphaSights | 58 | 12 | OK |
 | Jane Street | 231 | 11 | OK |
 | Schonfeld | 68 | 6 | OK |
-| Robinhood | 156 | 0 | OK |
-| SoFi | 57 | 0 | OK |
+| Robinhood | 157 | 0 | OK |
+| SoFi | 56 | 0 | OK |
 | Affirm | 186 | 4 | OK |
 | Brex | 283 | 2 | OK |
 | Betterment | 28 | 2 | OK |
-| Clear Street | 44 | 6 | OK |
+| Clear Street | 43 | 5 | OK |
 | Scale AI | 188 | 3 | OK |
 | Dataiku | 20 | 0 | OK |
-| MongoDB | 395 | 2 | OK |
-| Oscar Health | 259 | 24 | OK |
+| MongoDB | 392 | 2 | OK |
+| Oscar Health | 262 | 24 | OK |
 | The Trade Desk | 101 | 6 | OK |
-| Guidepoint | 106 | 6 | OK |
+| Guidepoint | 105 | 6 | OK |
 | Gusto | 95 | 2 | OK |
 | Flatiron Health | 25 | 4 | OK |
-| OpenAI | 819 | 15 | OK |
+| OpenAI | 820 | 15 | OK |
 | Perplexity | 130 | 3 | OK |
 | Notion | 134 | 8 | OK |
 | Harvey | 326 | 17 | OK |
