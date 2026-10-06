@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-06 21:50:30 UTC
+Last checked: 2026-10-06 22:24:07 UTC
 
 240 matching roles open. ð = found in the latest run.
 
@@ -259,7 +259,7 @@ Last checked: 2026-10-06 21:50:30 UTC
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 216 | 10 | OK |
 | General Atlantic | 11 | 0 | OK |
-| Anthropic | 641 | 14 | OK |
+| Anthropic | 642 | 14 | OK |
 | Stripe | 728 | 13 | OK |
 | Datadog | 435 | 9 | OK |
 | Palantir | 314 | 13 | OK |
@@ -269,20 +269,20 @@ Last checked: 2026-10-06 21:50:30 UTC
 | Jane Street | 232 | 11 | OK |
 | Schonfeld | 68 | 6 | OK |
 | Robinhood | 160 | 0 | OK |
-| SoFi | 54 | 0 | OK |
+| SoFi | 55 | 0 | OK |
 | Affirm | 187 | 5 | OK |
 | Brex | 287 | 2 | OK |
 | Betterment | 28 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
 | Scale AI | 190 | 3 | OK |
 | Dataiku | 20 | 0 | OK |
-| MongoDB | 397 | 2 | OK |
+| MongoDB | 396 | 2 | OK |
 | Oscar Health | 253 | 23 | OK |
 | The Trade Desk | 103 | 6 | OK |
 | Guidepoint | 106 | 6 | OK |
-| Gusto | 95 | 2 | OK |
+| Gusto | 94 | 2 | OK |
 | Flatiron Health | 25 | 4 | OK |
-| OpenAI | 823 | 15 | OK |
+| OpenAI | 824 | 15 | OK |
 | Perplexity | 130 | 3 | OK |
 | Notion | 133 | 8 | OK |
 | Harvey | 332 | 17 | OK |
