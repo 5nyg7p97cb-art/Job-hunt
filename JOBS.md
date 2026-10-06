@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-06 08:27:15 UTC
+Last checked: 2026-10-06 08:53:48 UTC
 
 238 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Harvey | [Sales Development Representative, ANZ](https://jobs.ashbyhq.com/harvey/b8a9dded-d9f4-4295-8216-fdc93beec6d1) | Sydney / Remote |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -102,6 +101,7 @@ Last checked: 2026-10-06 08:27:15 UTC
 |  | Harvey | [Sales Development Representative (French Speaking)](https://jobs.ashbyhq.com/harvey/89461ea3-7788-4aa6-8d9a-dc5fa2c0e9e0) | Dublin / Remote |
 |  | Harvey | [Sales Development Representative (German Speaking)](https://jobs.ashbyhq.com/harvey/3adf9734-7339-4b21-b361-96288a9a6224) | Dublin / Remote |
 |  | Harvey | [Sales Development Representative (Italian Speaking)](https://jobs.ashbyhq.com/harvey/95b0e486-e777-4435-a842-19db85d1f137) | Dublin / Remote |
+|  | Harvey | [Sales Development Representative, ANZ](https://jobs.ashbyhq.com/harvey/b8a9dded-d9f4-4295-8216-fdc93beec6d1) | Sydney / Remote |
 |  | Harvey | [Software Engineer, New Grad (2027)](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5) | San Francisco / Remote |
 |  | Harvey | [Software Engineer, New Grad (2027)](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc) | New York |
 |  | iCapital | [Annuities Sales - Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8649096002) | New York, New York, United States |
@@ -228,8 +228,8 @@ Last checked: 2026-10-06 08:27:15 UTC
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
 |  | Stripe | [Fraud Patterns Analyst](https://stripe.com/jobs/search?gh_jid=7913410) | US-Remote |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -253,12 +253,12 @@ Last checked: 2026-10-06 08:27:15 UTC
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 47 | 1 | OK |
-| Blackstone | 37 | 10 | OK |
+| Blackstone | 38 | 10 | OK |
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 214 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
 | Anthropic | 643 | 14 | OK |
-| Stripe | 720 | 14 | OK |
+| Stripe | 719 | 14 | OK |
 | Datadog | 433 | 7 | OK |
 | Palantir | 318 | 13 | OK |
 | Ramp | 159 | 13 | OK |
@@ -274,13 +274,13 @@ Last checked: 2026-10-06 08:27:15 UTC
 | Clear Street | 45 | 6 | OK |
 | Scale AI | 188 | 3 | OK |
 | Dataiku | 20 | 0 | OK |
-| MongoDB | 394 | 2 | OK |
+| MongoDB | 393 | 2 | OK |
 | Oscar Health | 255 | 24 | OK |
 | The Trade Desk | 102 | 6 | OK |
 | Guidepoint | 107 | 6 | OK |
 | Gusto | 95 | 2 | OK |
 | Flatiron Health | 25 | 4 | OK |
-| OpenAI | 824 | 15 | OK |
+| OpenAI | 823 | 15 | OK |
 | Perplexity | 129 | 3 | OK |
 | Notion | 135 | 8 | OK |
 | Harvey | 325 | 17 | OK |
