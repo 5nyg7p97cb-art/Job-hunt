@@ -1,11 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-10-06 12:55:39 UTC
+Last checked: 2026-10-06 13:27:41 UTC
 
-238 matching roles open. ð = found in the latest run.
+239 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
@@ -253,13 +254,13 @@ Last checked: 2026-10-06 12:55:39 UTC
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 47 | 1 | OK |
-| Blackstone | 38 | 10 | OK |
+| Blackstone | 37 | 10 | OK |
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 215 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
-| Anthropic | 643 | 14 | OK |
-| Stripe | 719 | 14 | OK |
-| Datadog | 432 | 7 | OK |
+| Anthropic | 642 | 14 | OK |
+| Stripe | 720 | 15 | OK |
+| Datadog | 433 | 7 | OK |
 | Palantir | 316 | 13 | OK |
 | Ramp | 160 | 13 | OK |
 | iCapital | 210 | 8 | OK |
@@ -272,7 +273,7 @@ Last checked: 2026-10-06 12:55:39 UTC
 | Brex | 284 | 2 | OK |
 | Betterment | 29 | 2 | OK |
 | Clear Street | 45 | 6 | OK |
-| Scale AI | 187 | 3 | OK |
+| Scale AI | 188 | 3 | OK |
 | Dataiku | 20 | 0 | OK |
 | MongoDB | 395 | 2 | OK |
 | Oscar Health | 255 | 24 | OK |
