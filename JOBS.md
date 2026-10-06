@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-06 13:27:41 UTC
+Last checked: 2026-10-06 13:53:51 UTC
 
 239 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
@@ -233,6 +232,7 @@ Last checked: 2026-10-06 13:27:41 UTC
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
+|  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
 |  | Stripe | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8128744) | San Francisco, Seattle, New York |
 |  | Stripe | [University Recruiter (Fixed Term)](https://stripe.com/jobs/search?gh_jid=8226211) | San Francisco, New York, Seattle, US-Remote |
@@ -259,9 +259,9 @@ Last checked: 2026-10-06 13:27:41 UTC
 | Point72 | 215 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
 | Anthropic | 642 | 14 | OK |
-| Stripe | 720 | 15 | OK |
+| Stripe | 721 | 15 | OK |
 | Datadog | 433 | 7 | OK |
-| Palantir | 316 | 13 | OK |
+| Palantir | 314 | 13 | OK |
 | Ramp | 160 | 13 | OK |
 | iCapital | 210 | 8 | OK |
 | AlphaSights | 59 | 13 | OK |
@@ -278,13 +278,13 @@ Last checked: 2026-10-06 13:27:41 UTC
 | MongoDB | 395 | 2 | OK |
 | Oscar Health | 255 | 24 | OK |
 | The Trade Desk | 101 | 6 | OK |
-| Guidepoint | 107 | 6 | OK |
+| Guidepoint | 106 | 6 | OK |
 | Gusto | 95 | 2 | OK |
 | Flatiron Health | 25 | 4 | OK |
 | OpenAI | 822 | 15 | OK |
 | Perplexity | 129 | 3 | OK |
 | Notion | 135 | 8 | OK |
-| Harvey | 327 | 17 | OK |
+| Harvey | 326 | 17 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 131 | 4 | OK |
