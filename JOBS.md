@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-06 18:27:23 UTC
+Last checked: 2026-10-06 18:54:56 UTC
 
 240 matching roles open. ð = found in the latest run.
 
@@ -146,7 +146,7 @@ Last checked: 2026-10-06 18:27:23 UTC
 |  | OpenAI | [Account Associate- EMEA (French Speaking)](https://jobs.ashbyhq.com/openai/1eb6ef0f-0e51-46d3-b888-c1a4c22c190a) | Dublin, Ireland / Remote |
 |  | OpenAI | [Associate General Counsel, Commercial – Infrastructure](https://jobs.ashbyhq.com/openai/2b148425-b807-46a5-97e1-fae307aacb80) | San Francisco / Remote |
 |  | OpenAI | [Data Center Compute, OpenHouse Savannah 2026](https://jobs.ashbyhq.com/openai/6ba0ce24-ad32-4c3b-b49c-b373be9a8480) | US - Remote / Seattle / San Francisco / Remote |
-|  | OpenAI | [People Technology Analyst, Workday PATT & Benefits](https://jobs.ashbyhq.com/openai/bb28a39e-eb1f-41ef-96de-98adf58a8c3c) | US - Remote / Remote |
+|  | OpenAI | [People Technology Analyst, Workday PATT & Benefits](https://jobs.ashbyhq.com/openai/bb28a39e-eb1f-41ef-96de-98adf58a8c3c) | San Francisco / Remote |
 |  | OpenAI | [Recruiting Coordinator - Contract](https://jobs.ashbyhq.com/openai/dbd5ae8a-7c01-4f17-be39-b8caa8fd95d5) | San Francisco / New York City / Seattle / Remote |
 |  | OpenAI | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | San Francisco / Remote |
 |  | OpenAI | [Technical Operations Analyst, User Safety & Risk](https://jobs.ashbyhq.com/openai/0f78e08a-669d-4d87-960f-518c649e6700) | London, UK / Remote |
@@ -163,8 +163,8 @@ Last checked: 2026-10-06 18:27:23 UTC
 |  | Oscar Health | [Associate, Network Contracting (Central Region)](https://job-boards.greenhouse.io/oscar/jobs/8168122) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
-|  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
 |  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8146212) | Remote |
+|  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
 |  | Oscar Health | [Associate, Process Improvement](https://job-boards.greenhouse.io/oscar/jobs/8146250) | New York, New York, United States |
 |  | Oscar Health | [Associate, Process Optimization](https://job-boards.greenhouse.io/oscar/jobs/8107490) | New York, New York, United States |
 |  | Oscar Health | [Associate, Provider Success](https://job-boards.greenhouse.io/oscar/jobs/8154397) | New York, New York, United States |
@@ -230,8 +230,8 @@ Last checked: 2026-10-06 18:27:23 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -254,12 +254,12 @@ Last checked: 2026-10-06 18:27:23 UTC
 | Bilt | 18 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 47 | 1 | OK |
+| BlackRock | 46 | 1 | OK |
 | Blackstone | 37 | 10 | OK |
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 217 | 10 | OK |
 | General Atlantic | 10 | 0 | OK |
-| Anthropic | 642 | 14 | OK |
+| Anthropic | 641 | 14 | OK |
 | Stripe | 725 | 13 | OK |
 | Datadog | 432 | 9 | OK |
 | Palantir | 314 | 13 | OK |
@@ -288,5 +288,5 @@ Last checked: 2026-10-06 18:27:23 UTC
 | Harvey | 331 | 17 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
-| Cohere | 130 | 4 | OK |
+| Cohere | 129 | 4 | OK |
 | Vanta | 82 | 2 | OK |
