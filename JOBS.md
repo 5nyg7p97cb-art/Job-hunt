@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-07 13:28:34 UTC
+Last checked: 2026-10-07 13:53:58 UTC
 
 240 matching roles open. ð = found in the latest run.
 
@@ -230,8 +230,8 @@ Last checked: 2026-10-07 13:28:34 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -254,13 +254,13 @@ Last checked: 2026-10-07 13:28:34 UTC
 | Bilt | 18 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 47 | 1 | OK |
+| BlackRock | 48 | 1 | OK |
 | Blackstone | 37 | 10 | OK |
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 214 | 10 | OK |
 | General Atlantic | 11 | 0 | OK |
 | Anthropic | 638 | 14 | OK |
-| Stripe | 717 | 13 | OK |
+| Stripe | 718 | 13 | OK |
 | Datadog | 435 | 9 | OK |
 | Palantir | 314 | 13 | OK |
 | Ramp | 160 | 13 | OK |
@@ -268,21 +268,21 @@ Last checked: 2026-10-07 13:28:34 UTC
 | AlphaSights | 58 | 12 | OK |
 | Jane Street | 233 | 11 | OK |
 | Schonfeld | 67 | 6 | OK |
-| Robinhood | 163 | 0 | OK |
+| Robinhood | 162 | 0 | OK |
 | SoFi | 57 | 0 | OK |
 | Affirm | 187 | 5 | OK |
 | Brex | 284 | 2 | OK |
-| Betterment | 28 | 2 | OK |
+| Betterment | 29 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
 | Scale AI | 187 | 3 | OK |
 | Dataiku | 19 | 0 | OK |
-| MongoDB | 392 | 2 | OK |
+| MongoDB | 393 | 2 | OK |
 | Oscar Health | 253 | 23 | OK |
 | The Trade Desk | 105 | 6 | OK |
 | Guidepoint | 106 | 6 | OK |
 | Gusto | 95 | 2 | OK |
 | Flatiron Health | 25 | 4 | OK |
-| OpenAI | 823 | 15 | OK |
+| OpenAI | 822 | 15 | OK |
 | Perplexity | 129 | 3 | OK |
 | Notion | 133 | 8 | OK |
 | Harvey | 334 | 17 | OK |
