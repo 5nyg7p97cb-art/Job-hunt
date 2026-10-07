@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-07 22:51:20 UTC
+Last checked: 2026-10-07 23:21:36 UTC
 
 241 matching roles open. ð = found in the latest run.
 
@@ -269,7 +269,7 @@ Last checked: 2026-10-07 22:51:20 UTC
 | AlphaSights | 58 | 12 | OK |
 | Jane Street | 234 | 11 | OK |
 | Schonfeld | 67 | 6 | OK |
-| Robinhood | 166 | 0 | OK |
+| Robinhood | 165 | 0 | OK |
 | SoFi | 55 | 0 | OK |
 | Affirm | 186 | 5 | OK |
 | Brex | 281 | 2 | OK |
@@ -283,7 +283,7 @@ Last checked: 2026-10-07 22:51:20 UTC
 | Guidepoint | 107 | 5 | OK |
 | Gusto | 96 | 2 | OK |
 | Flatiron Health | 26 | 4 | OK |
-| OpenAI | 816 | 15 | OK |
+| OpenAI | 817 | 15 | OK |
 | Perplexity | 129 | 3 | OK |
 | Notion | 134 | 9 | OK |
 | Harvey | 335 | 18 | OK |
