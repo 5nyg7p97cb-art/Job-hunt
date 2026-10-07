@@ -1,15 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-07 21:25:32 UTC
+Last checked: 2026-10-07 21:52:45 UTC
 
 241 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Notion | [Recruiting Coordinator - AMER](https://jobs.ashbyhq.com/notion/4f678608-f9f7-455d-b81c-9433ec974d0e) | San Francisco, California / New York, New York / Remote |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
@@ -137,6 +136,7 @@ Last checked: 2026-10-07 21:25:32 UTC
 |  | Notion | [Business Development Representative, New York](https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13) | New York, New York / Remote |
 |  | Notion | [Business Development Representative, San Francisco](https://jobs.ashbyhq.com/notion/b21fef72-4864-4a3e-a627-91557a0f8a36) | San Francisco, California / Remote |
 |  | Notion | [Payroll Analyst](https://jobs.ashbyhq.com/notion/92de7ece-b7d9-4b2a-b9cb-b978cc690a46) | San Francisco, California / Remote |
+|  | Notion | [Recruiting Coordinator - AMER](https://jobs.ashbyhq.com/notion/4f678608-f9f7-455d-b81c-9433ec974d0e) | San Francisco, California / New York, New York / Remote |
 |  | Notion | [Software Engineer, Early Career (AI)](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) | San Francisco, California / Remote |
 |  | Notion | [Software Engineer, New Grad (Dec 2026)](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816) | San Francisco, California / Remote |
 |  | OpenAI | [Account Associate - EMEA](https://jobs.ashbyhq.com/openai/d29b455a-9fee-4610-8e08-ce6a9ea8a37e) | Dublin, Ireland / Remote |
@@ -165,8 +165,8 @@ Last checked: 2026-10-07 21:25:32 UTC
 |  | Oscar Health | [Associate, Network Contracting (Central Region)](https://job-boards.greenhouse.io/oscar/jobs/8168122) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
-|  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
 |  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8146212) | Remote |
+|  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
 |  | Oscar Health | [Associate, Process Improvement](https://job-boards.greenhouse.io/oscar/jobs/8146250) | New York, New York, United States |
 |  | Oscar Health | [Associate, Process Optimization](https://job-boards.greenhouse.io/oscar/jobs/8107490) | New York, New York, United States |
 |  | Oscar Health | [Associate, Provider Success](https://job-boards.greenhouse.io/oscar/jobs/8154397) | New York, New York, United States |
@@ -231,8 +231,8 @@ Last checked: 2026-10-07 21:25:32 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -259,19 +259,19 @@ Last checked: 2026-10-07 21:25:32 UTC
 | Blackstone | 37 | 10 | OK |
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 218 | 10 | OK |
-| General Atlantic | 11 | 0 | OK |
+| General Atlantic | 12 | 0 | OK |
 | Anthropic | 645 | 14 | OK |
-| Stripe | 720 | 13 | OK |
+| Stripe | 722 | 13 | OK |
 | Datadog | 438 | 9 | OK |
 | Palantir | 314 | 13 | OK |
-| Ramp | 160 | 13 | OK |
+| Ramp | 161 | 13 | OK |
 | iCapital | 209 | 9 | OK |
 | AlphaSights | 58 | 12 | OK |
-| Jane Street | 233 | 11 | OK |
+| Jane Street | 234 | 11 | OK |
 | Schonfeld | 67 | 6 | OK |
-| Robinhood | 165 | 0 | OK |
+| Robinhood | 166 | 0 | OK |
 | SoFi | 55 | 0 | OK |
-| Affirm | 188 | 5 | OK |
+| Affirm | 186 | 5 | OK |
 | Brex | 281 | 2 | OK |
 | Betterment | 28 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
