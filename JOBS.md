@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-07 04:54:48 UTC
+Last checked: 2026-10-07 05:26:14 UTC
 
 240 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
@@ -275,7 +275,7 @@ Last checked: 2026-10-07 04:54:48 UTC
 | Betterment | 28 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
 | Scale AI | 190 | 3 | OK |
-| Dataiku | 20 | 0 | OK |
+| Dataiku | 19 | 0 | OK |
 | MongoDB | 394 | 2 | OK |
 | Oscar Health | 253 | 23 | OK |
 | The Trade Desk | 105 | 6 | OK |
