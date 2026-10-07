@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-07 16:01:36 UTC
+Last checked: 2026-10-07 16:28:52 UTC
 
 241 matching roles open. ð = found in the latest run.
 
@@ -231,8 +231,8 @@ Last checked: 2026-10-07 16:01:36 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -258,18 +258,18 @@ Last checked: 2026-10-07 16:01:36 UTC
 | BlackRock | 47 | 1 | OK |
 | Blackstone | 37 | 10 | OK |
 | Blackstone (Campus) | 28 | 2 | OK |
-| Point72 | 215 | 10 | OK |
+| Point72 | 216 | 10 | OK |
 | General Atlantic | 11 | 0 | OK |
-| Anthropic | 643 | 14 | OK |
+| Anthropic | 642 | 14 | OK |
 | Stripe | 714 | 13 | OK |
 | Datadog | 435 | 9 | OK |
 | Palantir | 314 | 13 | OK |
 | Ramp | 160 | 13 | OK |
-| iCapital | 210 | 9 | OK |
+| iCapital | 209 | 9 | OK |
 | AlphaSights | 58 | 12 | OK |
 | Jane Street | 233 | 11 | OK |
 | Schonfeld | 67 | 6 | OK |
-| Robinhood | 165 | 0 | OK |
+| Robinhood | 164 | 0 | OK |
 | SoFi | 57 | 0 | OK |
 | Affirm | 188 | 5 | OK |
 | Brex | 283 | 2 | OK |
@@ -290,4 +290,4 @@ Last checked: 2026-10-07 16:01:36 UTC
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 126 | 4 | OK |
-| Vanta | 82 | 2 | OK |
+| Vanta | 83 | 2 | OK |
