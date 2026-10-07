@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-07 21:52:45 UTC
+Last checked: 2026-10-07 22:22:33 UTC
 
 241 matching roles open. ð = found in the latest run.
 
@@ -260,8 +260,8 @@ Last checked: 2026-10-07 21:52:45 UTC
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 218 | 10 | OK |
 | General Atlantic | 12 | 0 | OK |
-| Anthropic | 645 | 14 | OK |
-| Stripe | 722 | 13 | OK |
+| Anthropic | 646 | 14 | OK |
+| Stripe | 723 | 13 | OK |
 | Datadog | 438 | 9 | OK |
 | Palantir | 314 | 13 | OK |
 | Ramp | 161 | 13 | OK |
@@ -275,7 +275,7 @@ Last checked: 2026-10-07 21:52:45 UTC
 | Brex | 281 | 2 | OK |
 | Betterment | 28 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
-| Scale AI | 188 | 3 | OK |
+| Scale AI | 187 | 3 | OK |
 | Dataiku | 19 | 0 | OK |
 | MongoDB | 393 | 2 | OK |
 | Oscar Health | 245 | 23 | OK |
@@ -283,7 +283,7 @@ Last checked: 2026-10-07 21:52:45 UTC
 | Guidepoint | 107 | 5 | OK |
 | Gusto | 96 | 2 | OK |
 | Flatiron Health | 26 | 4 | OK |
-| OpenAI | 817 | 15 | OK |
+| OpenAI | 816 | 15 | OK |
 | Perplexity | 129 | 3 | OK |
 | Notion | 134 | 9 | OK |
 | Harvey | 335 | 18 | OK |
