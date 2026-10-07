@@ -1,11 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-10-07 20:52:32 UTC
+Last checked: 2026-10-07 21:25:32 UTC
 
-240 matching roles open. ð = found in the latest run.
+241 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Notion | [Recruiting Coordinator - AMER](https://jobs.ashbyhq.com/notion/4f678608-f9f7-455d-b81c-9433ec974d0e) | San Francisco, California / New York, New York / Remote |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
@@ -158,8 +159,8 @@ Last checked: 2026-10-07 20:52:32 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8257364) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Central Region)](https://job-boards.greenhouse.io/oscar/jobs/8168122) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
@@ -259,7 +260,7 @@ Last checked: 2026-10-07 20:52:32 UTC
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 218 | 10 | OK |
 | General Atlantic | 11 | 0 | OK |
-| Anthropic | 644 | 14 | OK |
+| Anthropic | 645 | 14 | OK |
 | Stripe | 720 | 13 | OK |
 | Datadog | 438 | 9 | OK |
 | Palantir | 314 | 13 | OK |
@@ -277,15 +278,15 @@ Last checked: 2026-10-07 20:52:32 UTC
 | Scale AI | 188 | 3 | OK |
 | Dataiku | 19 | 0 | OK |
 | MongoDB | 393 | 2 | OK |
-| Oscar Health | 249 | 23 | OK |
+| Oscar Health | 245 | 23 | OK |
 | The Trade Desk | 105 | 6 | OK |
 | Guidepoint | 107 | 5 | OK |
 | Gusto | 96 | 2 | OK |
 | Flatiron Health | 26 | 4 | OK |
 | OpenAI | 817 | 15 | OK |
 | Perplexity | 129 | 3 | OK |
-| Notion | 133 | 8 | OK |
-| Harvey | 334 | 18 | OK |
+| Notion | 134 | 9 | OK |
+| Harvey | 335 | 18 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 125 | 4 | OK |
