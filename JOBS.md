@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-07 15:37:15 UTC
+Last checked: 2026-10-07 16:01:36 UTC
 
 241 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Harvey | [People Operations Coordinator, Onboarding](https://jobs.ashbyhq.com/harvey/3188a79d-c5f2-40c3-8f9f-bf1c37938f9f) | New York |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
@@ -98,6 +97,7 @@ Last checked: 2026-10-07 15:37:15 UTC
 |  | Harvey | [CX Data Analyst](https://jobs.ashbyhq.com/harvey/e69f2050-b4c0-4fbb-9852-2c60d2adbb45) | Remote / Remote |
 |  | Harvey | [CX Data Analyst](https://jobs.ashbyhq.com/harvey/f8857e81-4062-4669-a7e3-7b73b114979b) | New York / Remote |
 |  | Harvey | [Compliance Analyst](https://jobs.ashbyhq.com/harvey/2f35e50f-2978-44c3-a495-7cbfc1f512d4) | San Francisco / Remote |
+|  | Harvey | [People Operations Coordinator, Onboarding](https://jobs.ashbyhq.com/harvey/3188a79d-c5f2-40c3-8f9f-bf1c37938f9f) | New York |
 |  | Harvey | [Recruiting Coordinator](https://jobs.ashbyhq.com/harvey/5a1452ff-566c-4a80-905d-61281a02a40f) | New York / Remote |
 |  | Harvey | [Sales Development Representative](https://jobs.ashbyhq.com/harvey/08d3d70d-80a6-429d-8a27-d5efd41372f5) | San Francisco / Remote |
 |  | Harvey | [Sales Development Representative  (German Speaking)](https://jobs.ashbyhq.com/harvey/62570156-bb6a-42b5-aae4-ea544d9f1beb) | Munich / Remote |
@@ -255,24 +255,24 @@ Last checked: 2026-10-07 15:37:15 UTC
 | Bilt | 18 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 48 | 1 | OK |
+| BlackRock | 47 | 1 | OK |
 | Blackstone | 37 | 10 | OK |
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 215 | 10 | OK |
 | General Atlantic | 11 | 0 | OK |
-| Anthropic | 642 | 14 | OK |
-| Stripe | 717 | 13 | OK |
+| Anthropic | 643 | 14 | OK |
+| Stripe | 714 | 13 | OK |
 | Datadog | 435 | 9 | OK |
 | Palantir | 314 | 13 | OK |
 | Ramp | 160 | 13 | OK |
-| iCapital | 209 | 9 | OK |
+| iCapital | 210 | 9 | OK |
 | AlphaSights | 58 | 12 | OK |
 | Jane Street | 233 | 11 | OK |
 | Schonfeld | 67 | 6 | OK |
 | Robinhood | 165 | 0 | OK |
 | SoFi | 57 | 0 | OK |
 | Affirm | 188 | 5 | OK |
-| Brex | 284 | 2 | OK |
+| Brex | 283 | 2 | OK |
 | Betterment | 28 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
 | Scale AI | 186 | 3 | OK |
