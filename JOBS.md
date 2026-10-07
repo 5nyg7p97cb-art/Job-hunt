@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-07 00:35:45 UTC
+Last checked: 2026-10-07 01:02:17 UTC
 
 240 matching roles open. ð = found in the latest run.
 
@@ -230,8 +230,8 @@ Last checked: 2026-10-07 00:35:45 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -260,7 +260,7 @@ Last checked: 2026-10-07 00:35:45 UTC
 | Point72 | 216 | 10 | OK |
 | General Atlantic | 11 | 0 | OK |
 | Anthropic | 642 | 14 | OK |
-| Stripe | 730 | 13 | OK |
+| Stripe | 731 | 13 | OK |
 | Datadog | 434 | 9 | OK |
 | Palantir | 314 | 13 | OK |
 | Ramp | 161 | 13 | OK |
@@ -285,7 +285,7 @@ Last checked: 2026-10-07 00:35:45 UTC
 | OpenAI | 824 | 15 | OK |
 | Perplexity | 129 | 3 | OK |
 | Notion | 133 | 8 | OK |
-| Harvey | 332 | 17 | OK |
+| Harvey | 330 | 17 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 130 | 4 | OK |
