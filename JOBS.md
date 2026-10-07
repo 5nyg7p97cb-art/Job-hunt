@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-07 17:27:07 UTC
+Last checked: 2026-10-07 17:53:18 UTC
 
 241 matching roles open. ð = found in the latest run.
 
@@ -231,8 +231,8 @@ Last checked: 2026-10-07 17:27:07 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -260,8 +260,8 @@ Last checked: 2026-10-07 17:27:07 UTC
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 216 | 10 | OK |
 | General Atlantic | 11 | 0 | OK |
-| Anthropic | 644 | 14 | OK |
-| Stripe | 716 | 13 | OK |
+| Anthropic | 645 | 14 | OK |
+| Stripe | 718 | 13 | OK |
 | Datadog | 437 | 9 | OK |
 | Palantir | 314 | 13 | OK |
 | Ramp | 160 | 13 | OK |
@@ -269,7 +269,7 @@ Last checked: 2026-10-07 17:27:07 UTC
 | AlphaSights | 58 | 12 | OK |
 | Jane Street | 233 | 11 | OK |
 | Schonfeld | 67 | 6 | OK |
-| Robinhood | 164 | 0 | OK |
+| Robinhood | 165 | 0 | OK |
 | SoFi | 57 | 0 | OK |
 | Affirm | 188 | 5 | OK |
 | Brex | 283 | 2 | OK |
@@ -283,7 +283,7 @@ Last checked: 2026-10-07 17:27:07 UTC
 | Guidepoint | 107 | 6 | OK |
 | Gusto | 95 | 2 | OK |
 | Flatiron Health | 26 | 4 | OK |
-| OpenAI | 821 | 15 | OK |
+| OpenAI | 820 | 15 | OK |
 | Perplexity | 129 | 3 | OK |
 | Notion | 133 | 8 | OK |
 | Harvey | 337 | 18 | OK |
