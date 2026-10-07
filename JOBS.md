@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-07 14:27:43 UTC
+Last checked: 2026-10-07 14:53:31 UTC
 
 240 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
@@ -257,9 +257,9 @@ Last checked: 2026-10-07 14:27:43 UTC
 | BlackRock | 48 | 1 | OK |
 | Blackstone | 37 | 10 | OK |
 | Blackstone (Campus) | 28 | 2 | OK |
-| Point72 | 214 | 10 | OK |
+| Point72 | 215 | 10 | OK |
 | General Atlantic | 11 | 0 | OK |
-| Anthropic | 640 | 14 | OK |
+| Anthropic | 641 | 14 | OK |
 | Stripe | 719 | 13 | OK |
 | Datadog | 435 | 9 | OK |
 | Palantir | 314 | 13 | OK |
@@ -272,7 +272,7 @@ Last checked: 2026-10-07 14:27:43 UTC
 | SoFi | 57 | 0 | OK |
 | Affirm | 187 | 5 | OK |
 | Brex | 284 | 2 | OK |
-| Betterment | 29 | 2 | OK |
+| Betterment | 28 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
 | Scale AI | 186 | 3 | OK |
 | Dataiku | 19 | 0 | OK |
@@ -281,7 +281,7 @@ Last checked: 2026-10-07 14:27:43 UTC
 | The Trade Desk | 105 | 6 | OK |
 | Guidepoint | 106 | 6 | OK |
 | Gusto | 95 | 2 | OK |
-| Flatiron Health | 25 | 4 | OK |
+| Flatiron Health | 26 | 4 | OK |
 | OpenAI | 823 | 15 | OK |
 | Perplexity | 129 | 3 | OK |
 | Notion | 133 | 8 | OK |
