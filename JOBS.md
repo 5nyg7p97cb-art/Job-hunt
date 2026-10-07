@@ -1,14 +1,15 @@
 # Entry-level openings
 
-Last checked: 2026-10-07 14:53:31 UTC
+Last checked: 2026-10-07 15:37:15 UTC
 
-240 matching roles open. ð = found in the latest run.
+241 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Harvey | [People Operations Coordinator, Onboarding](https://jobs.ashbyhq.com/harvey/3188a79d-c5f2-40c3-8f9f-bf1c37938f9f) | New York |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
@@ -259,8 +260,8 @@ Last checked: 2026-10-07 14:53:31 UTC
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 215 | 10 | OK |
 | General Atlantic | 11 | 0 | OK |
-| Anthropic | 641 | 14 | OK |
-| Stripe | 719 | 13 | OK |
+| Anthropic | 642 | 14 | OK |
+| Stripe | 717 | 13 | OK |
 | Datadog | 435 | 9 | OK |
 | Palantir | 314 | 13 | OK |
 | Ramp | 160 | 13 | OK |
@@ -270,7 +271,7 @@ Last checked: 2026-10-07 14:53:31 UTC
 | Schonfeld | 67 | 6 | OK |
 | Robinhood | 165 | 0 | OK |
 | SoFi | 57 | 0 | OK |
-| Affirm | 187 | 5 | OK |
+| Affirm | 188 | 5 | OK |
 | Brex | 284 | 2 | OK |
 | Betterment | 28 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
@@ -279,13 +280,13 @@ Last checked: 2026-10-07 14:53:31 UTC
 | MongoDB | 392 | 2 | OK |
 | Oscar Health | 252 | 23 | OK |
 | The Trade Desk | 105 | 6 | OK |
-| Guidepoint | 106 | 6 | OK |
+| Guidepoint | 107 | 6 | OK |
 | Gusto | 95 | 2 | OK |
 | Flatiron Health | 26 | 4 | OK |
-| OpenAI | 823 | 15 | OK |
+| OpenAI | 822 | 15 | OK |
 | Perplexity | 129 | 3 | OK |
 | Notion | 133 | 8 | OK |
-| Harvey | 334 | 17 | OK |
+| Harvey | 335 | 18 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 126 | 4 | OK |
