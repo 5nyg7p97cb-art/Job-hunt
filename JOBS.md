@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-07 13:00:59 UTC
+Last checked: 2026-10-07 13:28:34 UTC
 
 240 matching roles open. ð = found in the latest run.
 
@@ -260,14 +260,14 @@ Last checked: 2026-10-07 13:00:59 UTC
 | Point72 | 214 | 10 | OK |
 | General Atlantic | 11 | 0 | OK |
 | Anthropic | 638 | 14 | OK |
-| Stripe | 718 | 13 | OK |
-| Datadog | 433 | 9 | OK |
+| Stripe | 717 | 13 | OK |
+| Datadog | 435 | 9 | OK |
 | Palantir | 314 | 13 | OK |
 | Ramp | 160 | 13 | OK |
 | iCapital | 209 | 9 | OK |
 | AlphaSights | 58 | 12 | OK |
 | Jane Street | 233 | 11 | OK |
-| Schonfeld | 68 | 6 | OK |
+| Schonfeld | 67 | 6 | OK |
 | Robinhood | 163 | 0 | OK |
 | SoFi | 57 | 0 | OK |
 | Affirm | 187 | 5 | OK |
@@ -285,7 +285,7 @@ Last checked: 2026-10-07 13:00:59 UTC
 | OpenAI | 823 | 15 | OK |
 | Perplexity | 129 | 3 | OK |
 | Notion | 133 | 8 | OK |
-| Harvey | 333 | 17 | OK |
+| Harvey | 334 | 17 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 126 | 4 | OK |
