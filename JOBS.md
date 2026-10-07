@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-07 08:29:10 UTC
+Last checked: 2026-10-07 08:54:07 UTC
 
 240 matching roles open. ð = found in the latest run.
 
@@ -254,13 +254,13 @@ Last checked: 2026-10-07 08:29:10 UTC
 | Bilt | 18 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 46 | 1 | OK |
+| BlackRock | 47 | 1 | OK |
 | Blackstone | 37 | 10 | OK |
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 214 | 10 | OK |
 | General Atlantic | 11 | 0 | OK |
-| Anthropic | 639 | 14 | OK |
-| Stripe | 732 | 13 | OK |
+| Anthropic | 640 | 14 | OK |
+| Stripe | 733 | 13 | OK |
 | Datadog | 433 | 9 | OK |
 | Palantir | 314 | 13 | OK |
 | Ramp | 160 | 13 | OK |
@@ -268,7 +268,7 @@ Last checked: 2026-10-07 08:29:10 UTC
 | AlphaSights | 58 | 12 | OK |
 | Jane Street | 233 | 11 | OK |
 | Schonfeld | 68 | 6 | OK |
-| Robinhood | 161 | 0 | OK |
+| Robinhood | 162 | 0 | OK |
 | SoFi | 56 | 0 | OK |
 | Affirm | 187 | 5 | OK |
 | Brex | 284 | 2 | OK |
@@ -276,7 +276,7 @@ Last checked: 2026-10-07 08:29:10 UTC
 | Clear Street | 45 | 7 | OK |
 | Scale AI | 190 | 3 | OK |
 | Dataiku | 19 | 0 | OK |
-| MongoDB | 395 | 2 | OK |
+| MongoDB | 394 | 2 | OK |
 | Oscar Health | 253 | 23 | OK |
 | The Trade Desk | 105 | 6 | OK |
 | Guidepoint | 106 | 6 | OK |
