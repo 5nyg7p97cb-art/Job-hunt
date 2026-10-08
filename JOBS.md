@@ -1,11 +1,13 @@
 # Entry-level openings
 
-Last checked: 2026-10-08 13:29:32 UTC
+Last checked: 2026-10-08 13:54:26 UTC
 
-242 matching roles open. ð = found in the latest run.
+244 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Harvey | [Associate Commercial Counsel](https://jobs.ashbyhq.com/harvey/95d7c087-8283-4e17-937d-2ee363ec95ef) | Munich / Remote |
+| ð | Harvey | [Associate Commercial Counsel, London](https://jobs.ashbyhq.com/harvey/0a8ca756-7d41-46cc-8cde-960af47658b2) | London / Remote |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -256,17 +258,17 @@ Last checked: 2026-10-08 13:29:32 UTC
 | Bilt | 18 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 49 | 1 | OK |
+| BlackRock | 50 | 1 | OK |
 | Blackstone | 37 | 10 | OK |
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 220 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 646 | 14 | OK |
-| Stripe | 726 | 13 | OK |
+| Stripe | 727 | 13 | OK |
 | Datadog | 437 | 9 | OK |
 | Palantir | 315 | 13 | OK |
 | Ramp | 161 | 13 | OK |
-| iCapital | 210 | 9 | OK |
+| iCapital | 211 | 9 | OK |
 | AlphaSights | 59 | 12 | OK |
 | Jane Street | 232 | 11 | OK |
 | Schonfeld | 67 | 6 | OK |
@@ -283,12 +285,12 @@ Last checked: 2026-10-08 13:29:32 UTC
 | The Trade Desk | 106 | 6 | OK |
 | Guidepoint | 106 | 6 | OK |
 | Gusto | 95 | 2 | OK |
-| Flatiron Health | 25 | 4 | OK |
+| Flatiron Health | 24 | 4 | OK |
 | OpenAI | 816 | 14 | OK |
 | Perplexity | 129 | 3 | OK |
 | Notion | 135 | 9 | OK |
-| Harvey | 337 | 18 | OK |
+| Harvey | 339 | 20 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 123 | 4 | OK |
-| Vanta | 84 | 2 | OK |
+| Vanta | 85 | 2 | OK |
