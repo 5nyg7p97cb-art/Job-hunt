@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-08 05:25:49 UTC
+Last checked: 2026-10-08 05:53:24 UTC
 
 241 matching roles open. ð = found in the latest run.
 
@@ -158,8 +158,8 @@ Last checked: 2026-10-08 05:25:49 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
 |  | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8257364) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Central Region)](https://job-boards.greenhouse.io/oscar/jobs/8168122) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
@@ -280,7 +280,7 @@ Last checked: 2026-10-08 05:25:49 UTC
 | MongoDB | 392 | 2 | OK |
 | Oscar Health | 242 | 23 | OK |
 | The Trade Desk | 106 | 6 | OK |
-| Guidepoint | 107 | 5 | OK |
+| Guidepoint | 106 | 5 | OK |
 | Gusto | 95 | 2 | OK |
 | Flatiron Health | 26 | 4 | OK |
 | OpenAI | 815 | 14 | OK |
