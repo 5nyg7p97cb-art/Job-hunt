@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-08 09:27:17 UTC
+Last checked: 2026-10-08 09:55:15 UTC
 
 241 matching roles open. ð = found in the latest run.
 
@@ -255,13 +255,13 @@ Last checked: 2026-10-08 09:27:17 UTC
 | Bilt | 18 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 48 | 1 | OK |
+| BlackRock | 50 | 1 | OK |
 | Blackstone | 37 | 10 | OK |
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 219 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 648 | 14 | OK |
-| Stripe | 725 | 13 | OK |
+| Stripe | 726 | 13 | OK |
 | Datadog | 439 | 9 | OK |
 | Palantir | 315 | 13 | OK |
 | Ramp | 161 | 13 | OK |
@@ -275,12 +275,12 @@ Last checked: 2026-10-08 09:27:17 UTC
 | Brex | 281 | 2 | OK |
 | Betterment | 28 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
-| Scale AI | 187 | 3 | OK |
-| Dataiku | 18 | 0 | OK |
+| Scale AI | 186 | 3 | OK |
+| Dataiku | 19 | 0 | OK |
 | MongoDB | 392 | 2 | OK |
 | Oscar Health | 242 | 23 | OK |
 | The Trade Desk | 106 | 6 | OK |
-| Guidepoint | 106 | 5 | OK |
+| Guidepoint | 105 | 5 | OK |
 | Gusto | 95 | 2 | OK |
 | Flatiron Health | 26 | 4 | OK |
 | OpenAI | 816 | 14 | OK |
