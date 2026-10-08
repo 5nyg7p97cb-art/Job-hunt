@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-08 16:29:56 UTC
+Last checked: 2026-10-08 16:55:40 UTC
 
 243 matching roles open. ð = found in the latest run.
 
@@ -81,8 +81,8 @@ Last checked: 2026-10-08 16:29:56 UTC
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -264,10 +264,10 @@ Last checked: 2026-10-08 16:29:56 UTC
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 646 | 14 | OK |
 | Stripe | 728 | 14 | OK |
-| Datadog | 438 | 8 | OK |
+| Datadog | 436 | 8 | OK |
 | Palantir | 313 | 13 | OK |
-| Ramp | 161 | 13 | OK |
-| iCapital | 208 | 9 | OK |
+| Ramp | 162 | 13 | OK |
+| iCapital | 207 | 9 | OK |
 | AlphaSights | 59 | 12 | OK |
 | Jane Street | 232 | 11 | OK |
 | Schonfeld | 66 | 5 | OK |
@@ -282,13 +282,13 @@ Last checked: 2026-10-08 16:29:56 UTC
 | MongoDB | 392 | 2 | OK |
 | Oscar Health | 242 | 23 | OK |
 | The Trade Desk | 106 | 6 | OK |
-| Guidepoint | 106 | 6 | OK |
+| Guidepoint | 105 | 6 | OK |
 | Gusto | 94 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 815 | 14 | OK |
+| OpenAI | 816 | 14 | OK |
 | Perplexity | 129 | 3 | OK |
 | Notion | 135 | 9 | OK |
-| Harvey | 339 | 20 | OK |
+| Harvey | 338 | 20 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 122 | 4 | OK |
