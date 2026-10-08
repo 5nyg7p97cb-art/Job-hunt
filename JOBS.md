@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-08 21:53:36 UTC
+Last checked: 2026-10-08 22:26:02 UTC
 
 243 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
@@ -232,8 +232,8 @@ Last checked: 2026-10-08 21:53:36 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -263,7 +263,7 @@ Last checked: 2026-10-08 21:53:36 UTC
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 646 | 14 | OK |
-| Stripe | 726 | 14 | OK |
+| Stripe | 727 | 14 | OK |
 | Datadog | 432 | 8 | OK |
 | Palantir | 313 | 13 | OK |
 | Ramp | 162 | 13 | OK |
@@ -271,9 +271,9 @@ Last checked: 2026-10-08 21:53:36 UTC
 | AlphaSights | 59 | 12 | OK |
 | Jane Street | 232 | 11 | OK |
 | Schonfeld | 66 | 5 | OK |
-| Robinhood | 168 | 0 | OK |
+| Robinhood | 169 | 0 | OK |
 | SoFi | 54 | 0 | OK |
-| Affirm | 189 | 5 | OK |
+| Affirm | 190 | 5 | OK |
 | Brex | 284 | 2 | OK |
 | Betterment | 27 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
@@ -285,7 +285,7 @@ Last checked: 2026-10-08 21:53:36 UTC
 | Guidepoint | 106 | 6 | OK |
 | Gusto | 97 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 811 | 14 | OK |
+| OpenAI | 812 | 14 | OK |
 | Perplexity | 132 | 3 | OK |
 | Notion | 133 | 9 | OK |
 | Harvey | 341 | 20 | OK |
