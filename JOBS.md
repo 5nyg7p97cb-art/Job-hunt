@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-08 10:53:54 UTC
+Last checked: 2026-10-08 11:26:32 UTC
 
 241 matching roles open. ð = found in the latest run.
 
@@ -255,19 +255,19 @@ Last checked: 2026-10-08 10:53:54 UTC
 | Bilt | 18 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 50 | 1 | OK |
+| BlackRock | 49 | 1 | OK |
 | Blackstone | 37 | 10 | OK |
 | Blackstone (Campus) | 28 | 2 | OK |
-| Point72 | 219 | 11 | OK |
+| Point72 | 220 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
-| Anthropic | 647 | 14 | OK |
+| Anthropic | 646 | 14 | OK |
 | Stripe | 725 | 13 | OK |
 | Datadog | 439 | 9 | OK |
 | Palantir | 315 | 13 | OK |
 | Ramp | 161 | 13 | OK |
 | iCapital | 210 | 9 | OK |
 | AlphaSights | 59 | 12 | OK |
-| Jane Street | 233 | 11 | OK |
+| Jane Street | 232 | 11 | OK |
 | Schonfeld | 67 | 6 | OK |
 | Robinhood | 163 | 0 | OK |
 | SoFi | 55 | 0 | OK |
@@ -277,7 +277,7 @@ Last checked: 2026-10-08 10:53:54 UTC
 | Clear Street | 45 | 7 | OK |
 | Scale AI | 186 | 3 | OK |
 | Dataiku | 19 | 0 | OK |
-| MongoDB | 392 | 2 | OK |
+| MongoDB | 393 | 2 | OK |
 | Oscar Health | 242 | 23 | OK |
 | The Trade Desk | 106 | 6 | OK |
 | Guidepoint | 105 | 5 | OK |
