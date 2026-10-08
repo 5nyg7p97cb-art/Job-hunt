@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-08 03:26:15 UTC
+Last checked: 2026-10-08 03:54:13 UTC
 
-242 matching roles open. ð = found in the latest run.
+241 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -153,7 +153,6 @@ Last checked: 2026-10-08 03:26:15 UTC
 |  | OpenAI | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | San Francisco / Remote |
 |  | OpenAI | [Technical Operations Analyst, User Safety & Risk](https://jobs.ashbyhq.com/openai/0f78e08a-669d-4d87-960f-518c649e6700) | London, UK / Remote |
 |  | OpenAI | [US External Affairs Associate, Global Affairs](https://jobs.ashbyhq.com/openai/544af761-e37a-450c-884b-b96506c1b883) | Washington, DC / Remote |
-|  | OpenAI | [User Safety & Risk Operations Analyst - Global Response (Weekend Shift)](https://jobs.ashbyhq.com/openai/af508ed6-e657-44df-beb8-3c31ae73492b) | Singapore / Remote |
 |  | Oscar Health | [Analytics Engineer I](https://job-boards.greenhouse.io/oscar/jobs/7914958) | New York, New York, United States |
 |  | Oscar Health | [Associate, Actuarial](https://job-boards.greenhouse.io/oscar/jobs/8069495) | Remote |
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
@@ -262,7 +261,7 @@ Last checked: 2026-10-08 03:26:15 UTC
 | Point72 | 219 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 647 | 14 | OK |
-| Stripe | 722 | 13 | OK |
+| Stripe | 723 | 13 | OK |
 | Datadog | 438 | 9 | OK |
 | Palantir | 315 | 13 | OK |
 | Ramp | 161 | 13 | OK |
@@ -284,7 +283,7 @@ Last checked: 2026-10-08 03:26:15 UTC
 | Guidepoint | 107 | 5 | OK |
 | Gusto | 96 | 2 | OK |
 | Flatiron Health | 26 | 4 | OK |
-| OpenAI | 815 | 15 | OK |
+| OpenAI | 814 | 14 | OK |
 | Perplexity | 129 | 3 | OK |
 | Notion | 134 | 9 | OK |
 | Harvey | 335 | 18 | OK |
