@@ -1,13 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-08 13:54:26 UTC
+Last checked: 2026-10-08 14:29:17 UTC
 
 244 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Harvey | [Associate Commercial Counsel](https://jobs.ashbyhq.com/harvey/95d7c087-8283-4e17-937d-2ee363ec95ef) | Munich / Remote |
-| ð | Harvey | [Associate Commercial Counsel, London](https://jobs.ashbyhq.com/harvey/0a8ca756-7d41-46cc-8cde-960af47658b2) | London / Remote |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -73,7 +71,6 @@ Last checked: 2026-10-08 13:54:26 UTC
 |  | Cohere | [Business Development Representative - French Speaking](https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89) | United Kingdom / Remote |
 |  | Datadog | [Accounts Payable Analyst](https://careers.datadoghq.com/detail/8257324/?gh_jid=8257324) | New York, New York, USA |
 |  | Datadog | [FP&A Analyst](https://careers.datadoghq.com/detail/8204554/?gh_jid=8204554) | New York, New York, USA |
-|  | Datadog | [GTM Strategy and Operations Associate](https://careers.datadoghq.com/detail/7843331/?gh_jid=7843331) | New York, New York, USA |
 |  | Datadog | [GTM Strategy/Operations Associate](https://careers.datadoghq.com/detail/8171303/?gh_jid=8171303) | New York, New York, USA |
 |  | Datadog | [GTM Strategy/Operations Associate - New York](https://careers.datadoghq.com/detail/8179647/?gh_jid=8179647) | New York, New York, USA |
 |  | Datadog | [Legal Operations Analyst](https://careers.datadoghq.com/detail/8202086/?gh_jid=8202086) | New York, New York, USA |
@@ -95,6 +92,8 @@ Last checked: 2026-10-08 13:54:26 UTC
 |  | Harvey | [Analyst, Customer Trust](https://jobs.ashbyhq.com/harvey/284a0861-026b-45ff-a4ad-c2d187d7184d) | San Francisco / Remote |
 |  | Harvey | [Analyst, Customer Trust](https://jobs.ashbyhq.com/harvey/1cf585c3-27e2-4813-ade9-dc8c53c2d5b0) | New York / Remote |
 |  | Harvey | [Analyst, Customer Trust](https://jobs.ashbyhq.com/harvey/8caa7beb-d41c-4802-a23d-4e72b6838f13) | London / Remote |
+|  | Harvey | [Associate Commercial Counsel](https://jobs.ashbyhq.com/harvey/95d7c087-8283-4e17-937d-2ee363ec95ef) | Munich / Remote |
+|  | Harvey | [Associate Commercial Counsel, London](https://jobs.ashbyhq.com/harvey/0a8ca756-7d41-46cc-8cde-960af47658b2) | London / Remote |
 |  | Harvey | [CX Data Analyst](https://jobs.ashbyhq.com/harvey/ecfc45be-fc15-4c16-a419-509c998b6c80) | San Francisco / Remote |
 |  | Harvey | [CX Data Analyst](https://jobs.ashbyhq.com/harvey/e69f2050-b4c0-4fbb-9852-2c60d2adbb45) | Remote / Remote |
 |  | Harvey | [CX Data Analyst](https://jobs.ashbyhq.com/harvey/f8857e81-4062-4669-a7e3-7b73b114979b) | New York / Remote |
@@ -161,8 +160,8 @@ Last checked: 2026-10-08 13:54:26 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
 |  | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8257364) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Central Region)](https://job-boards.greenhouse.io/oscar/jobs/8168122) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
@@ -234,10 +233,11 @@ Last checked: 2026-10-08 13:54:26 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
+|  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
 |  | Stripe | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8128744) | San Francisco, Seattle, New York |
 |  | Stripe | [University Recruiter (Fixed Term)](https://stripe.com/jobs/search?gh_jid=8226211) | San Francisco, New York, Seattle, US-Remote |
@@ -249,7 +249,7 @@ Last checked: 2026-10-08 13:54:26 UTC
 |  | The Trade Desk | [Financial Analyst, Product FP&A](https://job-boards.greenhouse.io/thetradedesk/jobs/5182494007) | New York; San Francisco |
 |  | Unify | [Sales Development Representative](https://jobs.ashbyhq.com/unify/9ba552ad-dc0c-44ce-be05-b28c12b27018) | San Francisco Office / New York Office |
 |  | Vanta | [Business Development Representative [German Fluency]](https://jobs.ashbyhq.com/vanta/cb338edc-a332-4f01-ab3f-b3e45ade44ba) | Dublin, Ireland / Remote |
-|  | Vanta | [Business Development Representative [German Fluency]](https://jobs.ashbyhq.com/vanta/7d5ac715-c4ba-45d5-a390-665a93f618cd) | London, UK / Remote |
+|  | Vanta | [Business Development Representative, DACH](https://jobs.ashbyhq.com/vanta/7d5ac715-c4ba-45d5-a390-665a93f618cd) | London, UK / Remote |
 
 ## Board check results
 
@@ -264,9 +264,9 @@ Last checked: 2026-10-08 13:54:26 UTC
 | Point72 | 220 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 646 | 14 | OK |
-| Stripe | 727 | 13 | OK |
-| Datadog | 437 | 9 | OK |
-| Palantir | 315 | 13 | OK |
+| Stripe | 729 | 14 | OK |
+| Datadog | 437 | 8 | OK |
+| Palantir | 313 | 13 | OK |
 | Ramp | 161 | 13 | OK |
 | iCapital | 211 | 9 | OK |
 | AlphaSights | 59 | 12 | OK |
@@ -280,12 +280,12 @@ Last checked: 2026-10-08 13:54:26 UTC
 | Clear Street | 45 | 7 | OK |
 | Scale AI | 186 | 3 | OK |
 | Dataiku | 19 | 0 | OK |
-| MongoDB | 393 | 2 | OK |
+| MongoDB | 391 | 2 | OK |
 | Oscar Health | 242 | 23 | OK |
 | The Trade Desk | 106 | 6 | OK |
 | Guidepoint | 106 | 6 | OK |
 | Gusto | 95 | 2 | OK |
-| Flatiron Health | 24 | 4 | OK |
+| Flatiron Health | 23 | 4 | OK |
 | OpenAI | 816 | 14 | OK |
 | Perplexity | 129 | 3 | OK |
 | Notion | 135 | 9 | OK |
