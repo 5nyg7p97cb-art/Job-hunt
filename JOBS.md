@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-08 11:26:32 UTC
+Last checked: 2026-10-08 11:53:33 UTC
 
 241 matching roles open. ð = found in the latest run.
 
@@ -267,10 +267,10 @@ Last checked: 2026-10-08 11:26:32 UTC
 | Ramp | 161 | 13 | OK |
 | iCapital | 210 | 9 | OK |
 | AlphaSights | 59 | 12 | OK |
-| Jane Street | 232 | 11 | OK |
+| Jane Street | 233 | 11 | OK |
 | Schonfeld | 67 | 6 | OK |
 | Robinhood | 163 | 0 | OK |
-| SoFi | 55 | 0 | OK |
+| SoFi | 54 | 0 | OK |
 | Affirm | 186 | 5 | OK |
 | Brex | 281 | 2 | OK |
 | Betterment | 28 | 2 | OK |
