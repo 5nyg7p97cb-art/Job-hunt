@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-08 07:54:05 UTC
+Last checked: 2026-10-08 08:28:36 UTC
 
 241 matching roles open. ð = found in the latest run.
 
@@ -158,8 +158,8 @@ Last checked: 2026-10-08 07:54:05 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
 |  | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8257364) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Central Region)](https://job-boards.greenhouse.io/oscar/jobs/8168122) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
@@ -265,8 +265,8 @@ Last checked: 2026-10-08 07:54:05 UTC
 | Datadog | 439 | 9 | OK |
 | Palantir | 315 | 13 | OK |
 | Ramp | 161 | 13 | OK |
-| iCapital | 211 | 9 | OK |
-| AlphaSights | 58 | 12 | OK |
+| iCapital | 210 | 9 | OK |
+| AlphaSights | 59 | 12 | OK |
 | Jane Street | 233 | 11 | OK |
 | Schonfeld | 67 | 6 | OK |
 | Robinhood | 165 | 0 | OK |
