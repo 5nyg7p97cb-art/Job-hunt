@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-08 17:26:41 UTC
+Last checked: 2026-10-08 17:53:45 UTC
 
 243 matching roles open. ð = found in the latest run.
 
@@ -173,8 +173,8 @@ Last checked: 2026-10-08 17:26:41 UTC
 |  | Oscar Health | [Associate, Strategic Finance](https://job-boards.greenhouse.io/oscar/jobs/8011066) | New York, New York, United States |
 |  | Oscar Health | [Associate, Strategic Finance (FP&A)](https://job-boards.greenhouse.io/oscar/jobs/8129152) | New York, New York, United States |
 |  | Oscar Health | [Associate, Value Based Contracting](https://job-boards.greenhouse.io/oscar/jobs/8168124) | Remote |
-|  | Oscar Health | [Itemized Bill Review Associate](https://job-boards.greenhouse.io/oscar/jobs/8146212) | Remote |
 |  | Oscar Health | [Itemized Bill Review Associate](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
+|  | Oscar Health | [Itemized Bill Review Associate](https://job-boards.greenhouse.io/oscar/jobs/8146212) | Remote |
 |  | Oscar Health | [Network Contracting & Services Associate](https://job-boards.greenhouse.io/oscar/jobs/8080961) | Remote |
 |  | Oscar Health | [Process Management Associate, Provider Operations](https://job-boards.greenhouse.io/oscar/jobs/8146248) | New York, New York, United States |
 |  | Oscar Health | [Provider Network Associate](https://job-boards.greenhouse.io/oscar/jobs/8178503) | Remote |
@@ -232,8 +232,8 @@ Last checked: 2026-10-08 17:26:41 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -262,19 +262,19 @@ Last checked: 2026-10-08 17:26:41 UTC
 | Blackstone (Campus) | 29 | 2 | OK |
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
-| Anthropic | 645 | 14 | OK |
+| Anthropic | 644 | 14 | OK |
 | Stripe | 729 | 14 | OK |
-| Datadog | 436 | 8 | OK |
+| Datadog | 435 | 8 | OK |
 | Palantir | 313 | 13 | OK |
 | Ramp | 162 | 13 | OK |
 | iCapital | 207 | 9 | OK |
 | AlphaSights | 59 | 12 | OK |
 | Jane Street | 232 | 11 | OK |
 | Schonfeld | 66 | 5 | OK |
-| Robinhood | 158 | 0 | OK |
+| Robinhood | 164 | 0 | OK |
 | SoFi | 52 | 0 | OK |
 | Affirm | 188 | 5 | OK |
-| Brex | 281 | 2 | OK |
+| Brex | 282 | 2 | OK |
 | Betterment | 28 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
 | Scale AI | 181 | 3 | OK |
@@ -287,7 +287,7 @@ Last checked: 2026-10-08 17:26:41 UTC
 | Flatiron Health | 23 | 4 | OK |
 | OpenAI | 816 | 14 | OK |
 | Perplexity | 130 | 3 | OK |
-| Notion | 134 | 9 | OK |
+| Notion | 133 | 9 | OK |
 | Harvey | 338 | 20 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
