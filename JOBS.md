@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-08 02:23:57 UTC
+Last checked: 2026-10-08 02:51:49 UTC
 
 242 matching roles open. ð = found in the latest run.
 
@@ -266,7 +266,7 @@ Last checked: 2026-10-08 02:23:57 UTC
 | Datadog | 438 | 9 | OK |
 | Palantir | 315 | 13 | OK |
 | Ramp | 161 | 13 | OK |
-| iCapital | 210 | 9 | OK |
+| iCapital | 211 | 9 | OK |
 | AlphaSights | 58 | 12 | OK |
 | Jane Street | 233 | 11 | OK |
 | Schonfeld | 67 | 6 | OK |
