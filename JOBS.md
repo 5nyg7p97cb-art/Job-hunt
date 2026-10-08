@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-08 19:26:37 UTC
+Last checked: 2026-10-08 19:53:30 UTC
 
 243 matching roles open. ð = found in the latest run.
 
@@ -173,8 +173,8 @@ Last checked: 2026-10-08 19:26:37 UTC
 |  | Oscar Health | [Associate, Strategic Finance](https://job-boards.greenhouse.io/oscar/jobs/8011066) | New York, New York, United States |
 |  | Oscar Health | [Associate, Strategic Finance (FP&A)](https://job-boards.greenhouse.io/oscar/jobs/8129152) | New York, New York, United States |
 |  | Oscar Health | [Associate, Value Based Contracting](https://job-boards.greenhouse.io/oscar/jobs/8168124) | Remote |
-|  | Oscar Health | [Itemized Bill Review Associate](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
 |  | Oscar Health | [Itemized Bill Review Associate](https://job-boards.greenhouse.io/oscar/jobs/8146212) | Remote |
+|  | Oscar Health | [Itemized Bill Review Associate](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
 |  | Oscar Health | [Network Contracting & Services Associate](https://job-boards.greenhouse.io/oscar/jobs/8080961) | Remote |
 |  | Oscar Health | [Process Management Associate, Provider Operations](https://job-boards.greenhouse.io/oscar/jobs/8146248) | New York, New York, United States |
 |  | Oscar Health | [Provider Network Associate](https://job-boards.greenhouse.io/oscar/jobs/8178503) | Remote |
@@ -272,10 +272,10 @@ Last checked: 2026-10-08 19:26:37 UTC
 | Jane Street | 232 | 11 | OK |
 | Schonfeld | 66 | 5 | OK |
 | Robinhood | 166 | 0 | OK |
-| SoFi | 54 | 0 | OK |
+| SoFi | 53 | 0 | OK |
 | Affirm | 188 | 5 | OK |
 | Brex | 284 | 2 | OK |
-| Betterment | 28 | 2 | OK |
+| Betterment | 27 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
 | Scale AI | 181 | 3 | OK |
 | Dataiku | 20 | 0 | OK |
@@ -288,7 +288,7 @@ Last checked: 2026-10-08 19:26:37 UTC
 | OpenAI | 812 | 14 | OK |
 | Perplexity | 130 | 3 | OK |
 | Notion | 133 | 9 | OK |
-| Harvey | 338 | 20 | OK |
+| Harvey | 339 | 20 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 120 | 4 | OK |
