@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-08 00:34:27 UTC
+Last checked: 2026-10-08 01:01:30 UTC
 
 242 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Point72 | [Technical Business Analyst](https://boards.greenhouse.io/point72/jobs/8877421002?gh_jid=8877421002) | New York |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -160,8 +159,8 @@ Last checked: 2026-10-08 00:34:27 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
 |  | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8257364) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Central Region)](https://job-boards.greenhouse.io/oscar/jobs/8168122) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
@@ -203,6 +202,7 @@ Last checked: 2026-10-08 00:34:27 UTC
 |  | Point72 | [Quantitative Analyst, Structured Products Investment Team](https://boards.greenhouse.io/point72/jobs/8745810002?gh_jid=8745810002) | New York, NY |
 |  | Point72 | [Quantitative Portfolio Analyst – 2026 Grad](https://boards.greenhouse.io/point72/jobs/8169967002?gh_jid=8169967002) | New York, New York |
 |  | Point72 | [Sector Analyst, MI-Data](https://boards.greenhouse.io/point72/jobs/7820104002?gh_jid=7820104002) | New York, NY |
+|  | Point72 | [Technical Business Analyst](https://boards.greenhouse.io/point72/jobs/8877421002?gh_jid=8877421002) | New York |
 |  | Point72 | [Trader/Quant Analyst](https://boards.greenhouse.io/point72/jobs/8375066002?gh_jid=8375066002) | Stamford, New York |
 |  | Ramp | [Associate GTM Recruiter](https://jobs.ashbyhq.com/ramp/a85afad0-8051-4333-ae89-0f82321dea87) | San Francisco, CA / Remote |
 |  | Ramp | [Associate, Strategic Finance](https://jobs.ashbyhq.com/ramp/606475af-b74f-42c4-978a-dde138a86ac7) | New York, NY (HQ) / San Francisco, CA / Remote |
