@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-08 01:25:45 UTC
+Last checked: 2026-10-08 01:53:48 UTC
 
 242 matching roles open. ð = found in the latest run.
 
@@ -159,8 +159,8 @@ Last checked: 2026-10-08 01:25:45 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
 |  | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8257364) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Central Region)](https://job-boards.greenhouse.io/oscar/jobs/8168122) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
@@ -232,8 +232,8 @@ Last checked: 2026-10-08 01:25:45 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -262,7 +262,7 @@ Last checked: 2026-10-08 01:25:45 UTC
 | Point72 | 219 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 646 | 14 | OK |
-| Stripe | 723 | 13 | OK |
+| Stripe | 722 | 13 | OK |
 | Datadog | 438 | 9 | OK |
 | Palantir | 315 | 13 | OK |
 | Ramp | 161 | 13 | OK |
@@ -284,7 +284,7 @@ Last checked: 2026-10-08 01:25:45 UTC
 | Guidepoint | 107 | 5 | OK |
 | Gusto | 96 | 2 | OK |
 | Flatiron Health | 26 | 4 | OK |
-| OpenAI | 816 | 15 | OK |
+| OpenAI | 815 | 15 | OK |
 | Perplexity | 129 | 3 | OK |
 | Notion | 134 | 9 | OK |
 | Harvey | 335 | 18 | OK |
