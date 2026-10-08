@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-08 08:28:36 UTC
+Last checked: 2026-10-08 08:55:01 UTC
 
 241 matching roles open. ð = found in the latest run.
 
@@ -158,8 +158,8 @@ Last checked: 2026-10-08 08:28:36 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8257364) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Central Region)](https://job-boards.greenhouse.io/oscar/jobs/8168122) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
@@ -286,8 +286,8 @@ Last checked: 2026-10-08 08:28:36 UTC
 | OpenAI | 816 | 14 | OK |
 | Perplexity | 129 | 3 | OK |
 | Notion | 134 | 9 | OK |
-| Harvey | 334 | 18 | OK |
+| Harvey | 335 | 18 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
-| Cohere | 126 | 4 | OK |
-| Vanta | 83 | 2 | OK |
+| Cohere | 124 | 4 | OK |
+| Vanta | 84 | 2 | OK |
