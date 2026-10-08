@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-08 14:55:20 UTC
+Last checked: 2026-10-08 15:28:14 UTC
 
 243 matching roles open. ð = found in the latest run.
 
@@ -160,14 +160,14 @@ Last checked: 2026-10-08 14:55:20 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
 |  | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8257364) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Central Region)](https://job-boards.greenhouse.io/oscar/jobs/8168122) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
-|  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
 |  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8146212) | Remote |
+|  | Oscar Health | [Associate, Payment Integrity IBR](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
 |  | Oscar Health | [Associate, Process Improvement](https://job-boards.greenhouse.io/oscar/jobs/8146250) | New York, New York, United States |
 |  | Oscar Health | [Associate, Process Optimization](https://job-boards.greenhouse.io/oscar/jobs/8107490) | New York, New York, United States |
 |  | Oscar Health | [Associate, Provider Success](https://job-boards.greenhouse.io/oscar/jobs/8154397) | New York, New York, United States |
@@ -259,11 +259,11 @@ Last checked: 2026-10-08 14:55:20 UTC
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 50 | 1 | OK |
 | Blackstone | 37 | 10 | OK |
-| Blackstone (Campus) | 28 | 2 | OK |
+| Blackstone (Campus) | 29 | 2 | OK |
 | Point72 | 220 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 646 | 14 | OK |
-| Stripe | 727 | 14 | OK |
+| Stripe | 728 | 14 | OK |
 | Datadog | 439 | 8 | OK |
 | Palantir | 313 | 13 | OK |
 | Ramp | 161 | 13 | OK |
@@ -271,16 +271,16 @@ Last checked: 2026-10-08 14:55:20 UTC
 | AlphaSights | 59 | 12 | OK |
 | Jane Street | 232 | 11 | OK |
 | Schonfeld | 66 | 5 | OK |
-| Robinhood | 162 | 0 | OK |
-| SoFi | 54 | 0 | OK |
+| Robinhood | 161 | 0 | OK |
+| SoFi | 52 | 0 | OK |
 | Affirm | 184 | 5 | OK |
 | Brex | 281 | 2 | OK |
 | Betterment | 28 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
-| Scale AI | 186 | 3 | OK |
-| Dataiku | 19 | 0 | OK |
-| MongoDB | 391 | 2 | OK |
-| Oscar Health | 242 | 23 | OK |
+| Scale AI | 185 | 3 | OK |
+| Dataiku | 20 | 0 | OK |
+| MongoDB | 393 | 2 | OK |
+| Oscar Health | 243 | 23 | OK |
 | The Trade Desk | 106 | 6 | OK |
 | Guidepoint | 106 | 6 | OK |
 | Gusto | 95 | 2 | OK |
