@@ -1,11 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-10-07 23:50:07 UTC
+Last checked: 2026-10-08 00:34:27 UTC
 
-241 matching roles open. ð = found in the latest run.
+242 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Point72 | [Technical Business Analyst](https://boards.greenhouse.io/point72/jobs/8877421002?gh_jid=8877421002) | New York |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -159,8 +160,8 @@ Last checked: 2026-10-07 23:50:07 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8257364) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Central Region)](https://job-boards.greenhouse.io/oscar/jobs/8168122) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
@@ -258,16 +259,16 @@ Last checked: 2026-10-07 23:50:07 UTC
 | BlackRock | 47 | 1 | OK |
 | Blackstone | 37 | 10 | OK |
 | Blackstone (Campus) | 28 | 2 | OK |
-| Point72 | 218 | 10 | OK |
+| Point72 | 219 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 646 | 14 | OK |
-| Stripe | 724 | 13 | OK |
+| Stripe | 723 | 13 | OK |
 | Datadog | 438 | 9 | OK |
 | Palantir | 315 | 13 | OK |
 | Ramp | 161 | 13 | OK |
 | iCapital | 209 | 9 | OK |
 | AlphaSights | 58 | 12 | OK |
-| Jane Street | 234 | 11 | OK |
+| Jane Street | 233 | 11 | OK |
 | Schonfeld | 67 | 6 | OK |
 | Robinhood | 165 | 0 | OK |
 | SoFi | 55 | 0 | OK |
@@ -276,9 +277,9 @@ Last checked: 2026-10-07 23:50:07 UTC
 | Betterment | 28 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
 | Scale AI | 187 | 3 | OK |
-| Dataiku | 19 | 0 | OK |
+| Dataiku | 18 | 0 | OK |
 | MongoDB | 393 | 2 | OK |
-| Oscar Health | 246 | 23 | OK |
+| Oscar Health | 242 | 23 | OK |
 | The Trade Desk | 105 | 6 | OK |
 | Guidepoint | 107 | 5 | OK |
 | Gusto | 96 | 2 | OK |
@@ -289,5 +290,5 @@ Last checked: 2026-10-07 23:50:07 UTC
 | Harvey | 335 | 18 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
-| Cohere | 125 | 4 | OK |
+| Cohere | 126 | 4 | OK |
 | Vanta | 83 | 2 | OK |
