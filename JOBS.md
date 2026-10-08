@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-08 18:28:50 UTC
+Last checked: 2026-10-08 18:57:13 UTC
 
 243 matching roles open. ð = found in the latest run.
 
@@ -263,7 +263,7 @@ Last checked: 2026-10-08 18:28:50 UTC
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 644 | 14 | OK |
-| Stripe | 728 | 14 | OK |
+| Stripe | 727 | 14 | OK |
 | Datadog | 435 | 8 | OK |
 | Palantir | 313 | 13 | OK |
 | Ramp | 162 | 13 | OK |
@@ -274,7 +274,7 @@ Last checked: 2026-10-08 18:28:50 UTC
 | Robinhood | 166 | 0 | OK |
 | SoFi | 52 | 0 | OK |
 | Affirm | 188 | 5 | OK |
-| Brex | 283 | 2 | OK |
+| Brex | 284 | 2 | OK |
 | Betterment | 28 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
 | Scale AI | 181 | 3 | OK |
@@ -283,7 +283,7 @@ Last checked: 2026-10-08 18:28:50 UTC
 | Oscar Health | 241 | 23 | OK |
 | The Trade Desk | 107 | 6 | OK |
 | Guidepoint | 105 | 6 | OK |
-| Gusto | 94 | 2 | OK |
+| Gusto | 95 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
 | OpenAI | 815 | 14 | OK |
 | Perplexity | 130 | 3 | OK |
@@ -291,5 +291,5 @@ Last checked: 2026-10-08 18:28:50 UTC
 | Harvey | 338 | 20 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
-| Cohere | 121 | 4 | OK |
+| Cohere | 120 | 4 | OK |
 | Vanta | 84 | 2 | OK |
