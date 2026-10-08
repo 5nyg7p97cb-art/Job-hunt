@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-08 04:26:29 UTC
+Last checked: 2026-10-08 04:53:44 UTC
 
 241 matching roles open. ð = found in the latest run.
 
@@ -158,8 +158,8 @@ Last checked: 2026-10-08 04:26:29 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
 |  | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8257364) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Central Region)](https://job-boards.greenhouse.io/oscar/jobs/8168122) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
@@ -262,7 +262,7 @@ Last checked: 2026-10-08 04:26:29 UTC
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 647 | 14 | OK |
 | Stripe | 724 | 13 | OK |
-| Datadog | 438 | 9 | OK |
+| Datadog | 439 | 9 | OK |
 | Palantir | 315 | 13 | OK |
 | Ramp | 161 | 13 | OK |
 | iCapital | 211 | 9 | OK |
