@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-08 10:28:29 UTC
+Last checked: 2026-10-08 10:53:54 UTC
 
 241 matching roles open. ð = found in the latest run.
 
@@ -289,5 +289,5 @@ Last checked: 2026-10-08 10:28:29 UTC
 | Harvey | 337 | 18 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
-| Cohere | 124 | 4 | OK |
+| Cohere | 123 | 4 | OK |
 | Vanta | 84 | 2 | OK |
