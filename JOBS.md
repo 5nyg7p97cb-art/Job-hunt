@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-09 15:25:56 UTC
+Last checked: 2026-10-09 15:55:14 UTC
 
-242 matching roles open. ð = found in the latest run.
+241 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
@@ -79,8 +79,8 @@ Last checked: 2026-10-09 15:25:56 UTC
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -172,8 +172,8 @@ Last checked: 2026-10-09 15:25:56 UTC
 |  | Oscar Health | [Associate, Strategic Finance](https://job-boards.greenhouse.io/oscar/jobs/8011066) | New York, New York, United States |
 |  | Oscar Health | [Associate, Strategic Finance (FP&A)](https://job-boards.greenhouse.io/oscar/jobs/8129152) | New York, New York, United States |
 |  | Oscar Health | [Associate, Value Based Contracting](https://job-boards.greenhouse.io/oscar/jobs/8168124) | Remote |
-|  | Oscar Health | [Itemized Bill Review Associate](https://job-boards.greenhouse.io/oscar/jobs/8146212) | Remote |
 |  | Oscar Health | [Itemized Bill Review Associate](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
+|  | Oscar Health | [Itemized Bill Review Associate](https://job-boards.greenhouse.io/oscar/jobs/8146212) | Remote |
 |  | Oscar Health | [Network Contracting & Services Associate](https://job-boards.greenhouse.io/oscar/jobs/8080961) | Remote |
 |  | Oscar Health | [Process Management Associate, Provider Operations](https://job-boards.greenhouse.io/oscar/jobs/8146248) | New York, New York, United States |
 |  | Oscar Health | [Provider Network Associate](https://job-boards.greenhouse.io/oscar/jobs/8178503) | Remote |
@@ -240,7 +240,6 @@ Last checked: 2026-10-09 15:25:56 UTC
 |  | Stripe | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8128744) | San Francisco, Seattle, New York |
 |  | Stripe | [University Recruiter (Fixed Term)](https://stripe.com/jobs/search?gh_jid=8226211) | San Francisco, New York, Seattle, US-Remote |
 |  | The Trade Desk | [Associate General Counsel, Commercial CTV & Advertising](https://job-boards.greenhouse.io/thetradedesk/jobs/4682475007) | Chicago; Irvine; Los Angeles; New York; San Francisco; San Jose |
-|  | The Trade Desk | [Associate General Counsel, Data Licensing](https://job-boards.greenhouse.io/thetradedesk/jobs/5073919007) | Chicago; Irvine; Los Angeles; New York; San Francisco; San Jose |
 |  | The Trade Desk | [Associate General Counsel, Product & Privacy](https://job-boards.greenhouse.io/thetradedesk/jobs/5154942007) | Chicago; Irvine; Los Angeles; New York; San Francisco; San Jose |
 |  | The Trade Desk | [Data Support Analyst I](https://job-boards.greenhouse.io/thetradedesk/jobs/5165780007) | New York |
 |  | The Trade Desk | [Employment Associate General Counsel](https://job-boards.greenhouse.io/thetradedesk/jobs/5082193007) | New York |
@@ -263,16 +262,16 @@ Last checked: 2026-10-09 15:25:56 UTC
 | General Atlantic | 11 | 0 | OK |
 | Anthropic | 645 | 14 | OK |
 | Stripe | 729 | 14 | OK |
-| Datadog | 433 | 8 | OK |
+| Datadog | 435 | 8 | OK |
 | Palantir | 312 | 13 | OK |
 | Ramp | 163 | 13 | OK |
-| iCapital | 210 | 9 | OK |
+| iCapital | 211 | 9 | OK |
 | AlphaSights | 59 | 12 | OK |
 | Jane Street | 232 | 11 | OK |
 | Schonfeld | 68 | 5 | OK |
 | Robinhood | 170 | 0 | OK |
 | SoFi | 54 | 0 | OK |
-| Affirm | 192 | 5 | OK |
+| Affirm | 193 | 5 | OK |
 | Brex | 287 | 2 | OK |
 | Betterment | 27 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
@@ -280,7 +279,7 @@ Last checked: 2026-10-09 15:25:56 UTC
 | Dataiku | 19 | 0 | OK |
 | MongoDB | 392 | 2 | OK |
 | Oscar Health | 241 | 23 | OK |
-| The Trade Desk | 108 | 6 | OK |
+| The Trade Desk | 108 | 5 | OK |
 | Guidepoint | 106 | 6 | OK |
 | Gusto | 97 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
