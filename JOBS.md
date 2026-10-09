@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-09 22:52:57 UTC
+Last checked: 2026-10-09 23:23:35 UTC
 
 236 matching roles open. ð = found in the latest run.
 
@@ -226,8 +226,8 @@ Last checked: 2026-10-09 22:52:57 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -255,8 +255,8 @@ Last checked: 2026-10-09 22:52:57 UTC
 | Blackstone (Campus) | 28 | 1 | OK |
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
-| Anthropic | 646 | 14 | OK |
-| Stripe | 733 | 14 | OK |
+| Anthropic | 645 | 14 | OK |
+| Stripe | 731 | 14 | OK |
 | Datadog | 435 | 8 | OK |
 | Palantir | 309 | 13 | OK |
 | Ramp | 164 | 13 | OK |
@@ -264,7 +264,7 @@ Last checked: 2026-10-09 22:52:57 UTC
 | AlphaSights | 59 | 12 | OK |
 | Jane Street | 231 | 11 | OK |
 | Schonfeld | 69 | 5 | OK |
-| Robinhood | 175 | 0 | OK |
+| Robinhood | 181 | 0 | OK |
 | SoFi | 53 | 0 | OK |
 | Affirm | 203 | 5 | OK |
 | Brex | 277 | 2 | OK |
@@ -272,9 +272,9 @@ Last checked: 2026-10-09 22:52:57 UTC
 | Clear Street | 45 | 7 | OK |
 | Scale AI | 182 | 3 | OK |
 | Dataiku | 17 | 0 | OK |
-| MongoDB | 390 | 2 | OK |
+| MongoDB | 391 | 2 | OK |
 | Oscar Health | 239 | 20 | OK |
-| The Trade Desk | 108 | 5 | OK |
+| The Trade Desk | 109 | 5 | OK |
 | Guidepoint | 104 | 6 | OK |
 | Gusto | 97 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
