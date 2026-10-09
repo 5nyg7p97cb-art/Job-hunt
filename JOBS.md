@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-09 13:55:05 UTC
+Last checked: 2026-10-09 14:30:34 UTC
 
 242 matching roles open. ð = found in the latest run.
 
@@ -231,8 +231,8 @@ Last checked: 2026-10-09 13:55:05 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -262,21 +262,21 @@ Last checked: 2026-10-09 13:55:05 UTC
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 11 | 0 | OK |
 | Anthropic | 643 | 14 | OK |
-| Stripe | 732 | 14 | OK |
+| Stripe | 731 | 14 | OK |
 | Datadog | 432 | 8 | OK |
-| Palantir | 313 | 13 | OK |
+| Palantir | 312 | 13 | OK |
 | Ramp | 163 | 13 | OK |
-| iCapital | 211 | 9 | OK |
+| iCapital | 210 | 9 | OK |
 | AlphaSights | 59 | 12 | OK |
 | Jane Street | 231 | 11 | OK |
-| Schonfeld | 66 | 5 | OK |
-| Robinhood | 171 | 0 | OK |
+| Schonfeld | 68 | 5 | OK |
+| Robinhood | 169 | 0 | OK |
 | SoFi | 54 | 0 | OK |
-| Affirm | 190 | 5 | OK |
+| Affirm | 192 | 5 | OK |
 | Brex | 287 | 2 | OK |
 | Betterment | 27 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
-| Scale AI | 182 | 3 | OK |
+| Scale AI | 181 | 3 | OK |
 | Dataiku | 20 | 0 | OK |
 | MongoDB | 393 | 2 | OK |
 | Oscar Health | 241 | 23 | OK |
@@ -284,7 +284,7 @@ Last checked: 2026-10-09 13:55:05 UTC
 | Guidepoint | 106 | 6 | OK |
 | Gusto | 97 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 817 | 14 | OK |
+| OpenAI | 819 | 14 | OK |
 | Perplexity | 132 | 3 | OK |
 | Notion | 133 | 9 | OK |
 | Harvey | 346 | 21 | OK |
