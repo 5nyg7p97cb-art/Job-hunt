@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-09 01:53:51 UTC
+Last checked: 2026-10-09 02:24:19 UTC
 
 243 matching roles open. ð = found in the latest run.
 
@@ -271,7 +271,7 @@ Last checked: 2026-10-09 01:53:51 UTC
 | AlphaSights | 59 | 12 | OK |
 | Jane Street | 232 | 11 | OK |
 | Schonfeld | 66 | 5 | OK |
-| Robinhood | 169 | 0 | OK |
+| Robinhood | 171 | 0 | OK |
 | SoFi | 54 | 0 | OK |
 | Affirm | 190 | 5 | OK |
 | Brex | 284 | 2 | OK |
