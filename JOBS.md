@@ -1,14 +1,15 @@
 # Entry-level openings
 
-Last checked: 2026-10-09 11:53:07 UTC
+Last checked: 2026-10-09 12:30:08 UTC
 
 242 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Harvey | [Workplace Coordinator](https://jobs.ashbyhq.com/harvey/c0449af2-3742-4ece-88d7-75fd076f80e9) | London / Remote |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
@@ -64,7 +65,6 @@ Last checked: 2026-10-09 11:53:07 UTC
 |  | Clear Street | [Associate - Trade Surveillance](https://job-boards.greenhouse.io/clearstreet/jobs/7561417) | New York, NY |
 |  | Clear Street | [Associate Counsel, Commercial Retail](https://job-boards.greenhouse.io/clearstreet/jobs/8256730) | New York, NY |
 |  | Clear Street | [Associate, Internal Audit](https://job-boards.greenhouse.io/clearstreet/jobs/8259228) | New York, NY |
-|  | Cohere | [Business Development Representative](https://jobs.ashbyhq.com/cohere/f959be10-be25-4918-bcf3-39e1a83d2957) | Germany / Berlin / Remote |
 |  | Cohere | [Business Development Representative](https://jobs.ashbyhq.com/cohere/e824f0bd-72e6-4a9b-aecb-e604e3ca8ac2) | Toronto / Remote |
 |  | Cohere | [Business Development Representative](https://jobs.ashbyhq.com/cohere/dbe76343-a8ae-445c-b2f9-c5a304d54f6a) | Dubai / Remote |
 |  | Cohere | [Business Development Representative - French Speaking](https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89) | United Kingdom / Remote |
@@ -80,8 +80,8 @@ Last checked: 2026-10-09 11:53:07 UTC
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -172,8 +172,8 @@ Last checked: 2026-10-09 11:53:07 UTC
 |  | Oscar Health | [Associate, Strategic Finance](https://job-boards.greenhouse.io/oscar/jobs/8011066) | New York, New York, United States |
 |  | Oscar Health | [Associate, Strategic Finance (FP&A)](https://job-boards.greenhouse.io/oscar/jobs/8129152) | New York, New York, United States |
 |  | Oscar Health | [Associate, Value Based Contracting](https://job-boards.greenhouse.io/oscar/jobs/8168124) | Remote |
-|  | Oscar Health | [Itemized Bill Review Associate](https://job-boards.greenhouse.io/oscar/jobs/8146212) | Remote |
 |  | Oscar Health | [Itemized Bill Review Associate](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
+|  | Oscar Health | [Itemized Bill Review Associate](https://job-boards.greenhouse.io/oscar/jobs/8146212) | Remote |
 |  | Oscar Health | [Network Contracting & Services Associate](https://job-boards.greenhouse.io/oscar/jobs/8080961) | Remote |
 |  | Oscar Health | [Process Management Associate, Provider Operations](https://job-boards.greenhouse.io/oscar/jobs/8146248) | New York, New York, United States |
 |  | Oscar Health | [Provider Network Associate](https://job-boards.greenhouse.io/oscar/jobs/8178503) | Remote |
@@ -231,8 +231,8 @@ Last checked: 2026-10-09 11:53:07 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -261,7 +261,7 @@ Last checked: 2026-10-09 11:53:07 UTC
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 11 | 0 | OK |
-| Anthropic | 644 | 14 | OK |
+| Anthropic | 643 | 14 | OK |
 | Stripe | 732 | 14 | OK |
 | Datadog | 432 | 8 | OK |
 | Palantir | 313 | 13 | OK |
@@ -287,8 +287,8 @@ Last checked: 2026-10-09 11:53:07 UTC
 | OpenAI | 817 | 14 | OK |
 | Perplexity | 132 | 3 | OK |
 | Notion | 133 | 9 | OK |
-| Harvey | 344 | 20 | OK |
+| Harvey | 346 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
-| Cohere | 121 | 4 | OK |
+| Cohere | 120 | 3 | OK |
 | Vanta | 84 | 2 | OK |
