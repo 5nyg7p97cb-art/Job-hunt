@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-09 19:24:33 UTC
+Last checked: 2026-10-09 19:51:03 UTC
 
 239 matching roles open. ð = found in the latest run.
 
@@ -78,8 +78,8 @@ Last checked: 2026-10-09 19:24:33 UTC
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -158,8 +158,8 @@ Last checked: 2026-10-09 19:24:33 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8257364) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Central Region)](https://job-boards.greenhouse.io/oscar/jobs/8168122) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
@@ -254,7 +254,7 @@ Last checked: 2026-10-09 19:24:33 UTC
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 48 | 0 | OK |
-| Blackstone | 35 | 9 | OK |
+| Blackstone | 34 | 9 | OK |
 | Blackstone (Campus) | 29 | 2 | OK |
 | Point72 | 220 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
@@ -266,19 +266,19 @@ Last checked: 2026-10-09 19:24:33 UTC
 | iCapital | 214 | 9 | OK |
 | AlphaSights | 59 | 12 | OK |
 | Jane Street | 231 | 11 | OK |
-| Schonfeld | 68 | 5 | OK |
+| Schonfeld | 69 | 5 | OK |
 | Robinhood | 171 | 0 | OK |
 | SoFi | 55 | 0 | OK |
-| Affirm | 196 | 5 | OK |
+| Affirm | 200 | 5 | OK |
 | Brex | 282 | 2 | OK |
 | Betterment | 26 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
 | Scale AI | 182 | 3 | OK |
-| Dataiku | 19 | 0 | OK |
-| MongoDB | 392 | 2 | OK |
+| Dataiku | 17 | 0 | OK |
+| MongoDB | 391 | 2 | OK |
 | Oscar Health | 239 | 22 | OK |
 | The Trade Desk | 109 | 5 | OK |
-| Guidepoint | 106 | 6 | OK |
+| Guidepoint | 105 | 6 | OK |
 | Gusto | 97 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
 | OpenAI | 818 | 14 | OK |
