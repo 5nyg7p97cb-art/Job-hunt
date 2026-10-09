@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-09 17:53:01 UTC
+Last checked: 2026-10-09 18:28:02 UTC
 
 239 matching roles open. ð = found in the latest run.
 
@@ -78,8 +78,8 @@ Last checked: 2026-10-09 17:53:01 UTC
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -171,8 +171,8 @@ Last checked: 2026-10-09 17:53:01 UTC
 |  | Oscar Health | [Associate, Strategic Finance](https://job-boards.greenhouse.io/oscar/jobs/8011066) | New York, New York, United States |
 |  | Oscar Health | [Associate, Strategic Finance (FP&A)](https://job-boards.greenhouse.io/oscar/jobs/8129152) | New York, New York, United States |
 |  | Oscar Health | [Associate, Value Based Contracting](https://job-boards.greenhouse.io/oscar/jobs/8168124) | Remote |
-|  | Oscar Health | [Itemized Bill Review Associate](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
 |  | Oscar Health | [Itemized Bill Review Associate](https://job-boards.greenhouse.io/oscar/jobs/8146212) | Remote |
+|  | Oscar Health | [Itemized Bill Review Associate](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
 |  | Oscar Health | [Network Contracting & Services Associate](https://job-boards.greenhouse.io/oscar/jobs/8080961) | Remote |
 |  | Oscar Health | [Provider Network Associate](https://job-boards.greenhouse.io/oscar/jobs/8178503) | Remote |
 |  | Palantir | [Forward Deployed Infrastructure Engineer, New Grad - US Government](https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8) | New York, NY |
@@ -256,32 +256,32 @@ Last checked: 2026-10-09 17:53:01 UTC
 | BlackRock | 48 | 0 | OK |
 | Blackstone | 35 | 9 | OK |
 | Blackstone (Campus) | 29 | 2 | OK |
-| Point72 | 221 | 11 | OK |
+| Point72 | 220 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 647 | 14 | OK |
-| Stripe | 733 | 14 | OK |
+| Stripe | 736 | 14 | OK |
 | Datadog | 436 | 8 | OK |
-| Palantir | 312 | 13 | OK |
+| Palantir | 309 | 13 | OK |
 | Ramp | 163 | 13 | OK |
 | iCapital | 210 | 9 | OK |
 | AlphaSights | 59 | 12 | OK |
 | Jane Street | 231 | 11 | OK |
 | Schonfeld | 68 | 5 | OK |
-| Robinhood | 169 | 0 | OK |
+| Robinhood | 170 | 0 | OK |
 | SoFi | 55 | 0 | OK |
 | Affirm | 196 | 5 | OK |
-| Brex | 287 | 2 | OK |
+| Brex | 282 | 2 | OK |
 | Betterment | 26 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
 | Scale AI | 182 | 3 | OK |
 | Dataiku | 19 | 0 | OK |
 | MongoDB | 391 | 2 | OK |
-| Oscar Health | 238 | 22 | OK |
+| Oscar Health | 239 | 22 | OK |
 | The Trade Desk | 109 | 5 | OK |
 | Guidepoint | 106 | 6 | OK |
 | Gusto | 97 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 817 | 14 | OK |
+| OpenAI | 818 | 14 | OK |
 | Perplexity | 132 | 3 | OK |
 | Notion | 134 | 9 | OK |
 | Harvey | 351 | 21 | OK |
