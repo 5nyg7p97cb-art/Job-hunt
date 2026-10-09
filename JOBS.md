@@ -1,11 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-10-09 19:51:03 UTC
+Last checked: 2026-10-09 20:24:01 UTC
 
-239 matching roles open. ð = found in the latest run.
+240 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Anthropic | [Conceptual Reasoning Fellow](https://job-boards.greenhouse.io/anthropic/jobs/5447080008) | Remote-Friendly, United States; San Francisco, CA |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
@@ -258,7 +259,7 @@ Last checked: 2026-10-09 19:51:03 UTC
 | Blackstone (Campus) | 29 | 2 | OK |
 | Point72 | 220 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
-| Anthropic | 647 | 14 | OK |
+| Anthropic | 648 | 15 | OK |
 | Stripe | 737 | 14 | OK |
 | Datadog | 436 | 8 | OK |
 | Palantir | 309 | 13 | OK |
@@ -267,21 +268,21 @@ Last checked: 2026-10-09 19:51:03 UTC
 | AlphaSights | 59 | 12 | OK |
 | Jane Street | 231 | 11 | OK |
 | Schonfeld | 69 | 5 | OK |
-| Robinhood | 171 | 0 | OK |
-| SoFi | 55 | 0 | OK |
-| Affirm | 200 | 5 | OK |
-| Brex | 282 | 2 | OK |
+| Robinhood | 173 | 0 | OK |
+| SoFi | 54 | 0 | OK |
+| Affirm | 201 | 5 | OK |
+| Brex | 274 | 2 | OK |
 | Betterment | 26 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
 | Scale AI | 182 | 3 | OK |
 | Dataiku | 17 | 0 | OK |
 | MongoDB | 391 | 2 | OK |
-| Oscar Health | 239 | 22 | OK |
-| The Trade Desk | 109 | 5 | OK |
+| Oscar Health | 240 | 22 | OK |
+| The Trade Desk | 108 | 5 | OK |
 | Guidepoint | 105 | 6 | OK |
-| Gusto | 97 | 2 | OK |
+| Gusto | 96 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 818 | 14 | OK |
+| OpenAI | 817 | 14 | OK |
 | Perplexity | 132 | 3 | OK |
 | Notion | 134 | 9 | OK |
 | Harvey | 351 | 21 | OK |
