@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-09 17:23:59 UTC
+Last checked: 2026-10-09 17:53:01 UTC
 
 239 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Oscar Health | [Associate, Provider Success](https://job-boards.greenhouse.io/oscar/jobs/8146191) | New York, New York, United States |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
@@ -167,6 +166,7 @@ Last checked: 2026-10-09 17:23:59 UTC
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
 |  | Oscar Health | [Associate, Process Improvement](https://job-boards.greenhouse.io/oscar/jobs/8146250) | New York, New York, United States |
 |  | Oscar Health | [Associate, Process Optimization](https://job-boards.greenhouse.io/oscar/jobs/8107490) | New York, New York, United States |
+|  | Oscar Health | [Associate, Provider Success](https://job-boards.greenhouse.io/oscar/jobs/8146191) | New York, New York, United States |
 |  | Oscar Health | [Associate, Risk/Compliance](https://job-boards.greenhouse.io/oscar/jobs/8164914) | New York, New York, United States |
 |  | Oscar Health | [Associate, Strategic Finance](https://job-boards.greenhouse.io/oscar/jobs/8011066) | New York, New York, United States |
 |  | Oscar Health | [Associate, Strategic Finance (FP&A)](https://job-boards.greenhouse.io/oscar/jobs/8129152) | New York, New York, United States |
@@ -229,8 +229,8 @@ Last checked: 2026-10-09 17:23:59 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -254,13 +254,13 @@ Last checked: 2026-10-09 17:23:59 UTC
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 48 | 0 | OK |
-| Blackstone | 36 | 9 | OK |
+| Blackstone | 35 | 9 | OK |
 | Blackstone (Campus) | 29 | 2 | OK |
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
-| Anthropic | 646 | 14 | OK |
-| Stripe | 730 | 14 | OK |
-| Datadog | 437 | 8 | OK |
+| Anthropic | 647 | 14 | OK |
+| Stripe | 733 | 14 | OK |
+| Datadog | 436 | 8 | OK |
 | Palantir | 312 | 13 | OK |
 | Ramp | 163 | 13 | OK |
 | iCapital | 210 | 9 | OK |
@@ -268,8 +268,8 @@ Last checked: 2026-10-09 17:23:59 UTC
 | Jane Street | 231 | 11 | OK |
 | Schonfeld | 68 | 5 | OK |
 | Robinhood | 169 | 0 | OK |
-| SoFi | 54 | 0 | OK |
-| Affirm | 195 | 5 | OK |
+| SoFi | 55 | 0 | OK |
+| Affirm | 196 | 5 | OK |
 | Brex | 287 | 2 | OK |
 | Betterment | 26 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
@@ -281,9 +281,9 @@ Last checked: 2026-10-09 17:23:59 UTC
 | Guidepoint | 106 | 6 | OK |
 | Gusto | 97 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 818 | 14 | OK |
+| OpenAI | 817 | 14 | OK |
 | Perplexity | 132 | 3 | OK |
-| Notion | 133 | 9 | OK |
+| Notion | 134 | 9 | OK |
 | Harvey | 351 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
