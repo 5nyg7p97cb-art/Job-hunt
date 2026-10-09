@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-09 20:53:34 UTC
+Last checked: 2026-10-09 21:24:47 UTC
 
-240 matching roles open. ð = found in the latest run.
+237 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -53,7 +53,6 @@ Last checked: 2026-10-09 20:53:34 UTC
 |  | Blackstone | [Blackstone Multi-Asset Investing (BXMA)- Treasury, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Blackstone-Multi-Asset-Investing--BXMA---Treasury--Analyst_39176) | New York |
 |  | Blackstone | [Blackstone Private Wealth - Internal Sales, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York-601-Lex/Private-Wealth-Solutions---Internal-Sales--Associate_31726-5) | New York 601 Lex |
 |  | Blackstone | [Public Affairs, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Public-Affairs--Associate_43586) | New York |
-|  | Blackstone (Campus) | [2026 Blackstone US Future Leaders Program](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/New-York/XMLNAME-2026-Blackstone-US-Future-Leaders-Program_45140) | New York |
 |  | Blackstone (Campus) | [2027 Blackstone Real Estate Acquisitions Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Blackstone-Real-Estate-Acquisitions-Analyst_45626) | New York |
 |  | Brex | [Finance Associate](https://www.brex.com/careers/8606825002?gh_jid=8606825002) | New York, New York, United States |
 |  | Brex | [Fraud Operations Associate](https://www.brex.com/careers/8698248002?gh_jid=8698248002) | New York, New York, United States |
@@ -172,8 +171,6 @@ Last checked: 2026-10-09 20:53:34 UTC
 |  | Oscar Health | [Associate, Strategic Finance](https://job-boards.greenhouse.io/oscar/jobs/8011066) | New York, New York, United States |
 |  | Oscar Health | [Associate, Strategic Finance (FP&A)](https://job-boards.greenhouse.io/oscar/jobs/8129152) | New York, New York, United States |
 |  | Oscar Health | [Associate, Value Based Contracting](https://job-boards.greenhouse.io/oscar/jobs/8168124) | Remote |
-|  | Oscar Health | [Itemized Bill Review Associate](https://job-boards.greenhouse.io/oscar/jobs/8146212) | Remote |
-|  | Oscar Health | [Itemized Bill Review Associate](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
 |  | Oscar Health | [Network Contracting & Services Associate](https://job-boards.greenhouse.io/oscar/jobs/8080961) | Remote |
 |  | Oscar Health | [Provider Network Associate](https://job-boards.greenhouse.io/oscar/jobs/8178503) | Remote |
 |  | Palantir | [Forward Deployed Infrastructure Engineer, New Grad - US Government](https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8) | New York, NY |
@@ -254,9 +251,9 @@ Last checked: 2026-10-09 20:53:34 UTC
 | Bilt | 19 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 48 | 0 | OK |
+| BlackRock | 47 | 0 | OK |
 | Blackstone | 34 | 9 | OK |
-| Blackstone (Campus) | 29 | 2 | OK |
+| Blackstone (Campus) | 28 | 1 | OK |
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 648 | 15 | OK |
@@ -277,14 +274,14 @@ Last checked: 2026-10-09 20:53:34 UTC
 | Scale AI | 182 | 3 | OK |
 | Dataiku | 17 | 0 | OK |
 | MongoDB | 391 | 2 | OK |
-| Oscar Health | 239 | 22 | OK |
+| Oscar Health | 239 | 20 | OK |
 | The Trade Desk | 108 | 5 | OK |
 | Guidepoint | 105 | 6 | OK |
 | Gusto | 97 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
 | OpenAI | 816 | 14 | OK |
 | Perplexity | 132 | 3 | OK |
-| Notion | 134 | 9 | OK |
+| Notion | 132 | 9 | OK |
 | Harvey | 351 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
