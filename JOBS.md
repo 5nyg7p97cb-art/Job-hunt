@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-09 09:54:23 UTC
+Last checked: 2026-10-09 10:28:01 UTC
 
 242 matching roles open. ð = found in the latest run.
 
@@ -231,8 +231,8 @@ Last checked: 2026-10-09 09:54:23 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -261,8 +261,8 @@ Last checked: 2026-10-09 09:54:23 UTC
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
-| Anthropic | 646 | 14 | OK |
-| Stripe | 733 | 14 | OK |
+| Anthropic | 644 | 14 | OK |
+| Stripe | 732 | 14 | OK |
 | Datadog | 430 | 8 | OK |
 | Palantir | 313 | 13 | OK |
 | Ramp | 163 | 13 | OK |
@@ -287,7 +287,7 @@ Last checked: 2026-10-09 09:54:23 UTC
 | OpenAI | 816 | 14 | OK |
 | Perplexity | 132 | 3 | OK |
 | Notion | 133 | 9 | OK |
-| Harvey | 341 | 20 | OK |
+| Harvey | 342 | 20 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 121 | 4 | OK |
