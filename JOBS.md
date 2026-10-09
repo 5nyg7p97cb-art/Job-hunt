@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-09 05:26:28 UTC
+Last checked: 2026-10-09 05:53:48 UTC
 
 242 matching roles open. ð = found in the latest run.
 
@@ -256,7 +256,7 @@ Last checked: 2026-10-09 05:26:28 UTC
 | Bilt | 19 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 49 | 0 | OK |
+| BlackRock | 50 | 0 | OK |
 | Blackstone | 36 | 10 | OK |
 | Blackstone (Campus) | 29 | 2 | OK |
 | Point72 | 221 | 11 | OK |
