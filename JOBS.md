@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-09 21:24:47 UTC
+Last checked: 2026-10-09 21:53:00 UTC
 
-237 matching roles open. ð = found in the latest run.
+236 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -26,7 +26,6 @@ Last checked: 2026-10-09 21:24:47 UTC
 |  | Anthropic | [Business Development Representative](https://job-boards.greenhouse.io/anthropic/jobs/5396186008) | San Francisco, CA / New York City, NY |
 |  | Anthropic | [Business Systems Analyst, GTM Systems](https://job-boards.greenhouse.io/anthropic/jobs/5436196008) | San Francisco, CA / New York City, NY |
 |  | Anthropic | [Business Systems Analyst, New Product Introduction](https://job-boards.greenhouse.io/anthropic/jobs/5416829008) | San Francisco, CA / New York City, NY / Seattle, WA |
-|  | Anthropic | [Conceptual Reasoning Fellow](https://job-boards.greenhouse.io/anthropic/jobs/5447080008) | Remote-Friendly, United States; San Francisco, CA |
 |  | Anthropic | [Safeguards Enforcement Analyst, Access Controls & Identity](https://job-boards.greenhouse.io/anthropic/jobs/5319626008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Account Takeover & Credential Abuse](https://job-boards.greenhouse.io/anthropic/jobs/5319624008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Age-Appropriate Design](https://job-boards.greenhouse.io/anthropic/jobs/5311234008) | San Francisco, CA / New York City, NY / Washington, DC |
@@ -78,8 +77,8 @@ Last checked: 2026-10-09 21:24:47 UTC
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -256,8 +255,8 @@ Last checked: 2026-10-09 21:24:47 UTC
 | Blackstone (Campus) | 28 | 1 | OK |
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
-| Anthropic | 648 | 15 | OK |
-| Stripe | 736 | 14 | OK |
+| Anthropic | 646 | 14 | OK |
+| Stripe | 735 | 14 | OK |
 | Datadog | 435 | 8 | OK |
 | Palantir | 309 | 13 | OK |
 | Ramp | 164 | 13 | OK |
@@ -266,20 +265,20 @@ Last checked: 2026-10-09 21:24:47 UTC
 | Jane Street | 231 | 11 | OK |
 | Schonfeld | 69 | 5 | OK |
 | Robinhood | 173 | 0 | OK |
-| SoFi | 54 | 0 | OK |
-| Affirm | 201 | 5 | OK |
+| SoFi | 53 | 0 | OK |
+| Affirm | 204 | 5 | OK |
 | Brex | 274 | 2 | OK |
 | Betterment | 26 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
 | Scale AI | 182 | 3 | OK |
 | Dataiku | 17 | 0 | OK |
-| MongoDB | 391 | 2 | OK |
+| MongoDB | 390 | 2 | OK |
 | Oscar Health | 239 | 20 | OK |
 | The Trade Desk | 108 | 5 | OK |
-| Guidepoint | 105 | 6 | OK |
-| Gusto | 97 | 2 | OK |
+| Guidepoint | 104 | 6 | OK |
+| Gusto | 98 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 816 | 14 | OK |
+| OpenAI | 815 | 14 | OK |
 | Perplexity | 132 | 3 | OK |
 | Notion | 132 | 9 | OK |
 | Harvey | 351 | 21 | OK |
