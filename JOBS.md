@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-09 08:54:57 UTC
+Last checked: 2026-10-09 09:28:00 UTC
 
 242 matching roles open. ð = found in the latest run.
 
@@ -261,18 +261,18 @@ Last checked: 2026-10-09 08:54:57 UTC
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
-| Anthropic | 647 | 14 | OK |
+| Anthropic | 646 | 14 | OK |
 | Stripe | 732 | 14 | OK |
-| Datadog | 432 | 8 | OK |
+| Datadog | 430 | 8 | OK |
 | Palantir | 313 | 13 | OK |
 | Ramp | 163 | 13 | OK |
-| iCapital | 209 | 9 | OK |
+| iCapital | 210 | 9 | OK |
 | AlphaSights | 59 | 12 | OK |
 | Jane Street | 232 | 11 | OK |
 | Schonfeld | 66 | 5 | OK |
 | Robinhood | 171 | 0 | OK |
 | SoFi | 54 | 0 | OK |
-| Affirm | 190 | 5 | OK |
+| Affirm | 188 | 5 | OK |
 | Brex | 287 | 2 | OK |
 | Betterment | 27 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
@@ -287,8 +287,8 @@ Last checked: 2026-10-09 08:54:57 UTC
 | OpenAI | 816 | 14 | OK |
 | Perplexity | 132 | 3 | OK |
 | Notion | 133 | 9 | OK |
-| Harvey | 341 | 20 | OK |
+| Harvey | 340 | 20 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
-| Cohere | 120 | 4 | OK |
+| Cohere | 121 | 4 | OK |
 | Vanta | 84 | 2 | OK |
