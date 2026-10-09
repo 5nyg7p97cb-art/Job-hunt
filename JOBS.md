@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-09 16:26:31 UTC
+Last checked: 2026-10-09 16:55:00 UTC
 
-241 matching roles open. ð = found in the latest run.
+239 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
@@ -49,7 +49,6 @@ Last checked: 2026-10-09 16:26:31 UTC
 |  | Blackstone | [BXMA- Direct Trading Operations, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA--Direct-Trading-Operations--Analyst_43372) | New York |
 |  | Blackstone | [Blackstone Executive Offices - Leadership Program, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Blackstone-Executive-Offices---Leadership-Program--Analyst_45155-2) | New York |
 |  | Blackstone | [Blackstone Executive Offices - Strategic Relationships, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Blackstone-Executive-Offices---Strategic-Relationships--Analyst_43716) | New York |
-|  | Blackstone | [Blackstone Multi-Asset Investing (BXMA), Pricing Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/Miami/Blackstone-Multi-Asset-Investing--BXMA---Pricing-Analyst_43203) | 2 Locations |
 |  | Blackstone | [Blackstone Multi-Asset Investing (BXMA)- Treasury, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Blackstone-Multi-Asset-Investing--BXMA---Treasury--Analyst_39176) | New York |
 |  | Blackstone | [Blackstone Private Wealth - Internal Sales, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York-601-Lex/Private-Wealth-Solutions---Internal-Sales--Associate_31726-5) | New York 601 Lex |
 |  | Blackstone | [Public Affairs, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Public-Affairs--Associate_43586) | New York |
@@ -79,8 +78,8 @@ Last checked: 2026-10-09 16:26:31 UTC
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -159,8 +158,8 @@ Last checked: 2026-10-09 16:26:31 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8257364) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Central Region)](https://job-boards.greenhouse.io/oscar/jobs/8168122) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
@@ -175,7 +174,6 @@ Last checked: 2026-10-09 16:26:31 UTC
 |  | Oscar Health | [Itemized Bill Review Associate](https://job-boards.greenhouse.io/oscar/jobs/8146212) | Remote |
 |  | Oscar Health | [Itemized Bill Review Associate](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
 |  | Oscar Health | [Network Contracting & Services Associate](https://job-boards.greenhouse.io/oscar/jobs/8080961) | Remote |
-|  | Oscar Health | [Process Management Associate, Provider Operations](https://job-boards.greenhouse.io/oscar/jobs/8146248) | New York, New York, United States |
 |  | Oscar Health | [Provider Network Associate](https://job-boards.greenhouse.io/oscar/jobs/8178503) | Remote |
 |  | Palantir | [Forward Deployed Infrastructure Engineer, New Grad - US Government](https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8) | New York, NY |
 |  | Palantir | [Forward Deployed Software Engineer, New Grad - Commercial](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728) | New York, NY |
@@ -256,20 +254,20 @@ Last checked: 2026-10-09 16:26:31 UTC
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 48 | 0 | OK |
-| Blackstone | 36 | 10 | OK |
+| Blackstone | 36 | 9 | OK |
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 646 | 14 | OK |
-| Stripe | 728 | 14 | OK |
-| Datadog | 436 | 8 | OK |
+| Stripe | 730 | 14 | OK |
+| Datadog | 437 | 8 | OK |
 | Palantir | 312 | 13 | OK |
 | Ramp | 163 | 13 | OK |
 | iCapital | 210 | 9 | OK |
 | AlphaSights | 59 | 12 | OK |
 | Jane Street | 231 | 11 | OK |
 | Schonfeld | 68 | 5 | OK |
-| Robinhood | 170 | 0 | OK |
+| Robinhood | 169 | 0 | OK |
 | SoFi | 54 | 0 | OK |
 | Affirm | 193 | 5 | OK |
 | Brex | 287 | 2 | OK |
@@ -278,7 +276,7 @@ Last checked: 2026-10-09 16:26:31 UTC
 | Scale AI | 182 | 3 | OK |
 | Dataiku | 19 | 0 | OK |
 | MongoDB | 391 | 2 | OK |
-| Oscar Health | 242 | 23 | OK |
+| Oscar Health | 238 | 22 | OK |
 | The Trade Desk | 109 | 5 | OK |
 | Guidepoint | 106 | 6 | OK |
 | Gusto | 97 | 2 | OK |
@@ -286,7 +284,7 @@ Last checked: 2026-10-09 16:26:31 UTC
 | OpenAI | 818 | 14 | OK |
 | Perplexity | 132 | 3 | OK |
 | Notion | 133 | 9 | OK |
-| Harvey | 347 | 21 | OK |
+| Harvey | 351 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 120 | 3 | OK |
