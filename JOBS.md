@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-09 03:54:18 UTC
+Last checked: 2026-10-09 04:27:03 UTC
 
-243 matching roles open. ð = found in the latest run.
+242 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -43,7 +43,6 @@ Last checked: 2026-10-09 03:54:18 UTC
 |  | Bilt | [Product Specialist - Concierge](https://jobs.gem.com/bilt/am9icG9zdDo146VFDypaafJ-o3lfwj-N) | New York, United States / New York |
 |  | Bilt | [Product Specialist - Housing](https://jobs.gem.com/bilt/am9icG9zdDomdgsgAMh6F4vcm7KhuGLN) | New York, United States / New York |
 |  | Bilt | [Product Specialist - Rentals](https://jobs.gem.com/bilt/am9icG9zdDqsNnnE7MCdbcnEXNRijoSv) | New York, United States / New York |
-|  | BlackRock | [Analyst - Private Equity, Fund Accounting / Princeton, NJ OR Wilmington, DE](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Princeton-NJ/Analyst---Private-equity--Fund-Accounting---Princeton--NJ-OR-Wilmington--DE_R263807) | 2 Locations |
 |  | Blackstone | [2026 Portfolio Management Program](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/XMLNAME-2026-Portfolio-Management-Program_43989) | New York |
 |  | Blackstone | [AI Engineer, Analyst – Data Analytics & AI](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/AI-Engineer--Analyst---Data-Analytics---AI_45238-1) | New York |
 |  | Blackstone | [BXMA - Business & Financial Evaluation - Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA---Business---Financial-Evaluation---Analyst_45566) | New York |
@@ -257,7 +256,7 @@ Last checked: 2026-10-09 03:54:18 UTC
 | Bilt | 19 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 50 | 1 | OK |
+| BlackRock | 49 | 0 | OK |
 | Blackstone | 36 | 10 | OK |
 | Blackstone (Campus) | 29 | 2 | OK |
 | Point72 | 221 | 11 | OK |
