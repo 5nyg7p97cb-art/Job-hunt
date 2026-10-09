@@ -1,15 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-09 12:30:08 UTC
+Last checked: 2026-10-09 12:58:32 UTC
 
 242 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Harvey | [Workplace Coordinator](https://jobs.ashbyhq.com/harvey/c0449af2-3742-4ece-88d7-75fd076f80e9) | London / Remote |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
@@ -80,8 +79,8 @@ Last checked: 2026-10-09 12:30:08 UTC
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -108,6 +107,7 @@ Last checked: 2026-10-09 12:30:08 UTC
 |  | Harvey | [Sales Development Representative, ANZ](https://jobs.ashbyhq.com/harvey/b8a9dded-d9f4-4295-8216-fdc93beec6d1) | Sydney / Remote |
 |  | Harvey | [Software Engineer, New Grad (2027)](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5) | San Francisco / Remote |
 |  | Harvey | [Software Engineer, New Grad (2027)](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc) | New York |
+|  | Harvey | [Workplace Coordinator](https://jobs.ashbyhq.com/harvey/c0449af2-3742-4ece-88d7-75fd076f80e9) | London / Remote |
 |  | iCapital | [Annuities Sales - Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8649096002) | New York, New York, United States |
 |  | iCapital | [Artificial Intelligence / Machine Learning Engineer - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8802717002) | New York, New York, United States |
 |  | iCapital | [Business Process Analyst, UiPath Developer - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8853762002) | New York, New York, United States |
@@ -172,8 +172,8 @@ Last checked: 2026-10-09 12:30:08 UTC
 |  | Oscar Health | [Associate, Strategic Finance](https://job-boards.greenhouse.io/oscar/jobs/8011066) | New York, New York, United States |
 |  | Oscar Health | [Associate, Strategic Finance (FP&A)](https://job-boards.greenhouse.io/oscar/jobs/8129152) | New York, New York, United States |
 |  | Oscar Health | [Associate, Value Based Contracting](https://job-boards.greenhouse.io/oscar/jobs/8168124) | Remote |
-|  | Oscar Health | [Itemized Bill Review Associate](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
 |  | Oscar Health | [Itemized Bill Review Associate](https://job-boards.greenhouse.io/oscar/jobs/8146212) | Remote |
+|  | Oscar Health | [Itemized Bill Review Associate](https://job-boards.greenhouse.io/oscar/jobs/8154908) | New York, New York, United States |
 |  | Oscar Health | [Network Contracting & Services Associate](https://job-boards.greenhouse.io/oscar/jobs/8080961) | Remote |
 |  | Oscar Health | [Process Management Associate, Provider Operations](https://job-boards.greenhouse.io/oscar/jobs/8146248) | New York, New York, United States |
 |  | Oscar Health | [Provider Network Associate](https://job-boards.greenhouse.io/oscar/jobs/8178503) | Remote |
@@ -231,8 +231,8 @@ Last checked: 2026-10-09 12:30:08 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
