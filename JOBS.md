@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-09 21:53:00 UTC
+Last checked: 2026-10-09 22:25:21 UTC
 
 236 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
@@ -256,7 +256,7 @@ Last checked: 2026-10-09 21:53:00 UTC
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 646 | 14 | OK |
-| Stripe | 735 | 14 | OK |
+| Stripe | 733 | 14 | OK |
 | Datadog | 435 | 8 | OK |
 | Palantir | 309 | 13 | OK |
 | Ramp | 164 | 13 | OK |
@@ -264,10 +264,10 @@ Last checked: 2026-10-09 21:53:00 UTC
 | AlphaSights | 59 | 12 | OK |
 | Jane Street | 231 | 11 | OK |
 | Schonfeld | 69 | 5 | OK |
-| Robinhood | 173 | 0 | OK |
+| Robinhood | 174 | 0 | OK |
 | SoFi | 53 | 0 | OK |
-| Affirm | 204 | 5 | OK |
-| Brex | 274 | 2 | OK |
+| Affirm | 203 | 5 | OK |
+| Brex | 275 | 2 | OK |
 | Betterment | 26 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
 | Scale AI | 182 | 3 | OK |
@@ -276,7 +276,7 @@ Last checked: 2026-10-09 21:53:00 UTC
 | Oscar Health | 239 | 20 | OK |
 | The Trade Desk | 108 | 5 | OK |
 | Guidepoint | 104 | 6 | OK |
-| Gusto | 98 | 2 | OK |
+| Gusto | 97 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
 | OpenAI | 815 | 14 | OK |
 | Perplexity | 132 | 3 | OK |
