@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-09 18:55:57 UTC
+Last checked: 2026-10-09 19:24:33 UTC
 
 239 matching roles open. ð = found in the latest run.
 
@@ -229,8 +229,8 @@ Last checked: 2026-10-09 18:55:57 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -259,15 +259,15 @@ Last checked: 2026-10-09 18:55:57 UTC
 | Point72 | 220 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 647 | 14 | OK |
-| Stripe | 736 | 14 | OK |
+| Stripe | 737 | 14 | OK |
 | Datadog | 436 | 8 | OK |
 | Palantir | 309 | 13 | OK |
-| Ramp | 163 | 13 | OK |
-| iCapital | 210 | 9 | OK |
+| Ramp | 164 | 13 | OK |
+| iCapital | 214 | 9 | OK |
 | AlphaSights | 59 | 12 | OK |
 | Jane Street | 231 | 11 | OK |
 | Schonfeld | 68 | 5 | OK |
-| Robinhood | 170 | 0 | OK |
+| Robinhood | 171 | 0 | OK |
 | SoFi | 55 | 0 | OK |
 | Affirm | 196 | 5 | OK |
 | Brex | 282 | 2 | OK |
@@ -287,5 +287,5 @@ Last checked: 2026-10-09 18:55:57 UTC
 | Harvey | 351 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
-| Cohere | 120 | 3 | OK |
-| Vanta | 84 | 2 | OK |
+| Cohere | 119 | 3 | OK |
+| Vanta | 83 | 2 | OK |
