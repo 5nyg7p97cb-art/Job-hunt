@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-11 11:51:38 UTC
+Last checked: 2026-10-11 12:29:35 UTC
 
 236 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
@@ -226,8 +226,8 @@ Last checked: 2026-10-11 11:51:38 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -243,20 +243,25 @@ Last checked: 2026-10-11 11:51:38 UTC
 |  | Vanta | [Business Development Representative [German Fluency]](https://jobs.ashbyhq.com/vanta/cb338edc-a332-4f01-ab3f-b3e45ade44ba) | Dublin, Ireland / Remote |
 |  | Vanta | [Business Development Representative, DACH](https://jobs.ashbyhq.com/vanta/7d5ac715-c4ba-45d5-a390-665a93f618cd) | London, UK / Remote |
 
+## Boards that failed this run
+
+- Evercore (Students & Grads): HTTP Error 503: Service Unavailable
+- Evercore (Professionals): HTTP Error 503: Service Unavailable
+
 ## Board check results
 
 | Company | Open roles | Matching roles | Status |
 |---|---:|---:|---|
 | Bilt | 20 | 4 | OK |
-| Evercore (Students & Grads) | 0 | 0 | OK |
-| Evercore (Professionals) | 0 | 0 | OK |
+| Evercore (Students & Grads) | â | â | FAILED |
+| Evercore (Professionals) | â | â | FAILED |
 | BlackRock | 46 | 0 | OK |
 | Blackstone | 34 | 9 | OK |
 | Blackstone (Campus) | 28 | 1 | OK |
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 645 | 15 | OK |
-| Stripe | 729 | 14 | OK |
+| Stripe | 728 | 14 | OK |
 | Datadog | 435 | 8 | OK |
 | Palantir | 309 | 13 | OK |
 | Ramp | 165 | 13 | OK |
