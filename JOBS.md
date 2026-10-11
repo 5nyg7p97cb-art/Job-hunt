@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-10 23:50:17 UTC
+Last checked: 2026-10-11 00:35:03 UTC
 
 236 matching roles open. ð = found in the latest run.
 
@@ -243,13 +243,17 @@ Last checked: 2026-10-10 23:50:17 UTC
 |  | Vanta | [Business Development Representative [German Fluency]](https://jobs.ashbyhq.com/vanta/cb338edc-a332-4f01-ab3f-b3e45ade44ba) | Dublin, Ireland / Remote |
 |  | Vanta | [Business Development Representative, DACH](https://jobs.ashbyhq.com/vanta/7d5ac715-c4ba-45d5-a390-665a93f618cd) | London, UK / Remote |
 
+## Boards that failed this run
+
+- Evercore (Professionals): The read operation timed out
+
 ## Board check results
 
 | Company | Open roles | Matching roles | Status |
 |---|---:|---:|---|
 | Bilt | 20 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
-| Evercore (Professionals) | 0 | 0 | OK |
+| Evercore (Professionals) | â | â | FAILED |
 | BlackRock | 46 | 0 | OK |
 | Blackstone | 34 | 9 | OK |
 | Blackstone (Campus) | 28 | 1 | OK |
