@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-11 13:52:04 UTC
+Last checked: 2026-10-11 14:24:22 UTC
 
 236 matching roles open. ð = found in the latest run.
 
