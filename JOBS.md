@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-11 23:23:38 UTC
+Last checked: 2026-10-11 23:51:21 UTC
 
 236 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
@@ -262,7 +262,7 @@ Last checked: 2026-10-11 23:23:38 UTC
 | Ramp | 165 | 13 | OK |
 | iCapital | 215 | 9 | OK |
 | AlphaSights | 59 | 12 | OK |
-| Jane Street | 231 | 11 | OK |
+| Jane Street | 230 | 11 | OK |
 | Schonfeld | 69 | 5 | OK |
 | Robinhood | 181 | 0 | OK |
 | SoFi | 53 | 0 | OK |
