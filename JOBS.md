@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-12 12:45:27 UTC
+Last checked: 2026-10-12 13:39:40 UTC
 
-236 matching roles open. ð = found in the latest run.
+235 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -79,8 +79,8 @@ Last checked: 2026-10-12 12:45:27 UTC
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -107,7 +107,6 @@ Last checked: 2026-10-12 12:45:27 UTC
 |  | Harvey | [Software Engineer, New Grad (2027)](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5) | San Francisco / Remote |
 |  | Harvey | [Software Engineer, New Grad (2027)](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc) | New York |
 |  | iCapital | [Annuities Sales - Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8649096002) | New York, New York, United States |
-|  | iCapital | [Artificial Intelligence / Machine Learning Engineer - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8802717002) | New York, New York, United States |
 |  | iCapital | [Business Process Analyst, UiPath Developer - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8853762002) | New York, New York, United States |
 |  | iCapital | [Corporate Finance, FP&A - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8576018002) | New York, New York, United States |
 |  | iCapital | [Investment Strategy - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8766868002) | New York, New York, United States |
@@ -260,7 +259,7 @@ Last checked: 2026-10-12 12:45:27 UTC
 | Datadog | 434 | 8 | OK |
 | Palantir | 309 | 13 | OK |
 | Ramp | 165 | 13 | OK |
-| iCapital | 215 | 9 | OK |
+| iCapital | 211 | 8 | OK |
 | AlphaSights | 59 | 12 | OK |
 | Jane Street | 230 | 11 | OK |
 | Schonfeld | 69 | 5 | OK |
@@ -275,7 +274,7 @@ Last checked: 2026-10-12 12:45:27 UTC
 | MongoDB | 388 | 2 | OK |
 | Oscar Health | 239 | 20 | OK |
 | The Trade Desk | 108 | 5 | OK |
-| Guidepoint | 104 | 6 | OK |
+| Guidepoint | 103 | 6 | OK |
 | Gusto | 97 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
 | OpenAI | 811 | 14 | OK |
