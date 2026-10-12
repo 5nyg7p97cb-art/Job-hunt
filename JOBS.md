@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-12 20:27:43 UTC
+Last checked: 2026-10-12 20:56:29 UTC
 
-232 matching roles open. ð = found in the latest run.
+230 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -76,11 +75,12 @@ Last checked: 2026-10-12 20:27:43 UTC
 |  | Datadog | [Recruiting Coordinator](https://careers.datadoghq.com/detail/8247346/?gh_jid=8247346) | Boston, Massachusetts, USA; New York, New York, USA |
 |  | Datadog | [Sales Revenue Analyst - NYC](https://careers.datadoghq.com/detail/8132294/?gh_jid=8132294) | New York, New York, USA |
 |  | Datadog | [Strategic Finance Analyst](https://careers.datadoghq.com/detail/8257306/?gh_jid=8257306) | New York, New York, USA |
+|  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -111,7 +111,6 @@ Last checked: 2026-10-12 20:27:43 UTC
 |  | iCapital | [Business Process Analyst, UiPath Developer - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8853762002) | New York, New York, United States |
 |  | iCapital | [Corporate Finance, FP&A - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8576018002) | New York, New York, United States |
 |  | iCapital | [Investment Strategy - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8766868002) | New York, New York, United States |
-|  | iCapital | [Platform Support - Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8813861002) | New York, New York, United States |
 |  | iCapital | [Regulatory and Compliance - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8729940002) | New York, New York, United States |
 |  | iCapital | [Regulatory and Compliance, Subscription Document Review - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8812006002) | New York, New York, United States |
 |  | iCapital | [Structured Investments Distribution - Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8776670002) | New York, New York, United States |
@@ -183,7 +182,6 @@ Last checked: 2026-10-12 20:27:43 UTC
 |  | Palantir | [Talent Coordinator](https://jobs.lever.co/palantir/4186c7e2-1fc4-4049-81fb-fa98efb9d1de) | New York, NY |
 |  | Perplexity | [Business Development Representative](https://jobs.ashbyhq.com/perplexity/a5b97109-222d-49e1-b2ac-e101487a5ddd) | San Francisco / New York City / Remote |
 |  | Perplexity | [Payroll Analyst](https://jobs.ashbyhq.com/perplexity/5080dab5-7eb7-4cb2-9e2c-c61531fd3ad1) | San Francisco / Remote (United States) / Remote |
-|  | Perplexity | [Recruiting Coordinator](https://jobs.ashbyhq.com/perplexity/ed4fb057-3f06-419a-8bb2-9c98f370d477) | San Francisco / New York City |
 |  | Perplexity | [Revenue Operations Analyst](https://jobs.ashbyhq.com/perplexity/03f8f956-1cb3-4945-81d1-73b7ff048d4e) | San Francisco / New York City / Remote |
 |  | Point72 | [Credit Research Analyst, Global Macro](https://boards.greenhouse.io/point72/jobs/7605647002?gh_jid=7605647002) | New York |
 |  | Point72 | [Identity & Privileged Governance Analyst](https://boards.greenhouse.io/point72/jobs/8488737002?gh_jid=8488737002) | New York, NY |
@@ -223,8 +221,8 @@ Last checked: 2026-10-12 20:27:43 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -255,15 +253,15 @@ Last checked: 2026-10-12 20:27:43 UTC
 | Stripe | 722 | 13 | OK |
 | Datadog | 433 | 8 | OK |
 | Palantir | 309 | 13 | OK |
-| Ramp | 165 | 13 | OK |
-| iCapital | 212 | 8 | OK |
+| Ramp | 164 | 13 | OK |
+| iCapital | 210 | 7 | OK |
 | AlphaSights | 59 | 12 | OK |
 | Jane Street | 230 | 11 | OK |
 | Schonfeld | 68 | 5 | OK |
 | Robinhood | 181 | 0 | OK |
 | SoFi | 49 | 0 | OK |
 | Affirm | 201 | 5 | OK |
-| Brex | 276 | 2 | OK |
+| Brex | 273 | 2 | OK |
 | Betterment | 25 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
 | Scale AI | 184 | 3 | OK |
@@ -275,8 +273,8 @@ Last checked: 2026-10-12 20:27:43 UTC
 | Gusto | 97 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
 | OpenAI | 809 | 13 | OK |
-| Perplexity | 134 | 4 | OK |
-| Notion | 131 | 9 | OK |
+| Perplexity | 134 | 3 | OK |
+| Notion | 130 | 9 | OK |
 | Harvey | 351 | 20 | OK |
 | Kalshi | 48 | 1 | OK |
 | Unify | 10 | 1 | OK |
