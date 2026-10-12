@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-12 08:32:49 UTC
+Last checked: 2026-10-12 08:57:34 UTC
 
 237 matching roles open. ð = found in the latest run.
 
@@ -273,7 +273,7 @@ Last checked: 2026-10-12 08:32:49 UTC
 | Clear Street | 45 | 7 | OK |
 | Scale AI | 182 | 3 | OK |
 | Dataiku | 17 | 0 | OK |
-| MongoDB | 391 | 2 | OK |
+| MongoDB | 390 | 2 | OK |
 | Oscar Health | 239 | 20 | OK |
 | The Trade Desk | 108 | 5 | OK |
 | Guidepoint | 104 | 6 | OK |
