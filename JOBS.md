@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-12 11:28:31 UTC
+Last checked: 2026-10-12 11:56:51 UTC
 
 236 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
@@ -256,7 +256,7 @@ Last checked: 2026-10-12 11:28:31 UTC
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 646 | 15 | OK |
-| Stripe | 725 | 14 | OK |
+| Stripe | 727 | 14 | OK |
 | Datadog | 434 | 8 | OK |
 | Palantir | 310 | 13 | OK |
 | Ramp | 165 | 13 | OK |
@@ -274,7 +274,7 @@ Last checked: 2026-10-12 11:28:31 UTC
 | Dataiku | 17 | 0 | OK |
 | MongoDB | 388 | 2 | OK |
 | Oscar Health | 239 | 20 | OK |
-| The Trade Desk | 109 | 5 | OK |
+| The Trade Desk | 108 | 5 | OK |
 | Guidepoint | 104 | 6 | OK |
 | Gusto | 97 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
