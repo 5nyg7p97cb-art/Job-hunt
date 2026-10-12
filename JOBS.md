@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-12 16:54:12 UTC
+Last checked: 2026-10-12 17:27:37 UTC
 
 234 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Perplexity | [Recruiting Coordinator](https://jobs.ashbyhq.com/perplexity/ed4fb057-3f06-419a-8bb2-9c98f370d477) | San Francisco / New York City |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -185,6 +184,7 @@ Last checked: 2026-10-12 16:54:12 UTC
 |  | Palantir | [Talent Coordinator](https://jobs.lever.co/palantir/4186c7e2-1fc4-4049-81fb-fa98efb9d1de) | New York, NY |
 |  | Perplexity | [Business Development Representative](https://jobs.ashbyhq.com/perplexity/a5b97109-222d-49e1-b2ac-e101487a5ddd) | San Francisco / New York City / Remote |
 |  | Perplexity | [Payroll Analyst](https://jobs.ashbyhq.com/perplexity/5080dab5-7eb7-4cb2-9e2c-c61531fd3ad1) | San Francisco / Remote (United States) / Remote |
+|  | Perplexity | [Recruiting Coordinator](https://jobs.ashbyhq.com/perplexity/ed4fb057-3f06-419a-8bb2-9c98f370d477) | San Francisco / New York City |
 |  | Perplexity | [Revenue Operations Analyst](https://jobs.ashbyhq.com/perplexity/03f8f956-1cb3-4945-81d1-73b7ff048d4e) | San Francisco / New York City / Remote |
 |  | Point72 | [Credit Research Analyst, Global Macro](https://boards.greenhouse.io/point72/jobs/7605647002?gh_jid=7605647002) | New York |
 |  | Point72 | [Identity & Privileged Governance Analyst](https://boards.greenhouse.io/point72/jobs/8488737002?gh_jid=8488737002) | New York, NY |
@@ -265,22 +265,22 @@ Last checked: 2026-10-12 16:54:12 UTC
 | Robinhood | 179 | 0 | OK |
 | SoFi | 49 | 0 | OK |
 | Affirm | 201 | 5 | OK |
-| Brex | 277 | 2 | OK |
+| Brex | 276 | 2 | OK |
 | Betterment | 25 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
-| Scale AI | 183 | 3 | OK |
+| Scale AI | 184 | 3 | OK |
 | Dataiku | 16 | 0 | OK |
-| MongoDB | 394 | 2 | OK |
+| MongoDB | 395 | 2 | OK |
 | Oscar Health | 232 | 18 | OK |
 | The Trade Desk | 107 | 5 | OK |
 | Guidepoint | 103 | 6 | OK |
 | Gusto | 97 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 810 | 13 | OK |
+| OpenAI | 809 | 13 | OK |
 | Perplexity | 133 | 4 | OK |
 | Notion | 131 | 9 | OK |
-| Harvey | 352 | 20 | OK |
+| Harvey | 351 | 20 | OK |
 | Kalshi | 48 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 119 | 3 | OK |
-| Vanta | 82 | 2 | OK |
+| Vanta | 83 | 2 | OK |
