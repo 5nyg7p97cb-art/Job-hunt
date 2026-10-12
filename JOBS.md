@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-12 19:25:44 UTC
+Last checked: 2026-10-12 19:53:51 UTC
 
-233 matching roles open. ð = found in the latest run.
+232 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -223,11 +223,10 @@ Last checked: 2026-10-12 19:25:44 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
-|  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
 |  | Stripe | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8128744) | San Francisco, Seattle, New York |
 |  | Stripe | [University Recruiter (Fixed Term)](https://stripe.com/jobs/search?gh_jid=8226211) | San Francisco, New York, Seattle, US-Remote |
@@ -253,8 +252,8 @@ Last checked: 2026-10-12 19:25:44 UTC
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 647 | 15 | OK |
-| Stripe | 721 | 14 | OK |
-| Datadog | 434 | 8 | OK |
+| Stripe | 722 | 13 | OK |
+| Datadog | 433 | 8 | OK |
 | Palantir | 309 | 13 | OK |
 | Ramp | 165 | 13 | OK |
 | iCapital | 212 | 8 | OK |
@@ -269,9 +268,9 @@ Last checked: 2026-10-12 19:25:44 UTC
 | Clear Street | 45 | 7 | OK |
 | Scale AI | 184 | 3 | OK |
 | Dataiku | 16 | 0 | OK |
-| MongoDB | 396 | 2 | OK |
+| MongoDB | 395 | 2 | OK |
 | Oscar Health | 231 | 17 | OK |
-| The Trade Desk | 108 | 5 | OK |
+| The Trade Desk | 107 | 5 | OK |
 | Guidepoint | 103 | 6 | OK |
 | Gusto | 97 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
