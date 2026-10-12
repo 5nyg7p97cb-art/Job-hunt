@@ -1,15 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-12 02:54:53 UTC
+Last checked: 2026-10-12 03:28:39 UTC
 
 237 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Blackstone (Campus) | [2027 Blackstone APAC Future Leaders Program (Online)](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Hong-Kong/XMLNAME-2027-Blackstone-APAC-Future-Leaders-Program--Online-_45896) | 6 Locations |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
@@ -54,6 +53,7 @@ Last checked: 2026-10-12 02:54:53 UTC
 |  | Blackstone | [Blackstone Multi-Asset Investing (BXMA)- Treasury, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Blackstone-Multi-Asset-Investing--BXMA---Treasury--Analyst_39176) | New York |
 |  | Blackstone | [Blackstone Private Wealth - Internal Sales, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York-601-Lex/Private-Wealth-Solutions---Internal-Sales--Associate_31726-5) | New York 601 Lex |
 |  | Blackstone | [Public Affairs, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Public-Affairs--Associate_43586) | New York |
+|  | Blackstone (Campus) | [2027 Blackstone APAC Future Leaders Program (Online)](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Hong-Kong/XMLNAME-2027-Blackstone-APAC-Future-Leaders-Program--Online-_45896) | 6 Locations |
 |  | Blackstone (Campus) | [2027 Blackstone Real Estate Acquisitions Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Blackstone-Real-Estate-Acquisitions-Analyst_45626) | New York |
 |  | Brex | [Finance Associate](https://www.brex.com/careers/8606825002?gh_jid=8606825002) | New York, New York, United States |
 |  | Brex | [Fraud Operations Associate](https://www.brex.com/careers/8698248002?gh_jid=8698248002) | New York, New York, United States |
@@ -266,7 +266,7 @@ Last checked: 2026-10-12 02:54:53 UTC
 | Jane Street | 230 | 11 | OK |
 | Schonfeld | 69 | 5 | OK |
 | Robinhood | 181 | 0 | OK |
-| SoFi | 53 | 0 | OK |
+| SoFi | 52 | 0 | OK |
 | Affirm | 203 | 5 | OK |
 | Brex | 277 | 2 | OK |
 | Betterment | 26 | 2 | OK |
