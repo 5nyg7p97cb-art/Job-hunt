@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-12 15:27:48 UTC
+Last checked: 2026-10-12 15:56:22 UTC
 
 234 matching roles open. ð = found in the latest run.
 
@@ -224,8 +224,8 @@ Last checked: 2026-10-12 15:27:48 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -254,19 +254,19 @@ Last checked: 2026-10-12 15:27:48 UTC
 | Point72 | 220 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 646 | 15 | OK |
-| Stripe | 725 | 14 | OK |
+| Stripe | 724 | 14 | OK |
 | Datadog | 434 | 8 | OK |
 | Palantir | 309 | 13 | OK |
 | Ramp | 166 | 13 | OK |
-| iCapital | 211 | 8 | OK |
+| iCapital | 212 | 8 | OK |
 | AlphaSights | 59 | 12 | OK |
 | Jane Street | 230 | 11 | OK |
 | Schonfeld | 68 | 5 | OK |
-| Robinhood | 181 | 0 | OK |
-| SoFi | 51 | 0 | OK |
+| Robinhood | 180 | 0 | OK |
+| SoFi | 50 | 0 | OK |
 | Affirm | 203 | 5 | OK |
 | Brex | 277 | 2 | OK |
-| Betterment | 26 | 2 | OK |
+| Betterment | 25 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
 | Scale AI | 183 | 3 | OK |
 | Dataiku | 16 | 0 | OK |
@@ -280,7 +280,7 @@ Last checked: 2026-10-12 15:27:48 UTC
 | Perplexity | 132 | 3 | OK |
 | Notion | 131 | 9 | OK |
 | Harvey | 350 | 19 | OK |
-| Kalshi | 47 | 1 | OK |
+| Kalshi | 48 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 119 | 3 | OK |
 | Vanta | 82 | 2 | OK |
