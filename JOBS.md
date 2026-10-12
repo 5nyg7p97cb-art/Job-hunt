@@ -1,11 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-10-12 02:26:25 UTC
+Last checked: 2026-10-12 02:54:53 UTC
 
-236 matching roles open. ð = found in the latest run.
+237 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Blackstone (Campus) | [2027 Blackstone APAC Future Leaders Program (Online)](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Hong-Kong/XMLNAME-2027-Blackstone-APAC-Future-Leaders-Program--Online-_45896) | 6 Locations |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -226,8 +227,8 @@ Last checked: 2026-10-12 02:26:25 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -252,11 +253,11 @@ Last checked: 2026-10-12 02:26:25 UTC
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 45 | 0 | OK |
 | Blackstone | 34 | 9 | OK |
-| Blackstone (Campus) | 28 | 1 | OK |
+| Blackstone (Campus) | 29 | 2 | OK |
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 645 | 15 | OK |
-| Stripe | 727 | 14 | OK |
+| Stripe | 726 | 14 | OK |
 | Datadog | 435 | 8 | OK |
 | Palantir | 310 | 13 | OK |
 | Ramp | 165 | 13 | OK |
