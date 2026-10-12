@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-12 22:25:03 UTC
+Last checked: 2026-10-12 22:53:32 UTC
 
 230 matching roles open. ð = found in the latest run.
 
@@ -264,7 +264,7 @@ Last checked: 2026-10-12 22:25:03 UTC
 | Brex | 273 | 2 | OK |
 | Betterment | 25 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
-| Scale AI | 184 | 3 | OK |
+| Scale AI | 185 | 3 | OK |
 | Dataiku | 16 | 0 | OK |
 | MongoDB | 395 | 2 | OK |
 | Oscar Health | 231 | 17 | OK |
