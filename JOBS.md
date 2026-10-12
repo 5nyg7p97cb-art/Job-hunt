@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-12 13:39:40 UTC
+Last checked: 2026-10-12 14:33:01 UTC
 
 235 matching roles open. ð = found in the latest run.
 
@@ -255,24 +255,24 @@ Last checked: 2026-10-12 13:39:40 UTC
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 646 | 15 | OK |
-| Stripe | 726 | 14 | OK |
+| Stripe | 724 | 14 | OK |
 | Datadog | 434 | 8 | OK |
 | Palantir | 309 | 13 | OK |
-| Ramp | 165 | 13 | OK |
+| Ramp | 166 | 13 | OK |
 | iCapital | 211 | 8 | OK |
 | AlphaSights | 59 | 12 | OK |
 | Jane Street | 230 | 11 | OK |
 | Schonfeld | 69 | 5 | OK |
-| Robinhood | 180 | 0 | OK |
-| SoFi | 52 | 0 | OK |
+| Robinhood | 181 | 0 | OK |
+| SoFi | 51 | 0 | OK |
 | Affirm | 203 | 5 | OK |
 | Brex | 277 | 2 | OK |
 | Betterment | 26 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
 | Scale AI | 182 | 3 | OK |
 | Dataiku | 17 | 0 | OK |
-| MongoDB | 388 | 2 | OK |
-| Oscar Health | 239 | 20 | OK |
+| MongoDB | 394 | 2 | OK |
+| Oscar Health | 238 | 20 | OK |
 | The Trade Desk | 108 | 5 | OK |
 | Guidepoint | 103 | 6 | OK |
 | Gusto | 97 | 2 | OK |
