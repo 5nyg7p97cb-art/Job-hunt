@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-12 09:30:20 UTC
+Last checked: 2026-10-12 09:57:26 UTC
 
-237 matching roles open. ð = found in the latest run.
+236 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -106,7 +106,6 @@ Last checked: 2026-10-12 09:30:20 UTC
 |  | Harvey | [Sales Development Representative, ANZ](https://jobs.ashbyhq.com/harvey/b8a9dded-d9f4-4295-8216-fdc93beec6d1) | Sydney / Remote |
 |  | Harvey | [Software Engineer, New Grad (2027)](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5) | San Francisco / Remote |
 |  | Harvey | [Software Engineer, New Grad (2027)](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc) | New York |
-|  | Harvey | [Workplace Coordinator](https://jobs.ashbyhq.com/harvey/c0449af2-3742-4ece-88d7-75fd076f80e9) | London / Remote |
 |  | iCapital | [Annuities Sales - Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8649096002) | New York, New York, United States |
 |  | iCapital | [Artificial Intelligence / Machine Learning Engineer - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8802717002) | New York, New York, United States |
 |  | iCapital | [Business Process Analyst, UiPath Developer - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8853762002) | New York, New York, United States |
@@ -254,7 +253,7 @@ Last checked: 2026-10-12 09:30:20 UTC
 | BlackRock | 44 | 0 | OK |
 | Blackstone | 34 | 9 | OK |
 | Blackstone (Campus) | 29 | 2 | OK |
-| Point72 | 222 | 11 | OK |
+| Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 646 | 15 | OK |
 | Stripe | 725 | 14 | OK |
@@ -275,14 +274,14 @@ Last checked: 2026-10-12 09:30:20 UTC
 | Dataiku | 17 | 0 | OK |
 | MongoDB | 388 | 2 | OK |
 | Oscar Health | 239 | 20 | OK |
-| The Trade Desk | 108 | 5 | OK |
+| The Trade Desk | 109 | 5 | OK |
 | Guidepoint | 104 | 6 | OK |
 | Gusto | 97 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
 | OpenAI | 811 | 14 | OK |
 | Perplexity | 132 | 3 | OK |
 | Notion | 132 | 9 | OK |
-| Harvey | 351 | 20 | OK |
+| Harvey | 351 | 19 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 119 | 3 | OK |
