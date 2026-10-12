@@ -1,15 +1,15 @@
 # Entry-level openings
 
-Last checked: 2026-10-12 16:27:46 UTC
+Last checked: 2026-10-12 16:54:12 UTC
 
 234 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Harvey | [Strategy Associate](https://jobs.ashbyhq.com/harvey/23a93539-af9f-400d-9da6-dd9165364002) | New York |
+| ð | Perplexity | [Recruiting Coordinator](https://jobs.ashbyhq.com/perplexity/ed4fb057-3f06-419a-8bb2-9c98f370d477) | San Francisco / New York City |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
@@ -107,6 +107,7 @@ Last checked: 2026-10-12 16:27:46 UTC
 |  | Harvey | [Sales Development Representative, ANZ](https://jobs.ashbyhq.com/harvey/b8a9dded-d9f4-4295-8216-fdc93beec6d1) | Sydney / Remote |
 |  | Harvey | [Software Engineer, New Grad (2027)](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5) | San Francisco / Remote |
 |  | Harvey | [Software Engineer, New Grad (2027)](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc) | New York |
+|  | Harvey | [Strategy Associate](https://jobs.ashbyhq.com/harvey/23a93539-af9f-400d-9da6-dd9165364002) | New York |
 |  | iCapital | [Annuities Sales - Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8649096002) | New York, New York, United States |
 |  | iCapital | [Business Process Analyst, UiPath Developer - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8853762002) | New York, New York, United States |
 |  | iCapital | [Corporate Finance, FP&A - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8576018002) | New York, New York, United States |
@@ -150,7 +151,6 @@ Last checked: 2026-10-12 16:27:46 UTC
 |  | OpenAI | [People Technology Analyst, Workday PATT & Benefits](https://jobs.ashbyhq.com/openai/bb28a39e-eb1f-41ef-96de-98adf58a8c3c) | San Francisco / Remote |
 |  | OpenAI | [Recruiting Coordinator - Contract](https://jobs.ashbyhq.com/openai/dbd5ae8a-7c01-4f17-be39-b8caa8fd95d5) | San Francisco / New York City / Seattle / Remote |
 |  | OpenAI | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | San Francisco / Remote |
-|  | OpenAI | [Technical Operations Analyst, User Safety & Risk](https://jobs.ashbyhq.com/openai/0f78e08a-669d-4d87-960f-518c649e6700) | London, UK / Remote |
 |  | OpenAI | [US External Affairs Associate, Global Affairs](https://jobs.ashbyhq.com/openai/544af761-e37a-450c-884b-b96506c1b883) | Washington, DC / Remote |
 |  | Oscar Health | [Analytics Engineer I](https://job-boards.greenhouse.io/oscar/jobs/7914958) | New York, New York, United States |
 |  | Oscar Health | [Associate, Actuarial](https://job-boards.greenhouse.io/oscar/jobs/8069495) | Remote |
@@ -253,8 +253,8 @@ Last checked: 2026-10-12 16:27:46 UTC
 | Blackstone (Campus) | 29 | 2 | OK |
 | Point72 | 220 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
-| Anthropic | 646 | 15 | OK |
-| Stripe | 724 | 14 | OK |
+| Anthropic | 645 | 15 | OK |
+| Stripe | 723 | 14 | OK |
 | Datadog | 434 | 8 | OK |
 | Palantir | 309 | 13 | OK |
 | Ramp | 166 | 13 | OK |
@@ -264,20 +264,20 @@ Last checked: 2026-10-12 16:27:46 UTC
 | Schonfeld | 68 | 5 | OK |
 | Robinhood | 179 | 0 | OK |
 | SoFi | 49 | 0 | OK |
-| Affirm | 203 | 5 | OK |
+| Affirm | 201 | 5 | OK |
 | Brex | 277 | 2 | OK |
 | Betterment | 25 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
 | Scale AI | 183 | 3 | OK |
 | Dataiku | 16 | 0 | OK |
-| MongoDB | 395 | 2 | OK |
+| MongoDB | 394 | 2 | OK |
 | Oscar Health | 232 | 18 | OK |
 | The Trade Desk | 107 | 5 | OK |
 | Guidepoint | 103 | 6 | OK |
 | Gusto | 97 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 810 | 14 | OK |
-| Perplexity | 132 | 3 | OK |
+| OpenAI | 810 | 13 | OK |
+| Perplexity | 133 | 4 | OK |
 | Notion | 131 | 9 | OK |
 | Harvey | 352 | 20 | OK |
 | Kalshi | 48 | 1 | OK |
