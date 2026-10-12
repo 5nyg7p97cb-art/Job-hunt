@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-12 21:24:49 UTC
+Last checked: 2026-10-12 21:53:05 UTC
 
 230 matching roles open. ð = found in the latest run.
 
@@ -79,8 +79,8 @@ Last checked: 2026-10-12 21:24:49 UTC
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -250,15 +250,15 @@ Last checked: 2026-10-12 21:24:49 UTC
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 646 | 15 | OK |
-| Stripe | 723 | 13 | OK |
+| Stripe | 722 | 13 | OK |
 | Datadog | 433 | 8 | OK |
-| Palantir | 309 | 13 | OK |
+| Palantir | 311 | 13 | OK |
 | Ramp | 164 | 13 | OK |
 | iCapital | 211 | 7 | OK |
 | AlphaSights | 59 | 12 | OK |
 | Jane Street | 230 | 11 | OK |
 | Schonfeld | 68 | 5 | OK |
-| Robinhood | 180 | 0 | OK |
+| Robinhood | 181 | 0 | OK |
 | SoFi | 49 | 0 | OK |
 | Affirm | 201 | 5 | OK |
 | Brex | 273 | 2 | OK |
@@ -278,5 +278,5 @@ Last checked: 2026-10-12 21:24:49 UTC
 | Harvey | 351 | 20 | OK |
 | Kalshi | 48 | 1 | OK |
 | Unify | 10 | 1 | OK |
-| Cohere | 119 | 3 | OK |
+| Cohere | 118 | 3 | OK |
 | Vanta | 83 | 2 | OK |
