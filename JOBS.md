@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-12 10:29:06 UTC
+Last checked: 2026-10-12 10:55:51 UTC
 
 236 matching roles open. ð = found in the latest run.
 
@@ -256,7 +256,7 @@ Last checked: 2026-10-12 10:29:06 UTC
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 646 | 15 | OK |
-| Stripe | 726 | 14 | OK |
+| Stripe | 725 | 14 | OK |
 | Datadog | 434 | 8 | OK |
 | Palantir | 310 | 13 | OK |
 | Ramp | 165 | 13 | OK |
