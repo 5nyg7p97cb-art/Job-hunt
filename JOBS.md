@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-13 14:30:48 UTC
+Last checked: 2026-10-13 14:58:42 UTC
 
-229 matching roles open. ð = found in the latest run.
+230 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -220,10 +220,11 @@ Last checked: 2026-10-13 14:30:48 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
+|  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
 |  | Stripe | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8128744) | San Francisco, Seattle, New York |
 |  | Stripe | [University Recruiter (Fixed Term)](https://stripe.com/jobs/search?gh_jid=8226211) | San Francisco, New York, Seattle, US-Remote |
@@ -248,8 +249,8 @@ Last checked: 2026-10-13 14:30:48 UTC
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
-| Anthropic | 646 | 15 | OK |
-| Stripe | 722 | 13 | OK |
+| Anthropic | 647 | 15 | OK |
+| Stripe | 723 | 14 | OK |
 | Datadog | 437 | 8 | OK |
 | Palantir | 310 | 13 | OK |
 | Ramp | 165 | 13 | OK |
@@ -271,11 +272,11 @@ Last checked: 2026-10-13 14:30:48 UTC
 | Guidepoint | 105 | 6 | OK |
 | Gusto | 99 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 805 | 13 | OK |
+| OpenAI | 806 | 13 | OK |
 | Perplexity | 134 | 3 | OK |
 | Notion | 130 | 9 | OK |
 | Harvey | 348 | 20 | OK |
 | Kalshi | 48 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 117 | 3 | OK |
-| Vanta | 83 | 2 | OK |
+| Vanta | 84 | 2 | OK |
