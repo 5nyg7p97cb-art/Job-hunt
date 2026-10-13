@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-13 14:01:10 UTC
+Last checked: 2026-10-13 14:30:48 UTC
 
-231 matching roles open. ð = found in the latest run.
+229 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Datadog | [FP&A Analyst, Cloud Finance](https://careers.datadoghq.com/detail/8267437/?gh_jid=8267437) | New York, New York, USA |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -57,7 +56,6 @@ Last checked: 2026-10-13 14:01:10 UTC
 |  | Blackstone (Campus) | [2027 Blackstone APAC Future Leaders Program (Online)](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Hong-Kong/XMLNAME-2027-Blackstone-APAC-Future-Leaders-Program--Online-_45896) | 6 Locations |
 |  | Blackstone (Campus) | [2027 Blackstone Real Estate Acquisitions Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Blackstone-Real-Estate-Acquisitions-Analyst_45626) | New York |
 |  | Brex | [Finance Associate](https://www.brex.com/careers/8606825002?gh_jid=8606825002) | New York, New York, United States |
-|  | Brex | [Fraud Operations Associate](https://www.brex.com/careers/8698248002?gh_jid=8698248002) | New York, New York, United States |
 |  | Clear Street | [AML Onboarding Associate](https://job-boards.greenhouse.io/clearstreet/jobs/7557381) | New York, NY |
 |  | Clear Street | [Associate - Active Trading Support](https://job-boards.greenhouse.io/clearstreet/jobs/8168021) | New York, NY |
 |  | Clear Street | [Associate - Client Onboarding](https://job-boards.greenhouse.io/clearstreet/jobs/8227249) | New York, NY |
@@ -70,18 +68,18 @@ Last checked: 2026-10-13 14:01:10 UTC
 |  | Cohere | [Business Development Representative - French Speaking](https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89) | United Kingdom / Remote |
 |  | Datadog | [Accounts Payable Analyst](https://careers.datadoghq.com/detail/8257324/?gh_jid=8257324) | New York, New York, USA |
 |  | Datadog | [FP&A Analyst](https://careers.datadoghq.com/detail/8204554/?gh_jid=8204554) | New York, New York, USA |
+|  | Datadog | [FP&A Analyst, Cloud Finance](https://careers.datadoghq.com/detail/8267437/?gh_jid=8267437) | New York, New York, USA |
 |  | Datadog | [GTM Strategy/Operations Associate](https://careers.datadoghq.com/detail/8171303/?gh_jid=8171303) | New York, New York, USA |
 |  | Datadog | [GTM Strategy/Operations Associate - New York](https://careers.datadoghq.com/detail/8179647/?gh_jid=8179647) | New York, New York, USA |
 |  | Datadog | [Legal Operations Analyst](https://careers.datadoghq.com/detail/8202086/?gh_jid=8202086) | New York, New York, USA |
 |  | Datadog | [Recruiting Coordinator](https://careers.datadoghq.com/detail/8247346/?gh_jid=8247346) | Boston, Massachusetts, USA; New York, New York, USA |
-|  | Datadog | [Sales Revenue Analyst - NYC](https://careers.datadoghq.com/detail/8132294/?gh_jid=8132294) | New York, New York, USA |
 |  | Datadog | [Strategic Finance Analyst](https://careers.datadoghq.com/detail/8257306/?gh_jid=8257306) | New York, New York, USA |
 |  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -222,8 +220,8 @@ Last checked: 2026-10-13 14:01:10 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -251,29 +249,29 @@ Last checked: 2026-10-13 14:01:10 UTC
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 646 | 15 | OK |
-| Stripe | 720 | 13 | OK |
-| Datadog | 437 | 9 | OK |
+| Stripe | 722 | 13 | OK |
+| Datadog | 437 | 8 | OK |
 | Palantir | 310 | 13 | OK |
 | Ramp | 165 | 13 | OK |
 | iCapital | 211 | 7 | OK |
 | AlphaSights | 59 | 12 | OK |
 | Jane Street | 229 | 11 | OK |
 | Schonfeld | 66 | 5 | OK |
-| Robinhood | 181 | 0 | OK |
+| Robinhood | 178 | 0 | OK |
 | SoFi | 49 | 0 | OK |
 | Affirm | 201 | 5 | OK |
-| Brex | 273 | 2 | OK |
+| Brex | 268 | 1 | OK |
 | Betterment | 25 | 2 | OK |
 | Clear Street | 46 | 7 | OK |
 | Scale AI | 184 | 3 | OK |
 | Dataiku | 16 | 0 | OK |
-| MongoDB | 393 | 2 | OK |
+| MongoDB | 392 | 2 | OK |
 | Oscar Health | 231 | 17 | OK |
 | The Trade Desk | 107 | 5 | OK |
 | Guidepoint | 105 | 6 | OK |
 | Gusto | 99 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 807 | 13 | OK |
+| OpenAI | 805 | 13 | OK |
 | Perplexity | 134 | 3 | OK |
 | Notion | 130 | 9 | OK |
 | Harvey | 348 | 20 | OK |
