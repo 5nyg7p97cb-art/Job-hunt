@@ -1,11 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-10-13 16:57:15 UTC
+Last checked: 2026-10-13 17:27:19 UTC
 
-230 matching roles open. ð = found in the latest run.
+232 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | OpenAI | [Compensation Operations Analyst](https://jobs.ashbyhq.com/openai/31df540f-4062-46e8-918f-b747a90c7052) | San Francisco / Remote |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -72,6 +73,7 @@ Last checked: 2026-10-13 16:57:15 UTC
 |  | Datadog | [GTM Strategy/Operations Associate](https://careers.datadoghq.com/detail/8171303/?gh_jid=8171303) | New York, New York, USA |
 |  | Datadog | [GTM Strategy/Operations Associate - New York](https://careers.datadoghq.com/detail/8179647/?gh_jid=8179647) | New York, New York, USA |
 |  | Datadog | [Legal Operations Analyst](https://careers.datadoghq.com/detail/8202086/?gh_jid=8202086) | New York, New York, USA |
+|  | Datadog | [People Solutions Coordinator (NYC)](https://careers.datadoghq.com/detail/7728298/?gh_jid=7728298) | New York, New York, USA |
 |  | Datadog | [Recruiting Coordinator](https://careers.datadoghq.com/detail/8247346/?gh_jid=8247346) | Boston, Massachusetts, USA; New York, New York, USA |
 |  | Datadog | [Strategic Finance Analyst](https://careers.datadoghq.com/detail/8257306/?gh_jid=8257306) | New York, New York, USA |
 |  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
@@ -244,39 +246,39 @@ Last checked: 2026-10-13 16:57:15 UTC
 | Bilt | 21 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 43 | 0 | OK |
+| BlackRock | 44 | 0 | OK |
 | Blackstone | 32 | 9 | OK |
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 646 | 15 | OK |
-| Stripe | 722 | 14 | OK |
-| Datadog | 437 | 8 | OK |
+| Stripe | 723 | 14 | OK |
+| Datadog | 438 | 9 | OK |
 | Palantir | 312 | 13 | OK |
 | Ramp | 164 | 13 | OK |
-| iCapital | 210 | 7 | OK |
+| iCapital | 211 | 7 | OK |
 | AlphaSights | 59 | 12 | OK |
 | Jane Street | 229 | 11 | OK |
 | Schonfeld | 66 | 5 | OK |
 | Robinhood | 178 | 0 | OK |
 | SoFi | 50 | 0 | OK |
-| Affirm | 201 | 5 | OK |
+| Affirm | 200 | 5 | OK |
 | Brex | 268 | 1 | OK |
 | Betterment | 25 | 2 | OK |
 | Clear Street | 46 | 7 | OK |
-| Scale AI | 184 | 3 | OK |
+| Scale AI | 182 | 3 | OK |
 | Dataiku | 16 | 0 | OK |
-| MongoDB | 392 | 2 | OK |
-| Oscar Health | 231 | 17 | OK |
-| The Trade Desk | 108 | 5 | OK |
+| MongoDB | 393 | 2 | OK |
+| Oscar Health | 230 | 17 | OK |
+| The Trade Desk | 107 | 5 | OK |
 | Guidepoint | 105 | 6 | OK |
-| Gusto | 98 | 2 | OK |
+| Gusto | 99 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 798 | 13 | OK |
-| Perplexity | 134 | 3 | OK |
-| Notion | 131 | 9 | OK |
+| OpenAI | 801 | 14 | OK |
+| Perplexity | 132 | 3 | OK |
+| Notion | 130 | 9 | OK |
 | Harvey | 348 | 20 | OK |
 | Kalshi | 48 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 118 | 3 | OK |
-| Vanta | 84 | 2 | OK |
+| Vanta | 83 | 2 | OK |
