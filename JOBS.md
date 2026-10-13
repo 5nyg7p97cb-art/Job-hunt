@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-13 19:09:02 UTC
+Last checked: 2026-10-13 20:03:33 UTC
 
-232 matching roles open. ð = found in the latest run.
+230 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
@@ -41,7 +41,6 @@ Last checked: 2026-10-13 19:09:02 UTC
 |  | Betterment | [Business Development Representative](https://www.betterment.com/careers/current-openings/job?gh_jid=8195434&gh_jid=8195434) | Betterment HQ - New York City |
 |  | Betterment | [Payroll & Benefits Coordinator](https://www.betterment.com/careers/current-openings/job?gh_jid=8154486&gh_jid=8154486) | Betterment HQ - New York City |
 |  | Bilt | [Back End Engineer (All Levels)](https://jobs.gem.com/bilt/am9icG9zdDqaZ6Eb1hZZ8_pRooaUHvdo) | New York, United States / New York |
-|  | Bilt | [Product Specialist - Concierge](https://jobs.gem.com/bilt/am9icG9zdDo146VFDypaafJ-o3lfwj-N) | New York, United States / New York |
 |  | Bilt | [Product Specialist - Housing](https://jobs.gem.com/bilt/am9icG9zdDomdgsgAMh6F4vcm7KhuGLN) | New York, United States / New York |
 |  | Bilt | [Product Specialist - Rentals](https://jobs.gem.com/bilt/am9icG9zdDqsNnnE7MCdbcnEXNRijoSv) | New York, United States / New York |
 |  | Blackstone | [2026 Portfolio Management Program](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/XMLNAME-2026-Portfolio-Management-Program_43989) | New York |
@@ -234,7 +233,6 @@ Last checked: 2026-10-13 19:09:02 UTC
 |  | The Trade Desk | [Associate General Counsel, Product & Privacy](https://job-boards.greenhouse.io/thetradedesk/jobs/5154942007) | Chicago; Irvine; Los Angeles; New York; San Francisco; San Jose |
 |  | The Trade Desk | [Data Support Analyst I](https://job-boards.greenhouse.io/thetradedesk/jobs/5165780007) | New York |
 |  | The Trade Desk | [Employment Associate General Counsel](https://job-boards.greenhouse.io/thetradedesk/jobs/5082193007) | New York |
-|  | The Trade Desk | [Financial Analyst, Product FP&A](https://job-boards.greenhouse.io/thetradedesk/jobs/5182494007) | New York; San Francisco |
 |  | Unify | [Sales Development Representative](https://jobs.ashbyhq.com/unify/9ba552ad-dc0c-44ce-be05-b28c12b27018) | San Francisco Office / New York Office |
 |  | Vanta | [Business Development Representative [German Fluency]](https://jobs.ashbyhq.com/vanta/cb338edc-a332-4f01-ab3f-b3e45ade44ba) | Dublin, Ireland / Remote |
 |  | Vanta | [Business Development Representative, DACH](https://jobs.ashbyhq.com/vanta/7d5ac715-c4ba-45d5-a390-665a93f618cd) | London, UK / Remote |
@@ -243,7 +241,7 @@ Last checked: 2026-10-13 19:09:02 UTC
 
 | Company | Open roles | Matching roles | Status |
 |---|---:|---:|---|
-| Bilt | 21 | 4 | OK |
+| Bilt | 20 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 43 | 0 | OK |
@@ -251,7 +249,7 @@ Last checked: 2026-10-13 19:09:02 UTC
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
-| Anthropic | 647 | 15 | OK |
+| Anthropic | 646 | 15 | OK |
 | Stripe | 722 | 14 | OK |
 | Datadog | 439 | 9 | OK |
 | Palantir | 312 | 13 | OK |
@@ -262,7 +260,7 @@ Last checked: 2026-10-13 19:09:02 UTC
 | Schonfeld | 66 | 5 | OK |
 | Robinhood | 177 | 0 | OK |
 | SoFi | 50 | 0 | OK |
-| Affirm | 201 | 5 | OK |
+| Affirm | 203 | 5 | OK |
 | Brex | 268 | 1 | OK |
 | Betterment | 25 | 2 | OK |
 | Clear Street | 46 | 7 | OK |
@@ -270,15 +268,15 @@ Last checked: 2026-10-13 19:09:02 UTC
 | Dataiku | 16 | 0 | OK |
 | MongoDB | 393 | 2 | OK |
 | Oscar Health | 229 | 17 | OK |
-| The Trade Desk | 107 | 5 | OK |
+| The Trade Desk | 106 | 4 | OK |
 | Guidepoint | 105 | 6 | OK |
-| Gusto | 98 | 2 | OK |
+| Gusto | 97 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 801 | 14 | OK |
+| OpenAI | 803 | 14 | OK |
 | Perplexity | 132 | 3 | OK |
 | Notion | 130 | 9 | OK |
 | Harvey | 348 | 20 | OK |
 | Kalshi | 48 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 118 | 3 | OK |
-| Vanta | 83 | 2 | OK |
+| Vanta | 82 | 2 | OK |
