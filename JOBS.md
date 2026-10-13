@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-13 03:27:39 UTC
+Last checked: 2026-10-13 03:57:10 UTC
 
 230 matching roles open. ð = found in the latest run.
 
@@ -253,7 +253,7 @@ Last checked: 2026-10-13 03:27:39 UTC
 | Stripe | 721 | 13 | OK |
 | Datadog | 436 | 8 | OK |
 | Palantir | 311 | 13 | OK |
-| Ramp | 165 | 13 | OK |
+| Ramp | 166 | 13 | OK |
 | iCapital | 211 | 7 | OK |
 | AlphaSights | 59 | 12 | OK |
 | Jane Street | 230 | 11 | OK |
@@ -266,7 +266,7 @@ Last checked: 2026-10-13 03:27:39 UTC
 | Clear Street | 45 | 7 | OK |
 | Scale AI | 184 | 3 | OK |
 | Dataiku | 16 | 0 | OK |
-| MongoDB | 395 | 2 | OK |
+| MongoDB | 392 | 2 | OK |
 | Oscar Health | 231 | 17 | OK |
 | The Trade Desk | 107 | 5 | OK |
 | Guidepoint | 104 | 6 | OK |
