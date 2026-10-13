@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-13 20:03:33 UTC
+Last checked: 2026-10-13 20:40:19 UTC
 
 230 matching roles open. ð = found in the latest run.
 
@@ -78,8 +78,8 @@ Last checked: 2026-10-13 20:03:33 UTC
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -249,9 +249,9 @@ Last checked: 2026-10-13 20:03:33 UTC
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
-| Anthropic | 646 | 15 | OK |
-| Stripe | 722 | 14 | OK |
-| Datadog | 439 | 9 | OK |
+| Anthropic | 647 | 15 | OK |
+| Stripe | 723 | 14 | OK |
+| Datadog | 440 | 9 | OK |
 | Palantir | 312 | 13 | OK |
 | Ramp | 163 | 13 | OK |
 | iCapital | 211 | 7 | OK |
@@ -259,7 +259,7 @@ Last checked: 2026-10-13 20:03:33 UTC
 | Jane Street | 229 | 11 | OK |
 | Schonfeld | 66 | 5 | OK |
 | Robinhood | 177 | 0 | OK |
-| SoFi | 50 | 0 | OK |
+| SoFi | 47 | 0 | OK |
 | Affirm | 203 | 5 | OK |
 | Brex | 268 | 1 | OK |
 | Betterment | 25 | 2 | OK |
@@ -272,7 +272,7 @@ Last checked: 2026-10-13 20:03:33 UTC
 | Guidepoint | 105 | 6 | OK |
 | Gusto | 97 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 803 | 14 | OK |
+| OpenAI | 804 | 14 | OK |
 | Perplexity | 132 | 3 | OK |
 | Notion | 130 | 9 | OK |
 | Harvey | 348 | 20 | OK |
