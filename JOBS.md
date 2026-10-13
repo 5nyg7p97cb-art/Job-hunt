@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-13 02:55:25 UTC
+Last checked: 2026-10-13 03:27:39 UTC
 
 230 matching roles open. ð = found in the latest run.
 
@@ -244,14 +244,14 @@ Last checked: 2026-10-13 02:55:25 UTC
 | Bilt | 20 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 44 | 0 | OK |
+| BlackRock | 45 | 0 | OK |
 | Blackstone | 32 | 9 | OK |
 | Blackstone (Campus) | 29 | 2 | OK |
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
-| Anthropic | 646 | 15 | OK |
+| Anthropic | 647 | 15 | OK |
 | Stripe | 721 | 13 | OK |
-| Datadog | 435 | 8 | OK |
+| Datadog | 436 | 8 | OK |
 | Palantir | 311 | 13 | OK |
 | Ramp | 165 | 13 | OK |
 | iCapital | 211 | 7 | OK |
