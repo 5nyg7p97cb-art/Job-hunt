@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-13 09:29:15 UTC
+Last checked: 2026-10-13 09:55:54 UTC
 
 230 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
@@ -260,7 +260,7 @@ Last checked: 2026-10-13 09:29:15 UTC
 | Schonfeld | 68 | 5 | OK |
 | Robinhood | 181 | 0 | OK |
 | SoFi | 49 | 0 | OK |
-| Affirm | 201 | 5 | OK |
+| Affirm | 199 | 5 | OK |
 | Brex | 273 | 2 | OK |
 | Betterment | 25 | 2 | OK |
 | Clear Street | 46 | 7 | OK |
@@ -269,7 +269,7 @@ Last checked: 2026-10-13 09:29:15 UTC
 | MongoDB | 393 | 2 | OK |
 | Oscar Health | 231 | 17 | OK |
 | The Trade Desk | 107 | 5 | OK |
-| Guidepoint | 104 | 6 | OK |
+| Guidepoint | 105 | 6 | OK |
 | Gusto | 99 | 2 | OK |
 | Flatiron Health | 23 | 4 | OK |
 | OpenAI | 808 | 13 | OK |
