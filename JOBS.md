@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-13 11:55:40 UTC
+Last checked: 2026-10-13 12:35:07 UTC
 
 230 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
@@ -260,7 +260,7 @@ Last checked: 2026-10-13 11:55:40 UTC
 | Schonfeld | 68 | 5 | OK |
 | Robinhood | 181 | 0 | OK |
 | SoFi | 49 | 0 | OK |
-| Affirm | 199 | 5 | OK |
+| Affirm | 201 | 5 | OK |
 | Brex | 273 | 2 | OK |
 | Betterment | 25 | 2 | OK |
 | Clear Street | 46 | 7 | OK |
@@ -278,5 +278,5 @@ Last checked: 2026-10-13 11:55:40 UTC
 | Harvey | 348 | 20 | OK |
 | Kalshi | 48 | 1 | OK |
 | Unify | 10 | 1 | OK |
-| Cohere | 118 | 3 | OK |
+| Cohere | 117 | 3 | OK |
 | Vanta | 83 | 2 | OK |
