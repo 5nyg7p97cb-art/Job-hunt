@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-14 22:38:44 UTC
+Last checked: 2026-10-14 23:32:01 UTC
 
-236 matching roles open. ð = found in the latest run.
+235 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -208,7 +208,6 @@ Last checked: 2026-10-14 22:38:44 UTC
 |  | Ramp | [Customer Experience Associate](https://jobs.ashbyhq.com/ramp/d64609dd-c391-45a2-bfdb-c1bb34e8f93c) | New York, NY (HQ) / Remote (US) / Denver, CO / Miami, FL / Remote |
 |  | Ramp | [Customer Experience Associate (Evening Shift)](https://jobs.ashbyhq.com/ramp/40f43993-21e8-4db1-a9f4-7a3e6098a9ba) | New York, NY (HQ) / San Francisco, CA / Remote (US) / Denver, CO / Miami, FL / Remote |
 |  | Ramp | [Customer Experience Associate - London](https://jobs.ashbyhq.com/ramp/0d731586-3626-48fb-9dc5-3061ae5fd240) | London, UK / Remote |
-|  | Ramp | [GTM Business Systems Analyst – Post Sales](https://jobs.ashbyhq.com/ramp/196e4e25-c452-430d-8b2f-36a40f88a2ae) | New York, NY (HQ) / San Francisco, CA / Miami, FL / Remote |
 |  | Ramp | [HRIS Analyst (Workday)](https://jobs.ashbyhq.com/ramp/a11f7720-f3a8-4e86-9cc6-562bb11420b2) | New York, NY (HQ) / San Francisco, CA / Remote (US) / Remote |
 |  | Ramp | [Sales Development Representative, Mid-Market](https://jobs.ashbyhq.com/ramp/83eec8f4-c37d-43c9-860b-27223eee3643) | New York, NY (HQ) / Remote |
 |  | Ramp | [Sales Development Representative, SMB](https://jobs.ashbyhq.com/ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f) | New York, NY (HQ) / Remote |
@@ -255,11 +254,11 @@ Last checked: 2026-10-14 22:38:44 UTC
 | Blackstone (Campus) | 27 | 2 | OK |
 | Point72 | 226 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
-| Anthropic | 650 | 16 | OK |
+| Anthropic | 649 | 16 | OK |
 | Stripe | 727 | 14 | OK |
 | Datadog | 437 | 9 | OK |
 | Palantir | 314 | 14 | OK |
-| Ramp | 162 | 13 | OK |
+| Ramp | 161 | 12 | OK |
 | iCapital | 215 | 8 | OK |
 | AlphaSights | 60 | 12 | OK |
 | Jane Street | 227 | 11 | OK |
@@ -272,13 +271,13 @@ Last checked: 2026-10-14 22:38:44 UTC
 | Clear Street | 46 | 7 | OK |
 | Scale AI | 182 | 2 | OK |
 | Dataiku | 15 | 0 | OK |
-| MongoDB | 404 | 2 | OK |
+| MongoDB | 403 | 2 | OK |
 | Oscar Health | 233 | 17 | OK |
 | The Trade Desk | 99 | 4 | OK |
 | Guidepoint | 107 | 6 | OK |
 | Gusto | 100 | 4 | OK |
 | Flatiron Health | 21 | 4 | OK |
-| OpenAI | 799 | 15 | OK |
+| OpenAI | 801 | 15 | OK |
 | Perplexity | 130 | 3 | OK |
 | Notion | 130 | 9 | OK |
 | Harvey | 347 | 21 | OK |
