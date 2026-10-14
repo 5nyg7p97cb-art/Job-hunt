@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-14 10:38:32 UTC
+Last checked: 2026-10-14 11:38:10 UTC
 
 233 matching roles open. ð = found in the latest run.
 
@@ -252,15 +252,15 @@ Last checked: 2026-10-14 10:38:32 UTC
 | Blackstone (Campus) | 28 | 2 | OK |
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
-| Anthropic | 649 | 15 | OK |
-| Stripe | 723 | 14 | OK |
+| Anthropic | 650 | 15 | OK |
+| Stripe | 725 | 14 | OK |
 | Datadog | 439 | 9 | OK |
 | Palantir | 312 | 13 | OK |
 | Ramp | 162 | 13 | OK |
-| iCapital | 211 | 7 | OK |
-| AlphaSights | 59 | 12 | OK |
+| iCapital | 210 | 7 | OK |
+| AlphaSights | 58 | 12 | OK |
 | Jane Street | 229 | 11 | OK |
-| Schonfeld | 65 | 5 | OK |
+| Schonfeld | 66 | 5 | OK |
 | Robinhood | 154 | 0 | OK |
 | SoFi | 49 | 0 | OK |
 | Affirm | 205 | 5 | OK |
@@ -269,10 +269,10 @@ Last checked: 2026-10-14 10:38:32 UTC
 | Clear Street | 46 | 7 | OK |
 | Scale AI | 183 | 3 | OK |
 | Dataiku | 15 | 0 | OK |
-| MongoDB | 394 | 2 | OK |
+| MongoDB | 395 | 2 | OK |
 | Oscar Health | 229 | 17 | OK |
 | The Trade Desk | 103 | 4 | OK |
-| Guidepoint | 106 | 6 | OK |
+| Guidepoint | 105 | 6 | OK |
 | Gusto | 101 | 4 | OK |
 | Flatiron Health | 23 | 4 | OK |
 | OpenAI | 806 | 15 | OK |
