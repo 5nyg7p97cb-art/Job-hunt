@@ -1,11 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-10-14 21:08:27 UTC
+Last checked: 2026-10-14 22:05:20 UTC
 
-235 matching roles open. ð = found in the latest run.
+236 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | iCapital | [Corporate Finance, Revenue Operations - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8889716002) | New York, New York, United States |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -255,33 +256,33 @@ Last checked: 2026-10-14 21:08:27 UTC
 | Point72 | 226 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 650 | 16 | OK |
-| Stripe | 727 | 14 | OK |
+| Stripe | 728 | 14 | OK |
 | Datadog | 437 | 9 | OK |
 | Palantir | 314 | 14 | OK |
 | Ramp | 161 | 13 | OK |
-| iCapital | 213 | 7 | OK |
+| iCapital | 215 | 8 | OK |
 | AlphaSights | 60 | 12 | OK |
 | Jane Street | 227 | 11 | OK |
 | Schonfeld | 66 | 5 | OK |
 | Robinhood | 151 | 0 | OK |
 | SoFi | 51 | 0 | OK |
-| Affirm | 206 | 5 | OK |
+| Affirm | 207 | 5 | OK |
 | Brex | 261 | 1 | OK |
 | Betterment | 25 | 2 | OK |
 | Clear Street | 46 | 7 | OK |
 | Scale AI | 182 | 2 | OK |
 | Dataiku | 15 | 0 | OK |
 | MongoDB | 404 | 2 | OK |
-| Oscar Health | 231 | 17 | OK |
+| Oscar Health | 233 | 17 | OK |
 | The Trade Desk | 99 | 4 | OK |
 | Guidepoint | 107 | 6 | OK |
 | Gusto | 100 | 4 | OK |
 | Flatiron Health | 21 | 4 | OK |
-| OpenAI | 804 | 15 | OK |
+| OpenAI | 801 | 15 | OK |
 | Perplexity | 131 | 3 | OK |
-| Notion | 129 | 9 | OK |
+| Notion | 130 | 9 | OK |
 | Harvey | 345 | 21 | OK |
 | Kalshi | 49 | 1 | OK |
 | Unify | 10 | 1 | OK |
-| Cohere | 117 | 3 | OK |
+| Cohere | 116 | 3 | OK |
 | Vanta | 81 | 2 | OK |
