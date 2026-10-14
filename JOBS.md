@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-14 20:34:55 UTC
+Last checked: 2026-10-14 21:08:27 UTC
 
-234 matching roles open. ð = found in the latest run.
+235 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -99,6 +99,7 @@ Last checked: 2026-10-14 20:34:55 UTC
 |  | Harvey | [CX Data Analyst](https://jobs.ashbyhq.com/harvey/f8857e81-4062-4669-a7e3-7b73b114979b) | New York / Remote |
 |  | Harvey | [Compliance Analyst](https://jobs.ashbyhq.com/harvey/2f35e50f-2978-44c3-a495-7cbfc1f512d4) | San Francisco / Remote |
 |  | Harvey | [People Operations Coordinator, Onboarding](https://jobs.ashbyhq.com/harvey/3188a79d-c5f2-40c3-8f9f-bf1c37938f9f) | New York |
+|  | Harvey | [Recruiting Coordinator](https://jobs.ashbyhq.com/harvey/5a1452ff-566c-4a80-905d-61281a02a40f) | New York / Remote |
 |  | Harvey | [Sales Development Representative](https://jobs.ashbyhq.com/harvey/08d3d70d-80a6-429d-8a27-d5efd41372f5) | San Francisco / Remote |
 |  | Harvey | [Sales Development Representative  (German Speaking)](https://jobs.ashbyhq.com/harvey/62570156-bb6a-42b5-aae4-ea544d9f1beb) | Munich / Remote |
 |  | Harvey | [Sales Development Representative (English Speaking)](https://jobs.ashbyhq.com/harvey/98572b27-b6fc-4682-a441-62874eb10265) | Dublin / Remote |
@@ -158,8 +159,8 @@ Last checked: 2026-10-14 20:34:55 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8257364) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
@@ -225,8 +226,8 @@ Last checked: 2026-10-14 20:34:55 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -253,7 +254,7 @@ Last checked: 2026-10-14 20:34:55 UTC
 | Blackstone (Campus) | 27 | 2 | OK |
 | Point72 | 226 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
-| Anthropic | 653 | 16 | OK |
+| Anthropic | 650 | 16 | OK |
 | Stripe | 727 | 14 | OK |
 | Datadog | 437 | 9 | OK |
 | Palantir | 314 | 14 | OK |
@@ -263,7 +264,7 @@ Last checked: 2026-10-14 20:34:55 UTC
 | Jane Street | 227 | 11 | OK |
 | Schonfeld | 66 | 5 | OK |
 | Robinhood | 151 | 0 | OK |
-| SoFi | 50 | 0 | OK |
+| SoFi | 51 | 0 | OK |
 | Affirm | 206 | 5 | OK |
 | Brex | 261 | 1 | OK |
 | Betterment | 25 | 2 | OK |
@@ -271,16 +272,16 @@ Last checked: 2026-10-14 20:34:55 UTC
 | Scale AI | 182 | 2 | OK |
 | Dataiku | 15 | 0 | OK |
 | MongoDB | 404 | 2 | OK |
-| Oscar Health | 230 | 17 | OK |
+| Oscar Health | 231 | 17 | OK |
 | The Trade Desk | 99 | 4 | OK |
 | Guidepoint | 107 | 6 | OK |
 | Gusto | 100 | 4 | OK |
 | Flatiron Health | 21 | 4 | OK |
-| OpenAI | 805 | 15 | OK |
+| OpenAI | 804 | 15 | OK |
 | Perplexity | 131 | 3 | OK |
-| Notion | 130 | 9 | OK |
-| Harvey | 344 | 20 | OK |
+| Notion | 129 | 9 | OK |
+| Harvey | 345 | 21 | OK |
 | Kalshi | 49 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 117 | 3 | OK |
-| Vanta | 82 | 2 | OK |
+| Vanta | 81 | 2 | OK |
