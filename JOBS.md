@@ -1,12 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-10-14 18:44:09 UTC
+Last checked: 2026-10-14 19:39:15 UTC
 
 234 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Anthropic | [Anthropic STEM Fellow](https://job-boards.greenhouse.io/anthropic/jobs/5452403008) | Remote-Friendly, United States; San Francisco, CA |
+| ð | Point72 | [Data Sourcing & Strategy Operations Analyst](https://boards.greenhouse.io/point72/jobs/8888064002?gh_jid=8888064002) | New York, NY |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -24,6 +24,7 @@ Last checked: 2026-10-14 18:44:09 UTC
 |  | AlphaSights | [Summer Associate, Client Service, Portuguese Speaker 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7909510) | New York |
 |  | AlphaSights | [Summer Associate, Client Service, Spanish Speaker (NY)](https://www.alphasights.com/careers/open-roles?gh_jid=7909591) | New York |
 |  | AlphaSights | [US/Asia Transfer Associate, Client Service (Mandarin Speaker), 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7909605) | New York |
+|  | Anthropic | [Anthropic STEM Fellow](https://job-boards.greenhouse.io/anthropic/jobs/5452403008) | Remote-Friendly, United States; San Francisco, CA |
 |  | Anthropic | [Business Development Representative](https://job-boards.greenhouse.io/anthropic/jobs/5396186008) | San Francisco, CA / New York City, NY |
 |  | Anthropic | [Business Systems Analyst, GTM Systems](https://job-boards.greenhouse.io/anthropic/jobs/5436196008) | San Francisco, CA / New York City, NY |
 |  | Anthropic | [Business Systems Analyst, New Product Introduction](https://job-boards.greenhouse.io/anthropic/jobs/5416829008) | San Francisco, CA / New York City, NY / Seattle, WA |
@@ -211,7 +212,6 @@ Last checked: 2026-10-14 18:44:09 UTC
 |  | Ramp | [Sales Development Representative, SMB](https://jobs.ashbyhq.com/ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f) | New York, NY (HQ) / Remote |
 |  | Ramp | [Sales Development Representative, Strategic Accounts](https://jobs.ashbyhq.com/ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284) | New York, NY (HQ) / Remote |
 |  | Ramp | [University Grad / Customer Experience Associate](https://jobs.ashbyhq.com/ramp/fc971889-db1d-4a20-a25e-f282f9296936) | New York, NY (HQ) / San Francisco, CA / Remote (US) / Remote |
-|  | Scale AI | [Business Development Representative, Partnerships (Physical AI)](https://job-boards.greenhouse.io/scaleai/jobs/4694836005) | New York, NY |
 |  | Scale AI | [COLM 2026 - General Interest](https://job-boards.greenhouse.io/scaleai/jobs/4736877005) | San Francisco, CA; Seattle, WA; New York, NY |
 |  | Scale AI | [National Security Hackathon 2026 - General Interest](https://job-boards.greenhouse.io/scaleai/jobs/4687588005) | San Francisco, CA; New York, NY; Washington, DC |
 |  | Schonfeld | [Associate Counsel, PM Legal and Fund Formation](https://job-boards.greenhouse.io/schonfeld/jobs/8186867) | New York, New York, United States |
@@ -251,14 +251,14 @@ Last checked: 2026-10-14 18:44:09 UTC
 | BlackRock | 43 | 0 | OK |
 | Blackstone | 29 | 9 | OK |
 | Blackstone (Campus) | 27 | 2 | OK |
-| Point72 | 225 | 10 | OK |
+| Point72 | 226 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 652 | 16 | OK |
-| Stripe | 725 | 14 | OK |
+| Stripe | 724 | 14 | OK |
 | Datadog | 437 | 9 | OK |
 | Palantir | 314 | 14 | OK |
-| Ramp | 162 | 13 | OK |
-| iCapital | 212 | 7 | OK |
+| Ramp | 161 | 13 | OK |
+| iCapital | 214 | 7 | OK |
 | AlphaSights | 60 | 12 | OK |
 | Jane Street | 227 | 11 | OK |
 | Schonfeld | 66 | 5 | OK |
@@ -268,10 +268,10 @@ Last checked: 2026-10-14 18:44:09 UTC
 | Brex | 261 | 1 | OK |
 | Betterment | 25 | 2 | OK |
 | Clear Street | 46 | 7 | OK |
-| Scale AI | 184 | 3 | OK |
+| Scale AI | 182 | 2 | OK |
 | Dataiku | 15 | 0 | OK |
 | MongoDB | 405 | 2 | OK |
-| Oscar Health | 232 | 17 | OK |
+| Oscar Health | 230 | 17 | OK |
 | The Trade Desk | 99 | 4 | OK |
 | Guidepoint | 107 | 6 | OK |
 | Gusto | 99 | 4 | OK |
