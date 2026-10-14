@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-14 12:45:04 UTC
+Last checked: 2026-10-14 13:42:33 UTC
 
 233 matching roles open. ð = found in the latest run.
 
@@ -78,8 +78,8 @@ Last checked: 2026-10-14 12:45:04 UTC
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -247,14 +247,14 @@ Last checked: 2026-10-14 12:45:04 UTC
 | Bilt | 19 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 43 | 0 | OK |
+| BlackRock | 42 | 0 | OK |
 | Blackstone | 30 | 9 | OK |
 | Blackstone (Campus) | 28 | 2 | OK |
-| Point72 | 222 | 11 | OK |
+| Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 649 | 15 | OK |
 | Stripe | 725 | 14 | OK |
-| Datadog | 439 | 9 | OK |
+| Datadog | 440 | 9 | OK |
 | Palantir | 312 | 13 | OK |
 | Ramp | 162 | 13 | OK |
 | iCapital | 210 | 7 | OK |
@@ -269,17 +269,17 @@ Last checked: 2026-10-14 12:45:04 UTC
 | Clear Street | 46 | 7 | OK |
 | Scale AI | 183 | 3 | OK |
 | Dataiku | 15 | 0 | OK |
-| MongoDB | 395 | 2 | OK |
+| MongoDB | 396 | 2 | OK |
 | Oscar Health | 229 | 17 | OK |
 | The Trade Desk | 103 | 4 | OK |
-| Guidepoint | 105 | 6 | OK |
+| Guidepoint | 106 | 6 | OK |
 | Gusto | 101 | 4 | OK |
 | Flatiron Health | 23 | 4 | OK |
 | OpenAI | 806 | 15 | OK |
 | Perplexity | 133 | 3 | OK |
 | Notion | 132 | 9 | OK |
-| Harvey | 346 | 20 | OK |
+| Harvey | 343 | 20 | OK |
 | Kalshi | 48 | 1 | OK |
 | Unify | 10 | 1 | OK |
-| Cohere | 119 | 3 | OK |
+| Cohere | 118 | 3 | OK |
 | Vanta | 82 | 2 | OK |
