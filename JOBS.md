@@ -1,16 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-13 23:59:09 UTC
+Last checked: 2026-10-14 00:47:02 UTC
 
 233 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Gusto | [Enhanced Due Diligence Investigations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8275011) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
-| ð | Gusto | [Fraud Investigations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8275021) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
@@ -80,12 +78,14 @@ Last checked: 2026-10-13 23:59:09 UTC
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8715494002) | New York, New York, United States |
+|  | Gusto | [Enhanced Due Diligence Investigations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8275011) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
+|  | Gusto | [Fraud Investigations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8275021) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
 |  | Gusto | [Health Insurance Sales Operations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8075901) | Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid |
 |  | Gusto | [Payment Operations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8180461) | San Francisco, CA - Hybrid; Seattle, WA - Remote |
 |  | Harvey | [Analyst, Customer Trust](https://jobs.ashbyhq.com/harvey/284a0861-026b-45ff-a4ad-c2d187d7184d) | San Francisco / Remote |
@@ -224,8 +224,8 @@ Last checked: 2026-10-13 23:59:09 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -244,7 +244,7 @@ Last checked: 2026-10-13 23:59:09 UTC
 
 | Company | Open roles | Matching roles | Status |
 |---|---:|---:|---|
-| Bilt | 20 | 3 | OK |
+| Bilt | 19 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 43 | 0 | OK |
@@ -261,9 +261,9 @@ Last checked: 2026-10-13 23:59:09 UTC
 | AlphaSights | 59 | 12 | OK |
 | Jane Street | 229 | 11 | OK |
 | Schonfeld | 65 | 5 | OK |
-| Robinhood | 177 | 0 | OK |
+| Robinhood | 175 | 0 | OK |
 | SoFi | 49 | 0 | OK |
-| Affirm | 201 | 5 | OK |
+| Affirm | 204 | 5 | OK |
 | Brex | 268 | 1 | OK |
 | Betterment | 25 | 2 | OK |
 | Clear Street | 46 | 7 | OK |
