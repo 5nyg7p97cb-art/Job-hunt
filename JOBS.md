@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-14 22:05:20 UTC
+Last checked: 2026-10-14 22:38:44 UTC
 
 236 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | iCapital | [Corporate Finance, Revenue Operations - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8889716002) | New York, New York, United States |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -114,6 +113,7 @@ Last checked: 2026-10-14 22:05:20 UTC
 |  | iCapital | [Annuities Sales - Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8649096002) | New York, New York, United States |
 |  | iCapital | [Business Process Analyst, UiPath Developer - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8853762002) | New York, New York, United States |
 |  | iCapital | [Corporate Finance, FP&A - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8576018002) | New York, New York, United States |
+|  | iCapital | [Corporate Finance, Revenue Operations - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8889716002) | New York, New York, United States |
 |  | iCapital | [Investment Strategy - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8766868002) | New York, New York, United States |
 |  | iCapital | [Regulatory and Compliance - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8729940002) | New York, New York, United States |
 |  | iCapital | [Regulatory and Compliance, Subscription Document Review - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8812006002) | New York, New York, United States |
@@ -256,17 +256,17 @@ Last checked: 2026-10-14 22:05:20 UTC
 | Point72 | 226 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 650 | 16 | OK |
-| Stripe | 728 | 14 | OK |
+| Stripe | 727 | 14 | OK |
 | Datadog | 437 | 9 | OK |
 | Palantir | 314 | 14 | OK |
-| Ramp | 161 | 13 | OK |
+| Ramp | 162 | 13 | OK |
 | iCapital | 215 | 8 | OK |
 | AlphaSights | 60 | 12 | OK |
 | Jane Street | 227 | 11 | OK |
 | Schonfeld | 66 | 5 | OK |
 | Robinhood | 151 | 0 | OK |
 | SoFi | 51 | 0 | OK |
-| Affirm | 207 | 5 | OK |
+| Affirm | 206 | 5 | OK |
 | Brex | 261 | 1 | OK |
 | Betterment | 25 | 2 | OK |
 | Clear Street | 46 | 7 | OK |
@@ -278,10 +278,10 @@ Last checked: 2026-10-14 22:05:20 UTC
 | Guidepoint | 107 | 6 | OK |
 | Gusto | 100 | 4 | OK |
 | Flatiron Health | 21 | 4 | OK |
-| OpenAI | 801 | 15 | OK |
-| Perplexity | 131 | 3 | OK |
+| OpenAI | 799 | 15 | OK |
+| Perplexity | 130 | 3 | OK |
 | Notion | 130 | 9 | OK |
-| Harvey | 345 | 21 | OK |
+| Harvey | 347 | 21 | OK |
 | Kalshi | 49 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 116 | 3 | OK |
