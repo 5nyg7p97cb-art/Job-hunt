@@ -1,13 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-15 13:20:14 UTC
+Last checked: 2026-10-15 14:15:47 UTC
 
 237 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Ramp | [Analyst, Deal Operations](https://jobs.ashbyhq.com/ramp/7e531974-caac-46a2-804e-c6c3140bfda4) | San Francisco, CA / Remote |
-| ð | Schonfeld | [Corporate Access Associate](https://job-boards.greenhouse.io/schonfeld/jobs/8281961) | New York, New York, United States |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -162,8 +160,8 @@ Last checked: 2026-10-15 13:20:14 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
 |  | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8257364) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
@@ -203,6 +201,7 @@ Last checked: 2026-10-15 13:20:14 UTC
 |  | Point72 | [Sector Analyst, MI-Data](https://boards.greenhouse.io/point72/jobs/7820104002?gh_jid=7820104002) | New York, NY |
 |  | Point72 | [Technical Business Analyst](https://boards.greenhouse.io/point72/jobs/8877421002?gh_jid=8877421002) | New York |
 |  | Point72 | [Trader/Quant Analyst](https://boards.greenhouse.io/point72/jobs/8375066002?gh_jid=8375066002) | Stamford, New York |
+|  | Ramp | [Analyst, Deal Operations](https://jobs.ashbyhq.com/ramp/7e531974-caac-46a2-804e-c6c3140bfda4) | San Francisco, CA / Remote |
 |  | Ramp | [Associate GTM Recruiter](https://jobs.ashbyhq.com/ramp/a85afad0-8051-4333-ae89-0f82321dea87) | San Francisco, CA / Remote |
 |  | Ramp | [Associate, Strategic Finance](https://jobs.ashbyhq.com/ramp/606475af-b74f-42c4-978a-dde138a86ac7) | New York, NY (HQ) / San Francisco, CA / Remote |
 |  | Ramp | [Business Development Representative / Ontario, Canada](https://jobs.ashbyhq.com/ramp/cce684de-191d-4a8a-bc42-7ded3ccd47af) | Toronto, ON / Remote |
@@ -218,6 +217,7 @@ Last checked: 2026-10-15 13:20:14 UTC
 |  | Scale AI | [COLM 2026 - General Interest](https://job-boards.greenhouse.io/scaleai/jobs/4736877005) | San Francisco, CA; Seattle, WA; New York, NY |
 |  | Scale AI | [National Security Hackathon 2026 - General Interest](https://job-boards.greenhouse.io/scaleai/jobs/4687588005) | San Francisco, CA; New York, NY; Washington, DC |
 |  | Schonfeld | [Associate Counsel, PM Legal and Fund Formation](https://job-boards.greenhouse.io/schonfeld/jobs/8186867) | New York, New York, United States |
+|  | Schonfeld | [Corporate Access Associate](https://job-boards.greenhouse.io/schonfeld/jobs/8281961) | New York, New York, United States |
 |  | Schonfeld | [Enterprise Risk Associate, FX & Rates](https://job-boards.greenhouse.io/schonfeld/jobs/7535613) | New York, New York, United States |
 |  | Schonfeld | [Market Data Analyst](https://job-boards.greenhouse.io/schonfeld/jobs/7843959) | New York, New York, United States |
 |  | Schonfeld | [Regulatory Reporting Associate](https://job-boards.greenhouse.io/schonfeld/jobs/8226258) | New York, New York, United States |
@@ -251,16 +251,16 @@ Last checked: 2026-10-15 13:20:14 UTC
 | Bilt | 19 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 46 | 0 | OK |
+| BlackRock | 47 | 0 | OK |
 | Blackstone | 29 | 9 | OK |
 | Blackstone (Campus) | 27 | 2 | OK |
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 647 | 16 | OK |
-| Stripe | 726 | 14 | OK |
+| Stripe | 727 | 14 | OK |
 | Datadog | 437 | 9 | OK |
 | Palantir | 313 | 14 | OK |
-| Ramp | 163 | 13 | OK |
+| Ramp | 164 | 13 | OK |
 | iCapital | 211 | 8 | OK |
 | AlphaSights | 60 | 12 | OK |
 | Jane Street | 227 | 11 | OK |
@@ -273,17 +273,17 @@ Last checked: 2026-10-15 13:20:14 UTC
 | Clear Street | 46 | 7 | OK |
 | Scale AI | 180 | 2 | OK |
 | Dataiku | 14 | 0 | OK |
-| MongoDB | 402 | 2 | OK |
-| Oscar Health | 233 | 17 | OK |
-| The Trade Desk | 99 | 4 | OK |
-| Guidepoint | 108 | 6 | OK |
+| MongoDB | 401 | 2 | OK |
+| Oscar Health | 232 | 17 | OK |
+| The Trade Desk | 100 | 4 | OK |
+| Guidepoint | 107 | 6 | OK |
 | Gusto | 101 | 4 | OK |
 | Flatiron Health | 21 | 4 | OK |
-| OpenAI | 803 | 15 | OK |
+| OpenAI | 802 | 15 | OK |
 | Perplexity | 130 | 3 | OK |
 | Notion | 129 | 9 | OK |
 | Harvey | 343 | 21 | OK |
 | Kalshi | 49 | 1 | OK |
 | Unify | 10 | 1 | OK |
-| Cohere | 116 | 3 | OK |
+| Cohere | 117 | 3 | OK |
 | Vanta | 81 | 2 | OK |
