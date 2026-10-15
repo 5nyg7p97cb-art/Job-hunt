@@ -1,11 +1,13 @@
 # Entry-level openings
 
-Last checked: 2026-10-15 12:10:53 UTC
+Last checked: 2026-10-15 13:20:14 UTC
 
-235 matching roles open. ð = found in the latest run.
+237 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Ramp | [Analyst, Deal Operations](https://jobs.ashbyhq.com/ramp/7e531974-caac-46a2-804e-c6c3140bfda4) | San Francisco, CA / Remote |
+| ð | Schonfeld | [Corporate Access Associate](https://job-boards.greenhouse.io/schonfeld/jobs/8281961) | New York, New York, United States |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -256,28 +258,28 @@ Last checked: 2026-10-15 12:10:53 UTC
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 647 | 16 | OK |
 | Stripe | 726 | 14 | OK |
-| Datadog | 433 | 9 | OK |
+| Datadog | 437 | 9 | OK |
 | Palantir | 313 | 14 | OK |
-| Ramp | 162 | 12 | OK |
-| iCapital | 212 | 8 | OK |
+| Ramp | 163 | 13 | OK |
+| iCapital | 211 | 8 | OK |
 | AlphaSights | 60 | 12 | OK |
 | Jane Street | 227 | 11 | OK |
-| Schonfeld | 66 | 5 | OK |
-| Robinhood | 151 | 0 | OK |
+| Schonfeld | 68 | 6 | OK |
+| Robinhood | 152 | 0 | OK |
 | SoFi | 51 | 0 | OK |
 | Affirm | 204 | 5 | OK |
 | Brex | 261 | 1 | OK |
 | Betterment | 24 | 2 | OK |
 | Clear Street | 46 | 7 | OK |
-| Scale AI | 181 | 2 | OK |
+| Scale AI | 180 | 2 | OK |
 | Dataiku | 14 | 0 | OK |
 | MongoDB | 402 | 2 | OK |
 | Oscar Health | 233 | 17 | OK |
 | The Trade Desk | 99 | 4 | OK |
-| Guidepoint | 107 | 6 | OK |
+| Guidepoint | 108 | 6 | OK |
 | Gusto | 101 | 4 | OK |
 | Flatiron Health | 21 | 4 | OK |
-| OpenAI | 804 | 15 | OK |
+| OpenAI | 803 | 15 | OK |
 | Perplexity | 130 | 3 | OK |
 | Notion | 129 | 9 | OK |
 | Harvey | 343 | 21 | OK |
