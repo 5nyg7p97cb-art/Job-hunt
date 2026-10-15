@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-15 17:11:03 UTC
+Last checked: 2026-10-15 18:05:49 UTC
 
 237 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
@@ -79,8 +79,8 @@ Last checked: 2026-10-15 17:11:03 UTC
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -251,7 +251,7 @@ Last checked: 2026-10-15 17:11:03 UTC
 | Bilt | 19 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 46 | 0 | OK |
+| BlackRock | 45 | 0 | OK |
 | Blackstone | 29 | 9 | OK |
 | Blackstone (Campus) | 26 | 2 | OK |
 | Point72 | 221 | 11 | OK |
@@ -261,21 +261,21 @@ Last checked: 2026-10-15 17:11:03 UTC
 | Datadog | 439 | 9 | OK |
 | Palantir | 312 | 14 | OK |
 | Ramp | 164 | 13 | OK |
-| iCapital | 212 | 8 | OK |
+| iCapital | 214 | 8 | OK |
 | AlphaSights | 60 | 12 | OK |
-| Jane Street | 227 | 11 | OK |
+| Jane Street | 226 | 11 | OK |
 | Schonfeld | 69 | 6 | OK |
-| Robinhood | 152 | 0 | OK |
+| Robinhood | 153 | 0 | OK |
 | SoFi | 49 | 0 | OK |
-| Affirm | 206 | 5 | OK |
+| Affirm | 208 | 5 | OK |
 | Brex | 261 | 1 | OK |
 | Betterment | 24 | 2 | OK |
-| Clear Street | 46 | 7 | OK |
+| Clear Street | 45 | 7 | OK |
 | Scale AI | 180 | 2 | OK |
 | Dataiku | 14 | 0 | OK |
 | MongoDB | 401 | 2 | OK |
 | Oscar Health | 231 | 17 | OK |
-| The Trade Desk | 100 | 4 | OK |
+| The Trade Desk | 99 | 4 | OK |
 | Guidepoint | 107 | 6 | OK |
 | Gusto | 101 | 4 | OK |
 | Flatiron Health | 20 | 4 | OK |
