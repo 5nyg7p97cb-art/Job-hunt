@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-15 09:38:58 UTC
+Last checked: 2026-10-15 10:38:47 UTC
 
 235 matching roles open. ð = found in the latest run.
 
@@ -226,8 +226,8 @@ Last checked: 2026-10-15 09:38:58 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -255,17 +255,17 @@ Last checked: 2026-10-15 09:38:58 UTC
 | Point72 | 222 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 647 | 16 | OK |
-| Stripe | 726 | 14 | OK |
+| Stripe | 727 | 14 | OK |
 | Datadog | 435 | 9 | OK |
-| Palantir | 314 | 14 | OK |
+| Palantir | 315 | 14 | OK |
 | Ramp | 162 | 12 | OK |
-| iCapital | 213 | 8 | OK |
+| iCapital | 212 | 8 | OK |
 | AlphaSights | 60 | 12 | OK |
 | Jane Street | 227 | 11 | OK |
 | Schonfeld | 66 | 5 | OK |
 | Robinhood | 151 | 0 | OK |
 | SoFi | 51 | 0 | OK |
-| Affirm | 206 | 5 | OK |
+| Affirm | 204 | 5 | OK |
 | Brex | 261 | 1 | OK |
 | Betterment | 24 | 2 | OK |
 | Clear Street | 46 | 7 | OK |
@@ -279,7 +279,7 @@ Last checked: 2026-10-15 09:38:58 UTC
 | Flatiron Health | 21 | 4 | OK |
 | OpenAI | 804 | 15 | OK |
 | Perplexity | 130 | 3 | OK |
-| Notion | 130 | 9 | OK |
+| Notion | 129 | 9 | OK |
 | Harvey | 343 | 21 | OK |
 | Kalshi | 49 | 1 | OK |
 | Unify | 10 | 1 | OK |
