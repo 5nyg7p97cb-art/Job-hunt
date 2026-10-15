@@ -1,11 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-10-15 20:06:42 UTC
+Last checked: 2026-10-15 20:42:53 UTC
 
-237 matching roles open. ð = found in the latest run.
+238 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Vanta | [Sales Development Representative, Enterprise](https://jobs.ashbyhq.com/vanta/ed31b882-0d92-4bcd-a0e7-bed3a7d04ec4) | New York, NY / Remote |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
@@ -228,8 +229,8 @@ Last checked: 2026-10-15 20:06:42 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -251,22 +252,22 @@ Last checked: 2026-10-15 20:06:42 UTC
 | Bilt | 19 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 45 | 0 | OK |
+| BlackRock | 46 | 0 | OK |
 | Blackstone | 29 | 9 | OK |
 | Blackstone (Campus) | 26 | 2 | OK |
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 649 | 16 | OK |
-| Stripe | 727 | 14 | OK |
+| Stripe | 728 | 14 | OK |
 | Datadog | 440 | 9 | OK |
 | Palantir | 310 | 14 | OK |
-| Ramp | 164 | 13 | OK |
+| Ramp | 163 | 13 | OK |
 | iCapital | 217 | 8 | OK |
 | AlphaSights | 60 | 12 | OK |
 | Jane Street | 226 | 11 | OK |
 | Schonfeld | 69 | 6 | OK |
-| Robinhood | 153 | 0 | OK |
-| SoFi | 49 | 0 | OK |
+| Robinhood | 154 | 0 | OK |
+| SoFi | 51 | 0 | OK |
 | Affirm | 207 | 5 | OK |
 | Brex | 261 | 1 | OK |
 | Betterment | 24 | 2 | OK |
@@ -274,8 +275,8 @@ Last checked: 2026-10-15 20:06:42 UTC
 | Scale AI | 180 | 2 | OK |
 | Dataiku | 14 | 0 | OK |
 | MongoDB | 402 | 2 | OK |
-| Oscar Health | 231 | 17 | OK |
-| The Trade Desk | 97 | 4 | OK |
+| Oscar Health | 232 | 17 | OK |
+| The Trade Desk | 99 | 4 | OK |
 | Guidepoint | 107 | 6 | OK |
 | Gusto | 102 | 4 | OK |
 | Flatiron Health | 20 | 4 | OK |
@@ -286,4 +287,4 @@ Last checked: 2026-10-15 20:06:42 UTC
 | Kalshi | 49 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 118 | 3 | OK |
-| Vanta | 82 | 2 | OK |
+| Vanta | 84 | 3 | OK |
