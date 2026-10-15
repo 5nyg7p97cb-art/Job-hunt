@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-15 02:09:39 UTC
+Last checked: 2026-10-15 03:05:44 UTC
 
 235 matching roles open. ð = found in the latest run.
 
@@ -252,13 +252,13 @@ Last checked: 2026-10-15 02:09:39 UTC
 | BlackRock | 44 | 0 | OK |
 | Blackstone | 29 | 9 | OK |
 | Blackstone (Campus) | 27 | 2 | OK |
-| Point72 | 225 | 11 | OK |
+| Point72 | 224 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 647 | 16 | OK |
 | Stripe | 727 | 14 | OK |
-| Datadog | 437 | 9 | OK |
+| Datadog | 439 | 9 | OK |
 | Palantir | 314 | 14 | OK |
-| Ramp | 161 | 12 | OK |
+| Ramp | 162 | 12 | OK |
 | iCapital | 215 | 8 | OK |
 | AlphaSights | 60 | 12 | OK |
 | Jane Street | 227 | 11 | OK |
@@ -270,7 +270,7 @@ Last checked: 2026-10-15 02:09:39 UTC
 | Betterment | 25 | 2 | OK |
 | Clear Street | 46 | 7 | OK |
 | Scale AI | 182 | 2 | OK |
-| Dataiku | 15 | 0 | OK |
+| Dataiku | 14 | 0 | OK |
 | MongoDB | 401 | 2 | OK |
 | Oscar Health | 233 | 17 | OK |
 | The Trade Desk | 99 | 4 | OK |
@@ -280,7 +280,7 @@ Last checked: 2026-10-15 02:09:39 UTC
 | OpenAI | 804 | 15 | OK |
 | Perplexity | 130 | 3 | OK |
 | Notion | 130 | 9 | OK |
-| Harvey | 347 | 21 | OK |
+| Harvey | 344 | 21 | OK |
 | Kalshi | 49 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 116 | 3 | OK |
