@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-15 15:11:44 UTC
+Last checked: 2026-10-15 16:08:58 UTC
 
 237 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
@@ -79,8 +79,8 @@ Last checked: 2026-10-15 15:11:44 UTC
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -160,8 +160,8 @@ Last checked: 2026-10-15 15:11:44 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
 |  | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8257364) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
@@ -257,11 +257,11 @@ Last checked: 2026-10-15 15:11:44 UTC
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 646 | 16 | OK |
-| Stripe | 726 | 14 | OK |
-| Datadog | 438 | 9 | OK |
-| Palantir | 313 | 14 | OK |
+| Stripe | 728 | 14 | OK |
+| Datadog | 439 | 9 | OK |
+| Palantir | 312 | 14 | OK |
 | Ramp | 165 | 13 | OK |
-| iCapital | 211 | 8 | OK |
+| iCapital | 212 | 8 | OK |
 | AlphaSights | 60 | 12 | OK |
 | Jane Street | 227 | 11 | OK |
 | Schonfeld | 69 | 6 | OK |
@@ -277,13 +277,13 @@ Last checked: 2026-10-15 15:11:44 UTC
 | Oscar Health | 227 | 17 | OK |
 | The Trade Desk | 100 | 4 | OK |
 | Guidepoint | 107 | 6 | OK |
-| Gusto | 101 | 4 | OK |
-| Flatiron Health | 21 | 4 | OK |
-| OpenAI | 802 | 15 | OK |
+| Gusto | 100 | 4 | OK |
+| Flatiron Health | 20 | 4 | OK |
+| OpenAI | 803 | 15 | OK |
 | Perplexity | 130 | 3 | OK |
 | Notion | 129 | 9 | OK |
 | Harvey | 344 | 21 | OK |
 | Kalshi | 49 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 117 | 3 | OK |
-| Vanta | 81 | 2 | OK |
+| Vanta | 82 | 2 | OK |
