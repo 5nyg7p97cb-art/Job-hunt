@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-15 19:35:37 UTC
+Last checked: 2026-10-15 20:06:42 UTC
 
 237 matching roles open. ð = found in the latest run.
 
@@ -228,8 +228,8 @@ Last checked: 2026-10-15 19:35:37 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -257,17 +257,17 @@ Last checked: 2026-10-15 19:35:37 UTC
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 649 | 16 | OK |
-| Stripe | 728 | 14 | OK |
+| Stripe | 727 | 14 | OK |
 | Datadog | 440 | 9 | OK |
 | Palantir | 310 | 14 | OK |
 | Ramp | 164 | 13 | OK |
-| iCapital | 215 | 8 | OK |
+| iCapital | 217 | 8 | OK |
 | AlphaSights | 60 | 12 | OK |
 | Jane Street | 226 | 11 | OK |
 | Schonfeld | 69 | 6 | OK |
 | Robinhood | 153 | 0 | OK |
 | SoFi | 49 | 0 | OK |
-| Affirm | 208 | 5 | OK |
+| Affirm | 207 | 5 | OK |
 | Brex | 261 | 1 | OK |
 | Betterment | 24 | 2 | OK |
 | Clear Street | 45 | 7 | OK |
@@ -275,15 +275,15 @@ Last checked: 2026-10-15 19:35:37 UTC
 | Dataiku | 14 | 0 | OK |
 | MongoDB | 402 | 2 | OK |
 | Oscar Health | 231 | 17 | OK |
-| The Trade Desk | 98 | 4 | OK |
+| The Trade Desk | 97 | 4 | OK |
 | Guidepoint | 107 | 6 | OK |
-| Gusto | 101 | 4 | OK |
+| Gusto | 102 | 4 | OK |
 | Flatiron Health | 20 | 4 | OK |
-| OpenAI | 804 | 15 | OK |
+| OpenAI | 805 | 15 | OK |
 | Perplexity | 130 | 3 | OK |
 | Notion | 129 | 9 | OK |
 | Harvey | 338 | 21 | OK |
 | Kalshi | 49 | 1 | OK |
 | Unify | 10 | 1 | OK |
-| Cohere | 117 | 3 | OK |
+| Cohere | 118 | 3 | OK |
 | Vanta | 82 | 2 | OK |
