@@ -1,11 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-10-16 13:45:03 UTC
+Last checked: 2026-10-16 14:39:48 UTC
 
-238 matching roles open. ð = found in the latest run.
+237 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Stripe | [Workplace Design Coordinator](https://stripe.com/jobs/search?gh_jid=8275261) | SF, NYC, SEA, TOR |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
@@ -122,7 +123,6 @@ Last checked: 2026-10-16 13:45:03 UTC
 |  | Jane Street | [Campus Recruiter, Early Careers Partnerships & Initiatives](https://www.janestreet.com/join-jane-street/apply/8448713002?gh_jid=8448713002) | New York, New York, United States |
 |  | Jane Street | [Campus Recruiter, Machine Learning and Quantitative Research](https://www.janestreet.com/join-jane-street/apply/8229056002?gh_jid=8229056002) | New York, New York, United States |
 |  | Jane Street | [Campus Recruiter, Technology](https://www.janestreet.com/join-jane-street/apply/8345570002?gh_jid=8345570002) | New York, New York, United States |
-|  | Jane Street | [Events Coordinator](https://www.janestreet.com/join-jane-street/apply/8686227002?gh_jid=8686227002) | New York, New York, United States |
 |  | Jane Street | [Fundamental Research Analyst](https://www.janestreet.com/join-jane-street/apply/8347286002?gh_jid=8347286002) | New York, New York, United States |
 |  | Jane Street | [Grains and Oilseeds Analyst](https://www.janestreet.com/join-jane-street/apply/8180726002?gh_jid=8180726002) | New York, New York, United States |
 |  | Jane Street | [Oil and Refined Products Analyst/Trader](https://www.janestreet.com/join-jane-street/apply/8413554002?gh_jid=8413554002) | New York, New York, United States |
@@ -228,11 +228,10 @@ Last checked: 2026-10-16 13:45:03 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
-|  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
 |  | Stripe | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8128744) | San Francisco, Seattle, New York |
 |  | Stripe | [University Recruiter (Fixed Term)](https://stripe.com/jobs/search?gh_jid=8226211) | San Francisco, New York, Seattle, US-Remote |
@@ -257,24 +256,24 @@ Last checked: 2026-10-16 13:45:03 UTC
 | Blackstone (Campus) | 26 | 2 | OK |
 | Point72 | 222 | 11 | OK |
 | General Atlantic | 13 | 0 | OK |
-| Anthropic | 652 | 16 | OK |
-| Stripe | 730 | 14 | OK |
-| Datadog | 434 | 9 | OK |
-| Palantir | 309 | 14 | OK |
+| Anthropic | 651 | 16 | OK |
+| Stripe | 732 | 14 | OK |
+| Datadog | 433 | 9 | OK |
+| Palantir | 310 | 14 | OK |
 | Ramp | 163 | 13 | OK |
 | iCapital | 217 | 8 | OK |
 | AlphaSights | 60 | 12 | OK |
-| Jane Street | 226 | 11 | OK |
+| Jane Street | 225 | 10 | OK |
 | Schonfeld | 69 | 6 | OK |
 | Robinhood | 154 | 0 | OK |
 | SoFi | 51 | 0 | OK |
-| Affirm | 212 | 7 | OK |
+| Affirm | 215 | 7 | OK |
 | Brex | 256 | 1 | OK |
 | Betterment | 24 | 2 | OK |
 | Clear Street | 44 | 7 | OK |
-| Scale AI | 181 | 2 | OK |
+| Scale AI | 179 | 2 | OK |
 | Dataiku | 14 | 0 | OK |
-| MongoDB | 402 | 2 | OK |
+| MongoDB | 403 | 2 | OK |
 | Oscar Health | 231 | 17 | OK |
 | The Trade Desk | 100 | 4 | OK |
 | Guidepoint | 111 | 6 | OK |
