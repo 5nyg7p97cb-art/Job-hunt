@@ -1,17 +1,17 @@
 # Entry-level openings
 
-Last checked: 2026-10-16 00:46:13 UTC
+Last checked: 2026-10-16 01:35:51 UTC
 
 240 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -260,7 +260,7 @@ Last checked: 2026-10-16 00:46:13 UTC
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 655 | 16 | OK |
-| Stripe | 726 | 14 | OK |
+| Stripe | 725 | 14 | OK |
 | Datadog | 439 | 9 | OK |
 | Palantir | 310 | 14 | OK |
 | Ramp | 163 | 13 | OK |
@@ -270,7 +270,7 @@ Last checked: 2026-10-16 00:46:13 UTC
 | Schonfeld | 69 | 6 | OK |
 | Robinhood | 154 | 0 | OK |
 | SoFi | 51 | 0 | OK |
-| Affirm | 209 | 7 | OK |
+| Affirm | 211 | 7 | OK |
 | Brex | 261 | 1 | OK |
 | Betterment | 24 | 2 | OK |
 | Clear Street | 44 | 7 | OK |
@@ -278,7 +278,7 @@ Last checked: 2026-10-16 00:46:13 UTC
 | Dataiku | 14 | 0 | OK |
 | MongoDB | 402 | 2 | OK |
 | Oscar Health | 231 | 17 | OK |
-| The Trade Desk | 99 | 4 | OK |
+| The Trade Desk | 100 | 4 | OK |
 | Guidepoint | 111 | 6 | OK |
 | Gusto | 101 | 4 | OK |
 | Flatiron Health | 20 | 4 | OK |
