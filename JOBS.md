@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-16 18:04:14 UTC
+Last checked: 2026-10-16 18:42:47 UTC
 
 234 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | iCapital | [Regulatory and Compliance, AML - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8875456002) | New York, New York, United States |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -116,6 +115,7 @@ Last checked: 2026-10-16 18:04:14 UTC
 |  | iCapital | [Corporate Finance, Revenue Operations - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8889716002) | New York, New York, United States |
 |  | iCapital | [Investment Strategy - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8766868002) | New York, New York, United States |
 |  | iCapital | [Regulatory and Compliance - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8729940002) | New York, New York, United States |
+|  | iCapital | [Regulatory and Compliance, AML - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8875456002) | New York, New York, United States |
 |  | iCapital | [Regulatory and Compliance, Subscription Document Review - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8812006002) | New York, New York, United States |
 |  | iCapital | [Structured Investments Distribution - Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8776670002) | New York, New York, United States |
 |  | Jane Street | [Accounting Coordinator](https://www.janestreet.com/join-jane-street/apply/8631912002?gh_jid=8631912002) | New York, New York, United States |
@@ -156,8 +156,8 @@ Last checked: 2026-10-16 18:04:14 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
 |  | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8257364) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
@@ -224,8 +224,8 @@ Last checked: 2026-10-16 18:04:14 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -254,24 +254,24 @@ Last checked: 2026-10-16 18:04:14 UTC
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 13 | 0 | OK |
 | Anthropic | 653 | 16 | OK |
-| Stripe | 730 | 14 | OK |
+| Stripe | 731 | 14 | OK |
 | Datadog | 431 | 9 | OK |
 | Palantir | 310 | 14 | OK |
-| Ramp | 163 | 13 | OK |
-| iCapital | 217 | 9 | OK |
+| Ramp | 165 | 13 | OK |
+| iCapital | 214 | 9 | OK |
 | AlphaSights | 60 | 12 | OK |
 | Jane Street | 221 | 7 | OK |
 | Schonfeld | 71 | 6 | OK |
-| Robinhood | 151 | 0 | OK |
+| Robinhood | 152 | 0 | OK |
 | SoFi | 49 | 0 | OK |
 | Affirm | 212 | 7 | OK |
-| Brex | 256 | 1 | OK |
+| Brex | 260 | 1 | OK |
 | Betterment | 24 | 2 | OK |
 | Clear Street | 43 | 6 | OK |
-| Scale AI | 181 | 2 | OK |
+| Scale AI | 182 | 2 | OK |
 | Dataiku | 13 | 0 | OK |
 | MongoDB | 404 | 2 | OK |
-| Oscar Health | 238 | 17 | OK |
+| Oscar Health | 241 | 17 | OK |
 | The Trade Desk | 100 | 4 | OK |
 | Guidepoint | 111 | 6 | OK |
 | Gusto | 102 | 4 | OK |
@@ -279,8 +279,8 @@ Last checked: 2026-10-16 18:04:14 UTC
 | OpenAI | 809 | 15 | OK |
 | Perplexity | 131 | 3 | OK |
 | Notion | 129 | 9 | OK |
-| Harvey | 343 | 20 | OK |
+| Harvey | 342 | 20 | OK |
 | Kalshi | 49 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 118 | 3 | OK |
-| Vanta | 85 | 3 | OK |
+| Vanta | 84 | 3 | OK |
