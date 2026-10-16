@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-16 14:39:48 UTC
+Last checked: 2026-10-16 15:36:49 UTC
 
 237 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Stripe | [Workplace Design Coordinator](https://stripe.com/jobs/search?gh_jid=8275261) | SF, NYC, SEA, TOR |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
@@ -160,8 +159,8 @@ Last checked: 2026-10-16 14:39:48 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8257364) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
@@ -228,13 +227,14 @@ Last checked: 2026-10-16 14:39:48 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
 |  | Stripe | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8128744) | San Francisco, Seattle, New York |
 |  | Stripe | [University Recruiter (Fixed Term)](https://stripe.com/jobs/search?gh_jid=8226211) | San Francisco, New York, Seattle, US-Remote |
+|  | Stripe | [Workplace Design Coordinator](https://stripe.com/jobs/search?gh_jid=8275261) | SF, NYC, SEA, TOR |
 |  | The Trade Desk | [Associate General Counsel, Commercial CTV & Advertising](https://job-boards.greenhouse.io/thetradedesk/jobs/4682475007) | Chicago; Irvine; Los Angeles; New York; San Francisco; San Jose |
 |  | The Trade Desk | [Associate General Counsel, Product & Privacy](https://job-boards.greenhouse.io/thetradedesk/jobs/5154942007) | Chicago; Irvine; Los Angeles; New York; San Francisco; San Jose |
 |  | The Trade Desk | [Data Support Analyst I](https://job-boards.greenhouse.io/thetradedesk/jobs/5165780007) | New York |
@@ -254,32 +254,32 @@ Last checked: 2026-10-16 14:39:48 UTC
 | BlackRock | 44 | 0 | OK |
 | Blackstone | 27 | 8 | OK |
 | Blackstone (Campus) | 26 | 2 | OK |
-| Point72 | 222 | 11 | OK |
+| Point72 | 221 | 11 | OK |
 | General Atlantic | 13 | 0 | OK |
 | Anthropic | 651 | 16 | OK |
-| Stripe | 732 | 14 | OK |
+| Stripe | 731 | 14 | OK |
 | Datadog | 433 | 9 | OK |
 | Palantir | 310 | 14 | OK |
 | Ramp | 163 | 13 | OK |
-| iCapital | 217 | 8 | OK |
+| iCapital | 218 | 8 | OK |
 | AlphaSights | 60 | 12 | OK |
 | Jane Street | 225 | 10 | OK |
-| Schonfeld | 69 | 6 | OK |
+| Schonfeld | 71 | 6 | OK |
 | Robinhood | 154 | 0 | OK |
 | SoFi | 51 | 0 | OK |
-| Affirm | 215 | 7 | OK |
+| Affirm | 214 | 7 | OK |
 | Brex | 256 | 1 | OK |
 | Betterment | 24 | 2 | OK |
 | Clear Street | 44 | 7 | OK |
-| Scale AI | 179 | 2 | OK |
-| Dataiku | 14 | 0 | OK |
-| MongoDB | 403 | 2 | OK |
-| Oscar Health | 231 | 17 | OK |
+| Scale AI | 181 | 2 | OK |
+| Dataiku | 13 | 0 | OK |
+| MongoDB | 404 | 2 | OK |
+| Oscar Health | 233 | 17 | OK |
 | The Trade Desk | 100 | 4 | OK |
 | Guidepoint | 111 | 6 | OK |
 | Gusto | 101 | 4 | OK |
 | Flatiron Health | 19 | 4 | OK |
-| OpenAI | 802 | 15 | OK |
+| OpenAI | 805 | 15 | OK |
 | Perplexity | 131 | 3 | OK |
 | Notion | 129 | 9 | OK |
 | Harvey | 343 | 20 | OK |
