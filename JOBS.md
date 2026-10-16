@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-16 20:35:26 UTC
+Last checked: 2026-10-16 21:08:41 UTC
 
 234 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
@@ -253,26 +253,26 @@ Last checked: 2026-10-16 20:35:26 UTC
 | Blackstone (Campus) | 26 | 2 | OK |
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 13 | 0 | OK |
-| Anthropic | 654 | 16 | OK |
+| Anthropic | 653 | 16 | OK |
 | Stripe | 733 | 14 | OK |
 | Datadog | 430 | 9 | OK |
 | Palantir | 310 | 14 | OK |
-| Ramp | 165 | 13 | OK |
-| iCapital | 214 | 9 | OK |
+| Ramp | 167 | 13 | OK |
+| iCapital | 215 | 9 | OK |
 | AlphaSights | 60 | 12 | OK |
 | Jane Street | 221 | 7 | OK |
 | Schonfeld | 69 | 6 | OK |
-| Robinhood | 152 | 0 | OK |
+| Robinhood | 151 | 0 | OK |
 | SoFi | 49 | 0 | OK |
-| Affirm | 212 | 7 | OK |
+| Affirm | 214 | 7 | OK |
 | Brex | 260 | 1 | OK |
 | Betterment | 24 | 2 | OK |
 | Clear Street | 43 | 6 | OK |
 | Scale AI | 183 | 2 | OK |
 | Dataiku | 13 | 0 | OK |
 | MongoDB | 403 | 2 | OK |
-| Oscar Health | 243 | 17 | OK |
-| The Trade Desk | 100 | 4 | OK |
+| Oscar Health | 247 | 17 | OK |
+| The Trade Desk | 101 | 4 | OK |
 | Guidepoint | 111 | 6 | OK |
 | Gusto | 102 | 4 | OK |
 | Flatiron Health | 19 | 4 | OK |
