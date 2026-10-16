@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-16 20:02:15 UTC
+Last checked: 2026-10-16 20:35:26 UTC
 
 234 matching roles open. ð = found in the latest run.
 
@@ -224,8 +224,8 @@ Last checked: 2026-10-16 20:02:15 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -253,8 +253,8 @@ Last checked: 2026-10-16 20:02:15 UTC
 | Blackstone (Campus) | 26 | 2 | OK |
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 13 | 0 | OK |
-| Anthropic | 653 | 16 | OK |
-| Stripe | 732 | 14 | OK |
+| Anthropic | 654 | 16 | OK |
+| Stripe | 733 | 14 | OK |
 | Datadog | 430 | 9 | OK |
 | Palantir | 310 | 14 | OK |
 | Ramp | 165 | 13 | OK |
@@ -271,10 +271,10 @@ Last checked: 2026-10-16 20:02:15 UTC
 | Scale AI | 183 | 2 | OK |
 | Dataiku | 13 | 0 | OK |
 | MongoDB | 403 | 2 | OK |
-| Oscar Health | 241 | 17 | OK |
+| Oscar Health | 243 | 17 | OK |
 | The Trade Desk | 100 | 4 | OK |
 | Guidepoint | 111 | 6 | OK |
-| Gusto | 103 | 4 | OK |
+| Gusto | 102 | 4 | OK |
 | Flatiron Health | 19 | 4 | OK |
 | OpenAI | 808 | 15 | OK |
 | Perplexity | 132 | 3 | OK |
