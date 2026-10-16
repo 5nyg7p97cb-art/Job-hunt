@@ -280,5 +280,29 @@
 "wd-blackstone-/job/New-York/XMLNAME-2026-Portfolio-Management-Program_43989",
 "wd-blackstone-/job/New-York/XMLNAME-2027-Blackstone-Real-Estate-Acquisitions-Analyst_45626"
 ],
-"failing": []
+"failing": [
+"Affirm",
+"AlphaSights",
+"Anthropic",
+"Betterment",
+"Brex",
+"Clear Street",
+"Datadog",
+"Dataiku",
+"Flatiron Health",
+"General Atlantic",
+"Guidepoint",
+"Gusto",
+"Jane Street",
+"MongoDB",
+"Oscar Health",
+"Point72",
+"Robinhood",
+"Scale AI",
+"Schonfeld",
+"SoFi",
+"Stripe",
+"The Trade Desk",
+"iCapital"
+]
 }
