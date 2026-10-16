@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-16 22:04:25 UTC
+Last checked: 2026-10-16 22:37:35 UTC
 
-234 matching roles open. ð = found in the latest run.
+233 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -210,7 +210,6 @@ Last checked: 2026-10-16 22:04:25 UTC
 |  | Ramp | [Sales Development Representative, SMB](https://jobs.ashbyhq.com/ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f) | New York, NY (HQ) / Remote |
 |  | Ramp | [Sales Development Representative, Strategic Accounts](https://jobs.ashbyhq.com/ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284) | New York, NY (HQ) / Remote |
 |  | Ramp | [University Grad / Customer Experience Associate](https://jobs.ashbyhq.com/ramp/fc971889-db1d-4a20-a25e-f282f9296936) | New York, NY (HQ) / San Francisco, CA / Remote (US) / Remote |
-|  | Scale AI | [COLM 2026 - General Interest](https://job-boards.greenhouse.io/scaleai/jobs/4736877005) | San Francisco, CA; Seattle, WA; New York, NY |
 |  | Scale AI | [National Security Hackathon 2026 - General Interest](https://job-boards.greenhouse.io/scaleai/jobs/4687588005) | San Francisco, CA; New York, NY; Washington, DC |
 |  | Schonfeld | [Associate Counsel, PM Legal and Fund Formation](https://job-boards.greenhouse.io/schonfeld/jobs/8186867) | New York, New York, United States |
 |  | Schonfeld | [Corporate Access Associate](https://job-boards.greenhouse.io/schonfeld/jobs/8281961) | New York, New York, United States |
@@ -253,7 +252,7 @@ Last checked: 2026-10-16 22:04:25 UTC
 | Blackstone (Campus) | 26 | 2 | OK |
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 13 | 0 | OK |
-| Anthropic | 653 | 16 | OK |
+| Anthropic | 654 | 16 | OK |
 | Stripe | 732 | 14 | OK |
 | Datadog | 433 | 9 | OK |
 | Palantir | 310 | 14 | OK |
@@ -262,24 +261,24 @@ Last checked: 2026-10-16 22:04:25 UTC
 | AlphaSights | 60 | 12 | OK |
 | Jane Street | 221 | 7 | OK |
 | Schonfeld | 69 | 6 | OK |
-| Robinhood | 151 | 0 | OK |
+| Robinhood | 152 | 0 | OK |
 | SoFi | 49 | 0 | OK |
 | Affirm | 214 | 7 | OK |
 | Brex | 260 | 1 | OK |
 | Betterment | 24 | 2 | OK |
 | Clear Street | 43 | 6 | OK |
-| Scale AI | 183 | 2 | OK |
+| Scale AI | 182 | 1 | OK |
 | Dataiku | 13 | 0 | OK |
-| MongoDB | 403 | 2 | OK |
+| MongoDB | 401 | 2 | OK |
 | Oscar Health | 248 | 17 | OK |
-| The Trade Desk | 101 | 4 | OK |
+| The Trade Desk | 102 | 4 | OK |
 | Guidepoint | 111 | 6 | OK |
-| Gusto | 102 | 4 | OK |
+| Gusto | 103 | 4 | OK |
 | Flatiron Health | 19 | 4 | OK |
-| OpenAI | 809 | 15 | OK |
-| Perplexity | 132 | 3 | OK |
-| Notion | 130 | 9 | OK |
-| Harvey | 342 | 20 | OK |
+| OpenAI | 810 | 15 | OK |
+| Perplexity | 133 | 3 | OK |
+| Notion | 128 | 9 | OK |
+| Harvey | 343 | 20 | OK |
 | Kalshi | 49 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 118 | 3 | OK |
