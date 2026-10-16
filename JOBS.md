@@ -1,17 +1,17 @@
 # Entry-level openings
 
-Last checked: 2026-10-16 15:36:49 UTC
+Last checked: 2026-10-16 16:12:19 UTC
 
-237 matching roles open. ð = found in the latest run.
+236 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -58,7 +58,6 @@ Last checked: 2026-10-16 15:36:49 UTC
 |  | Blackstone (Campus) | [2027 Blackstone Real Estate Acquisitions Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Blackstone-Real-Estate-Acquisitions-Analyst_45626) | New York |
 |  | Brex | [Finance Associate](https://www.brex.com/careers/8606825002?gh_jid=8606825002) | New York, New York, United States |
 |  | Clear Street | [AML Onboarding Associate](https://job-boards.greenhouse.io/clearstreet/jobs/7557381) | New York, NY |
-|  | Clear Street | [Associate - Active Trading Support](https://job-boards.greenhouse.io/clearstreet/jobs/8168021) | New York, NY |
 |  | Clear Street | [Associate - Client Onboarding](https://job-boards.greenhouse.io/clearstreet/jobs/8227249) | New York, NY |
 |  | Clear Street | [Associate - Tax Operations](https://job-boards.greenhouse.io/clearstreet/jobs/8249141) | New York, NY |
 |  | Clear Street | [Associate - Trade Surveillance](https://job-boards.greenhouse.io/clearstreet/jobs/7561417) | New York, NY |
@@ -256,30 +255,30 @@ Last checked: 2026-10-16 15:36:49 UTC
 | Blackstone (Campus) | 26 | 2 | OK |
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 13 | 0 | OK |
-| Anthropic | 651 | 16 | OK |
-| Stripe | 731 | 14 | OK |
-| Datadog | 433 | 9 | OK |
+| Anthropic | 652 | 16 | OK |
+| Stripe | 729 | 14 | OK |
+| Datadog | 432 | 9 | OK |
 | Palantir | 310 | 14 | OK |
 | Ramp | 163 | 13 | OK |
-| iCapital | 218 | 8 | OK |
+| iCapital | 217 | 8 | OK |
 | AlphaSights | 60 | 12 | OK |
 | Jane Street | 225 | 10 | OK |
 | Schonfeld | 71 | 6 | OK |
-| Robinhood | 154 | 0 | OK |
+| Robinhood | 152 | 0 | OK |
 | SoFi | 51 | 0 | OK |
-| Affirm | 214 | 7 | OK |
+| Affirm | 212 | 7 | OK |
 | Brex | 256 | 1 | OK |
 | Betterment | 24 | 2 | OK |
-| Clear Street | 44 | 7 | OK |
+| Clear Street | 43 | 6 | OK |
 | Scale AI | 181 | 2 | OK |
 | Dataiku | 13 | 0 | OK |
-| MongoDB | 404 | 2 | OK |
-| Oscar Health | 233 | 17 | OK |
+| MongoDB | 403 | 2 | OK |
+| Oscar Health | 237 | 17 | OK |
 | The Trade Desk | 100 | 4 | OK |
 | Guidepoint | 111 | 6 | OK |
-| Gusto | 101 | 4 | OK |
+| Gusto | 100 | 4 | OK |
 | Flatiron Health | 19 | 4 | OK |
-| OpenAI | 805 | 15 | OK |
+| OpenAI | 803 | 15 | OK |
 | Perplexity | 131 | 3 | OK |
 | Notion | 129 | 9 | OK |
 | Harvey | 343 | 20 | OK |
