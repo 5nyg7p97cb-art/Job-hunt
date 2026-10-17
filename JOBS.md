@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-17 16:33:07 UTC
+Last checked: 2026-10-17 17:01:04 UTC
 
 234 matching roles open. ð = found in the latest run.
 
@@ -267,7 +267,7 @@ Last checked: 2026-10-17 16:33:07 UTC
 | Affirm | 214 | 7 | OK |
 | Brex | 260 | 1 | OK |
 | Betterment | 24 | 2 | OK |
-| Clear Street | 43 | 6 | OK |
+| Clear Street | 42 | 6 | OK |
 | Scale AI | 182 | 1 | OK |
 | Dataiku | 13 | 0 | OK |
 | MongoDB | 401 | 2 | OK |
