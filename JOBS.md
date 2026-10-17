@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-17 00:47:23 UTC
+Last checked: 2026-10-17 01:34:31 UTC
 
 234 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Harvey | [Deal Operations Analyst](https://jobs.ashbyhq.com/harvey/41e581a5-b5ee-47cb-94e5-6224f1559e4d) | New York |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
@@ -99,6 +98,7 @@ Last checked: 2026-10-17 00:47:23 UTC
 |  | Harvey | [CX Data Analyst](https://jobs.ashbyhq.com/harvey/e69f2050-b4c0-4fbb-9852-2c60d2adbb45) | Remote / Remote |
 |  | Harvey | [CX Data Analyst](https://jobs.ashbyhq.com/harvey/f8857e81-4062-4669-a7e3-7b73b114979b) | New York / Remote |
 |  | Harvey | [Compliance Analyst](https://jobs.ashbyhq.com/harvey/2f35e50f-2978-44c3-a495-7cbfc1f512d4) | San Francisco / Remote |
+|  | Harvey | [Deal Operations Analyst](https://jobs.ashbyhq.com/harvey/41e581a5-b5ee-47cb-94e5-6224f1559e4d) | New York |
 |  | Harvey | [People Operations Coordinator, Onboarding](https://jobs.ashbyhq.com/harvey/3188a79d-c5f2-40c3-8f9f-bf1c37938f9f) | New York |
 |  | Harvey | [Recruiting Coordinator](https://jobs.ashbyhq.com/harvey/5a1452ff-566c-4a80-905d-61281a02a40f) | New York / Remote |
 |  | Harvey | [Sales Development Representative](https://jobs.ashbyhq.com/harvey/08d3d70d-80a6-429d-8a27-d5efd41372f5) | San Francisco / Remote |
@@ -253,7 +253,7 @@ Last checked: 2026-10-17 00:47:23 UTC
 | Blackstone (Campus) | 26 | 2 | OK |
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 13 | 0 | OK |
-| Anthropic | 655 | 16 | OK |
+| Anthropic | 656 | 16 | OK |
 | Stripe | 731 | 14 | OK |
 | Datadog | 433 | 9 | OK |
 | Palantir | 310 | 14 | OK |
