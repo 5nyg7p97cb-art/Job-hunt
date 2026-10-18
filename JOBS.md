@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-18 19:57:31 UTC
+Last checked: 2026-10-18 20:32:15 UTC
 
 234 matching roles open. ð = found in the latest run.
 
@@ -253,7 +253,7 @@ Last checked: 2026-10-18 19:57:31 UTC
 | Blackstone (Campus) | 26 | 2 | OK |
 | Point72 | 221 | 11 | OK |
 | General Atlantic | 13 | 0 | OK |
-| Anthropic | 656 | 16 | OK |
+| Anthropic | 655 | 16 | OK |
 | Stripe | 731 | 14 | OK |
 | Datadog | 433 | 9 | OK |
 | Palantir | 310 | 14 | OK |
@@ -264,7 +264,7 @@ Last checked: 2026-10-18 19:57:31 UTC
 | Schonfeld | 69 | 6 | OK |
 | Robinhood | 153 | 0 | OK |
 | SoFi | 49 | 0 | OK |
-| Affirm | 214 | 7 | OK |
+| Affirm | 212 | 7 | OK |
 | Brex | 260 | 1 | OK |
 | Betterment | 24 | 2 | OK |
 | Clear Street | 45 | 6 | OK |
