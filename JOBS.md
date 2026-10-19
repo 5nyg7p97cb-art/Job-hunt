@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-19 10:13:29 UTC
+Last checked: 2026-10-19 11:08:16 UTC
 
 234 matching roles open. ð = found in the latest run.
 
@@ -251,7 +251,7 @@ Last checked: 2026-10-19 10:13:29 UTC
 | BlackRock | 42 | 0 | OK |
 | Blackstone | 27 | 8 | OK |
 | Blackstone (Campus) | 26 | 2 | OK |
-| Point72 | 220 | 11 | OK |
+| Point72 | 217 | 11 | OK |
 | General Atlantic | 13 | 0 | OK |
 | Anthropic | 659 | 16 | OK |
 | Stripe | 725 | 14 | OK |
@@ -260,7 +260,7 @@ Last checked: 2026-10-19 10:13:29 UTC
 | Ramp | 167 | 13 | OK |
 | iCapital | 213 | 9 | OK |
 | AlphaSights | 60 | 12 | OK |
-| Jane Street | 222 | 7 | OK |
+| Jane Street | 221 | 7 | OK |
 | Schonfeld | 69 | 6 | OK |
 | Robinhood | 153 | 0 | OK |
 | SoFi | 49 | 0 | OK |
@@ -279,7 +279,7 @@ Last checked: 2026-10-19 10:13:29 UTC
 | OpenAI | 814 | 15 | OK |
 | Perplexity | 134 | 3 | OK |
 | Notion | 129 | 9 | OK |
-| Harvey | 344 | 21 | OK |
+| Harvey | 343 | 21 | OK |
 | Kalshi | 49 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 116 | 3 | OK |
