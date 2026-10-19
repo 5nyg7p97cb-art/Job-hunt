@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-19 19:38:56 UTC
+Last checked: 2026-10-19 20:38:01 UTC
 
-237 matching roles open. ð = found in the latest run.
+238 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Harvey | [Deal Operations Analyst](https://jobs.ashbyhq.com/harvey/16b67976-02a3-4179-9eca-afc86c551b8a) | Chicago / Remote |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
@@ -81,8 +80,8 @@ Last checked: 2026-10-19 19:38:56 UTC
 |  | Flatiron Health | [Associate, Revenue Operations](https://flatiron.com/careers/open-positions/job?gh_jid=8265541) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -100,6 +99,7 @@ Last checked: 2026-10-19 19:38:56 UTC
 |  | Harvey | [CX Data Analyst](https://jobs.ashbyhq.com/harvey/e69f2050-b4c0-4fbb-9852-2c60d2adbb45) | Remote / Remote |
 |  | Harvey | [CX Data Analyst](https://jobs.ashbyhq.com/harvey/f8857e81-4062-4669-a7e3-7b73b114979b) | New York / Remote |
 |  | Harvey | [Compliance Analyst](https://jobs.ashbyhq.com/harvey/2f35e50f-2978-44c3-a495-7cbfc1f512d4) | San Francisco / Remote |
+|  | Harvey | [Deal Operations Analyst](https://jobs.ashbyhq.com/harvey/16b67976-02a3-4179-9eca-afc86c551b8a) | Chicago / Remote |
 |  | Harvey | [Deal Operations Analyst](https://jobs.ashbyhq.com/harvey/41e581a5-b5ee-47cb-94e5-6224f1559e4d) | Dallas / Remote |
 |  | Harvey | [People Operations Coordinator, Onboarding](https://jobs.ashbyhq.com/harvey/3188a79d-c5f2-40c3-8f9f-bf1c37938f9f) | New York |
 |  | Harvey | [Recruiting Coordinator](https://jobs.ashbyhq.com/harvey/5a1452ff-566c-4a80-905d-61281a02a40f) | New York / Remote |
@@ -227,10 +227,11 @@ Last checked: 2026-10-19 19:38:56 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
+|  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
 |  | Stripe | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8128744) | San Francisco, Seattle, New York |
 |  | Stripe | [University Recruiter (Fixed Term)](https://stripe.com/jobs/search?gh_jid=8226211) | San Francisco, New York, Seattle, US-Remote |
@@ -254,19 +255,19 @@ Last checked: 2026-10-19 19:38:56 UTC
 | BlackRock | 42 | 0 | OK |
 | Blackstone | 25 | 8 | OK |
 | Blackstone (Campus) | 26 | 2 | OK |
-| Point72 | 215 | 11 | OK |
+| Point72 | 214 | 11 | OK |
 | General Atlantic | 13 | 0 | OK |
-| Anthropic | 664 | 16 | OK |
-| Stripe | 724 | 14 | OK |
+| Anthropic | 665 | 16 | OK |
+| Stripe | 726 | 15 | OK |
 | Datadog | 429 | 8 | OK |
 | Palantir | 306 | 14 | OK |
 | Ramp | 167 | 13 | OK |
-| iCapital | 207 | 10 | OK |
+| iCapital | 208 | 10 | OK |
 | AlphaSights | 60 | 12 | OK |
 | Jane Street | 221 | 7 | OK |
 | Schonfeld | 70 | 6 | OK |
 | Robinhood | 151 | 0 | OK |
-| SoFi | 50 | 0 | OK |
+| SoFi | 51 | 0 | OK |
 | Affirm | 215 | 7 | OK |
 | Brex | 261 | 1 | OK |
 | Betterment | 25 | 2 | OK |
@@ -276,13 +277,13 @@ Last checked: 2026-10-19 19:38:56 UTC
 | MongoDB | 396 | 2 | OK |
 | Oscar Health | 249 | 17 | OK |
 | The Trade Desk | 102 | 4 | OK |
-| Guidepoint | 112 | 6 | OK |
+| Guidepoint | 111 | 6 | OK |
 | Gusto | 104 | 4 | OK |
 | Flatiron Health | 20 | 5 | OK |
-| OpenAI | 803 | 15 | OK |
+| OpenAI | 805 | 15 | OK |
 | Perplexity | 134 | 3 | OK |
 | Notion | 133 | 9 | OK |
-| Harvey | 344 | 22 | OK |
+| Harvey | 341 | 22 | OK |
 | Kalshi | 49 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 115 | 4 | OK |
