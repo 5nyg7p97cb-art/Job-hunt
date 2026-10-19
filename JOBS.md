@@ -1,17 +1,18 @@
 # Entry-level openings
 
-Last checked: 2026-10-19 20:38:01 UTC
+Last checked: 2026-10-19 21:36:14 UTC
 
-238 matching roles open. ð = found in the latest run.
+239 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | OpenAI | [Operations Analyst, User Safety & Risk Operations](https://jobs.ashbyhq.com/openai/daabc150-f22c-421e-b30d-1a50fb4cede3) | San Francisco / Remote |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -160,8 +161,8 @@ Last checked: 2026-10-19 20:38:01 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
 |  | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8301173) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
@@ -255,10 +256,10 @@ Last checked: 2026-10-19 20:38:01 UTC
 | BlackRock | 42 | 0 | OK |
 | Blackstone | 25 | 8 | OK |
 | Blackstone (Campus) | 26 | 2 | OK |
-| Point72 | 214 | 11 | OK |
+| Point72 | 215 | 11 | OK |
 | General Atlantic | 13 | 0 | OK |
-| Anthropic | 665 | 16 | OK |
-| Stripe | 726 | 15 | OK |
+| Anthropic | 666 | 16 | OK |
+| Stripe | 727 | 15 | OK |
 | Datadog | 429 | 8 | OK |
 | Palantir | 306 | 14 | OK |
 | Ramp | 167 | 13 | OK |
@@ -276,11 +277,11 @@ Last checked: 2026-10-19 20:38:01 UTC
 | Dataiku | 13 | 0 | OK |
 | MongoDB | 396 | 2 | OK |
 | Oscar Health | 249 | 17 | OK |
-| The Trade Desk | 102 | 4 | OK |
+| The Trade Desk | 103 | 4 | OK |
 | Guidepoint | 111 | 6 | OK |
-| Gusto | 104 | 4 | OK |
+| Gusto | 103 | 4 | OK |
 | Flatiron Health | 20 | 5 | OK |
-| OpenAI | 805 | 15 | OK |
+| OpenAI | 806 | 16 | OK |
 | Perplexity | 134 | 3 | OK |
 | Notion | 133 | 9 | OK |
 | Harvey | 341 | 22 | OK |
