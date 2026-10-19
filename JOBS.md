@@ -1,14 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-10-19 18:46:31 UTC
+Last checked: 2026-10-19 19:38:56 UTC
 
-235 matching roles open. ð = found in the latest run.
+237 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Flatiron Health | [Associate, Sales Operations](https://flatiron.com/careers/open-positions/job?gh_jid=8265541) | NY office |
-| ð | iCapital | [Structured Investments Operations - Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8660767002) | New York, New York, United States |
-| ð | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8301173) | Remote |
+| ð | Harvey | [Deal Operations Analyst](https://jobs.ashbyhq.com/harvey/16b67976-02a3-4179-9eca-afc86c551b8a) | Chicago / Remote |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
@@ -80,6 +78,7 @@ Last checked: 2026-10-19 18:46:31 UTC
 |  | Datadog | [Strategic Finance Analyst](https://careers.datadoghq.com/detail/8257306/?gh_jid=8257306) | New York, New York, USA |
 |  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
+|  | Flatiron Health | [Associate, Revenue Operations](https://flatiron.com/careers/open-positions/job?gh_jid=8265541) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
@@ -101,6 +100,7 @@ Last checked: 2026-10-19 18:46:31 UTC
 |  | Harvey | [CX Data Analyst](https://jobs.ashbyhq.com/harvey/e69f2050-b4c0-4fbb-9852-2c60d2adbb45) | Remote / Remote |
 |  | Harvey | [CX Data Analyst](https://jobs.ashbyhq.com/harvey/f8857e81-4062-4669-a7e3-7b73b114979b) | New York / Remote |
 |  | Harvey | [Compliance Analyst](https://jobs.ashbyhq.com/harvey/2f35e50f-2978-44c3-a495-7cbfc1f512d4) | San Francisco / Remote |
+|  | Harvey | [Deal Operations Analyst](https://jobs.ashbyhq.com/harvey/41e581a5-b5ee-47cb-94e5-6224f1559e4d) | Dallas / Remote |
 |  | Harvey | [People Operations Coordinator, Onboarding](https://jobs.ashbyhq.com/harvey/3188a79d-c5f2-40c3-8f9f-bf1c37938f9f) | New York |
 |  | Harvey | [Recruiting Coordinator](https://jobs.ashbyhq.com/harvey/5a1452ff-566c-4a80-905d-61281a02a40f) | New York / Remote |
 |  | Harvey | [Sales Development Representative](https://jobs.ashbyhq.com/harvey/08d3d70d-80a6-429d-8a27-d5efd41372f5) | San Francisco / Remote |
@@ -121,6 +121,7 @@ Last checked: 2026-10-19 18:46:31 UTC
 |  | iCapital | [Regulatory and Compliance, AML - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8875456002) | New York, New York, United States |
 |  | iCapital | [Regulatory and Compliance, Subscription Document Review - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8812006002) | New York, New York, United States |
 |  | iCapital | [Structured Investments Distribution - Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8776670002) | New York, New York, United States |
+|  | iCapital | [Structured Investments Operations - Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8660767002) | New York, New York, United States |
 |  | Jane Street | [Accounting Coordinator](https://www.janestreet.com/join-jane-street/apply/8631912002?gh_jid=8631912002) | New York, New York, United States |
 |  | Jane Street | [Campus Recruiter, Early Careers Partnerships & Initiatives](https://www.janestreet.com/join-jane-street/apply/8448713002?gh_jid=8448713002) | New York, New York, United States |
 |  | Jane Street | [Campus Recruiter, Machine Learning and Quantitative Research](https://www.janestreet.com/join-jane-street/apply/8229056002?gh_jid=8229056002) | New York, New York, United States |
@@ -161,6 +162,7 @@ Last checked: 2026-10-19 18:46:31 UTC
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
+|  | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8301173) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
 |  | Oscar Health | [Associate, Process Optimization](https://job-boards.greenhouse.io/oscar/jobs/8107490) | New York, New York, United States |
@@ -254,33 +256,33 @@ Last checked: 2026-10-19 18:46:31 UTC
 | Blackstone (Campus) | 26 | 2 | OK |
 | Point72 | 215 | 11 | OK |
 | General Atlantic | 13 | 0 | OK |
-| Anthropic | 665 | 16 | OK |
-| Stripe | 723 | 14 | OK |
+| Anthropic | 664 | 16 | OK |
+| Stripe | 724 | 14 | OK |
 | Datadog | 429 | 8 | OK |
 | Palantir | 306 | 14 | OK |
-| Ramp | 169 | 13 | OK |
-| iCapital | 208 | 10 | OK |
+| Ramp | 167 | 13 | OK |
+| iCapital | 207 | 10 | OK |
 | AlphaSights | 60 | 12 | OK |
 | Jane Street | 221 | 7 | OK |
 | Schonfeld | 70 | 6 | OK |
 | Robinhood | 151 | 0 | OK |
-| SoFi | 49 | 0 | OK |
+| SoFi | 50 | 0 | OK |
 | Affirm | 215 | 7 | OK |
 | Brex | 261 | 1 | OK |
 | Betterment | 25 | 2 | OK |
 | Clear Street | 45 | 6 | OK |
 | Scale AI | 181 | 1 | OK |
 | Dataiku | 13 | 0 | OK |
-| MongoDB | 397 | 2 | OK |
+| MongoDB | 396 | 2 | OK |
 | Oscar Health | 249 | 17 | OK |
-| The Trade Desk | 101 | 4 | OK |
+| The Trade Desk | 102 | 4 | OK |
 | Guidepoint | 112 | 6 | OK |
 | Gusto | 104 | 4 | OK |
 | Flatiron Health | 20 | 5 | OK |
-| OpenAI | 806 | 15 | OK |
+| OpenAI | 803 | 15 | OK |
 | Perplexity | 134 | 3 | OK |
 | Notion | 133 | 9 | OK |
-| Harvey | 342 | 20 | OK |
+| Harvey | 344 | 22 | OK |
 | Kalshi | 49 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 115 | 4 | OK |
