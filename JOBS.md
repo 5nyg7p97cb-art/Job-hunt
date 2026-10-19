@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-19 21:36:14 UTC
+Last checked: 2026-10-19 22:09:43 UTC
 
 239 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | OpenAI | [Operations Analyst, User Safety & Risk Operations](https://jobs.ashbyhq.com/openai/daabc150-f22c-421e-b30d-1a50fb4cede3) | San Francisco / Remote |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -152,6 +151,7 @@ Last checked: 2026-10-19 21:36:14 UTC
 |  | OpenAI | [Associate General Counsel, Commercial – Infrastructure](https://jobs.ashbyhq.com/openai/2b148425-b807-46a5-97e1-fae307aacb80) | San Francisco / Remote |
 |  | OpenAI | [Compensation Operations Analyst](https://jobs.ashbyhq.com/openai/31df540f-4062-46e8-918f-b747a90c7052) | San Francisco / Remote |
 |  | OpenAI | [Data Center Compute, OpenHouse Savannah 2026](https://jobs.ashbyhq.com/openai/6ba0ce24-ad32-4c3b-b49c-b373be9a8480) | US - Remote / Seattle / San Francisco / Remote |
+|  | OpenAI | [Operations Analyst, User Safety & Risk Operations](https://jobs.ashbyhq.com/openai/daabc150-f22c-421e-b30d-1a50fb4cede3) | San Francisco / Remote |
 |  | OpenAI | [People Technology Analyst, Workday PATT & Benefits](https://jobs.ashbyhq.com/openai/bb28a39e-eb1f-41ef-96de-98adf58a8c3c) | San Francisco / Remote |
 |  | OpenAI | [Procurement Coordinator](https://jobs.ashbyhq.com/openai/186c3f38-2739-4998-ac8b-c21d237fec72) | San Francisco / Remote |
 |  | OpenAI | [Recruiting Coordinator - Contract](https://jobs.ashbyhq.com/openai/dbd5ae8a-7c01-4f17-be39-b8caa8fd95d5) | San Francisco / New York City / Seattle / Remote |
@@ -268,7 +268,7 @@ Last checked: 2026-10-19 21:36:14 UTC
 | Jane Street | 221 | 7 | OK |
 | Schonfeld | 70 | 6 | OK |
 | Robinhood | 151 | 0 | OK |
-| SoFi | 51 | 0 | OK |
+| SoFi | 50 | 0 | OK |
 | Affirm | 215 | 7 | OK |
 | Brex | 261 | 1 | OK |
 | Betterment | 25 | 2 | OK |
@@ -279,7 +279,7 @@ Last checked: 2026-10-19 21:36:14 UTC
 | Oscar Health | 249 | 17 | OK |
 | The Trade Desk | 103 | 4 | OK |
 | Guidepoint | 111 | 6 | OK |
-| Gusto | 103 | 4 | OK |
+| Gusto | 102 | 4 | OK |
 | Flatiron Health | 20 | 5 | OK |
 | OpenAI | 806 | 16 | OK |
 | Perplexity | 134 | 3 | OK |
