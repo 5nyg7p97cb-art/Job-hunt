@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-19 14:19:37 UTC
+Last checked: 2026-10-19 15:16:15 UTC
 
 233 matching roles open. ð = found in the latest run.
 
@@ -256,13 +256,13 @@ Last checked: 2026-10-19 14:19:37 UTC
 | Stripe | 723 | 14 | OK |
 | Datadog | 428 | 8 | OK |
 | Palantir | 310 | 14 | OK |
-| Ramp | 167 | 13 | OK |
+| Ramp | 168 | 13 | OK |
 | iCapital | 207 | 9 | OK |
 | AlphaSights | 60 | 12 | OK |
 | Jane Street | 221 | 7 | OK |
 | Schonfeld | 69 | 6 | OK |
 | Robinhood | 153 | 0 | OK |
-| SoFi | 49 | 0 | OK |
+| SoFi | 48 | 0 | OK |
 | Affirm | 214 | 7 | OK |
 | Brex | 260 | 1 | OK |
 | Betterment | 24 | 2 | OK |
