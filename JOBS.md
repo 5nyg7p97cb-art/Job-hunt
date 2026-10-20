@@ -1,11 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-10-19 23:37:09 UTC
+Last checked: 2026-10-20 00:06:15 UTC
 
-239 matching roles open. ð = found in the latest run.
+240 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Palantir | [Software Engineer, New Grad - Query Engines](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac) | New York, NY |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -261,7 +262,7 @@ Last checked: 2026-10-19 23:37:09 UTC
 | Anthropic | 667 | 16 | OK |
 | Stripe | 726 | 15 | OK |
 | Datadog | 430 | 8 | OK |
-| Palantir | 305 | 14 | OK |
+| Palantir | 309 | 15 | OK |
 | Ramp | 167 | 13 | OK |
 | iCapital | 208 | 10 | OK |
 | AlphaSights | 60 | 12 | OK |
@@ -281,10 +282,10 @@ Last checked: 2026-10-19 23:37:09 UTC
 | Guidepoint | 111 | 6 | OK |
 | Gusto | 101 | 4 | OK |
 | Flatiron Health | 20 | 5 | OK |
-| OpenAI | 807 | 16 | OK |
+| OpenAI | 808 | 16 | OK |
 | Perplexity | 134 | 3 | OK |
 | Notion | 133 | 9 | OK |
-| Harvey | 341 | 22 | OK |
+| Harvey | 340 | 22 | OK |
 | Kalshi | 49 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 115 | 4 | OK |
