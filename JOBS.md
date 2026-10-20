@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-20 02:36:08 UTC
+Last checked: 2026-10-20 03:11:39 UTC
 
 240 matching roles open. ð = found in the latest run.
 
@@ -278,14 +278,14 @@ Last checked: 2026-10-20 02:36:08 UTC
 | Dataiku | 13 | 0 | OK |
 | MongoDB | 394 | 2 | OK |
 | Oscar Health | 249 | 17 | OK |
-| The Trade Desk | 103 | 4 | OK |
+| The Trade Desk | 102 | 4 | OK |
 | Guidepoint | 111 | 6 | OK |
 | Gusto | 101 | 4 | OK |
 | Flatiron Health | 21 | 5 | OK |
 | OpenAI | 808 | 16 | OK |
 | Perplexity | 133 | 3 | OK |
 | Notion | 133 | 9 | OK |
-| Harvey | 340 | 22 | OK |
+| Harvey | 341 | 22 | OK |
 | Kalshi | 49 | 1 | OK |
 | Unify | 10 | 1 | OK |
 | Cohere | 116 | 4 | OK |
