@@ -1,17 +1,17 @@
 # Entry-level openings
 
-Last checked: 2026-10-20 12:07:51 UTC
+Last checked: 2026-10-20 13:20:26 UTC
 
-225 matching roles open. ð = found in the latest run.
+240 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -161,8 +161,8 @@ Last checked: 2026-10-20 12:07:51 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8301173) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
@@ -174,6 +174,21 @@ Last checked: 2026-10-20 12:07:51 UTC
 |  | Oscar Health | [Associate, Value Based Contracting](https://job-boards.greenhouse.io/oscar/jobs/8168124) | Remote |
 |  | Oscar Health | [Network Contracting & Services Associate](https://job-boards.greenhouse.io/oscar/jobs/8080961) | Remote |
 |  | Oscar Health | [Provider Network Associate](https://job-boards.greenhouse.io/oscar/jobs/8178503) | Remote |
+|  | Palantir | [Compliance Analyst](https://jobs.lever.co/palantir/c6f9eaaf-b397-476f-8b7d-c511cfb7e5c6) | New York, NY |
+|  | Palantir | [Forward Deployed Infrastructure Engineer, New Grad - US Government](https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8) | New York, NY |
+|  | Palantir | [Forward Deployed Software Engineer, New Grad - Commercial](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728) | New York, NY |
+|  | Palantir | [Forward Deployed Software Engineer, New Grad - US Government](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca) | New York, NY |
+|  | Palantir | [Privacy & Civil Liberties Engineer - New Grad](https://jobs.lever.co/palantir/95e0d2b0-437a-4096-a5c6-0f247f426c90) | New York, NY |
+|  | Palantir | [Product Designer, New Grad](https://jobs.lever.co/palantir/4c0fb3a1-8256-4d14-9a27-23727235752e) | New York, NY |
+|  | Palantir | [Product Designer, New Grad - US Government](https://jobs.lever.co/palantir/5f7a90e7-f927-47bf-90ed-52d17c58ae02) | New York, NY |
+|  | Palantir | [Site Reliability Operations Analyst - Commercial](https://jobs.lever.co/palantir/5174e95b-2e0a-46f8-8db7-e2c837a0ac94) | New York, NY |
+|  | Palantir | [Site Reliability Operations Analyst - US Government](https://jobs.lever.co/palantir/7d91ca36-1e23-4603-b0f1-82a835e27d3f) | New York, NY |
+|  | Palantir | [Software Engineer, New Grad](https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92) | New York, NY |
+|  | Palantir | [Software Engineer, New Grad - Defense](https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278) | New York, NY |
+|  | Palantir | [Software Engineer, New Grad - Infrastructure](https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4) | New York, NY |
+|  | Palantir | [Software Engineer, New Grad - Production Infrastructure](https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a) | New York, NY |
+|  | Palantir | [Software Engineer, New Grad - Query Engines](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac) | New York, NY |
+|  | Palantir | [Talent Coordinator](https://jobs.lever.co/palantir/4186c7e2-1fc4-4049-81fb-fa98efb9d1de) | New York, NY |
 |  | Perplexity | [Business Development Representative](https://jobs.ashbyhq.com/perplexity/a5b97109-222d-49e1-b2ac-e101487a5ddd) | San Francisco / New York City / Remote |
 |  | Perplexity | [Payroll Analyst](https://jobs.ashbyhq.com/perplexity/5080dab5-7eb7-4cb2-9e2c-c61531fd3ad1) | San Francisco / Remote (United States) / Remote |
 |  | Perplexity | [Revenue Operations Analyst](https://jobs.ashbyhq.com/perplexity/03f8f956-1cb3-4945-81d1-73b7ff048d4e) | San Francisco / New York City / Remote |
@@ -232,10 +247,6 @@ Last checked: 2026-10-20 12:07:51 UTC
 |  | Vanta | [Business Development Representative, DACH](https://jobs.ashbyhq.com/vanta/7d5ac715-c4ba-45d5-a390-665a93f618cd) | London, UK / Remote |
 |  | Vanta | [Sales Development Representative, Enterprise](https://jobs.ashbyhq.com/vanta/ed31b882-0d92-4bcd-a0e7-bed3a7d04ec4) | New York, NY / Remote |
 
-## Boards that failed this run
-
-- Palantir: HTTP Error 502: Bad Gateway
-
 ## Board check results
 
 | Company | Open roles | Matching roles | Status |
@@ -245,14 +256,14 @@ Last checked: 2026-10-20 12:07:51 UTC
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 42 | 0 | OK |
 | Blackstone | 25 | 8 | OK |
-| Blackstone (Campus) | 26 | 2 | OK |
+| Blackstone (Campus) | 27 | 2 | OK |
 | Point72 | 215 | 11 | OK |
 | General Atlantic | 13 | 0 | OK |
-| Anthropic | 667 | 16 | OK |
-| Stripe | 728 | 15 | OK |
+| Anthropic | 668 | 16 | OK |
+| Stripe | 727 | 15 | OK |
 | Datadog | 432 | 8 | OK |
-| Palantir | â | â | FAILED |
-| Ramp | 167 | 13 | OK |
+| Palantir | 309 | 15 | OK |
+| Ramp | 168 | 13 | OK |
 | iCapital | 208 | 10 | OK |
 | AlphaSights | 61 | 12 | OK |
 | Jane Street | 221 | 7 | OK |
@@ -262,18 +273,18 @@ Last checked: 2026-10-20 12:07:51 UTC
 | Affirm | 215 | 7 | OK |
 | Brex | 261 | 1 | OK |
 | Betterment | 25 | 2 | OK |
-| Clear Street | 45 | 6 | OK |
+| Clear Street | 44 | 6 | OK |
 | Scale AI | 184 | 1 | OK |
-| Dataiku | 13 | 0 | OK |
-| MongoDB | 395 | 2 | OK |
+| Dataiku | 14 | 0 | OK |
+| MongoDB | 397 | 2 | OK |
 | Oscar Health | 249 | 17 | OK |
-| The Trade Desk | 102 | 4 | OK |
+| The Trade Desk | 103 | 4 | OK |
 | Guidepoint | 114 | 6 | OK |
 | Gusto | 101 | 4 | OK |
 | Flatiron Health | 21 | 5 | OK |
 | OpenAI | 807 | 16 | OK |
 | Perplexity | 133 | 3 | OK |
-| Notion | 133 | 9 | OK |
+| Notion | 135 | 9 | OK |
 | Harvey | 341 | 22 | OK |
 | Kalshi | 49 | 1 | OK |
 | Unify | 10 | 1 | OK |
