@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-20 00:06:15 UTC
+Last checked: 2026-10-20 00:52:55 UTC
 
 240 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Palantir | [Software Engineer, New Grad - Query Engines](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac) | New York, NY |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -188,6 +187,7 @@ Last checked: 2026-10-20 00:06:15 UTC
 |  | Palantir | [Software Engineer, New Grad - Defense](https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278) | New York, NY |
 |  | Palantir | [Software Engineer, New Grad - Infrastructure](https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4) | New York, NY |
 |  | Palantir | [Software Engineer, New Grad - Production Infrastructure](https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a) | New York, NY |
+|  | Palantir | [Software Engineer, New Grad - Query Engines](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac) | New York, NY |
 |  | Palantir | [Talent Coordinator](https://jobs.lever.co/palantir/4186c7e2-1fc4-4049-81fb-fa98efb9d1de) | New York, NY |
 |  | Perplexity | [Business Development Representative](https://jobs.ashbyhq.com/perplexity/a5b97109-222d-49e1-b2ac-e101487a5ddd) | San Francisco / New York City / Remote |
 |  | Perplexity | [Payroll Analyst](https://jobs.ashbyhq.com/perplexity/5080dab5-7eb7-4cb2-9e2c-c61531fd3ad1) | San Francisco / Remote (United States) / Remote |
@@ -265,7 +265,7 @@ Last checked: 2026-10-20 00:06:15 UTC
 | Palantir | 309 | 15 | OK |
 | Ramp | 167 | 13 | OK |
 | iCapital | 208 | 10 | OK |
-| AlphaSights | 60 | 12 | OK |
+| AlphaSights | 61 | 12 | OK |
 | Jane Street | 221 | 7 | OK |
 | Schonfeld | 70 | 6 | OK |
 | Robinhood | 151 | 0 | OK |
@@ -276,12 +276,12 @@ Last checked: 2026-10-20 00:06:15 UTC
 | Clear Street | 45 | 6 | OK |
 | Scale AI | 181 | 1 | OK |
 | Dataiku | 13 | 0 | OK |
-| MongoDB | 396 | 2 | OK |
+| MongoDB | 395 | 2 | OK |
 | Oscar Health | 249 | 17 | OK |
 | The Trade Desk | 103 | 4 | OK |
 | Guidepoint | 111 | 6 | OK |
 | Gusto | 101 | 4 | OK |
-| Flatiron Health | 20 | 5 | OK |
+| Flatiron Health | 21 | 5 | OK |
 | OpenAI | 808 | 16 | OK |
 | Perplexity | 134 | 3 | OK |
 | Notion | 133 | 9 | OK |
