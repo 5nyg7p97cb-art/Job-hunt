@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-20 18:48:06 UTC
+Last checked: 2026-10-20 19:39:11 UTC
 
 239 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
@@ -257,23 +257,23 @@ Last checked: 2026-10-20 18:48:06 UTC
 | Blackstone | 26 | 9 | OK |
 | Blackstone (Campus) | 27 | 2 | OK |
 | Point72 | 215 | 11 | OK |
-| General Atlantic | 13 | 0 | OK |
+| General Atlantic | 12 | 0 | OK |
 | Anthropic | 670 | 16 | OK |
 | Stripe | 728 | 15 | OK |
-| Datadog | 435 | 8 | OK |
-| Palantir | 309 | 15 | OK |
+| Datadog | 434 | 8 | OK |
+| Palantir | 306 | 15 | OK |
 | Ramp | 169 | 13 | OK |
-| iCapital | 207 | 10 | OK |
+| iCapital | 208 | 10 | OK |
 | AlphaSights | 61 | 12 | OK |
 | Jane Street | 221 | 7 | OK |
 | Schonfeld | 68 | 6 | OK |
 | Robinhood | 153 | 0 | OK |
 | SoFi | 50 | 0 | OK |
-| Affirm | 216 | 7 | OK |
+| Affirm | 217 | 7 | OK |
 | Brex | 260 | 1 | OK |
 | Betterment | 24 | 2 | OK |
-| Clear Street | 44 | 6 | OK |
-| Scale AI | 182 | 1 | OK |
+| Clear Street | 46 | 6 | OK |
+| Scale AI | 178 | 1 | OK |
 | Dataiku | 14 | 0 | OK |
 | MongoDB | 394 | 2 | OK |
 | Oscar Health | 246 | 15 | OK |
@@ -281,7 +281,7 @@ Last checked: 2026-10-20 18:48:06 UTC
 | Guidepoint | 113 | 6 | OK |
 | Gusto | 101 | 4 | OK |
 | Flatiron Health | 21 | 5 | OK |
-| OpenAI | 806 | 16 | OK |
+| OpenAI | 809 | 16 | OK |
 | Perplexity | 134 | 3 | OK |
 | Notion | 135 | 9 | OK |
 | Harvey | 338 | 22 | OK |
