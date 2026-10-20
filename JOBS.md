@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-20 17:13:58 UTC
+Last checked: 2026-10-20 18:06:36 UTC
 
 240 matching roles open. ð = found in the latest run.
 
@@ -81,8 +81,8 @@ Last checked: 2026-10-20 17:13:58 UTC
 |  | Flatiron Health | [Associate, Revenue Operations](https://flatiron.com/careers/open-positions/job?gh_jid=8265541) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -162,8 +162,8 @@ Last checked: 2026-10-20 17:13:58 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8103026) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
 |  | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8301173) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
@@ -229,8 +229,8 @@ Last checked: 2026-10-20 17:13:58 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -259,9 +259,9 @@ Last checked: 2026-10-20 17:13:58 UTC
 | Blackstone (Campus) | 27 | 2 | OK |
 | Point72 | 215 | 11 | OK |
 | General Atlantic | 13 | 0 | OK |
-| Anthropic | 669 | 16 | OK |
-| Stripe | 729 | 15 | OK |
-| Datadog | 431 | 8 | OK |
+| Anthropic | 670 | 16 | OK |
+| Stripe | 728 | 15 | OK |
+| Datadog | 432 | 8 | OK |
 | Palantir | 309 | 15 | OK |
 | Ramp | 168 | 13 | OK |
 | iCapital | 207 | 10 | OK |
@@ -270,20 +270,20 @@ Last checked: 2026-10-20 17:13:58 UTC
 | Schonfeld | 68 | 6 | OK |
 | Robinhood | 153 | 0 | OK |
 | SoFi | 50 | 0 | OK |
-| Affirm | 217 | 7 | OK |
+| Affirm | 216 | 7 | OK |
 | Brex | 259 | 1 | OK |
 | Betterment | 24 | 2 | OK |
 | Clear Street | 44 | 6 | OK |
 | Scale AI | 182 | 1 | OK |
 | Dataiku | 14 | 0 | OK |
 | MongoDB | 395 | 2 | OK |
-| Oscar Health | 251 | 16 | OK |
+| Oscar Health | 250 | 16 | OK |
 | The Trade Desk | 103 | 4 | OK |
 | Guidepoint | 113 | 6 | OK |
 | Gusto | 100 | 4 | OK |
 | Flatiron Health | 21 | 5 | OK |
-| OpenAI | 804 | 16 | OK |
-| Perplexity | 133 | 3 | OK |
+| OpenAI | 805 | 16 | OK |
+| Perplexity | 134 | 3 | OK |
 | Notion | 135 | 9 | OK |
 | Harvey | 338 | 22 | OK |
 | Kalshi | 47 | 1 | OK |
