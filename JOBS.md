@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-21 10:11:15 UTC
+Last checked: 2026-10-21 11:09:47 UTC
 
 238 matching roles open. ð = found in the latest run.
 
@@ -258,8 +258,8 @@ Last checked: 2026-10-21 10:11:15 UTC
 | Point72 | 216 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 676 | 16 | OK |
-| Stripe | 731 | 15 | OK |
-| Datadog | 435 | 8 | OK |
+| Stripe | 730 | 15 | OK |
+| Datadog | 436 | 8 | OK |
 | Palantir | 306 | 15 | OK |
 | Ramp | 169 | 13 | OK |
 | iCapital | 209 | 10 | OK |
@@ -272,7 +272,7 @@ Last checked: 2026-10-21 10:11:15 UTC
 | Brex | 263 | 1 | OK |
 | Betterment | 24 | 2 | OK |
 | Clear Street | 46 | 6 | OK |
-| Scale AI | 178 | 1 | OK |
+| Scale AI | 176 | 1 | OK |
 | Dataiku | 14 | 0 | OK |
 | MongoDB | 397 | 2 | OK |
 | Oscar Health | 248 | 15 | OK |
