@@ -1,17 +1,18 @@
 # Entry-level openings
 
-Last checked: 2026-10-21 17:11:23 UTC
+Last checked: 2026-10-21 18:07:41 UTC
 
-237 matching roles open. ð = found in the latest run.
+238 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Oscar Health | [Associate, Payment Integrity](https://job-boards.greenhouse.io/oscar/jobs/8306738) | Remote |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -227,8 +228,8 @@ Last checked: 2026-10-21 17:11:23 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -251,37 +252,37 @@ Last checked: 2026-10-21 17:11:23 UTC
 | Bilt | 18 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 44 | 0 | OK |
+| BlackRock | 45 | 0 | OK |
 | Blackstone | 26 | 9 | OK |
 | Blackstone (Campus) | 27 | 2 | OK |
 | Point72 | 217 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
-| Anthropic | 673 | 16 | OK |
-| Stripe | 729 | 15 | OK |
-| Datadog | 438 | 8 | OK |
+| Anthropic | 674 | 16 | OK |
+| Stripe | 728 | 15 | OK |
+| Datadog | 437 | 8 | OK |
 | Palantir | 306 | 15 | OK |
 | Ramp | 169 | 13 | OK |
 | iCapital | 213 | 10 | OK |
 | AlphaSights | 63 | 12 | OK |
 | Jane Street | 221 | 7 | OK |
-| Schonfeld | 70 | 6 | OK |
+| Schonfeld | 68 | 6 | OK |
 | Robinhood | 153 | 0 | OK |
 | SoFi | 51 | 0 | OK |
-| Affirm | 221 | 7 | OK |
+| Affirm | 224 | 7 | OK |
 | Brex | 263 | 1 | OK |
 | Betterment | 24 | 2 | OK |
-| Clear Street | 46 | 6 | OK |
+| Clear Street | 47 | 6 | OK |
 | Scale AI | 175 | 1 | OK |
 | Dataiku | 14 | 0 | OK |
-| MongoDB | 397 | 2 | OK |
-| Oscar Health | 245 | 14 | OK |
+| MongoDB | 396 | 2 | OK |
+| Oscar Health | 246 | 15 | OK |
 | The Trade Desk | 104 | 3 | OK |
 | Guidepoint | 115 | 6 | OK |
 | Gusto | 99 | 4 | OK |
 | Flatiron Health | 23 | 5 | OK |
 | OpenAI | 808 | 16 | OK |
-| Perplexity | 133 | 3 | OK |
-| Notion | 135 | 9 | OK |
+| Perplexity | 132 | 3 | OK |
+| Notion | 136 | 9 | OK |
 | Harvey | 346 | 22 | OK |
 | Kalshi | 47 | 1 | OK |
 | Unify | 11 | 1 | OK |
