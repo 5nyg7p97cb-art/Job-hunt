@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-21 21:37:38 UTC
+Last checked: 2026-10-21 22:36:40 UTC
 
-238 matching roles open. ð = found in the latest run.
+239 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-| ð | Brex | [Fraud Strategy Associate](https://www.brex.com/careers/8907584002?gh_jid=8907584002) | New York, New York, United States |
+| ð | Harvey | [Sales Development Representative](https://jobs.ashbyhq.com/harvey/a009e4a8-518e-4d92-a0f4-92f2e2dcee7a) | New York / Remote |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
+|  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
@@ -60,6 +60,7 @@ Last checked: 2026-10-21 21:37:38 UTC
 |  | Blackstone (Campus) | [2027 Blackstone APAC Future Leaders Program (Online)](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Hong-Kong/XMLNAME-2027-Blackstone-APAC-Future-Leaders-Program--Online-_45896) | 6 Locations |
 |  | Blackstone (Campus) | [2027 Blackstone Real Estate Acquisitions Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Blackstone-Real-Estate-Acquisitions-Analyst_45626) | New York |
 |  | Brex | [Finance Associate](https://www.brex.com/careers/8606825002?gh_jid=8606825002) | New York, New York, United States |
+|  | Brex | [Fraud Strategy Associate](https://www.brex.com/careers/8907584002?gh_jid=8907584002) | New York, New York, United States |
 |  | Clear Street | [AML Onboarding Associate](https://job-boards.greenhouse.io/clearstreet/jobs/7557381) | New York, NY |
 |  | Clear Street | [Associate - Client Onboarding](https://job-boards.greenhouse.io/clearstreet/jobs/8227249) | New York, NY |
 |  | Clear Street | [Associate - Tax Operations](https://job-boards.greenhouse.io/clearstreet/jobs/8249141) | New York, NY |
@@ -258,15 +259,15 @@ Last checked: 2026-10-21 21:37:38 UTC
 | Point72 | 215 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 674 | 16 | OK |
-| Stripe | 727 | 14 | OK |
-| Datadog | 440 | 8 | OK |
+| Stripe | 726 | 14 | OK |
+| Datadog | 439 | 8 | OK |
 | Palantir | 304 | 15 | OK |
 | Ramp | 170 | 13 | OK |
-| iCapital | 214 | 10 | OK |
+| iCapital | 218 | 10 | OK |
 | AlphaSights | 63 | 12 | OK |
 | Jane Street | 221 | 7 | OK |
 | Schonfeld | 69 | 6 | OK |
-| Robinhood | 154 | 0 | OK |
+| Robinhood | 152 | 0 | OK |
 | SoFi | 51 | 0 | OK |
 | Affirm | 226 | 8 | OK |
 | Brex | 265 | 2 | OK |
@@ -283,7 +284,7 @@ Last checked: 2026-10-21 21:37:38 UTC
 | OpenAI | 809 | 15 | OK |
 | Perplexity | 132 | 3 | OK |
 | Notion | 137 | 9 | OK |
-| Harvey | 348 | 22 | OK |
+| Harvey | 349 | 23 | OK |
 | Kalshi | 47 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 114 | 4 | OK |
