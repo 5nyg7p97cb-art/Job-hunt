@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-21 15:11:03 UTC
+Last checked: 2026-10-21 16:12:43 UTC
 
 238 matching roles open. ð = found in the latest run.
 
@@ -255,18 +255,18 @@ Last checked: 2026-10-21 15:11:03 UTC
 | BlackRock | 44 | 0 | OK |
 | Blackstone | 26 | 9 | OK |
 | Blackstone (Campus) | 27 | 2 | OK |
-| Point72 | 216 | 11 | OK |
+| Point72 | 217 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
-| Anthropic | 675 | 16 | OK |
-| Stripe | 731 | 15 | OK |
+| Anthropic | 676 | 16 | OK |
+| Stripe | 732 | 15 | OK |
 | Datadog | 439 | 8 | OK |
 | Palantir | 306 | 15 | OK |
 | Ramp | 169 | 13 | OK |
-| iCapital | 209 | 10 | OK |
+| iCapital | 213 | 10 | OK |
 | AlphaSights | 63 | 12 | OK |
-| Jane Street | 223 | 7 | OK |
+| Jane Street | 222 | 7 | OK |
 | Schonfeld | 70 | 6 | OK |
-| Robinhood | 156 | 0 | OK |
+| Robinhood | 154 | 0 | OK |
 | SoFi | 51 | 0 | OK |
 | Affirm | 221 | 7 | OK |
 | Brex | 263 | 1 | OK |
@@ -275,13 +275,13 @@ Last checked: 2026-10-21 15:11:03 UTC
 | Scale AI | 175 | 1 | OK |
 | Dataiku | 14 | 0 | OK |
 | MongoDB | 397 | 2 | OK |
-| Oscar Health | 249 | 15 | OK |
-| The Trade Desk | 103 | 3 | OK |
-| Guidepoint | 114 | 6 | OK |
+| Oscar Health | 248 | 15 | OK |
+| The Trade Desk | 104 | 3 | OK |
+| Guidepoint | 115 | 6 | OK |
 | Gusto | 101 | 4 | OK |
-| Flatiron Health | 22 | 5 | OK |
-| OpenAI | 807 | 16 | OK |
-| Perplexity | 134 | 3 | OK |
+| Flatiron Health | 23 | 5 | OK |
+| OpenAI | 808 | 16 | OK |
+| Perplexity | 133 | 3 | OK |
 | Notion | 135 | 9 | OK |
 | Harvey | 344 | 22 | OK |
 | Kalshi | 47 | 1 | OK |
