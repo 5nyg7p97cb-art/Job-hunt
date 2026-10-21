@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-21 18:07:41 UTC
+Last checked: 2026-10-21 19:15:27 UTC
 
 238 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Oscar Health | [Associate, Payment Integrity](https://job-boards.greenhouse.io/oscar/jobs/8306738) | Remote |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -167,6 +166,7 @@ Last checked: 2026-10-21 18:07:41 UTC
 |  | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8301173) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
+|  | Oscar Health | [Associate, Payment Integrity](https://job-boards.greenhouse.io/oscar/jobs/8306738) | Remote |
 |  | Oscar Health | [Associate, Process Optimization](https://job-boards.greenhouse.io/oscar/jobs/8107490) | New York, New York, United States |
 |  | Oscar Health | [Associate, Provider Success](https://job-boards.greenhouse.io/oscar/jobs/8146191) | New York, New York, United States |
 |  | Oscar Health | [Associate, Strategic Finance](https://job-boards.greenhouse.io/oscar/jobs/8011066) | New York, New York, United States |
@@ -255,13 +255,13 @@ Last checked: 2026-10-21 18:07:41 UTC
 | BlackRock | 45 | 0 | OK |
 | Blackstone | 26 | 9 | OK |
 | Blackstone (Campus) | 27 | 2 | OK |
-| Point72 | 217 | 11 | OK |
+| Point72 | 216 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 674 | 16 | OK |
-| Stripe | 728 | 15 | OK |
-| Datadog | 437 | 8 | OK |
+| Stripe | 729 | 15 | OK |
+| Datadog | 438 | 8 | OK |
 | Palantir | 306 | 15 | OK |
-| Ramp | 169 | 13 | OK |
+| Ramp | 170 | 13 | OK |
 | iCapital | 213 | 10 | OK |
 | AlphaSights | 63 | 12 | OK |
 | Jane Street | 221 | 7 | OK |
@@ -275,15 +275,15 @@ Last checked: 2026-10-21 18:07:41 UTC
 | Scale AI | 175 | 1 | OK |
 | Dataiku | 14 | 0 | OK |
 | MongoDB | 396 | 2 | OK |
-| Oscar Health | 246 | 15 | OK |
+| Oscar Health | 245 | 15 | OK |
 | The Trade Desk | 104 | 3 | OK |
 | Guidepoint | 115 | 6 | OK |
-| Gusto | 99 | 4 | OK |
+| Gusto | 98 | 4 | OK |
 | Flatiron Health | 23 | 5 | OK |
 | OpenAI | 808 | 16 | OK |
 | Perplexity | 132 | 3 | OK |
-| Notion | 136 | 9 | OK |
-| Harvey | 346 | 22 | OK |
+| Notion | 137 | 9 | OK |
+| Harvey | 348 | 22 | OK |
 | Kalshi | 47 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 115 | 4 | OK |
