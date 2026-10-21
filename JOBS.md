@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-21 13:21:42 UTC
+Last checked: 2026-10-21 14:15:22 UTC
 
 238 matching roles open. ð = found in the latest run.
 
@@ -228,8 +228,8 @@ Last checked: 2026-10-21 13:21:42 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -257,12 +257,12 @@ Last checked: 2026-10-21 13:21:42 UTC
 | Blackstone (Campus) | 27 | 2 | OK |
 | Point72 | 216 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
-| Anthropic | 675 | 16 | OK |
-| Stripe | 729 | 15 | OK |
-| Datadog | 437 | 8 | OK |
+| Anthropic | 674 | 16 | OK |
+| Stripe | 730 | 15 | OK |
+| Datadog | 438 | 8 | OK |
 | Palantir | 306 | 15 | OK |
 | Ramp | 169 | 13 | OK |
-| iCapital | 211 | 10 | OK |
+| iCapital | 210 | 10 | OK |
 | AlphaSights | 63 | 12 | OK |
 | Jane Street | 223 | 7 | OK |
 | Schonfeld | 70 | 6 | OK |
@@ -274,8 +274,8 @@ Last checked: 2026-10-21 13:21:42 UTC
 | Clear Street | 46 | 6 | OK |
 | Scale AI | 175 | 1 | OK |
 | Dataiku | 14 | 0 | OK |
-| MongoDB | 398 | 2 | OK |
-| Oscar Health | 248 | 15 | OK |
+| MongoDB | 397 | 2 | OK |
+| Oscar Health | 249 | 15 | OK |
 | The Trade Desk | 103 | 3 | OK |
 | Guidepoint | 113 | 6 | OK |
 | Gusto | 100 | 4 | OK |
