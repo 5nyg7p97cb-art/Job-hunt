@@ -1,12 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-10-21 22:36:40 UTC
+Last checked: 2026-10-21 23:07:47 UTC
 
-239 matching roles open. ð = found in the latest run.
+240 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Harvey | [Sales Development Representative](https://jobs.ashbyhq.com/harvey/a009e4a8-518e-4d92-a0f4-92f2e2dcee7a) | New York / Remote |
+| ð | Harvey | [Sales Compensation Analyst](https://jobs.ashbyhq.com/harvey/817fb895-ce20-4711-afd5-aec1ed1edc6d) | Dublin / Remote |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -107,6 +107,7 @@ Last checked: 2026-10-21 22:36:40 UTC
 |  | Harvey | [Deal Operations Analyst](https://jobs.ashbyhq.com/harvey/41e581a5-b5ee-47cb-94e5-6224f1559e4d) | Dallas / Remote |
 |  | Harvey | [People Operations Coordinator, Onboarding](https://jobs.ashbyhq.com/harvey/3188a79d-c5f2-40c3-8f9f-bf1c37938f9f) | New York |
 |  | Harvey | [Recruiting Coordinator](https://jobs.ashbyhq.com/harvey/5a1452ff-566c-4a80-905d-61281a02a40f) | New York / Remote |
+|  | Harvey | [Sales Development Representative](https://jobs.ashbyhq.com/harvey/a009e4a8-518e-4d92-a0f4-92f2e2dcee7a) | New York / Remote |
 |  | Harvey | [Sales Development Representative](https://jobs.ashbyhq.com/harvey/08d3d70d-80a6-429d-8a27-d5efd41372f5) | San Francisco / Remote |
 |  | Harvey | [Sales Development Representative  (German Speaking)](https://jobs.ashbyhq.com/harvey/62570156-bb6a-42b5-aae4-ea544d9f1beb) | Munich / Remote |
 |  | Harvey | [Sales Development Representative (English Speaking)](https://jobs.ashbyhq.com/harvey/98572b27-b6fc-4682-a441-62874eb10265) | Dublin / Remote |
@@ -259,7 +260,7 @@ Last checked: 2026-10-21 22:36:40 UTC
 | Point72 | 215 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 674 | 16 | OK |
-| Stripe | 726 | 14 | OK |
+| Stripe | 727 | 14 | OK |
 | Datadog | 439 | 8 | OK |
 | Palantir | 304 | 15 | OK |
 | Ramp | 170 | 13 | OK |
@@ -281,10 +282,10 @@ Last checked: 2026-10-21 22:36:40 UTC
 | Guidepoint | 115 | 6 | OK |
 | Gusto | 99 | 4 | OK |
 | Flatiron Health | 23 | 5 | OK |
-| OpenAI | 809 | 15 | OK |
-| Perplexity | 132 | 3 | OK |
+| OpenAI | 811 | 15 | OK |
+| Perplexity | 131 | 3 | OK |
 | Notion | 137 | 9 | OK |
-| Harvey | 349 | 23 | OK |
+| Harvey | 350 | 24 | OK |
 | Kalshi | 47 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 114 | 4 | OK |
