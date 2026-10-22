@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-22 19:38:24 UTC
+Last checked: 2026-10-22 20:36:02 UTC
 
-239 matching roles open. ð = found in the latest run.
+235 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -51,7 +51,6 @@ Last checked: 2026-10-22 19:38:24 UTC
 |  | Blackstone | [BXMA- Direct Trading Operations, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA--Direct-Trading-Operations--Analyst_43372) | New York |
 |  | Blackstone | [Blackstone Executive Offices - Leadership Program, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Blackstone-Executive-Offices---Leadership-Program--Analyst_45155-2) | New York |
 |  | Blackstone | [Blackstone Executive Offices - Strategic Relationships, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Blackstone-Executive-Offices---Strategic-Relationships--Analyst_43716) | New York |
-|  | Blackstone | [Blackstone Multi-Asset Investing (BXMA)- Treasury, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Blackstone-Multi-Asset-Investing--BXMA---Treasury--Analyst_39176) | New York |
 |  | Blackstone | [Blackstone Private Wealth - Internal Sales, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York-601-Lex/Private-Wealth-Solutions---Internal-Sales--Associate_31726-5) | New York 601 Lex |
 |  | Blackstone | [ICS - Private Capital Group, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/ICS---Private-Capital-Group--Analyst_46060-2) | New York |
 |  | Blackstone | [Public Affairs, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Public-Affairs--Associate_43586) | New York |
@@ -92,9 +91,6 @@ Last checked: 2026-10-22 19:38:24 UTC
 |  | Gusto | [Fraud Investigations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8275021) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
 |  | Gusto | [Health Insurance Sales Operations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8075901) | Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid |
 |  | Gusto | [Payment Operations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8180461) | San Francisco, CA - Hybrid; Seattle, WA - Remote |
-|  | Harvey | [Analyst, Customer Trust](https://jobs.ashbyhq.com/harvey/284a0861-026b-45ff-a4ad-c2d187d7184d) | San Francisco / Remote |
-|  | Harvey | [Analyst, Customer Trust](https://jobs.ashbyhq.com/harvey/1cf585c3-27e2-4813-ade9-dc8c53c2d5b0) | New York / Remote |
-|  | Harvey | [Analyst, Customer Trust](https://jobs.ashbyhq.com/harvey/8caa7beb-d41c-4802-a23d-4e72b6838f13) | London / Remote |
 |  | Harvey | [Associate Commercial Counsel](https://jobs.ashbyhq.com/harvey/95d7c087-8283-4e17-937d-2ee363ec95ef) | Munich / Remote |
 |  | Harvey | [Associate Commercial Counsel, London](https://jobs.ashbyhq.com/harvey/0a8ca756-7d41-46cc-8cde-960af47658b2) | London / Remote |
 |  | Harvey | [CX Data Analyst](https://jobs.ashbyhq.com/harvey/ecfc45be-fc15-4c16-a419-509c998b6c80) | San Francisco / Remote |
@@ -254,12 +250,12 @@ Last checked: 2026-10-22 19:38:24 UTC
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 45 | 0 | OK |
-| Blackstone | 26 | 9 | OK |
+| Blackstone | 25 | 8 | OK |
 | Blackstone (Campus) | 25 | 2 | OK |
-| Point72 | 213 | 11 | OK |
+| Point72 | 212 | 11 | OK |
 | General Atlantic | 13 | 0 | OK |
-| Anthropic | 679 | 16 | OK |
-| Stripe | 725 | 14 | OK |
+| Anthropic | 681 | 16 | OK |
+| Stripe | 726 | 14 | OK |
 | Datadog | 439 | 9 | OK |
 | Palantir | 299 | 15 | OK |
 | Ramp | 170 | 13 | OK |
@@ -277,14 +273,14 @@ Last checked: 2026-10-22 19:38:24 UTC
 | Dataiku | 14 | 0 | OK |
 | MongoDB | 388 | 2 | OK |
 | Oscar Health | 244 | 16 | OK |
-| The Trade Desk | 106 | 3 | OK |
+| The Trade Desk | 105 | 3 | OK |
 | Guidepoint | 114 | 6 | OK |
 | Gusto | 100 | 4 | OK |
 | Flatiron Health | 22 | 4 | OK |
-| OpenAI | 804 | 15 | OK |
+| OpenAI | 803 | 15 | OK |
 | Perplexity | 127 | 2 | OK |
 | Notion | 137 | 9 | OK |
-| Harvey | 350 | 24 | OK |
+| Harvey | 347 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 114 | 4 | OK |
