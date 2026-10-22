@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-22 10:13:29 UTC
+Last checked: 2026-10-22 11:10:40 UTC
 
 238 matching roles open. ð = found in the latest run.
 
@@ -229,8 +229,8 @@ Last checked: 2026-10-22 10:13:29 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -254,11 +254,11 @@ Last checked: 2026-10-22 10:13:29 UTC
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 44 | 0 | OK |
 | Blackstone | 26 | 9 | OK |
-| Blackstone (Campus) | 27 | 2 | OK |
+| Blackstone (Campus) | 25 | 2 | OK |
 | Point72 | 214 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 678 | 16 | OK |
-| Stripe | 727 | 14 | OK |
+| Stripe | 728 | 14 | OK |
 | Datadog | 438 | 8 | OK |
 | Palantir | 304 | 15 | OK |
 | Ramp | 170 | 13 | OK |
@@ -270,7 +270,7 @@ Last checked: 2026-10-22 10:13:29 UTC
 | SoFi | 51 | 0 | OK |
 | Affirm | 224 | 8 | OK |
 | Brex | 265 | 2 | OK |
-| Betterment | 24 | 2 | OK |
+| Betterment | 23 | 2 | OK |
 | Clear Street | 47 | 6 | OK |
 | Scale AI | 174 | 1 | OK |
 | Dataiku | 14 | 0 | OK |
@@ -280,11 +280,11 @@ Last checked: 2026-10-22 10:13:29 UTC
 | Guidepoint | 114 | 6 | OK |
 | Gusto | 99 | 4 | OK |
 | Flatiron Health | 22 | 4 | OK |
-| OpenAI | 812 | 15 | OK |
+| OpenAI | 813 | 15 | OK |
 | Perplexity | 127 | 2 | OK |
 | Notion | 137 | 9 | OK |
 | Harvey | 349 | 24 | OK |
 | Kalshi | 47 | 1 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 112 | 4 | OK |
+| Cohere | 113 | 4 | OK |
 | Vanta | 84 | 3 | OK |
