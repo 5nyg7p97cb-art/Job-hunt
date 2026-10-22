@@ -1,11 +1,13 @@
 # Entry-level openings
 
-Last checked: 2026-10-22 21:12:56 UTC
+Last checked: 2026-10-22 22:08:21 UTC
 
-234 matching roles open. ð = found in the latest run.
+235 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Palantir | [Deployment Strategist, New Grad - Warp Speed](https://jobs.lever.co/palantir/37780e70-c7af-45e1-9be7-071df201c387) | New York, NY |
+| ð | Palantir | [Forward Deployed Software Engineer, New Grad - Warp Speed](https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7) | New York, NY |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -168,7 +170,6 @@ Last checked: 2026-10-22 21:12:56 UTC
 |  | Oscar Health | [Associate, Process Optimization](https://job-boards.greenhouse.io/oscar/jobs/8107490) | New York, New York, United States |
 |  | Oscar Health | [Associate, Provider Success](https://job-boards.greenhouse.io/oscar/jobs/8146191) | New York, New York, United States |
 |  | Oscar Health | [Associate, Strategic Finance](https://job-boards.greenhouse.io/oscar/jobs/8011066) | New York, New York, United States |
-|  | Oscar Health | [Associate, Strategic Finance (FP&A)](https://job-boards.greenhouse.io/oscar/jobs/8129152) | New York, New York, United States |
 |  | Oscar Health | [Network Contracting & Services Associate](https://job-boards.greenhouse.io/oscar/jobs/8080961) | Remote |
 |  | Oscar Health | [Provider Network Associate](https://job-boards.greenhouse.io/oscar/jobs/8178503) | Remote |
 |  | Palantir | [Compliance Analyst](https://jobs.lever.co/palantir/c6f9eaaf-b397-476f-8b7d-c511cfb7e5c6) | New York, NY |
@@ -256,7 +257,7 @@ Last checked: 2026-10-22 21:12:56 UTC
 | Anthropic | 680 | 16 | OK |
 | Stripe | 727 | 14 | OK |
 | Datadog | 439 | 9 | OK |
-| Palantir | 299 | 15 | OK |
+| Palantir | 306 | 17 | OK |
 | Ramp | 170 | 13 | OK |
 | iCapital | 225 | 9 | OK |
 | AlphaSights | 64 | 12 | OK |
@@ -265,19 +266,19 @@ Last checked: 2026-10-22 21:12:56 UTC
 | Robinhood | 156 | 0 | OK |
 | SoFi | 49 | 0 | OK |
 | Affirm | 224 | 7 | OK |
-| Brex | 265 | 2 | OK |
+| Brex | 261 | 2 | OK |
 | Betterment | 23 | 2 | OK |
-| Clear Street | 46 | 6 | OK |
+| Clear Street | 45 | 6 | OK |
 | Scale AI | 173 | 1 | OK |
 | Dataiku | 14 | 0 | OK |
-| MongoDB | 388 | 2 | OK |
-| Oscar Health | 244 | 16 | OK |
+| MongoDB | 389 | 2 | OK |
+| Oscar Health | 242 | 15 | OK |
 | The Trade Desk | 105 | 3 | OK |
 | Guidepoint | 114 | 6 | OK |
-| Gusto | 100 | 4 | OK |
+| Gusto | 99 | 4 | OK |
 | Flatiron Health | 22 | 4 | OK |
-| OpenAI | 802 | 15 | OK |
-| Perplexity | 127 | 2 | OK |
+| OpenAI | 799 | 15 | OK |
+| Perplexity | 126 | 2 | OK |
 | Notion | 138 | 9 | OK |
 | Harvey | 347 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
