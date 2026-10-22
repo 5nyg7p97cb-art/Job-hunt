@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-22 01:40:20 UTC
+Last checked: 2026-10-22 02:36:52 UTC
 
 238 matching roles open. ð = found in the latest run.
 
@@ -259,7 +259,7 @@ Last checked: 2026-10-22 01:40:20 UTC
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 678 | 16 | OK |
 | Stripe | 726 | 14 | OK |
-| Datadog | 439 | 8 | OK |
+| Datadog | 440 | 8 | OK |
 | Palantir | 304 | 15 | OK |
 | Ramp | 170 | 13 | OK |
 | iCapital | 218 | 10 | OK |
@@ -274,17 +274,17 @@ Last checked: 2026-10-22 01:40:20 UTC
 | Clear Street | 47 | 6 | OK |
 | Scale AI | 174 | 1 | OK |
 | Dataiku | 14 | 0 | OK |
-| MongoDB | 390 | 2 | OK |
+| MongoDB | 389 | 2 | OK |
 | Oscar Health | 245 | 15 | OK |
 | The Trade Desk | 103 | 3 | OK |
 | Guidepoint | 115 | 6 | OK |
 | Gusto | 99 | 4 | OK |
 | Flatiron Health | 22 | 4 | OK |
-| OpenAI | 813 | 15 | OK |
+| OpenAI | 814 | 15 | OK |
 | Perplexity | 127 | 2 | OK |
 | Notion | 137 | 9 | OK |
-| Harvey | 350 | 24 | OK |
+| Harvey | 349 | 24 | OK |
 | Kalshi | 47 | 1 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 114 | 4 | OK |
+| Cohere | 115 | 4 | OK |
 | Vanta | 84 | 3 | OK |
