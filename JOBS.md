@@ -1,11 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-10-22 13:24:41 UTC
+Last checked: 2026-10-22 14:15:22 UTC
 
-238 matching roles open. ð = found in the latest run.
+239 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Datadog | [FP&A Analyst GTM](https://careers.datadoghq.com/detail/8312438/?gh_jid=8312438) | New York, New York, USA |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -82,8 +83,8 @@ Last checked: 2026-10-22 13:24:41 UTC
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -145,16 +146,16 @@ Last checked: 2026-10-22 13:24:41 UTC
 |  | Notion | [Recruiting Coordinator - AMER](https://jobs.ashbyhq.com/notion/4f678608-f9f7-455d-b81c-9433ec974d0e) | San Francisco, California / New York, New York / Remote |
 |  | Notion | [Software Engineer, Early Career (AI)](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) | San Francisco, California / Remote |
 |  | Notion | [Software Engineer, New Grad (Dec 2026)](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816) | San Francisco, California / Remote |
-|  | OpenAI | [Account Associate - EMEA](https://jobs.ashbyhq.com/openai/d29b455a-9fee-4610-8e08-ce6a9ea8a37e) | Dublin, Ireland / Remote |
-|  | OpenAI | [Account Associate - EMEA (German Speaking)](https://jobs.ashbyhq.com/openai/6c88bfaa-7f1b-4175-82f1-6d484a516ca8) | Dublin, Ireland / Remote |
 |  | OpenAI | [Account Associate - SF](https://jobs.ashbyhq.com/openai/55f36629-8351-41d9-b2f5-3d63c5e26bf7) | San Francisco / Remote |
 |  | OpenAI | [Account Associate - Singapore (ANZ Market)](https://jobs.ashbyhq.com/openai/d9696b77-5b11-49c5-8d0b-b1826bb6115c) | Singapore / Remote |
 |  | OpenAI | [Account Associate - Singapore (Korean-speaking)](https://jobs.ashbyhq.com/openai/974fff14-f2d7-4a99-8740-eb8dc5300d82) | Singapore / Remote |
 |  | OpenAI | [Account Associate, Japan](https://jobs.ashbyhq.com/openai/2f3f416d-cc2a-4836-bcff-daee80c94e95) | Tokyo, Japan / Remote |
-|  | OpenAI | [Account Associate- EMEA (French Speaking)](https://jobs.ashbyhq.com/openai/1eb6ef0f-0e51-46d3-b888-c1a4c22c190a) | Dublin, Ireland / Remote |
 |  | OpenAI | [Associate General Counsel, Commercial – Infrastructure](https://jobs.ashbyhq.com/openai/2b148425-b807-46a5-97e1-fae307aacb80) | San Francisco / Remote |
 |  | OpenAI | [Compensation Operations Analyst](https://jobs.ashbyhq.com/openai/31df540f-4062-46e8-918f-b747a90c7052) | San Francisco / Remote |
 |  | OpenAI | [Data Center Compute, OpenHouse Savannah 2026](https://jobs.ashbyhq.com/openai/6ba0ce24-ad32-4c3b-b49c-b373be9a8480) | US - Remote / Seattle / San Francisco / Remote |
+|  | OpenAI | [Enterprise Account Associate - EMEA](https://jobs.ashbyhq.com/openai/d29b455a-9fee-4610-8e08-ce6a9ea8a37e) | Dublin, Ireland / Remote |
+|  | OpenAI | [Enterprise Account Associate - EMEA (German Speaking)](https://jobs.ashbyhq.com/openai/6c88bfaa-7f1b-4175-82f1-6d484a516ca8) | Dublin, Ireland / Remote |
+|  | OpenAI | [Enterprise Account Associate- EMEA (French Speaking)](https://jobs.ashbyhq.com/openai/1eb6ef0f-0e51-46d3-b888-c1a4c22c190a) | Dublin, Ireland / Remote |
 |  | OpenAI | [Operations Analyst, User Safety & Risk Operations](https://jobs.ashbyhq.com/openai/daabc150-f22c-421e-b30d-1a50fb4cede3) | San Francisco / Remote |
 |  | OpenAI | [People Technology Analyst, Workday PATT & Benefits](https://jobs.ashbyhq.com/openai/bb28a39e-eb1f-41ef-96de-98adf58a8c3c) | San Francisco / Remote |
 |  | OpenAI | [Recruiting Coordinator - Contract](https://jobs.ashbyhq.com/openai/dbd5ae8a-7c01-4f17-be39-b8caa8fd95d5) | San Francisco / New York City / Seattle / Remote |
@@ -259,16 +260,16 @@ Last checked: 2026-10-22 13:24:41 UTC
 | General Atlantic | 12 | 0 | OK |
 | Anthropic | 678 | 16 | OK |
 | Stripe | 729 | 14 | OK |
-| Datadog | 438 | 8 | OK |
+| Datadog | 440 | 9 | OK |
 | Palantir | 304 | 15 | OK |
 | Ramp | 170 | 13 | OK |
-| iCapital | 219 | 10 | OK |
+| iCapital | 220 | 10 | OK |
 | AlphaSights | 64 | 12 | OK |
 | Jane Street | 219 | 7 | OK |
-| Schonfeld | 69 | 6 | OK |
+| Schonfeld | 70 | 6 | OK |
 | Robinhood | 154 | 0 | OK |
-| SoFi | 51 | 0 | OK |
-| Affirm | 224 | 8 | OK |
+| SoFi | 50 | 0 | OK |
+| Affirm | 223 | 8 | OK |
 | Brex | 265 | 2 | OK |
 | Betterment | 23 | 2 | OK |
 | Clear Street | 47 | 6 | OK |
@@ -277,7 +278,7 @@ Last checked: 2026-10-22 13:24:41 UTC
 | MongoDB | 387 | 2 | OK |
 | Oscar Health | 245 | 15 | OK |
 | The Trade Desk | 104 | 3 | OK |
-| Guidepoint | 114 | 6 | OK |
+| Guidepoint | 115 | 6 | OK |
 | Gusto | 99 | 4 | OK |
 | Flatiron Health | 22 | 4 | OK |
 | OpenAI | 813 | 15 | OK |
