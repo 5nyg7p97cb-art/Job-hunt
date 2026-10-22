@@ -1,11 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-10-22 17:09:57 UTC
+Last checked: 2026-10-22 18:05:28 UTC
 
-238 matching roles open. ð = found in the latest run.
+239 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Oscar Health | [Actuarial Analyst, Valuation](https://job-boards.greenhouse.io/oscar/jobs/8303593) | New York, New York, United States |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
@@ -252,7 +253,7 @@ Last checked: 2026-10-22 17:09:57 UTC
 | Bilt | 18 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 44 | 0 | OK |
+| BlackRock | 45 | 0 | OK |
 | Blackstone | 26 | 9 | OK |
 | Blackstone (Campus) | 25 | 2 | OK |
 | Point72 | 213 | 11 | OK |
@@ -260,13 +261,13 @@ Last checked: 2026-10-22 17:09:57 UTC
 | Anthropic | 677 | 16 | OK |
 | Stripe | 724 | 14 | OK |
 | Datadog | 438 | 9 | OK |
-| Palantir | 304 | 15 | OK |
+| Palantir | 299 | 15 | OK |
 | Ramp | 170 | 13 | OK |
-| iCapital | 222 | 10 | OK |
+| iCapital | 226 | 10 | OK |
 | AlphaSights | 64 | 12 | OK |
 | Jane Street | 220 | 7 | OK |
-| Schonfeld | 69 | 6 | OK |
-| Robinhood | 155 | 0 | OK |
+| Schonfeld | 68 | 6 | OK |
+| Robinhood | 156 | 0 | OK |
 | SoFi | 48 | 0 | OK |
 | Affirm | 224 | 7 | OK |
 | Brex | 265 | 2 | OK |
@@ -274,17 +275,17 @@ Last checked: 2026-10-22 17:09:57 UTC
 | Clear Street | 47 | 6 | OK |
 | Scale AI | 174 | 1 | OK |
 | Dataiku | 14 | 0 | OK |
-| MongoDB | 387 | 2 | OK |
-| Oscar Health | 245 | 15 | OK |
+| MongoDB | 388 | 2 | OK |
+| Oscar Health | 249 | 16 | OK |
 | The Trade Desk | 104 | 3 | OK |
 | Guidepoint | 116 | 6 | OK |
-| Gusto | 99 | 4 | OK |
+| Gusto | 100 | 4 | OK |
 | Flatiron Health | 22 | 4 | OK |
-| OpenAI | 808 | 15 | OK |
+| OpenAI | 809 | 15 | OK |
 | Perplexity | 127 | 2 | OK |
 | Notion | 137 | 9 | OK |
-| Harvey | 349 | 24 | OK |
+| Harvey | 350 | 24 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 113 | 4 | OK |
+| Cohere | 114 | 4 | OK |
 | Vanta | 84 | 3 | OK |
