@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-22 18:05:28 UTC
+Last checked: 2026-10-22 18:46:00 UTC
 
 239 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Oscar Health | [Actuarial Analyst, Valuation](https://job-boards.greenhouse.io/oscar/jobs/8303593) | New York, New York, United States |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
@@ -161,6 +160,7 @@ Last checked: 2026-10-22 18:05:28 UTC
 |  | OpenAI | [Recruiting Coordinator - Contract](https://jobs.ashbyhq.com/openai/dbd5ae8a-7c01-4f17-be39-b8caa8fd95d5) | San Francisco / New York City / Seattle / Remote |
 |  | OpenAI | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | San Francisco / Remote |
 |  | OpenAI | [US External Affairs Associate, Global Affairs](https://jobs.ashbyhq.com/openai/544af761-e37a-450c-884b-b96506c1b883) | Washington, DC / Remote |
+|  | Oscar Health | [Actuarial Analyst, Valuation](https://job-boards.greenhouse.io/oscar/jobs/8303593) | New York, New York, United States |
 |  | Oscar Health | [Associate, Actuarial](https://job-boards.greenhouse.io/oscar/jobs/8069495) | Remote |
 |  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
@@ -258,8 +258,8 @@ Last checked: 2026-10-22 18:05:28 UTC
 | Blackstone (Campus) | 25 | 2 | OK |
 | Point72 | 213 | 11 | OK |
 | General Atlantic | 13 | 0 | OK |
-| Anthropic | 677 | 16 | OK |
-| Stripe | 724 | 14 | OK |
+| Anthropic | 679 | 16 | OK |
+| Stripe | 726 | 14 | OK |
 | Datadog | 438 | 9 | OK |
 | Palantir | 299 | 15 | OK |
 | Ramp | 170 | 13 | OK |
@@ -273,12 +273,12 @@ Last checked: 2026-10-22 18:05:28 UTC
 | Brex | 265 | 2 | OK |
 | Betterment | 23 | 2 | OK |
 | Clear Street | 47 | 6 | OK |
-| Scale AI | 174 | 1 | OK |
+| Scale AI | 173 | 1 | OK |
 | Dataiku | 14 | 0 | OK |
 | MongoDB | 388 | 2 | OK |
-| Oscar Health | 249 | 16 | OK |
-| The Trade Desk | 104 | 3 | OK |
-| Guidepoint | 116 | 6 | OK |
+| Oscar Health | 245 | 16 | OK |
+| The Trade Desk | 105 | 3 | OK |
+| Guidepoint | 114 | 6 | OK |
 | Gusto | 100 | 4 | OK |
 | Flatiron Health | 22 | 4 | OK |
 | OpenAI | 809 | 15 | OK |
