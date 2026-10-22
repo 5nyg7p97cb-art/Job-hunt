@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-22 12:10:28 UTC
+Last checked: 2026-10-22 13:24:41 UTC
 
 238 matching roles open. ð = found in the latest run.
 
@@ -71,7 +71,7 @@ Last checked: 2026-10-22 12:10:28 UTC
 |  | Cohere | [Business Development Representative - French Speaking](https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89) | United Kingdom / Remote |
 |  | Cohere | [Delivery Operations Analyst](https://jobs.ashbyhq.com/cohere/3906eb1d-932f-485a-8f77-e8cc31859fdd) | Toronto / Ottawa / Montreal / Remote |
 |  | Datadog | [Accounts Payable Analyst](https://careers.datadoghq.com/detail/8257324/?gh_jid=8257324) | New York, New York, USA |
-|  | Datadog | [FP&A Analyst](https://careers.datadoghq.com/detail/8204554/?gh_jid=8204554) | New York, New York, USA |
+|  | Datadog | [FP&A Analyst R&D](https://careers.datadoghq.com/detail/8204554/?gh_jid=8204554) | New York, New York, USA |
 |  | Datadog | [FP&A Analyst, Cloud Finance](https://careers.datadoghq.com/detail/8267437/?gh_jid=8267437) | New York, New York, USA |
 |  | Datadog | [GTM Strategy/Operations Associate](https://careers.datadoghq.com/detail/8171303/?gh_jid=8171303) | New York, New York, USA |
 |  | Datadog | [GTM Strategy/Operations Associate - New York](https://careers.datadoghq.com/detail/8179647/?gh_jid=8179647) | New York, New York, USA |
@@ -257,7 +257,7 @@ Last checked: 2026-10-22 12:10:28 UTC
 | Blackstone (Campus) | 25 | 2 | OK |
 | Point72 | 213 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
-| Anthropic | 677 | 16 | OK |
+| Anthropic | 678 | 16 | OK |
 | Stripe | 729 | 14 | OK |
 | Datadog | 438 | 8 | OK |
 | Palantir | 304 | 15 | OK |
@@ -276,7 +276,7 @@ Last checked: 2026-10-22 12:10:28 UTC
 | Dataiku | 14 | 0 | OK |
 | MongoDB | 387 | 2 | OK |
 | Oscar Health | 245 | 15 | OK |
-| The Trade Desk | 103 | 3 | OK |
+| The Trade Desk | 104 | 3 | OK |
 | Guidepoint | 114 | 6 | OK |
 | Gusto | 99 | 4 | OK |
 | Flatiron Health | 22 | 4 | OK |
@@ -284,7 +284,7 @@ Last checked: 2026-10-22 12:10:28 UTC
 | Perplexity | 127 | 2 | OK |
 | Notion | 137 | 9 | OK |
 | Harvey | 349 | 24 | OK |
-| Kalshi | 47 | 1 | OK |
+| Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 113 | 4 | OK |
 | Vanta | 84 | 3 | OK |
