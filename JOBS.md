@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-21 23:07:47 UTC
+Last checked: 2026-10-22 00:00:44 UTC
 
-240 matching roles open. ð = found in the latest run.
+239 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Harvey | [Sales Compensation Analyst](https://jobs.ashbyhq.com/harvey/817fb895-ce20-4711-afd5-aec1ed1edc6d) | Dublin / Remote |
 |  | Affirm | [Analyst](https://job-boards.greenhouse.io/affirm/jobs/7808667003) | Remote US |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -107,6 +106,7 @@ Last checked: 2026-10-21 23:07:47 UTC
 |  | Harvey | [Deal Operations Analyst](https://jobs.ashbyhq.com/harvey/41e581a5-b5ee-47cb-94e5-6224f1559e4d) | Dallas / Remote |
 |  | Harvey | [People Operations Coordinator, Onboarding](https://jobs.ashbyhq.com/harvey/3188a79d-c5f2-40c3-8f9f-bf1c37938f9f) | New York |
 |  | Harvey | [Recruiting Coordinator](https://jobs.ashbyhq.com/harvey/5a1452ff-566c-4a80-905d-61281a02a40f) | New York / Remote |
+|  | Harvey | [Sales Compensation Analyst](https://jobs.ashbyhq.com/harvey/817fb895-ce20-4711-afd5-aec1ed1edc6d) | Dublin / Remote |
 |  | Harvey | [Sales Development Representative](https://jobs.ashbyhq.com/harvey/a009e4a8-518e-4d92-a0f4-92f2e2dcee7a) | New York / Remote |
 |  | Harvey | [Sales Development Representative](https://jobs.ashbyhq.com/harvey/08d3d70d-80a6-429d-8a27-d5efd41372f5) | San Francisco / Remote |
 |  | Harvey | [Sales Development Representative  (German Speaking)](https://jobs.ashbyhq.com/harvey/62570156-bb6a-42b5-aae4-ea544d9f1beb) | Munich / Remote |
@@ -193,7 +193,6 @@ Last checked: 2026-10-21 23:07:47 UTC
 |  | Palantir | [Talent Coordinator](https://jobs.lever.co/palantir/4186c7e2-1fc4-4049-81fb-fa98efb9d1de) | New York, NY |
 |  | Perplexity | [Business Development Representative](https://jobs.ashbyhq.com/perplexity/a5b97109-222d-49e1-b2ac-e101487a5ddd) | San Francisco / New York City / Remote |
 |  | Perplexity | [Payroll Analyst](https://jobs.ashbyhq.com/perplexity/5080dab5-7eb7-4cb2-9e2c-c61531fd3ad1) | San Francisco / Remote (United States) / Remote |
-|  | Perplexity | [Revenue Operations Analyst](https://jobs.ashbyhq.com/perplexity/03f8f956-1cb3-4945-81d1-73b7ff048d4e) | San Francisco / New York City / Remote |
 |  | Point72 | [Credit Research Analyst, Global Macro](https://boards.greenhouse.io/point72/jobs/7605647002?gh_jid=7605647002) | New York |
 |  | Point72 | [Data Sourcing & Strategy Operations Analyst](https://boards.greenhouse.io/point72/jobs/8888064002?gh_jid=8888064002) | New York, NY |
 |  | Point72 | [Identity & Privileged Governance Analyst](https://boards.greenhouse.io/point72/jobs/8488737002?gh_jid=8488737002) | New York, NY |
@@ -259,7 +258,7 @@ Last checked: 2026-10-21 23:07:47 UTC
 | Blackstone (Campus) | 27 | 2 | OK |
 | Point72 | 215 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
-| Anthropic | 674 | 16 | OK |
+| Anthropic | 675 | 16 | OK |
 | Stripe | 727 | 14 | OK |
 | Datadog | 439 | 8 | OK |
 | Palantir | 304 | 15 | OK |
@@ -283,7 +282,7 @@ Last checked: 2026-10-21 23:07:47 UTC
 | Gusto | 99 | 4 | OK |
 | Flatiron Health | 23 | 5 | OK |
 | OpenAI | 811 | 15 | OK |
-| Perplexity | 131 | 3 | OK |
+| Perplexity | 127 | 2 | OK |
 | Notion | 137 | 9 | OK |
 | Harvey | 350 | 24 | OK |
 | Kalshi | 47 | 1 | OK |
