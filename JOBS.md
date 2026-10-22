@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-22 16:11:14 UTC
+Last checked: 2026-10-22 17:09:57 UTC
 
 238 matching roles open. ð = found in the latest run.
 
@@ -10,8 +10,8 @@ Last checked: 2026-10-22 16:11:14 UTC
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -229,8 +229,8 @@ Last checked: 2026-10-22 16:11:14 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -257,27 +257,27 @@ Last checked: 2026-10-22 16:11:14 UTC
 | Blackstone (Campus) | 25 | 2 | OK |
 | Point72 | 213 | 11 | OK |
 | General Atlantic | 13 | 0 | OK |
-| Anthropic | 678 | 16 | OK |
-| Stripe | 723 | 14 | OK |
-| Datadog | 440 | 9 | OK |
+| Anthropic | 677 | 16 | OK |
+| Stripe | 724 | 14 | OK |
+| Datadog | 438 | 9 | OK |
 | Palantir | 304 | 15 | OK |
 | Ramp | 170 | 13 | OK |
 | iCapital | 222 | 10 | OK |
 | AlphaSights | 64 | 12 | OK |
-| Jane Street | 219 | 7 | OK |
-| Schonfeld | 71 | 6 | OK |
+| Jane Street | 220 | 7 | OK |
+| Schonfeld | 69 | 6 | OK |
 | Robinhood | 155 | 0 | OK |
-| SoFi | 51 | 0 | OK |
+| SoFi | 48 | 0 | OK |
 | Affirm | 224 | 7 | OK |
 | Brex | 265 | 2 | OK |
 | Betterment | 23 | 2 | OK |
 | Clear Street | 47 | 6 | OK |
 | Scale AI | 174 | 1 | OK |
 | Dataiku | 14 | 0 | OK |
-| MongoDB | 386 | 2 | OK |
+| MongoDB | 387 | 2 | OK |
 | Oscar Health | 245 | 15 | OK |
-| The Trade Desk | 105 | 3 | OK |
-| Guidepoint | 115 | 6 | OK |
+| The Trade Desk | 104 | 3 | OK |
+| Guidepoint | 116 | 6 | OK |
 | Gusto | 99 | 4 | OK |
 | Flatiron Health | 22 | 4 | OK |
 | OpenAI | 808 | 15 | OK |
