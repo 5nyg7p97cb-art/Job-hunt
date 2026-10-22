@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-22 00:47:24 UTC
+Last checked: 2026-10-22 01:40:20 UTC
 
-239 matching roles open. ð = found in the latest run.
+238 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -80,7 +80,6 @@ Last checked: 2026-10-22 00:47:24 UTC
 |  | Datadog | [Strategic Finance Analyst](https://careers.datadoghq.com/detail/8257306/?gh_jid=8257306) | New York, New York, USA |
 |  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
-|  | Flatiron Health | [Associate, Revenue Operations](https://flatiron.com/careers/open-positions/job?gh_jid=8265541) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
@@ -258,8 +257,8 @@ Last checked: 2026-10-22 00:47:24 UTC
 | Blackstone (Campus) | 27 | 2 | OK |
 | Point72 | 215 | 11 | OK |
 | General Atlantic | 12 | 0 | OK |
-| Anthropic | 677 | 16 | OK |
-| Stripe | 727 | 14 | OK |
+| Anthropic | 678 | 16 | OK |
+| Stripe | 726 | 14 | OK |
 | Datadog | 439 | 8 | OK |
 | Palantir | 304 | 15 | OK |
 | Ramp | 170 | 13 | OK |
@@ -273,15 +272,15 @@ Last checked: 2026-10-22 00:47:24 UTC
 | Brex | 265 | 2 | OK |
 | Betterment | 24 | 2 | OK |
 | Clear Street | 47 | 6 | OK |
-| Scale AI | 175 | 1 | OK |
+| Scale AI | 174 | 1 | OK |
 | Dataiku | 14 | 0 | OK |
 | MongoDB | 390 | 2 | OK |
 | Oscar Health | 245 | 15 | OK |
 | The Trade Desk | 103 | 3 | OK |
 | Guidepoint | 115 | 6 | OK |
 | Gusto | 99 | 4 | OK |
-| Flatiron Health | 23 | 5 | OK |
-| OpenAI | 812 | 15 | OK |
+| Flatiron Health | 22 | 4 | OK |
+| OpenAI | 813 | 15 | OK |
 | Perplexity | 127 | 2 | OK |
 | Notion | 137 | 9 | OK |
 | Harvey | 350 | 24 | OK |
