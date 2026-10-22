@@ -1,17 +1,17 @@
 # Entry-level openings
 
-Last checked: 2026-10-22 20:36:02 UTC
+Last checked: 2026-10-22 21:12:56 UTC
 
-235 matching roles open. ð = found in the latest run.
+234 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -81,8 +81,8 @@ Last checked: 2026-10-22 20:36:02 UTC
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -114,7 +114,6 @@ Last checked: 2026-10-22 20:36:02 UTC
 |  | Harvey | [Strategy Associate](https://jobs.ashbyhq.com/harvey/23a93539-af9f-400d-9da6-dd9165364002) | New York |
 |  | iCapital | [Annuities Sales - Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8649096002) | New York, New York, United States |
 |  | iCapital | [Business Process Analyst, UiPath Developer - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8853762002) | New York, New York, United States |
-|  | iCapital | [Corporate Finance, FP&A - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8576018002) | New York, New York, United States |
 |  | iCapital | [Corporate Finance, Revenue Operations - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8889716002) | New York, New York, United States |
 |  | iCapital | [Investment Strategy - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8766868002) | New York, New York, United States |
 |  | iCapital | [Regulatory and Compliance - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8729940002) | New York, New York, United States |
@@ -254,21 +253,21 @@ Last checked: 2026-10-22 20:36:02 UTC
 | Blackstone (Campus) | 25 | 2 | OK |
 | Point72 | 212 | 11 | OK |
 | General Atlantic | 13 | 0 | OK |
-| Anthropic | 681 | 16 | OK |
-| Stripe | 726 | 14 | OK |
+| Anthropic | 680 | 16 | OK |
+| Stripe | 727 | 14 | OK |
 | Datadog | 439 | 9 | OK |
 | Palantir | 299 | 15 | OK |
 | Ramp | 170 | 13 | OK |
-| iCapital | 226 | 10 | OK |
+| iCapital | 225 | 9 | OK |
 | AlphaSights | 64 | 12 | OK |
 | Jane Street | 220 | 7 | OK |
 | Schonfeld | 68 | 6 | OK |
 | Robinhood | 156 | 0 | OK |
-| SoFi | 47 | 0 | OK |
+| SoFi | 49 | 0 | OK |
 | Affirm | 224 | 7 | OK |
 | Brex | 265 | 2 | OK |
 | Betterment | 23 | 2 | OK |
-| Clear Street | 48 | 6 | OK |
+| Clear Street | 46 | 6 | OK |
 | Scale AI | 173 | 1 | OK |
 | Dataiku | 14 | 0 | OK |
 | MongoDB | 388 | 2 | OK |
@@ -277,9 +276,9 @@ Last checked: 2026-10-22 20:36:02 UTC
 | Guidepoint | 114 | 6 | OK |
 | Gusto | 100 | 4 | OK |
 | Flatiron Health | 22 | 4 | OK |
-| OpenAI | 803 | 15 | OK |
+| OpenAI | 802 | 15 | OK |
 | Perplexity | 127 | 2 | OK |
-| Notion | 137 | 9 | OK |
+| Notion | 138 | 9 | OK |
 | Harvey | 347 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
