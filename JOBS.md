@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-23 03:13:28 UTC
+Last checked: 2026-10-23 04:11:42 UTC
 
 236 matching roles open. ð = found in the latest run.
 
@@ -227,8 +227,8 @@ Last checked: 2026-10-23 03:13:28 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -250,13 +250,13 @@ Last checked: 2026-10-23 03:13:28 UTC
 | Bilt | 18 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 44 | 0 | OK |
+| BlackRock | 43 | 0 | OK |
 | Blackstone | 25 | 8 | OK |
 | Blackstone (Campus) | 25 | 2 | OK |
 | Point72 | 212 | 11 | OK |
 | General Atlantic | 13 | 0 | OK |
 | Anthropic | 682 | 16 | OK |
-| Stripe | 729 | 14 | OK |
+| Stripe | 730 | 14 | OK |
 | Datadog | 439 | 9 | OK |
 | Palantir | 307 | 17 | OK |
 | Ramp | 171 | 13 | OK |
@@ -272,7 +272,7 @@ Last checked: 2026-10-23 03:13:28 UTC
 | Clear Street | 45 | 6 | OK |
 | Scale AI | 172 | 1 | OK |
 | Dataiku | 14 | 0 | OK |
-| MongoDB | 387 | 2 | OK |
+| MongoDB | 388 | 2 | OK |
 | Oscar Health | 241 | 15 | OK |
 | The Trade Desk | 105 | 3 | OK |
 | Guidepoint | 114 | 6 | OK |
