@@ -1,16 +1,16 @@
 # Entry-level openings
 
-Last checked: 2026-10-23 20:37:50 UTC
+Last checked: 2026-10-23 21:36:12 UTC
 
-237 matching roles open. ð = found in the latest run.
+238 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Cohere | [Public Sector Delivery Analyst](https://jobs.ashbyhq.com/cohere/9be116c1-c1df-49bd-8e90-31d41b62645f) | Ottawa / Remote |
+| ð | Oscar Health | [Operations Analyst, Plan Loading](https://job-boards.greenhouse.io/oscar/jobs/8286491) | Remote |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I (New Grad 2027) - Instruments team](https://job-boards.greenhouse.io/affirm/jobs/8011718003) | Remote UK |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
@@ -70,6 +70,7 @@ Last checked: 2026-10-23 20:37:50 UTC
 |  | Cohere | [Business Development Representative](https://jobs.ashbyhq.com/cohere/dbe76343-a8ae-445c-b2f9-c5a304d54f6a) | Dubai / Remote |
 |  | Cohere | [Business Development Representative - French Speaking](https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89) | United Kingdom / Remote |
 |  | Cohere | [Delivery Operations Analyst](https://jobs.ashbyhq.com/cohere/3906eb1d-932f-485a-8f77-e8cc31859fdd) | Toronto / Ottawa / Montreal / Remote |
+|  | Cohere | [Public Sector Delivery Analyst](https://jobs.ashbyhq.com/cohere/9be116c1-c1df-49bd-8e90-31d41b62645f) | Ottawa / Remote |
 |  | Datadog | [Accounts Payable Analyst](https://careers.datadoghq.com/detail/8257324/?gh_jid=8257324) | New York, New York, USA |
 |  | Datadog | [FP&A Analyst GTM](https://careers.datadoghq.com/detail/8312438/?gh_jid=8312438) | New York, New York, USA |
 |  | Datadog | [FP&A Analyst R&D](https://careers.datadoghq.com/detail/8204554/?gh_jid=8204554) | New York, New York, USA |
@@ -228,8 +229,8 @@ Last checked: 2026-10-23 20:37:50 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -251,39 +252,39 @@ Last checked: 2026-10-23 20:37:50 UTC
 | Bilt | 19 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 47 | 0 | OK |
+| BlackRock | 46 | 0 | OK |
 | Blackstone | 25 | 8 | OK |
 | Blackstone (Campus) | 25 | 2 | OK |
 | Point72 | 211 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
 | Anthropic | 678 | 16 | OK |
-| Stripe | 724 | 14 | OK |
-| Datadog | 435 | 9 | OK |
+| Stripe | 723 | 14 | OK |
+| Datadog | 434 | 9 | OK |
 | Palantir | 309 | 17 | OK |
 | Ramp | 167 | 13 | OK |
-| iCapital | 224 | 9 | OK |
+| iCapital | 223 | 9 | OK |
 | AlphaSights | 64 | 12 | OK |
 | Jane Street | 220 | 6 | OK |
 | Schonfeld | 67 | 5 | OK |
-| Robinhood | 156 | 0 | OK |
-| SoFi | 56 | 0 | OK |
+| Robinhood | 157 | 0 | OK |
+| SoFi | 57 | 0 | OK |
 | Affirm | 225 | 8 | OK |
-| Brex | 253 | 2 | OK |
+| Brex | 254 | 2 | OK |
 | Betterment | 25 | 2 | OK |
 | Clear Street | 45 | 6 | OK |
 | Scale AI | 172 | 1 | OK |
 | Dataiku | 13 | 0 | OK |
 | MongoDB | 383 | 2 | OK |
-| Oscar Health | 227 | 15 | OK |
+| Oscar Health | 232 | 16 | OK |
 | The Trade Desk | 105 | 3 | OK |
 | Guidepoint | 114 | 6 | OK |
-| Gusto | 100 | 4 | OK |
+| Gusto | 101 | 4 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 802 | 16 | OK |
-| Perplexity | 130 | 2 | OK |
+| OpenAI | 801 | 16 | OK |
+| Perplexity | 131 | 2 | OK |
 | Notion | 140 | 9 | OK |
-| Harvey | 350 | 21 | OK |
+| Harvey | 351 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 117 | 5 | OK |
+| Cohere | 116 | 5 | OK |
 | Vanta | 83 | 3 | OK |
