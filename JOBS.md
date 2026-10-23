@@ -1,11 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-10-23 20:03:10 UTC
+Last checked: 2026-10-23 20:37:50 UTC
 
 237 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Cohere | [Public Sector Delivery Analyst](https://jobs.ashbyhq.com/cohere/9be116c1-c1df-49bd-8e90-31d41b62645f) | Ottawa / Remote |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I (New Grad 2027) - Instruments team](https://job-boards.greenhouse.io/affirm/jobs/8011718003) | Remote UK |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
@@ -129,7 +130,6 @@ Last checked: 2026-10-23 20:03:10 UTC
 |  | Jane Street | [Campus Recruiter, Technology](https://www.janestreet.com/join-jane-street/apply/8345570002?gh_jid=8345570002) | New York, New York, United States |
 |  | Jane Street | [Fundamental Research Analyst](https://www.janestreet.com/join-jane-street/apply/8347286002?gh_jid=8347286002) | New York, New York, United States |
 |  | Jane Street | [Recruiting Coordinator](https://www.janestreet.com/join-jane-street/apply/8560087002?gh_jid=8560087002) | New York, New York, United States |
-|  | Jane Street | [Workplace Services Rotational Coordinator](https://www.janestreet.com/join-jane-street/apply/8599917002?gh_jid=8599917002) | New York, New York, United States |
 |  | Kalshi | [Surveillance Analyst](https://jobs.ashbyhq.com/kalshi/72111d46-0815-47bf-bad2-152cf530b010) | New York Office |
 |  | MongoDB | [Product Pricing & Monetization Strategy - Associate](https://www.mongodb.com/careers/job/?gh_jid=7523751) | New York City |
 |  | MongoDB | [Strategic Finance Analyst](https://www.mongodb.com/careers/job/?gh_jid=8192216) | New York City |
@@ -257,13 +257,13 @@ Last checked: 2026-10-23 20:03:10 UTC
 | Point72 | 211 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
 | Anthropic | 678 | 16 | OK |
-| Stripe | 725 | 14 | OK |
+| Stripe | 724 | 14 | OK |
 | Datadog | 435 | 9 | OK |
 | Palantir | 309 | 17 | OK |
-| Ramp | 168 | 13 | OK |
-| iCapital | 225 | 9 | OK |
+| Ramp | 167 | 13 | OK |
+| iCapital | 224 | 9 | OK |
 | AlphaSights | 64 | 12 | OK |
-| Jane Street | 221 | 7 | OK |
+| Jane Street | 220 | 6 | OK |
 | Schonfeld | 67 | 5 | OK |
 | Robinhood | 156 | 0 | OK |
 | SoFi | 56 | 0 | OK |
@@ -271,7 +271,7 @@ Last checked: 2026-10-23 20:03:10 UTC
 | Brex | 253 | 2 | OK |
 | Betterment | 25 | 2 | OK |
 | Clear Street | 45 | 6 | OK |
-| Scale AI | 171 | 1 | OK |
+| Scale AI | 172 | 1 | OK |
 | Dataiku | 13 | 0 | OK |
 | MongoDB | 383 | 2 | OK |
 | Oscar Health | 227 | 15 | OK |
@@ -279,11 +279,11 @@ Last checked: 2026-10-23 20:03:10 UTC
 | Guidepoint | 114 | 6 | OK |
 | Gusto | 100 | 4 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 801 | 16 | OK |
-| Perplexity | 129 | 2 | OK |
+| OpenAI | 802 | 16 | OK |
+| Perplexity | 130 | 2 | OK |
 | Notion | 140 | 9 | OK |
 | Harvey | 350 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 114 | 4 | OK |
-| Vanta | 84 | 3 | OK |
+| Cohere | 117 | 5 | OK |
+| Vanta | 83 | 3 | OK |
