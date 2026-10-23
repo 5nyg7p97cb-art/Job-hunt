@@ -1,14 +1,15 @@
 # Entry-level openings
 
-Last checked: 2026-10-23 12:50:14 UTC
+Last checked: 2026-10-23 13:45:05 UTC
 
 236 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
@@ -218,7 +219,6 @@ Last checked: 2026-10-23 12:50:14 UTC
 |  | Schonfeld | [Associate Counsel, PM Legal and Fund Formation](https://job-boards.greenhouse.io/schonfeld/jobs/8186867) | New York, New York, United States |
 |  | Schonfeld | [Corporate Access Associate](https://job-boards.greenhouse.io/schonfeld/jobs/8281961) | New York, New York, United States |
 |  | Schonfeld | [Enterprise Risk Associate, FX & Rates](https://job-boards.greenhouse.io/schonfeld/jobs/7535613) | New York, New York, United States |
-|  | Schonfeld | [Market Data Analyst](https://job-boards.greenhouse.io/schonfeld/jobs/7843959) | New York, New York, United States |
 |  | Schonfeld | [Regulatory Reporting Associate](https://job-boards.greenhouse.io/schonfeld/jobs/8226258) | New York, New York, United States |
 |  | Schonfeld | [Systematic Portfolio Strategy and Risk Analyst (NYC or Miami)](https://job-boards.greenhouse.io/schonfeld/jobs/7402926) | Miami, Florida, United States; New York, New York, United States |
 |  | Stripe | [Comms Strategy & Operations Associate](https://stripe.com/jobs/search?gh_jid=8241857) | NYC, SF |
@@ -227,8 +227,8 @@ Last checked: 2026-10-23 12:50:14 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -254,35 +254,35 @@ Last checked: 2026-10-23 12:50:14 UTC
 | Blackstone | 25 | 8 | OK |
 | Blackstone (Campus) | 25 | 2 | OK |
 | Point72 | 212 | 11 | OK |
-| General Atlantic | 13 | 0 | OK |
-| Anthropic | 683 | 16 | OK |
+| General Atlantic | 13 | 1 | OK |
+| Anthropic | 684 | 16 | OK |
 | Stripe | 726 | 14 | OK |
-| Datadog | 440 | 9 | OK |
-| Palantir | 308 | 17 | OK |
+| Datadog | 439 | 9 | OK |
+| Palantir | 309 | 17 | OK |
 | Ramp | 171 | 13 | OK |
 | iCapital | 225 | 9 | OK |
 | AlphaSights | 64 | 12 | OK |
-| Jane Street | 220 | 7 | OK |
-| Schonfeld | 68 | 6 | OK |
+| Jane Street | 221 | 7 | OK |
+| Schonfeld | 67 | 5 | OK |
 | Robinhood | 157 | 0 | OK |
-| SoFi | 49 | 0 | OK |
+| SoFi | 53 | 0 | OK |
 | Affirm | 225 | 7 | OK |
 | Brex | 257 | 2 | OK |
 | Betterment | 23 | 2 | OK |
 | Clear Street | 45 | 6 | OK |
 | Scale AI | 172 | 1 | OK |
 | Dataiku | 13 | 0 | OK |
-| MongoDB | 388 | 2 | OK |
-| Oscar Health | 241 | 15 | OK |
+| MongoDB | 387 | 2 | OK |
+| Oscar Health | 240 | 15 | OK |
 | The Trade Desk | 106 | 3 | OK |
 | Guidepoint | 114 | 6 | OK |
 | Gusto | 99 | 4 | OK |
-| Flatiron Health | 22 | 4 | OK |
+| Flatiron Health | 23 | 4 | OK |
 | OpenAI | 801 | 16 | OK |
 | Perplexity | 127 | 2 | OK |
 | Notion | 139 | 9 | OK |
 | Harvey | 349 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 114 | 4 | OK |
+| Cohere | 113 | 4 | OK |
 | Vanta | 85 | 3 | OK |
