@@ -1,15 +1,15 @@
 # Entry-level openings
 
-Last checked: 2026-10-23 18:07:26 UTC
+Last checked: 2026-10-23 19:13:51 UTC
 
 237 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Affirm | [Software Engineer I (New Grad 2027) - Instruments team](https://job-boards.greenhouse.io/affirm/jobs/8011718003) | Remote UK |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I (New Grad 2027) - Instruments team](https://job-boards.greenhouse.io/affirm/jobs/8011718003) | Remote UK |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
@@ -254,35 +254,35 @@ Last checked: 2026-10-23 18:07:26 UTC
 | BlackRock | 47 | 0 | OK |
 | Blackstone | 25 | 8 | OK |
 | Blackstone (Campus) | 25 | 2 | OK |
-| Point72 | 212 | 11 | OK |
+| Point72 | 211 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
-| Anthropic | 680 | 16 | OK |
-| Stripe | 723 | 14 | OK |
-| Datadog | 434 | 9 | OK |
+| Anthropic | 677 | 16 | OK |
+| Stripe | 725 | 14 | OK |
+| Datadog | 435 | 9 | OK |
 | Palantir | 309 | 17 | OK |
 | Ramp | 169 | 13 | OK |
 | iCapital | 225 | 9 | OK |
 | AlphaSights | 64 | 12 | OK |
 | Jane Street | 221 | 7 | OK |
 | Schonfeld | 67 | 5 | OK |
-| Robinhood | 158 | 0 | OK |
+| Robinhood | 156 | 0 | OK |
 | SoFi | 56 | 0 | OK |
-| Affirm | 226 | 8 | OK |
+| Affirm | 223 | 8 | OK |
 | Brex | 253 | 2 | OK |
 | Betterment | 23 | 2 | OK |
 | Clear Street | 45 | 6 | OK |
 | Scale AI | 171 | 1 | OK |
 | Dataiku | 13 | 0 | OK |
-| MongoDB | 383 | 2 | OK |
-| Oscar Health | 229 | 15 | OK |
+| MongoDB | 384 | 2 | OK |
+| Oscar Health | 227 | 15 | OK |
 | The Trade Desk | 106 | 3 | OK |
 | Guidepoint | 114 | 6 | OK |
 | Gusto | 100 | 4 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 800 | 16 | OK |
+| OpenAI | 802 | 16 | OK |
 | Perplexity | 128 | 2 | OK |
 | Notion | 140 | 9 | OK |
-| Harvey | 349 | 21 | OK |
+| Harvey | 351 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 114 | 4 | OK |
