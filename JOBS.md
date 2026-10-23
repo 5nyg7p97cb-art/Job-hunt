@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-23 22:10:30 UTC
+Last checked: 2026-10-23 23:04:24 UTC
 
 238 matching roles open. ð = found in the latest run.
 
@@ -257,8 +257,8 @@ Last checked: 2026-10-23 22:10:30 UTC
 | Blackstone (Campus) | 25 | 2 | OK |
 | Point72 | 211 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
-| Anthropic | 678 | 16 | OK |
-| Stripe | 722 | 14 | OK |
+| Anthropic | 677 | 16 | OK |
+| Stripe | 721 | 14 | OK |
 | Datadog | 434 | 9 | OK |
 | Palantir | 309 | 17 | OK |
 | Ramp | 167 | 13 | OK |
@@ -266,7 +266,7 @@ Last checked: 2026-10-23 22:10:30 UTC
 | AlphaSights | 64 | 12 | OK |
 | Jane Street | 220 | 6 | OK |
 | Schonfeld | 67 | 5 | OK |
-| Robinhood | 157 | 0 | OK |
+| Robinhood | 156 | 0 | OK |
 | SoFi | 57 | 0 | OK |
 | Affirm | 225 | 8 | OK |
 | Brex | 254 | 2 | OK |
@@ -280,10 +280,10 @@ Last checked: 2026-10-23 22:10:30 UTC
 | Guidepoint | 114 | 6 | OK |
 | Gusto | 101 | 4 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 796 | 16 | OK |
+| OpenAI | 794 | 16 | OK |
 | Perplexity | 131 | 2 | OK |
 | Notion | 140 | 9 | OK |
-| Harvey | 351 | 21 | OK |
+| Harvey | 353 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 116 | 5 | OK |
