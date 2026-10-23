@@ -1,16 +1,15 @@
 # Entry-level openings
 
-Last checked: 2026-10-23 21:36:12 UTC
+Last checked: 2026-10-23 22:10:30 UTC
 
 238 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Oscar Health | [Operations Analyst, Plan Loading](https://job-boards.greenhouse.io/oscar/jobs/8286491) | Remote |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I (New Grad 2027) - Instruments team](https://job-boards.greenhouse.io/affirm/jobs/8011718003) | Remote UK |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
@@ -173,6 +172,7 @@ Last checked: 2026-10-23 21:36:12 UTC
 |  | Oscar Health | [Associate, Provider Success](https://job-boards.greenhouse.io/oscar/jobs/8146191) | New York, New York, United States |
 |  | Oscar Health | [Associate, Strategic Finance](https://job-boards.greenhouse.io/oscar/jobs/8011066) | New York, New York, United States |
 |  | Oscar Health | [Network Contracting & Services Associate](https://job-boards.greenhouse.io/oscar/jobs/8080961) | Remote |
+|  | Oscar Health | [Operations Analyst, Plan Loading](https://job-boards.greenhouse.io/oscar/jobs/8286491) | Remote |
 |  | Oscar Health | [Provider Network Associate](https://job-boards.greenhouse.io/oscar/jobs/8178503) | Remote |
 |  | Palantir | [Compliance Analyst](https://jobs.lever.co/palantir/c6f9eaaf-b397-476f-8b7d-c511cfb7e5c6) | New York, NY |
 |  | Palantir | [Deployment Strategist, New Grad - Warp Speed](https://jobs.lever.co/palantir/37780e70-c7af-45e1-9be7-071df201c387) | New York, NY |
@@ -258,7 +258,7 @@ Last checked: 2026-10-23 21:36:12 UTC
 | Point72 | 211 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
 | Anthropic | 678 | 16 | OK |
-| Stripe | 723 | 14 | OK |
+| Stripe | 722 | 14 | OK |
 | Datadog | 434 | 9 | OK |
 | Palantir | 309 | 17 | OK |
 | Ramp | 167 | 13 | OK |
@@ -272,7 +272,7 @@ Last checked: 2026-10-23 21:36:12 UTC
 | Brex | 254 | 2 | OK |
 | Betterment | 25 | 2 | OK |
 | Clear Street | 45 | 6 | OK |
-| Scale AI | 172 | 1 | OK |
+| Scale AI | 171 | 1 | OK |
 | Dataiku | 13 | 0 | OK |
 | MongoDB | 383 | 2 | OK |
 | Oscar Health | 232 | 16 | OK |
@@ -280,7 +280,7 @@ Last checked: 2026-10-23 21:36:12 UTC
 | Guidepoint | 114 | 6 | OK |
 | Gusto | 101 | 4 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 801 | 16 | OK |
+| OpenAI | 796 | 16 | OK |
 | Perplexity | 131 | 2 | OK |
 | Notion | 140 | 9 | OK |
 | Harvey | 351 | 21 | OK |
