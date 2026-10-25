@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-25 14:05:46 UTC
+Last checked: 2026-10-25 14:38:28 UTC
 
 239 matching roles open. ð = found in the latest run.
 
@@ -8,8 +8,8 @@ Last checked: 2026-10-25 14:05:46 UTC
 |---|---|---|---|
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I (New Grad 2027) - Instruments team](https://job-boards.greenhouse.io/affirm/jobs/8011718003) | Remote UK |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
