@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-26 22:38:29 UTC
+Last checked: 2026-10-26 23:34:32 UTC
 
 239 matching roles open. ð = found in the latest run.
 
@@ -82,8 +82,8 @@ Last checked: 2026-10-26 22:38:29 UTC
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -256,9 +256,9 @@ Last checked: 2026-10-26 22:38:29 UTC
 | BlackRock | 48 | 0 | OK |
 | Blackstone | 25 | 7 | OK |
 | Blackstone (Campus) | 23 | 2 | OK |
-| Point72 | 211 | 11 | OK |
+| Point72 | 210 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
-| Anthropic | 678 | 17 | OK |
+| Anthropic | 679 | 17 | OK |
 | Stripe | 711 | 15 | OK |
 | Datadog | 427 | 9 | OK |
 | Palantir | 307 | 17 | OK |
@@ -269,7 +269,7 @@ Last checked: 2026-10-26 22:38:29 UTC
 | Schonfeld | 66 | 5 | OK |
 | Robinhood | 155 | 0 | OK |
 | SoFi | 59 | 0 | OK |
-| Affirm | 225 | 7 | OK |
+| Affirm | 223 | 7 | OK |
 | Brex | 266 | 2 | OK |
 | Betterment | 26 | 2 | OK |
 | Clear Street | 44 | 5 | OK |
@@ -279,12 +279,12 @@ Last checked: 2026-10-26 22:38:29 UTC
 | Oscar Health | 226 | 17 | OK |
 | The Trade Desk | 109 | 3 | OK |
 | Guidepoint | 113 | 6 | OK |
-| Gusto | 98 | 4 | OK |
+| Gusto | 97 | 4 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 796 | 16 | OK |
+| OpenAI | 794 | 16 | OK |
 | Perplexity | 131 | 2 | OK |
 | Notion | 140 | 9 | OK |
-| Harvey | 363 | 21 | OK |
+| Harvey | 366 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 116 | 5 | OK |
