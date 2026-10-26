@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-26 05:39:47 UTC
+Last checked: 2026-10-26 06:49:04 UTC
 
 239 matching roles open. ð = found in the latest run.
 
@@ -230,8 +230,8 @@ Last checked: 2026-10-26 05:39:47 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -253,13 +253,13 @@ Last checked: 2026-10-26 05:39:47 UTC
 | Bilt | 19 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 46 | 0 | OK |
+| BlackRock | 47 | 0 | OK |
 | Blackstone | 25 | 8 | OK |
 | Blackstone (Campus) | 25 | 2 | OK |
-| Point72 | 215 | 11 | OK |
+| Point72 | 216 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
 | Anthropic | 682 | 17 | OK |
-| Stripe | 720 | 14 | OK |
+| Stripe | 721 | 14 | OK |
 | Datadog | 429 | 9 | OK |
 | Palantir | 309 | 17 | OK |
 | Ramp | 167 | 13 | OK |
@@ -281,7 +281,7 @@ Last checked: 2026-10-26 05:39:47 UTC
 | Guidepoint | 114 | 6 | OK |
 | Gusto | 101 | 4 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 790 | 16 | OK |
+| OpenAI | 791 | 16 | OK |
 | Perplexity | 132 | 2 | OK |
 | Notion | 141 | 9 | OK |
 | Harvey | 359 | 21 | OK |
