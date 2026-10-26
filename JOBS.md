@@ -1,18 +1,17 @@
 # Entry-level openings
 
-Last checked: 2026-10-26 21:38:23 UTC
+Last checked: 2026-10-26 22:38:29 UTC
 
 239 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Oscar Health | [Associate, Member and Provider Programs](https://job-boards.greenhouse.io/oscar/jobs/8303620) | New York, New York, United States |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -163,6 +162,7 @@ Last checked: 2026-10-26 21:38:23 UTC
 |  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
 |  | Oscar Health | [Associate, Member and Provider Optimization](https://job-boards.greenhouse.io/oscar/jobs/8031791) | New York, New York, United States |
+|  | Oscar Health | [Associate, Member and Provider Programs](https://job-boards.greenhouse.io/oscar/jobs/8303620) | New York, New York, United States |
 |  | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8301173) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
@@ -253,12 +253,12 @@ Last checked: 2026-10-26 21:38:23 UTC
 | Bilt | 19 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 47 | 0 | OK |
+| BlackRock | 48 | 0 | OK |
 | Blackstone | 25 | 7 | OK |
 | Blackstone (Campus) | 23 | 2 | OK |
 | Point72 | 211 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
-| Anthropic | 679 | 17 | OK |
+| Anthropic | 678 | 17 | OK |
 | Stripe | 711 | 15 | OK |
 | Datadog | 427 | 9 | OK |
 | Palantir | 307 | 17 | OK |
@@ -267,25 +267,25 @@ Last checked: 2026-10-26 21:38:23 UTC
 | AlphaSights | 64 | 12 | OK |
 | Jane Street | 220 | 6 | OK |
 | Schonfeld | 66 | 5 | OK |
-| Robinhood | 154 | 0 | OK |
+| Robinhood | 155 | 0 | OK |
 | SoFi | 59 | 0 | OK |
-| Affirm | 223 | 7 | OK |
-| Brex | 263 | 2 | OK |
+| Affirm | 225 | 7 | OK |
+| Brex | 266 | 2 | OK |
 | Betterment | 26 | 2 | OK |
 | Clear Street | 44 | 5 | OK |
-| Scale AI | 168 | 1 | OK |
+| Scale AI | 166 | 1 | OK |
 | Dataiku | 12 | 0 | OK |
 | MongoDB | 367 | 2 | OK |
 | Oscar Health | 226 | 17 | OK |
 | The Trade Desk | 109 | 3 | OK |
 | Guidepoint | 113 | 6 | OK |
 | Gusto | 98 | 4 | OK |
-| Flatiron Health | 22 | 4 | OK |
+| Flatiron Health | 23 | 4 | OK |
 | OpenAI | 796 | 16 | OK |
 | Perplexity | 131 | 2 | OK |
 | Notion | 140 | 9 | OK |
-| Harvey | 360 | 21 | OK |
+| Harvey | 363 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 116 | 5 | OK |
-| Vanta | 85 | 3 | OK |
+| Vanta | 84 | 3 | OK |
