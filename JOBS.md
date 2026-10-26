@@ -1,18 +1,17 @@
 # Entry-level openings
 
-Last checked: 2026-10-26 16:53:58 UTC
+Last checked: 2026-10-26 17:42:03 UTC
 
-238 matching roles open. ð = found in the latest run.
+237 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Ramp | [KYB/AML Analyst, Sweden](https://jobs.ashbyhq.com/ramp/50770187-f226-468a-823e-fe193287c59f) | Remote (Sweden) / Remote |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -168,7 +167,6 @@ Last checked: 2026-10-26 16:53:58 UTC
 |  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
 |  | Oscar Health | [Associate, Payment Integrity](https://job-boards.greenhouse.io/oscar/jobs/8306738) | Remote |
 |  | Oscar Health | [Associate, Process Optimization](https://job-boards.greenhouse.io/oscar/jobs/8107490) | New York, New York, United States |
-|  | Oscar Health | [Associate, Provider Success](https://job-boards.greenhouse.io/oscar/jobs/8146191) | New York, New York, United States |
 |  | Oscar Health | [Associate, Strategic Finance](https://job-boards.greenhouse.io/oscar/jobs/8011066) | New York, New York, United States |
 |  | Oscar Health | [Network Contracting & Services Associate](https://job-boards.greenhouse.io/oscar/jobs/8080961) | Remote |
 |  | Oscar Health | [Operations Analyst, Plan Loading](https://job-boards.greenhouse.io/oscar/jobs/8286491) | Remote |
@@ -212,6 +210,7 @@ Last checked: 2026-10-26 16:53:58 UTC
 |  | Ramp | [Customer Experience Associate (Evening Shift)](https://jobs.ashbyhq.com/ramp/40f43993-21e8-4db1-a9f4-7a3e6098a9ba) | New York, NY (HQ) / San Francisco, CA / Remote (US) / Denver, CO / Miami, FL / Remote |
 |  | Ramp | [Customer Experience Associate - London](https://jobs.ashbyhq.com/ramp/0d731586-3626-48fb-9dc5-3061ae5fd240) | London, UK / Remote |
 |  | Ramp | [HRIS Analyst (Workday)](https://jobs.ashbyhq.com/ramp/a11f7720-f3a8-4e86-9cc6-562bb11420b2) | New York, NY (HQ) / San Francisco, CA / Remote (US) / Remote |
+|  | Ramp | [KYB/AML Analyst, Sweden](https://jobs.ashbyhq.com/ramp/50770187-f226-468a-823e-fe193287c59f) | Remote (Sweden) / Remote |
 |  | Ramp | [Sales Development Representative, Mid-Market](https://jobs.ashbyhq.com/ramp/83eec8f4-c37d-43c9-860b-27223eee3643) | New York, NY (HQ) / San Francisco, CA / Remote |
 |  | Ramp | [Sales Development Representative, SMB](https://jobs.ashbyhq.com/ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f) | New York, NY (HQ) / San Francisco, CA / Remote |
 |  | Ramp | [Sales Development Representative, Strategic Accounts](https://jobs.ashbyhq.com/ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284) | New York, NY (HQ) / Remote |
@@ -228,8 +227,8 @@ Last checked: 2026-10-26 16:53:58 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -255,10 +254,10 @@ Last checked: 2026-10-26 16:53:58 UTC
 | BlackRock | 47 | 0 | OK |
 | Blackstone | 24 | 7 | OK |
 | Blackstone (Campus) | 23 | 2 | OK |
-| Point72 | 213 | 11 | OK |
+| Point72 | 212 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
 | Anthropic | 683 | 17 | OK |
-| Stripe | 717 | 15 | OK |
+| Stripe | 715 | 15 | OK |
 | Datadog | 427 | 9 | OK |
 | Palantir | 307 | 17 | OK |
 | Ramp | 173 | 14 | OK |
@@ -266,7 +265,7 @@ Last checked: 2026-10-26 16:53:58 UTC
 | AlphaSights | 64 | 12 | OK |
 | Jane Street | 220 | 6 | OK |
 | Schonfeld | 67 | 5 | OK |
-| Robinhood | 156 | 0 | OK |
+| Robinhood | 155 | 0 | OK |
 | SoFi | 56 | 0 | OK |
 | Affirm | 224 | 7 | OK |
 | Brex | 259 | 2 | OK |
@@ -275,16 +274,16 @@ Last checked: 2026-10-26 16:53:58 UTC
 | Scale AI | 169 | 1 | OK |
 | Dataiku | 12 | 0 | OK |
 | MongoDB | 367 | 2 | OK |
-| Oscar Health | 232 | 16 | OK |
-| The Trade Desk | 106 | 3 | OK |
+| Oscar Health | 223 | 15 | OK |
+| The Trade Desk | 107 | 3 | OK |
 | Guidepoint | 114 | 6 | OK |
-| Gusto | 101 | 4 | OK |
+| Gusto | 102 | 4 | OK |
 | Flatiron Health | 22 | 4 | OK |
-| OpenAI | 787 | 16 | OK |
+| OpenAI | 790 | 16 | OK |
 | Perplexity | 131 | 2 | OK |
 | Notion | 141 | 9 | OK |
 | Harvey | 359 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 116 | 5 | OK |
-| Vanta | 82 | 3 | OK |
+| Vanta | 85 | 3 | OK |
