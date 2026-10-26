@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-26 00:58:20 UTC
+Last checked: 2026-10-26 01:49:29 UTC
 
 239 matching roles open. ð = found in the latest run.
 
@@ -283,7 +283,7 @@ Last checked: 2026-10-26 00:58:20 UTC
 | Flatiron Health | 23 | 4 | OK |
 | OpenAI | 793 | 16 | OK |
 | Perplexity | 132 | 2 | OK |
-| Notion | 140 | 9 | OK |
+| Notion | 141 | 9 | OK |
 | Harvey | 358 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
