@@ -1,11 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-10-26 16:06:54 UTC
+Last checked: 2026-10-26 16:53:58 UTC
 
-237 matching roles open. ð = found in the latest run.
+238 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Ramp | [KYB/AML Analyst, Sweden](https://jobs.ashbyhq.com/ramp/50770187-f226-468a-823e-fe193287c59f) | Remote (Sweden) / Remote |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
@@ -51,7 +52,6 @@ Last checked: 2026-10-26 16:06:54 UTC
 |  | Blackstone | [BXMA - Business & Financial Evaluation - Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA---Business---Financial-Evaluation---Analyst_45566) | New York |
 |  | Blackstone | [BXMA- Direct Trading Operations, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA--Direct-Trading-Operations--Analyst_43372) | New York |
 |  | Blackstone | [Blackstone Executive Offices - Leadership Program, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Blackstone-Executive-Offices---Leadership-Program--Analyst_45155-2) | New York |
-|  | Blackstone | [Blackstone Executive Offices - Strategic Relationships, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Blackstone-Executive-Offices---Strategic-Relationships--Analyst_43716) | New York |
 |  | Blackstone | [Blackstone Private Wealth - Internal Sales, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York-601-Lex/Private-Wealth-Solutions---Internal-Sales--Associate_31726-5) | New York 601 Lex |
 |  | Blackstone | [ICS - Private Capital Group, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/ICS---Private-Capital-Group--Analyst_46060-2) | New York |
 |  | Blackstone | [Public Affairs, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Public-Affairs--Associate_43586) | New York |
@@ -232,6 +232,7 @@ Last checked: 2026-10-26 16:06:54 UTC
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
+|  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
 |  | Stripe | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8128744) | San Francisco, Seattle, New York |
 |  | Stripe | [University Recruiter (Fixed Term)](https://stripe.com/jobs/search?gh_jid=8226211) | San Francisco, New York, Seattle, US-Remote |
@@ -251,35 +252,35 @@ Last checked: 2026-10-26 16:06:54 UTC
 | Bilt | 19 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 46 | 0 | OK |
-| Blackstone | 25 | 8 | OK |
+| BlackRock | 47 | 0 | OK |
+| Blackstone | 24 | 7 | OK |
 | Blackstone (Campus) | 23 | 2 | OK |
 | Point72 | 213 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
 | Anthropic | 683 | 17 | OK |
-| Stripe | 717 | 14 | OK |
-| Datadog | 426 | 9 | OK |
+| Stripe | 717 | 15 | OK |
+| Datadog | 427 | 9 | OK |
 | Palantir | 307 | 17 | OK |
-| Ramp | 168 | 13 | OK |
-| iCapital | 220 | 9 | OK |
+| Ramp | 173 | 14 | OK |
+| iCapital | 219 | 9 | OK |
 | AlphaSights | 64 | 12 | OK |
 | Jane Street | 220 | 6 | OK |
 | Schonfeld | 67 | 5 | OK |
-| Robinhood | 157 | 0 | OK |
+| Robinhood | 156 | 0 | OK |
 | SoFi | 56 | 0 | OK |
 | Affirm | 224 | 7 | OK |
 | Brex | 259 | 2 | OK |
 | Betterment | 26 | 2 | OK |
 | Clear Street | 44 | 5 | OK |
 | Scale AI | 169 | 1 | OK |
-| Dataiku | 13 | 0 | OK |
+| Dataiku | 12 | 0 | OK |
 | MongoDB | 367 | 2 | OK |
 | Oscar Health | 232 | 16 | OK |
 | The Trade Desk | 106 | 3 | OK |
 | Guidepoint | 114 | 6 | OK |
 | Gusto | 101 | 4 | OK |
 | Flatiron Health | 22 | 4 | OK |
-| OpenAI | 789 | 16 | OK |
+| OpenAI | 787 | 16 | OK |
 | Perplexity | 131 | 2 | OK |
 | Notion | 141 | 9 | OK |
 | Harvey | 359 | 21 | OK |
