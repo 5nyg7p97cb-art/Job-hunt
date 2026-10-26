@@ -1,18 +1,18 @@
 # Entry-level openings
 
-Last checked: 2026-10-26 11:47:16 UTC
+Last checked: 2026-10-26 14:49:49 UTC
 
-239 matching roles open. ð = found in the latest run.
+238 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I (New Grad 2027) - Instruments team](https://job-boards.greenhouse.io/affirm/jobs/8011718003) | Remote UK |
+|  | Affirm | [Software Engineer I (New Grad 2027)](https://job-boards.greenhouse.io/affirm/jobs/8011718003) | Remote UK |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -60,7 +60,6 @@ Last checked: 2026-10-26 11:47:16 UTC
 |  | Blackstone (Campus) | [2027 Blackstone Real Estate Acquisitions Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Blackstone-Real-Estate-Acquisitions-Analyst_45626) | New York |
 |  | Brex | [Finance Associate](https://www.brex.com/careers/8606825002?gh_jid=8606825002) | New York, New York, United States |
 |  | Brex | [Fraud Strategy Associate](https://www.brex.com/careers/8907584002?gh_jid=8907584002) | New York, New York, United States |
-|  | Clear Street | [AML Onboarding Associate](https://job-boards.greenhouse.io/clearstreet/jobs/7557381) | New York, NY |
 |  | Clear Street | [Associate - Client Onboarding](https://job-boards.greenhouse.io/clearstreet/jobs/8227249) | New York, NY |
 |  | Clear Street | [Associate - Tax Operations](https://job-boards.greenhouse.io/clearstreet/jobs/8249141) | New York, NY |
 |  | Clear Street | [Associate - Trade Surveillance](https://job-boards.greenhouse.io/clearstreet/jobs/7561417) | New York, NY |
@@ -253,29 +252,29 @@ Last checked: 2026-10-26 11:47:16 UTC
 | Bilt | 19 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 47 | 0 | OK |
+| BlackRock | 46 | 0 | OK |
 | Blackstone | 25 | 8 | OK |
-| Blackstone (Campus) | 24 | 2 | OK |
-| Point72 | 215 | 11 | OK |
+| Blackstone (Campus) | 23 | 2 | OK |
+| Point72 | 213 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
-| Anthropic | 682 | 17 | OK |
-| Stripe | 719 | 14 | OK |
-| Datadog | 429 | 9 | OK |
+| Anthropic | 683 | 17 | OK |
+| Stripe | 716 | 14 | OK |
+| Datadog | 427 | 9 | OK |
 | Palantir | 309 | 17 | OK |
 | Ramp | 167 | 13 | OK |
-| iCapital | 223 | 9 | OK |
+| iCapital | 220 | 9 | OK |
 | AlphaSights | 64 | 12 | OK |
 | Jane Street | 220 | 6 | OK |
 | Schonfeld | 67 | 5 | OK |
 | Robinhood | 157 | 0 | OK |
-| SoFi | 57 | 0 | OK |
-| Affirm | 225 | 8 | OK |
+| SoFi | 56 | 0 | OK |
+| Affirm | 223 | 8 | OK |
 | Brex | 259 | 2 | OK |
 | Betterment | 25 | 2 | OK |
-| Clear Street | 45 | 6 | OK |
-| Scale AI | 170 | 1 | OK |
+| Clear Street | 44 | 5 | OK |
+| Scale AI | 169 | 1 | OK |
 | Dataiku | 13 | 0 | OK |
-| MongoDB | 380 | 2 | OK |
+| MongoDB | 377 | 2 | OK |
 | Oscar Health | 232 | 16 | OK |
 | The Trade Desk | 106 | 3 | OK |
 | Guidepoint | 114 | 6 | OK |
@@ -287,5 +286,5 @@ Last checked: 2026-10-26 11:47:16 UTC
 | Harvey | 360 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 116 | 5 | OK |
-| Vanta | 83 | 3 | OK |
+| Cohere | 115 | 5 | OK |
+| Vanta | 82 | 3 | OK |
