@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-26 19:45:17 UTC
+Last checked: 2026-10-26 20:39:34 UTC
 
 238 matching roles open. ð = found in the latest run.
 
@@ -82,8 +82,8 @@ Last checked: 2026-10-26 19:45:17 UTC
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -228,8 +228,8 @@ Last checked: 2026-10-26 19:45:17 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -257,33 +257,33 @@ Last checked: 2026-10-26 19:45:17 UTC
 | Blackstone (Campus) | 23 | 2 | OK |
 | Point72 | 212 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
-| Anthropic | 681 | 17 | OK |
-| Stripe | 714 | 15 | OK |
+| Anthropic | 680 | 17 | OK |
+| Stripe | 710 | 15 | OK |
 | Datadog | 426 | 9 | OK |
 | Palantir | 307 | 17 | OK |
 | Ramp | 173 | 14 | OK |
-| iCapital | 220 | 9 | OK |
+| iCapital | 219 | 9 | OK |
 | AlphaSights | 64 | 12 | OK |
 | Jane Street | 220 | 6 | OK |
-| Schonfeld | 68 | 5 | OK |
-| Robinhood | 156 | 0 | OK |
-| SoFi | 58 | 0 | OK |
+| Schonfeld | 66 | 5 | OK |
+| Robinhood | 155 | 0 | OK |
+| SoFi | 59 | 0 | OK |
 | Affirm | 225 | 7 | OK |
-| Brex | 258 | 2 | OK |
+| Brex | 263 | 2 | OK |
 | Betterment | 26 | 2 | OK |
 | Clear Street | 44 | 5 | OK |
 | Scale AI | 168 | 1 | OK |
 | Dataiku | 12 | 0 | OK |
 | MongoDB | 367 | 2 | OK |
 | Oscar Health | 225 | 16 | OK |
-| The Trade Desk | 108 | 3 | OK |
-| Guidepoint | 114 | 6 | OK |
-| Gusto | 101 | 4 | OK |
+| The Trade Desk | 109 | 3 | OK |
+| Guidepoint | 113 | 6 | OK |
+| Gusto | 99 | 4 | OK |
 | Flatiron Health | 22 | 4 | OK |
-| OpenAI | 789 | 16 | OK |
+| OpenAI | 792 | 16 | OK |
 | Perplexity | 131 | 2 | OK |
 | Notion | 140 | 9 | OK |
-| Harvey | 358 | 21 | OK |
+| Harvey | 360 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 116 | 5 | OK |
