@@ -1,14 +1,15 @@
 # Entry-level openings
 
-Last checked: 2026-10-26 17:42:03 UTC
+Last checked: 2026-10-26 18:50:59 UTC
 
-237 matching roles open. ð = found in the latest run.
+238 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Oscar Health | [Operations Engineer I](https://job-boards.greenhouse.io/oscar/jobs/8301410) | New York, New York, United States |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
@@ -227,8 +228,8 @@ Last checked: 2026-10-26 17:42:03 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -256,9 +257,9 @@ Last checked: 2026-10-26 17:42:03 UTC
 | Blackstone (Campus) | 23 | 2 | OK |
 | Point72 | 212 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
-| Anthropic | 683 | 17 | OK |
-| Stripe | 715 | 15 | OK |
-| Datadog | 427 | 9 | OK |
+| Anthropic | 681 | 17 | OK |
+| Stripe | 714 | 15 | OK |
+| Datadog | 426 | 9 | OK |
 | Palantir | 307 | 17 | OK |
 | Ramp | 173 | 14 | OK |
 | iCapital | 219 | 9 | OK |
@@ -266,22 +267,22 @@ Last checked: 2026-10-26 17:42:03 UTC
 | Jane Street | 220 | 6 | OK |
 | Schonfeld | 67 | 5 | OK |
 | Robinhood | 155 | 0 | OK |
-| SoFi | 56 | 0 | OK |
-| Affirm | 224 | 7 | OK |
+| SoFi | 57 | 0 | OK |
+| Affirm | 225 | 7 | OK |
 | Brex | 259 | 2 | OK |
 | Betterment | 26 | 2 | OK |
 | Clear Street | 44 | 5 | OK |
-| Scale AI | 169 | 1 | OK |
+| Scale AI | 168 | 1 | OK |
 | Dataiku | 12 | 0 | OK |
 | MongoDB | 367 | 2 | OK |
-| Oscar Health | 223 | 15 | OK |
+| Oscar Health | 225 | 16 | OK |
 | The Trade Desk | 107 | 3 | OK |
 | Guidepoint | 114 | 6 | OK |
-| Gusto | 102 | 4 | OK |
+| Gusto | 101 | 4 | OK |
 | Flatiron Health | 22 | 4 | OK |
 | OpenAI | 790 | 16 | OK |
 | Perplexity | 131 | 2 | OK |
-| Notion | 141 | 9 | OK |
+| Notion | 140 | 9 | OK |
 | Harvey | 359 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
