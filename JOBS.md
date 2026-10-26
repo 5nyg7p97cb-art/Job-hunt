@@ -1,18 +1,17 @@
 # Entry-level openings
 
-Last checked: 2026-10-26 14:49:49 UTC
+Last checked: 2026-10-26 16:06:54 UTC
 
-238 matching roles open. ð = found in the latest run.
+237 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I (New Grad 2027)](https://job-boards.greenhouse.io/affirm/jobs/8011718003) | Remote UK |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -258,33 +257,33 @@ Last checked: 2026-10-26 14:49:49 UTC
 | Point72 | 213 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
 | Anthropic | 683 | 17 | OK |
-| Stripe | 716 | 14 | OK |
-| Datadog | 427 | 9 | OK |
-| Palantir | 309 | 17 | OK |
-| Ramp | 167 | 13 | OK |
+| Stripe | 717 | 14 | OK |
+| Datadog | 426 | 9 | OK |
+| Palantir | 307 | 17 | OK |
+| Ramp | 168 | 13 | OK |
 | iCapital | 220 | 9 | OK |
 | AlphaSights | 64 | 12 | OK |
 | Jane Street | 220 | 6 | OK |
 | Schonfeld | 67 | 5 | OK |
 | Robinhood | 157 | 0 | OK |
 | SoFi | 56 | 0 | OK |
-| Affirm | 223 | 8 | OK |
+| Affirm | 224 | 7 | OK |
 | Brex | 259 | 2 | OK |
-| Betterment | 25 | 2 | OK |
+| Betterment | 26 | 2 | OK |
 | Clear Street | 44 | 5 | OK |
 | Scale AI | 169 | 1 | OK |
 | Dataiku | 13 | 0 | OK |
-| MongoDB | 377 | 2 | OK |
+| MongoDB | 367 | 2 | OK |
 | Oscar Health | 232 | 16 | OK |
 | The Trade Desk | 106 | 3 | OK |
 | Guidepoint | 114 | 6 | OK |
 | Gusto | 101 | 4 | OK |
-| Flatiron Health | 23 | 4 | OK |
-| OpenAI | 790 | 16 | OK |
+| Flatiron Health | 22 | 4 | OK |
+| OpenAI | 789 | 16 | OK |
 | Perplexity | 131 | 2 | OK |
 | Notion | 141 | 9 | OK |
-| Harvey | 360 | 21 | OK |
+| Harvey | 359 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 115 | 5 | OK |
+| Cohere | 116 | 5 | OK |
 | Vanta | 82 | 3 | OK |
