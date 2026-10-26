@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-26 10:44:38 UTC
+Last checked: 2026-10-26 11:47:16 UTC
 
 239 matching roles open. ð = found in the latest run.
 
@@ -8,8 +8,8 @@ Last checked: 2026-10-26 10:44:38 UTC
 |---|---|---|---|
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I (New Grad 2027) - Instruments team](https://job-boards.greenhouse.io/affirm/jobs/8011718003) | Remote UK |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
@@ -259,7 +259,7 @@ Last checked: 2026-10-26 10:44:38 UTC
 | Point72 | 215 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
 | Anthropic | 682 | 17 | OK |
-| Stripe | 720 | 14 | OK |
+| Stripe | 719 | 14 | OK |
 | Datadog | 429 | 9 | OK |
 | Palantir | 309 | 17 | OK |
 | Ramp | 167 | 13 | OK |
@@ -277,7 +277,7 @@ Last checked: 2026-10-26 10:44:38 UTC
 | Dataiku | 13 | 0 | OK |
 | MongoDB | 380 | 2 | OK |
 | Oscar Health | 232 | 16 | OK |
-| The Trade Desk | 105 | 3 | OK |
+| The Trade Desk | 106 | 3 | OK |
 | Guidepoint | 114 | 6 | OK |
 | Gusto | 101 | 4 | OK |
 | Flatiron Health | 23 | 4 | OK |
