@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-27 20:15:35 UTC
+Last checked: 2026-10-27 21:12:42 UTC
 
-238 matching roles open. ð = found in the latest run.
+237 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Ramp | [Sales Development Representative / Public Sector](https://jobs.ashbyhq.com/ramp/6c1c3192-2508-4805-9dbb-08a4f581b44d) | New York, NY (HQ) / San Francisco, CA / Washington, D.C. / Remote |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
@@ -51,7 +50,6 @@ Last checked: 2026-10-27 20:15:35 UTC
 |  | Blackstone | [AI Engineer, Analyst – Data Analytics & AI](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/AI-Engineer--Analyst---Data-Analytics---AI_45238-1) | New York |
 |  | Blackstone | [BXMA - Business & Financial Evaluation - Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA---Business---Financial-Evaluation---Analyst_45566) | New York |
 |  | Blackstone | [BXMA- Direct Trading Operations, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA--Direct-Trading-Operations--Analyst_43372) | New York |
-|  | Blackstone | [Blackstone Executive Offices - Leadership Program, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Blackstone-Executive-Offices---Leadership-Program--Analyst_45155-2) | New York |
 |  | Blackstone | [Blackstone Private Wealth - Internal Sales, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York-601-Lex/Private-Wealth-Solutions---Internal-Sales--Associate_31726-5) | New York 601 Lex |
 |  | Blackstone | [ICS - Private Capital Group, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/ICS---Private-Capital-Group--Analyst_46060-2) | New York |
 |  | Blackstone | [Public Affairs, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Public-Affairs--Associate_43586) | New York |
@@ -212,6 +210,7 @@ Last checked: 2026-10-27 20:15:35 UTC
 |  | Ramp | [Customer Experience Associate - London](https://jobs.ashbyhq.com/ramp/0d731586-3626-48fb-9dc5-3061ae5fd240) | London, UK / Remote |
 |  | Ramp | [HRIS Analyst (Workday)](https://jobs.ashbyhq.com/ramp/a11f7720-f3a8-4e86-9cc6-562bb11420b2) | New York, NY (HQ) / Remote |
 |  | Ramp | [KYB/AML Analyst, Sweden](https://jobs.ashbyhq.com/ramp/50770187-f226-468a-823e-fe193287c59f) | Remote (Sweden) / Remote |
+|  | Ramp | [Sales Development Representative / Public Sector](https://jobs.ashbyhq.com/ramp/6c1c3192-2508-4805-9dbb-08a4f581b44d) | New York, NY (HQ) / San Francisco, CA / Washington, D.C. / Remote |
 |  | Ramp | [Sales Development Representative, Mid-Market](https://jobs.ashbyhq.com/ramp/83eec8f4-c37d-43c9-860b-27223eee3643) | New York, NY (HQ) / San Francisco, CA / Remote |
 |  | Ramp | [Sales Development Representative, SMB](https://jobs.ashbyhq.com/ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f) | New York, NY (HQ) / San Francisco, CA / Remote |
 |  | Ramp | [Sales Development Representative, Strategic Accounts](https://jobs.ashbyhq.com/ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284) | New York, NY (HQ) / Remote |
@@ -228,8 +227,8 @@ Last checked: 2026-10-27 20:15:35 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - RBO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -253,13 +252,13 @@ Last checked: 2026-10-27 20:15:35 UTC
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 48 | 0 | OK |
-| Blackstone | 23 | 7 | OK |
+| Blackstone | 22 | 6 | OK |
 | Blackstone (Campus) | 21 | 1 | OK |
 | Point72 | 208 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
-| Anthropic | 678 | 17 | OK |
-| Stripe | 714 | 15 | OK |
-| Datadog | 426 | 8 | OK |
+| Anthropic | 680 | 17 | OK |
+| Stripe | 712 | 15 | OK |
+| Datadog | 425 | 8 | OK |
 | Palantir | 306 | 17 | OK |
 | Ramp | 172 | 15 | OK |
 | iCapital | 218 | 9 | OK |
@@ -269,21 +268,21 @@ Last checked: 2026-10-27 20:15:35 UTC
 | Robinhood | 155 | 0 | OK |
 | SoFi | 62 | 0 | OK |
 | Affirm | 240 | 7 | OK |
-| Brex | 260 | 2 | OK |
+| Brex | 261 | 2 | OK |
 | Betterment | 26 | 2 | OK |
 | Clear Street | 44 | 5 | OK |
-| Scale AI | 166 | 1 | OK |
+| Scale AI | 167 | 1 | OK |
 | Dataiku | 14 | 0 | OK |
-| MongoDB | 364 | 2 | OK |
-| Oscar Health | 230 | 18 | OK |
+| MongoDB | 363 | 2 | OK |
+| Oscar Health | 231 | 18 | OK |
 | The Trade Desk | 112 | 3 | OK |
 | Guidepoint | 112 | 6 | OK |
-| Gusto | 96 | 4 | OK |
+| Gusto | 94 | 4 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 795 | 15 | OK |
+| OpenAI | 792 | 15 | OK |
 | Perplexity | 132 | 2 | OK |
-| Notion | 140 | 9 | OK |
-| Harvey | 366 | 21 | OK |
+| Notion | 139 | 9 | OK |
+| Harvey | 364 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 116 | 5 | OK |
