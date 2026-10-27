@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-27 01:46:55 UTC
+Last checked: 2026-10-27 02:37:05 UTC
 
 239 matching roles open. ð = found in the latest run.
 
@@ -260,7 +260,7 @@ Last checked: 2026-10-27 01:46:55 UTC
 | General Atlantic | 13 | 1 | OK |
 | Anthropic | 679 | 17 | OK |
 | Stripe | 712 | 15 | OK |
-| Datadog | 427 | 9 | OK |
+| Datadog | 428 | 9 | OK |
 | Palantir | 307 | 17 | OK |
 | Ramp | 173 | 14 | OK |
 | iCapital | 219 | 9 | OK |
@@ -282,7 +282,7 @@ Last checked: 2026-10-27 01:46:55 UTC
 | Gusto | 97 | 4 | OK |
 | Flatiron Health | 23 | 4 | OK |
 | OpenAI | 795 | 16 | OK |
-| Perplexity | 131 | 2 | OK |
+| Perplexity | 132 | 2 | OK |
 | Notion | 140 | 9 | OK |
 | Harvey | 366 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
