@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-27 22:12:39 UTC
+Last checked: 2026-10-27 23:10:18 UTC
 
 237 matching roles open. ð = found in the latest run.
 
@@ -79,8 +79,8 @@ Last checked: 2026-10-27 22:12:39 UTC
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -265,9 +265,9 @@ Last checked: 2026-10-27 22:12:39 UTC
 | AlphaSights | 63 | 12 | OK |
 | Jane Street | 220 | 6 | OK |
 | Schonfeld | 66 | 5 | OK |
-| Robinhood | 156 | 0 | OK |
+| Robinhood | 158 | 0 | OK |
 | SoFi | 62 | 0 | OK |
-| Affirm | 240 | 7 | OK |
+| Affirm | 242 | 7 | OK |
 | Brex | 261 | 2 | OK |
 | Betterment | 26 | 2 | OK |
 | Clear Street | 44 | 5 | OK |
@@ -277,9 +277,9 @@ Last checked: 2026-10-27 22:12:39 UTC
 | Oscar Health | 232 | 18 | OK |
 | The Trade Desk | 112 | 3 | OK |
 | Guidepoint | 112 | 6 | OK |
-| Gusto | 94 | 4 | OK |
+| Gusto | 93 | 4 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 794 | 15 | OK |
+| OpenAI | 799 | 15 | OK |
 | Perplexity | 132 | 2 | OK |
 | Notion | 139 | 9 | OK |
 | Harvey | 365 | 21 | OK |
