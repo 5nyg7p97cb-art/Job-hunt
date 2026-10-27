@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-27 14:26:38 UTC
+Last checked: 2026-10-27 15:25:04 UTC
 
 238 matching roles open. ð = found in the latest run.
 
@@ -228,8 +228,8 @@ Last checked: 2026-10-27 14:26:38 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -254,20 +254,20 @@ Last checked: 2026-10-27 14:26:38 UTC
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 49 | 0 | OK |
 | Blackstone | 23 | 7 | OK |
-| Blackstone (Campus) | 22 | 1 | OK |
-| Point72 | 209 | 11 | OK |
+| Blackstone (Campus) | 21 | 1 | OK |
+| Point72 | 208 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
 | Anthropic | 679 | 17 | OK |
-| Stripe | 715 | 15 | OK |
+| Stripe | 712 | 15 | OK |
 | Datadog | 429 | 9 | OK |
-| Palantir | 307 | 17 | OK |
+| Palantir | 306 | 17 | OK |
 | Ramp | 173 | 14 | OK |
-| iCapital | 217 | 9 | OK |
+| iCapital | 215 | 9 | OK |
 | AlphaSights | 63 | 12 | OK |
 | Jane Street | 220 | 6 | OK |
 | Schonfeld | 67 | 5 | OK |
-| Robinhood | 156 | 0 | OK |
-| SoFi | 59 | 0 | OK |
+| Robinhood | 155 | 0 | OK |
+| SoFi | 61 | 0 | OK |
 | Affirm | 241 | 7 | OK |
 | Brex | 266 | 2 | OK |
 | Betterment | 26 | 2 | OK |
@@ -282,7 +282,7 @@ Last checked: 2026-10-27 14:26:38 UTC
 | Flatiron Health | 23 | 4 | OK |
 | OpenAI | 797 | 16 | OK |
 | Perplexity | 132 | 2 | OK |
-| Notion | 140 | 9 | OK |
+| Notion | 139 | 9 | OK |
 | Harvey | 364 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
