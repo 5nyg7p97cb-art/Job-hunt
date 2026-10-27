@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-27 05:12:06 UTC
+Last checked: 2026-10-27 06:11:38 UTC
 
 239 matching roles open. ð = found in the latest run.
 
@@ -253,7 +253,7 @@ Last checked: 2026-10-27 05:12:06 UTC
 | Bilt | 19 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 49 | 0 | OK |
+| BlackRock | 50 | 0 | OK |
 | Blackstone | 25 | 7 | OK |
 | Blackstone (Campus) | 23 | 2 | OK |
 | Point72 | 210 | 11 | OK |
@@ -281,10 +281,10 @@ Last checked: 2026-10-27 05:12:06 UTC
 | Guidepoint | 112 | 6 | OK |
 | Gusto | 97 | 4 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 795 | 16 | OK |
+| OpenAI | 796 | 16 | OK |
 | Perplexity | 132 | 2 | OK |
 | Notion | 140 | 9 | OK |
-| Harvey | 364 | 21 | OK |
+| Harvey | 365 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 116 | 5 | OK |
