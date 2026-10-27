@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-27 16:25:09 UTC
+Last checked: 2026-10-27 17:23:56 UTC
 
-238 matching roles open. ð = found in the latest run.
+236 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -29,7 +29,7 @@ Last checked: 2026-10-27 16:25:09 UTC
 |  | Anthropic | [Business Development Representative](https://job-boards.greenhouse.io/anthropic/jobs/5396186008) | San Francisco, CA / New York City, NY |
 |  | Anthropic | [Business Systems Analyst, GTM Systems](https://job-boards.greenhouse.io/anthropic/jobs/5436196008) | San Francisco, CA / New York City, NY |
 |  | Anthropic | [Business Systems Analyst, New Product Introduction](https://job-boards.greenhouse.io/anthropic/jobs/5416829008) | San Francisco, CA / New York City, NY / Seattle, WA |
-|  | Anthropic | [Conceptual Reasoning Fellow](https://job-boards.greenhouse.io/anthropic/jobs/5447080008) | Remote-Friendly, United States; San Francisco, CA |
+|  | Anthropic | [Conceptual Reasoning Fellow](https://job-boards.greenhouse.io/anthropic/jobs/5447080008) | London, UK; Remote-Friendly, United States; San Francisco, CA |
 |  | Anthropic | [Enforcement Analyst, Agentic Alignment](https://job-boards.greenhouse.io/anthropic/jobs/5462893008) | Boston, MA; San Francisco, CA / Seattle, WA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Access Controls & Identity](https://job-boards.greenhouse.io/anthropic/jobs/5319626008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Account Takeover & Credential Abuse](https://job-boards.greenhouse.io/anthropic/jobs/5319624008) | San Francisco, CA / New York City, NY / Washington, DC |
@@ -43,7 +43,6 @@ Last checked: 2026-10-27 16:25:09 UTC
 |  | Anthropic | [Safeguards Enforcement Analyst, Safety Evaluations](https://job-boards.greenhouse.io/anthropic/jobs/5137183008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Security Risk Analyst, Risk Engineering](https://job-boards.greenhouse.io/anthropic/jobs/5397704008) | San Francisco, CA / New York City, NY |
 |  | Betterment | [Business Development Representative](https://www.betterment.com/careers/current-openings/job?gh_jid=8195434&gh_jid=8195434) | Betterment HQ - New York City |
-|  | Betterment | [Payroll & Benefits Coordinator](https://www.betterment.com/careers/current-openings/job?gh_jid=8154486&gh_jid=8154486) | Betterment HQ - New York City |
 |  | Bilt | [Back End Engineer (All Levels)](https://jobs.gem.com/bilt/am9icG9zdDqaZ6Eb1hZZ8_pRooaUHvdo) | New York, United States / New York |
 |  | Bilt | [Product Specialist - Housing](https://jobs.gem.com/bilt/am9icG9zdDomdgsgAMh6F4vcm7KhuGLN) | New York, United States / New York |
 |  | Bilt | [Product Specialist - Rentals](https://jobs.gem.com/bilt/am9icG9zdDqsNnnE7MCdbcnEXNRijoSv) | New York, United States / New York |
@@ -74,7 +73,6 @@ Last checked: 2026-10-27 16:25:09 UTC
 |  | Datadog | [GTM Strategy/Operations Associate](https://careers.datadoghq.com/detail/8171303/?gh_jid=8171303) | New York, New York, USA |
 |  | Datadog | [GTM Strategy/Operations Associate - New York](https://careers.datadoghq.com/detail/8179647/?gh_jid=8179647) | New York, New York, USA |
 |  | Datadog | [People Solutions Coordinator (NYC)](https://careers.datadoghq.com/detail/7728298/?gh_jid=7728298) | New York, New York, USA |
-|  | Datadog | [Recruiting Coordinator](https://careers.datadoghq.com/detail/8247346/?gh_jid=8247346) | Boston, Massachusetts, USA; New York, New York, USA |
 |  | Datadog | [Strategic Finance Analyst](https://careers.datadoghq.com/detail/8257306/?gh_jid=8257306) | New York, New York, USA |
 |  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
@@ -228,8 +226,8 @@ Last checked: 2026-10-27 16:25:09 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - SSO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -252,25 +250,25 @@ Last checked: 2026-10-27 16:25:09 UTC
 | Bilt | 19 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 50 | 0 | OK |
+| BlackRock | 48 | 0 | OK |
 | Blackstone | 23 | 7 | OK |
 | Blackstone (Campus) | 21 | 1 | OK |
 | Point72 | 208 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
-| Anthropic | 680 | 17 | OK |
-| Stripe | 711 | 15 | OK |
-| Datadog | 429 | 9 | OK |
+| Anthropic | 679 | 17 | OK |
+| Stripe | 710 | 15 | OK |
+| Datadog | 428 | 8 | OK |
 | Palantir | 306 | 17 | OK |
-| Ramp | 173 | 14 | OK |
-| iCapital | 215 | 9 | OK |
+| Ramp | 172 | 14 | OK |
+| iCapital | 216 | 9 | OK |
 | AlphaSights | 63 | 12 | OK |
 | Jane Street | 220 | 6 | OK |
 | Schonfeld | 67 | 5 | OK |
-| Robinhood | 154 | 0 | OK |
+| Robinhood | 155 | 0 | OK |
 | SoFi | 61 | 0 | OK |
 | Affirm | 242 | 7 | OK |
-| Brex | 265 | 2 | OK |
-| Betterment | 26 | 2 | OK |
+| Brex | 260 | 2 | OK |
+| Betterment | 25 | 1 | OK |
 | Clear Street | 44 | 5 | OK |
 | Scale AI | 167 | 1 | OK |
 | Dataiku | 14 | 0 | OK |
@@ -280,11 +278,11 @@ Last checked: 2026-10-27 16:25:09 UTC
 | Guidepoint | 112 | 6 | OK |
 | Gusto | 97 | 4 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 795 | 16 | OK |
+| OpenAI | 794 | 16 | OK |
 | Perplexity | 132 | 2 | OK |
 | Notion | 139 | 9 | OK |
 | Harvey | 364 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 116 | 5 | OK |
-| Vanta | 82 | 3 | OK |
+| Cohere | 117 | 5 | OK |
+| Vanta | 81 | 3 | OK |
