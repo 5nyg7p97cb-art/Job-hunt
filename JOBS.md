@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-10-27 13:30:39 UTC
+Last checked: 2026-10-27 14:26:38 UTC
 
-239 matching roles open. ð = found in the latest run.
+238 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
@@ -55,7 +55,6 @@ Last checked: 2026-10-27 13:30:39 UTC
 |  | Blackstone | [ICS - Private Capital Group, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/ICS---Private-Capital-Group--Analyst_46060-2) | New York |
 |  | Blackstone | [Public Affairs, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Public-Affairs--Associate_43586) | New York |
 |  | Blackstone (Campus) | [2027 Blackstone APAC Future Leaders Program (Online)](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Hong-Kong/XMLNAME-2027-Blackstone-APAC-Future-Leaders-Program--Online-_45896) | 6 Locations |
-|  | Blackstone (Campus) | [2027 Blackstone Real Estate Acquisitions Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Blackstone-Real-Estate-Acquisitions-Analyst_45626) | New York |
 |  | Brex | [Finance Associate](https://www.brex.com/careers/8606825002?gh_jid=8606825002) | New York, New York, United States |
 |  | Brex | [Fraud Strategy Associate](https://www.brex.com/careers/8907584002?gh_jid=8907584002) | New York, New York, United States |
 |  | Clear Street | [Associate - Client Onboarding](https://job-boards.greenhouse.io/clearstreet/jobs/8227249) | New York, NY |
@@ -254,22 +253,22 @@ Last checked: 2026-10-27 13:30:39 UTC
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 49 | 0 | OK |
-| Blackstone | 24 | 7 | OK |
-| Blackstone (Campus) | 23 | 2 | OK |
+| Blackstone | 23 | 7 | OK |
+| Blackstone (Campus) | 22 | 1 | OK |
 | Point72 | 209 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
 | Anthropic | 679 | 17 | OK |
-| Stripe | 713 | 15 | OK |
+| Stripe | 715 | 15 | OK |
 | Datadog | 429 | 9 | OK |
 | Palantir | 307 | 17 | OK |
 | Ramp | 173 | 14 | OK |
-| iCapital | 218 | 9 | OK |
+| iCapital | 217 | 9 | OK |
 | AlphaSights | 63 | 12 | OK |
 | Jane Street | 220 | 6 | OK |
-| Schonfeld | 66 | 5 | OK |
-| Robinhood | 155 | 0 | OK |
+| Schonfeld | 67 | 5 | OK |
+| Robinhood | 156 | 0 | OK |
 | SoFi | 59 | 0 | OK |
-| Affirm | 238 | 7 | OK |
+| Affirm | 241 | 7 | OK |
 | Brex | 266 | 2 | OK |
 | Betterment | 26 | 2 | OK |
 | Clear Street | 44 | 5 | OK |
@@ -288,4 +287,4 @@ Last checked: 2026-10-27 13:30:39 UTC
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 116 | 5 | OK |
-| Vanta | 84 | 3 | OK |
+| Vanta | 83 | 3 | OK |
