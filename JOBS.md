@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-27 15:25:04 UTC
+Last checked: 2026-10-27 16:25:09 UTC
 
 238 matching roles open. ð = found in the latest run.
 
@@ -210,7 +210,7 @@ Last checked: 2026-10-27 15:25:04 UTC
 |  | Ramp | [Customer Experience Associate](https://jobs.ashbyhq.com/ramp/d64609dd-c391-45a2-bfdb-c1bb34e8f93c) | New York, NY (HQ) / Remote (US) / Denver, CO / Miami, FL / Remote |
 |  | Ramp | [Customer Experience Associate (Evening Shift)](https://jobs.ashbyhq.com/ramp/40f43993-21e8-4db1-a9f4-7a3e6098a9ba) | New York, NY (HQ) / San Francisco, CA / Remote (US) / Denver, CO / Miami, FL / Remote |
 |  | Ramp | [Customer Experience Associate - London](https://jobs.ashbyhq.com/ramp/0d731586-3626-48fb-9dc5-3061ae5fd240) | London, UK / Remote |
-|  | Ramp | [HRIS Analyst (Workday)](https://jobs.ashbyhq.com/ramp/a11f7720-f3a8-4e86-9cc6-562bb11420b2) | New York, NY (HQ) / San Francisco, CA / Remote (US) / Remote |
+|  | Ramp | [HRIS Analyst (Workday)](https://jobs.ashbyhq.com/ramp/a11f7720-f3a8-4e86-9cc6-562bb11420b2) | New York, NY (HQ) / Remote |
 |  | Ramp | [KYB/AML Analyst, Sweden](https://jobs.ashbyhq.com/ramp/50770187-f226-468a-823e-fe193287c59f) | Remote (Sweden) / Remote |
 |  | Ramp | [Sales Development Representative, Mid-Market](https://jobs.ashbyhq.com/ramp/83eec8f4-c37d-43c9-860b-27223eee3643) | New York, NY (HQ) / San Francisco, CA / Remote |
 |  | Ramp | [Sales Development Representative, SMB](https://jobs.ashbyhq.com/ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f) | New York, NY (HQ) / San Francisco, CA / Remote |
@@ -252,13 +252,13 @@ Last checked: 2026-10-27 15:25:04 UTC
 | Bilt | 19 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 49 | 0 | OK |
+| BlackRock | 50 | 0 | OK |
 | Blackstone | 23 | 7 | OK |
 | Blackstone (Campus) | 21 | 1 | OK |
 | Point72 | 208 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
-| Anthropic | 679 | 17 | OK |
-| Stripe | 712 | 15 | OK |
+| Anthropic | 680 | 17 | OK |
+| Stripe | 711 | 15 | OK |
 | Datadog | 429 | 9 | OK |
 | Palantir | 306 | 17 | OK |
 | Ramp | 173 | 14 | OK |
@@ -266,25 +266,25 @@ Last checked: 2026-10-27 15:25:04 UTC
 | AlphaSights | 63 | 12 | OK |
 | Jane Street | 220 | 6 | OK |
 | Schonfeld | 67 | 5 | OK |
-| Robinhood | 155 | 0 | OK |
+| Robinhood | 154 | 0 | OK |
 | SoFi | 61 | 0 | OK |
-| Affirm | 241 | 7 | OK |
-| Brex | 266 | 2 | OK |
+| Affirm | 242 | 7 | OK |
+| Brex | 265 | 2 | OK |
 | Betterment | 26 | 2 | OK |
 | Clear Street | 44 | 5 | OK |
 | Scale AI | 167 | 1 | OK |
-| Dataiku | 12 | 0 | OK |
+| Dataiku | 14 | 0 | OK |
 | MongoDB | 364 | 2 | OK |
 | Oscar Health | 229 | 17 | OK |
-| The Trade Desk | 110 | 3 | OK |
+| The Trade Desk | 111 | 3 | OK |
 | Guidepoint | 112 | 6 | OK |
 | Gusto | 97 | 4 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 797 | 16 | OK |
+| OpenAI | 795 | 16 | OK |
 | Perplexity | 132 | 2 | OK |
 | Notion | 139 | 9 | OK |
 | Harvey | 364 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 116 | 5 | OK |
-| Vanta | 83 | 3 | OK |
+| Vanta | 82 | 3 | OK |
