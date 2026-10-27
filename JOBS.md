@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-27 02:37:05 UTC
+Last checked: 2026-10-27 03:15:37 UTC
 
 239 matching roles open. ð = found in the latest run.
 
@@ -278,7 +278,7 @@ Last checked: 2026-10-27 02:37:05 UTC
 | MongoDB | 367 | 2 | OK |
 | Oscar Health | 229 | 17 | OK |
 | The Trade Desk | 110 | 3 | OK |
-| Guidepoint | 113 | 6 | OK |
+| Guidepoint | 112 | 6 | OK |
 | Gusto | 97 | 4 | OK |
 | Flatiron Health | 23 | 4 | OK |
 | OpenAI | 795 | 16 | OK |
