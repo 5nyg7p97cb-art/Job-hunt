@@ -1,17 +1,18 @@
 # Entry-level openings
 
-Last checked: 2026-10-28 16:54:52 UTC
+Last checked: 2026-10-28 17:50:18 UTC
 
-236 matching roles open. ð = found in the latest run.
+232 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Flatiron Health | [Associate, Abstraction Training](https://flatiron.com/careers/open-positions/job?gh_jid=8292596) | NY office |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -144,7 +145,6 @@ Last checked: 2026-10-28 16:54:52 UTC
 |  | OpenAI | [Associate General Counsel, Commercial – Infrastructure](https://jobs.ashbyhq.com/openai/2b148425-b807-46a5-97e1-fae307aacb80) | San Francisco / Remote |
 |  | OpenAI | [Compensation Operations Analyst](https://jobs.ashbyhq.com/openai/31df540f-4062-46e8-918f-b747a90c7052) | San Francisco / Remote |
 |  | OpenAI | [Data Center Compute, OpenHouse Savannah 2026](https://jobs.ashbyhq.com/openai/6ba0ce24-ad32-4c3b-b49c-b373be9a8480) | US - Remote / Seattle / San Francisco / Remote |
-|  | OpenAI | [Enterprise Account Associate - EMEA](https://jobs.ashbyhq.com/openai/d29b455a-9fee-4610-8e08-ce6a9ea8a37e) | Dublin, Ireland / Remote |
 |  | OpenAI | [Enterprise Account Associate - EMEA (German Speaking)](https://jobs.ashbyhq.com/openai/6c88bfaa-7f1b-4175-82f1-6d484a516ca8) | Dublin, Ireland / Remote |
 |  | OpenAI | [Enterprise Account Associate- EMEA (French Speaking)](https://jobs.ashbyhq.com/openai/1eb6ef0f-0e51-46d3-b888-c1a4c22c190a) | Dublin, Ireland / Remote |
 |  | OpenAI | [Operations Analyst, User Safety & Risk Operations](https://jobs.ashbyhq.com/openai/daabc150-f22c-421e-b30d-1a50fb4cede3) | San Francisco / Remote |
@@ -204,16 +204,12 @@ Last checked: 2026-10-28 16:54:52 UTC
 |  | Ramp | [Associate, Strategic Finance](https://jobs.ashbyhq.com/ramp/606475af-b74f-42c4-978a-dde138a86ac7) | New York, NY (HQ) / San Francisco, CA / Remote |
 |  | Ramp | [Business Development Representative / Ontario, Canada](https://jobs.ashbyhq.com/ramp/cce684de-191d-4a8a-bc42-7ded3ccd47af) | Toronto, ON / Remote |
 |  | Ramp | [Credit Risk Associate](https://jobs.ashbyhq.com/ramp/4745807e-82f4-4b1a-857c-dc8dadc73076) | New York, NY (HQ) / Remote |
-|  | Ramp | [Customer Experience Associate](https://jobs.ashbyhq.com/ramp/d64609dd-c391-45a2-bfdb-c1bb34e8f93c) | New York, NY (HQ) / Remote (US) / Denver, CO / Miami, FL / Remote |
-|  | Ramp | [Customer Experience Associate (Evening Shift)](https://jobs.ashbyhq.com/ramp/40f43993-21e8-4db1-a9f4-7a3e6098a9ba) | New York, NY (HQ) / San Francisco, CA / Remote (US) / Denver, CO / Miami, FL / Remote |
-|  | Ramp | [Customer Experience Associate - London](https://jobs.ashbyhq.com/ramp/0d731586-3626-48fb-9dc5-3061ae5fd240) | London, UK / Remote |
 |  | Ramp | [HRIS Analyst (Workday)](https://jobs.ashbyhq.com/ramp/a11f7720-f3a8-4e86-9cc6-562bb11420b2) | New York, NY (HQ) / Remote |
 |  | Ramp | [KYB/AML Analyst, Sweden](https://jobs.ashbyhq.com/ramp/50770187-f226-468a-823e-fe193287c59f) | Remote (Sweden) / Remote |
 |  | Ramp | [Sales Development Representative / Public Sector](https://jobs.ashbyhq.com/ramp/6c1c3192-2508-4805-9dbb-08a4f581b44d) | New York, NY (HQ) / San Francisco, CA / Washington, D.C. / Remote |
 |  | Ramp | [Sales Development Representative, Mid-Market](https://jobs.ashbyhq.com/ramp/83eec8f4-c37d-43c9-860b-27223eee3643) | New York, NY (HQ) / San Francisco, CA / Remote |
 |  | Ramp | [Sales Development Representative, SMB](https://jobs.ashbyhq.com/ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f) | New York, NY (HQ) / San Francisco, CA / Remote |
 |  | Ramp | [Sales Development Representative, Strategic Accounts](https://jobs.ashbyhq.com/ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284) | New York, NY (HQ) / Remote |
-|  | Ramp | [University Grad / Customer Experience Associate](https://jobs.ashbyhq.com/ramp/fc971889-db1d-4a20-a25e-f282f9296936) | New York, NY (HQ) / San Francisco, CA / Remote (US) / Remote |
 |  | Scale AI | [National Security Hackathon 2026 - General Interest](https://job-boards.greenhouse.io/scaleai/jobs/4687588005) | San Francisco, CA; New York, NY; Washington, DC |
 |  | Schonfeld | [Associate Counsel, PM Legal and Fund Formation](https://job-boards.greenhouse.io/schonfeld/jobs/8186867) | New York, New York, United States |
 |  | Schonfeld | [Corporate Access Associate](https://job-boards.greenhouse.io/schonfeld/jobs/8281961) | New York, New York, United States |
@@ -226,8 +222,8 @@ Last checked: 2026-10-28 16:54:52 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - RBO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -256,10 +252,10 @@ Last checked: 2026-10-28 16:54:52 UTC
 | Point72 | 206 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
 | Anthropic | 678 | 17 | OK |
-| Stripe | 716 | 15 | OK |
-| Datadog | 392 | 8 | OK |
+| Stripe | 717 | 15 | OK |
+| Datadog | 393 | 8 | OK |
 | Palantir | 303 | 17 | OK |
-| Ramp | 172 | 15 | OK |
+| Ramp | 168 | 11 | OK |
 | iCapital | 214 | 9 | OK |
 | AlphaSights | 63 | 12 | OK |
 | Jane Street | 221 | 6 | OK |
@@ -267,18 +263,18 @@ Last checked: 2026-10-28 16:54:52 UTC
 | Robinhood | 160 | 0 | OK |
 | SoFi | 62 | 0 | OK |
 | Affirm | 243 | 7 | OK |
-| Brex | 261 | 2 | OK |
-| Betterment | 25 | 2 | OK |
+| Brex | 262 | 2 | OK |
+| Betterment | 24 | 2 | OK |
 | Clear Street | 45 | 5 | OK |
-| Scale AI | 169 | 1 | OK |
+| Scale AI | 170 | 1 | OK |
 | Dataiku | 14 | 0 | OK |
-| MongoDB | 365 | 2 | OK |
-| Oscar Health | 225 | 17 | OK |
+| MongoDB | 366 | 2 | OK |
+| Oscar Health | 224 | 17 | OK |
 | The Trade Desk | 110 | 3 | OK |
 | Guidepoint | 113 | 6 | OK |
 | Gusto | 91 | 4 | OK |
-| Flatiron Health | 23 | 4 | OK |
-| OpenAI | 808 | 15 | OK |
+| Flatiron Health | 24 | 5 | OK |
+| OpenAI | 808 | 14 | OK |
 | Perplexity | 134 | 2 | OK |
 | Notion | 140 | 9 | OK |
 | Harvey | 369 | 21 | OK |
