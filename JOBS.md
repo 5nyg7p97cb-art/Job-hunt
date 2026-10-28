@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-28 18:51:29 UTC
+Last checked: 2026-10-28 19:51:22 UTC
 
-231 matching roles open. ð = found in the latest run.
+230 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -209,7 +209,6 @@ Last checked: 2026-10-28 18:51:29 UTC
 |  | Ramp | [Sales Development Representative, Mid-Market](https://jobs.ashbyhq.com/ramp/83eec8f4-c37d-43c9-860b-27223eee3643) | New York, NY (HQ) / San Francisco, CA / Remote |
 |  | Ramp | [Sales Development Representative, SMB](https://jobs.ashbyhq.com/ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f) | New York, NY (HQ) / San Francisco, CA / Remote |
 |  | Ramp | [Sales Development Representative, Strategic Accounts](https://jobs.ashbyhq.com/ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284) | New York, NY (HQ) / Remote |
-|  | Scale AI | [National Security Hackathon 2026 - General Interest](https://job-boards.greenhouse.io/scaleai/jobs/4687588005) | San Francisco, CA; New York, NY; Washington, DC |
 |  | Schonfeld | [Associate Counsel, PM Legal and Fund Formation](https://job-boards.greenhouse.io/schonfeld/jobs/8186867) | New York, New York, United States |
 |  | Schonfeld | [Corporate Access Associate](https://job-boards.greenhouse.io/schonfeld/jobs/8281961) | New York, New York, United States |
 |  | Schonfeld | [Enterprise Risk Associate, FX & Rates](https://job-boards.greenhouse.io/schonfeld/jobs/7535613) | New York, New York, United States |
@@ -246,11 +245,11 @@ Last checked: 2026-10-28 18:51:29 UTC
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 47 | 0 | OK |
-| Blackstone | 22 | 6 | OK |
+| Blackstone | 21 | 6 | OK |
 | Blackstone (Campus) | 20 | 1 | OK |
 | Point72 | 206 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
-| Anthropic | 678 | 17 | OK |
+| Anthropic | 680 | 17 | OK |
 | Stripe | 720 | 15 | OK |
 | Datadog | 393 | 8 | OK |
 | Palantir | 303 | 17 | OK |
@@ -258,24 +257,24 @@ Last checked: 2026-10-28 18:51:29 UTC
 | iCapital | 214 | 9 | OK |
 | AlphaSights | 63 | 12 | OK |
 | Jane Street | 221 | 6 | OK |
-| Schonfeld | 68 | 5 | OK |
+| Schonfeld | 69 | 5 | OK |
 | Robinhood | 161 | 0 | OK |
 | SoFi | 63 | 0 | OK |
 | Affirm | 243 | 7 | OK |
 | Brex | 262 | 2 | OK |
-| Betterment | 24 | 2 | OK |
+| Betterment | 25 | 2 | OK |
 | Clear Street | 46 | 5 | OK |
-| Scale AI | 170 | 1 | OK |
+| Scale AI | 171 | 0 | OK |
 | Dataiku | 14 | 0 | OK |
-| MongoDB | 367 | 2 | OK |
-| Oscar Health | 221 | 16 | OK |
+| MongoDB | 368 | 2 | OK |
+| Oscar Health | 220 | 16 | OK |
 | The Trade Desk | 110 | 3 | OK |
 | Guidepoint | 113 | 6 | OK |
 | Gusto | 89 | 4 | OK |
-| Flatiron Health | 24 | 5 | OK |
-| OpenAI | 808 | 14 | OK |
+| Flatiron Health | 25 | 5 | OK |
+| OpenAI | 806 | 14 | OK |
 | Perplexity | 133 | 2 | OK |
-| Notion | 141 | 9 | OK |
+| Notion | 142 | 9 | OK |
 | Harvey | 369 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
