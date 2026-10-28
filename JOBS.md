@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-28 17:50:18 UTC
+Last checked: 2026-10-28 18:51:29 UTC
 
-232 matching roles open. ð = found in the latest run.
+231 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Flatiron Health | [Associate, Abstraction Training](https://flatiron.com/careers/open-positions/job?gh_jid=8292596) | NY office |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
@@ -75,6 +74,7 @@ Last checked: 2026-10-28 17:50:18 UTC
 |  | Datadog | [GTM Strategy/Operations Associate - New York](https://careers.datadoghq.com/detail/8179647/?gh_jid=8179647) | New York, New York, USA |
 |  | Datadog | [People Solutions Coordinator (NYC)](https://careers.datadoghq.com/detail/7728298/?gh_jid=7728298) | New York, New York, USA |
 |  | Datadog | [Strategic Finance Analyst](https://careers.datadoghq.com/detail/8257306/?gh_jid=8257306) | New York, New York, USA |
+|  | Flatiron Health | [Associate, Abstraction Training](https://flatiron.com/careers/open-positions/job?gh_jid=8292596) | NY office |
 |  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
@@ -166,7 +166,6 @@ Last checked: 2026-10-28 17:50:18 UTC
 |  | Oscar Health | [Associate, Process Optimization](https://job-boards.greenhouse.io/oscar/jobs/8107490) | New York, New York, United States |
 |  | Oscar Health | [Associate, Strategic Finance](https://job-boards.greenhouse.io/oscar/jobs/8011066) | New York, New York, United States |
 |  | Oscar Health | [Network Contracting & Services Associate](https://job-boards.greenhouse.io/oscar/jobs/8080961) | Remote |
-|  | Oscar Health | [Operations Analyst, Plan Loading](https://job-boards.greenhouse.io/oscar/jobs/8286491) | Remote |
 |  | Oscar Health | [Operations Engineer I](https://job-boards.greenhouse.io/oscar/jobs/8301410) | New York, New York, United States |
 |  | Oscar Health | [Provider Network Associate](https://job-boards.greenhouse.io/oscar/jobs/8178503) | Remote |
 |  | Palantir | [Compliance Analyst](https://jobs.lever.co/palantir/c6f9eaaf-b397-476f-8b7d-c511cfb7e5c6) | New York, NY |
@@ -252,7 +251,7 @@ Last checked: 2026-10-28 17:50:18 UTC
 | Point72 | 206 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
 | Anthropic | 678 | 17 | OK |
-| Stripe | 717 | 15 | OK |
+| Stripe | 720 | 15 | OK |
 | Datadog | 393 | 8 | OK |
 | Palantir | 303 | 17 | OK |
 | Ramp | 168 | 11 | OK |
@@ -260,23 +259,23 @@ Last checked: 2026-10-28 17:50:18 UTC
 | AlphaSights | 63 | 12 | OK |
 | Jane Street | 221 | 6 | OK |
 | Schonfeld | 68 | 5 | OK |
-| Robinhood | 160 | 0 | OK |
-| SoFi | 62 | 0 | OK |
+| Robinhood | 161 | 0 | OK |
+| SoFi | 63 | 0 | OK |
 | Affirm | 243 | 7 | OK |
 | Brex | 262 | 2 | OK |
 | Betterment | 24 | 2 | OK |
-| Clear Street | 45 | 5 | OK |
+| Clear Street | 46 | 5 | OK |
 | Scale AI | 170 | 1 | OK |
 | Dataiku | 14 | 0 | OK |
-| MongoDB | 366 | 2 | OK |
-| Oscar Health | 224 | 17 | OK |
+| MongoDB | 367 | 2 | OK |
+| Oscar Health | 221 | 16 | OK |
 | The Trade Desk | 110 | 3 | OK |
 | Guidepoint | 113 | 6 | OK |
-| Gusto | 91 | 4 | OK |
+| Gusto | 89 | 4 | OK |
 | Flatiron Health | 24 | 5 | OK |
 | OpenAI | 808 | 14 | OK |
-| Perplexity | 134 | 2 | OK |
-| Notion | 140 | 9 | OK |
+| Perplexity | 133 | 2 | OK |
+| Notion | 141 | 9 | OK |
 | Harvey | 369 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
