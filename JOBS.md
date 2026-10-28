@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-28 01:35:22 UTC
+Last checked: 2026-10-28 02:23:08 UTC
 
 237 matching roles open. ð = found in the latest run.
 
@@ -282,7 +282,7 @@ Last checked: 2026-10-28 01:35:22 UTC
 | OpenAI | 801 | 15 | OK |
 | Perplexity | 132 | 2 | OK |
 | Notion | 139 | 9 | OK |
-| Harvey | 366 | 21 | OK |
+| Harvey | 367 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 117 | 5 | OK |
