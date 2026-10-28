@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-28 02:23:08 UTC
+Last checked: 2026-10-28 03:20:13 UTC
 
 237 matching roles open. ð = found in the latest run.
 
@@ -79,8 +79,8 @@ Last checked: 2026-10-28 02:23:08 UTC
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -254,10 +254,10 @@ Last checked: 2026-10-28 02:23:08 UTC
 | BlackRock | 47 | 0 | OK |
 | Blackstone | 22 | 6 | OK |
 | Blackstone (Campus) | 21 | 1 | OK |
-| Point72 | 208 | 11 | OK |
+| Point72 | 207 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
 | Anthropic | 681 | 17 | OK |
-| Stripe | 713 | 15 | OK |
+| Stripe | 714 | 15 | OK |
 | Datadog | 424 | 8 | OK |
 | Palantir | 306 | 17 | OK |
 | Ramp | 172 | 15 | OK |
@@ -280,10 +280,10 @@ Last checked: 2026-10-28 02:23:08 UTC
 | Gusto | 93 | 4 | OK |
 | Flatiron Health | 23 | 4 | OK |
 | OpenAI | 801 | 15 | OK |
-| Perplexity | 132 | 2 | OK |
+| Perplexity | 134 | 2 | OK |
 | Notion | 139 | 9 | OK |
 | Harvey | 367 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 117 | 5 | OK |
+| Cohere | 118 | 5 | OK |
 | Vanta | 79 | 3 | OK |
