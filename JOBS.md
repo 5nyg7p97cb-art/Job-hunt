@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-28 20:45:42 UTC
+Last checked: 2026-10-28 21:44:15 UTC
 
-230 matching roles open. ð = found in the latest run.
+231 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -143,6 +143,7 @@ Last checked: 2026-10-28 20:45:42 UTC
 |  | OpenAI | [Account Associate - Singapore (Korean-speaking)](https://jobs.ashbyhq.com/openai/974fff14-f2d7-4a99-8740-eb8dc5300d82) | Singapore / Remote |
 |  | OpenAI | [Account Associate, Japan](https://jobs.ashbyhq.com/openai/2f3f416d-cc2a-4836-bcff-daee80c94e95) | Tokyo, Japan / Remote |
 |  | OpenAI | [Associate General Counsel, Commercial – Infrastructure](https://jobs.ashbyhq.com/openai/2b148425-b807-46a5-97e1-fae307aacb80) | San Francisco / Remote |
+|  | OpenAI | [BIM Designer & Coordinator](https://jobs.ashbyhq.com/openai/ad6b55f9-fa63-4860-b852-d90592e49d1c) | San Francisco / Seattle / US - Remote / Remote |
 |  | OpenAI | [Compensation Operations Analyst](https://jobs.ashbyhq.com/openai/31df540f-4062-46e8-918f-b747a90c7052) | San Francisco / Remote |
 |  | OpenAI | [Data Center Compute, OpenHouse Savannah 2026](https://jobs.ashbyhq.com/openai/6ba0ce24-ad32-4c3b-b49c-b373be9a8480) | US - Remote / Seattle / San Francisco / Remote |
 |  | OpenAI | [Enterprise Account Associate - EMEA (German Speaking)](https://jobs.ashbyhq.com/openai/6c88bfaa-7f1b-4175-82f1-6d484a516ca8) | Dublin, Ireland / Remote |
@@ -220,8 +221,8 @@ Last checked: 2026-10-28 20:45:42 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - RBO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -249,16 +250,16 @@ Last checked: 2026-10-28 20:45:42 UTC
 | Blackstone (Campus) | 20 | 1 | OK |
 | Point72 | 206 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
-| Anthropic | 679 | 17 | OK |
-| Stripe | 720 | 15 | OK |
-| Datadog | 394 | 8 | OK |
-| Palantir | 303 | 17 | OK |
-| Ramp | 167 | 11 | OK |
+| Anthropic | 680 | 17 | OK |
+| Stripe | 717 | 15 | OK |
+| Datadog | 395 | 8 | OK |
+| Palantir | 304 | 17 | OK |
+| Ramp | 168 | 11 | OK |
 | iCapital | 214 | 9 | OK |
 | AlphaSights | 63 | 12 | OK |
 | Jane Street | 221 | 6 | OK |
 | Schonfeld | 69 | 5 | OK |
-| Robinhood | 162 | 0 | OK |
+| Robinhood | 163 | 0 | OK |
 | SoFi | 63 | 0 | OK |
 | Affirm | 243 | 7 | OK |
 | Brex | 262 | 2 | OK |
@@ -266,16 +267,16 @@ Last checked: 2026-10-28 20:45:42 UTC
 | Clear Street | 46 | 5 | OK |
 | Scale AI | 171 | 0 | OK |
 | Dataiku | 14 | 0 | OK |
-| MongoDB | 368 | 2 | OK |
+| MongoDB | 370 | 2 | OK |
 | Oscar Health | 220 | 16 | OK |
 | The Trade Desk | 110 | 3 | OK |
 | Guidepoint | 114 | 6 | OK |
 | Gusto | 89 | 4 | OK |
 | Flatiron Health | 25 | 5 | OK |
-| OpenAI | 807 | 14 | OK |
+| OpenAI | 808 | 15 | OK |
 | Perplexity | 133 | 2 | OK |
 | Notion | 142 | 9 | OK |
-| Harvey | 369 | 21 | OK |
+| Harvey | 367 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 118 | 5 | OK |
