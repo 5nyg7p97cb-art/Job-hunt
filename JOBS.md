@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-28 14:57:30 UTC
+Last checked: 2026-10-28 15:55:32 UTC
 
 236 matching roles open. ð = found in the latest run.
 
@@ -10,8 +10,8 @@ Last checked: 2026-10-28 14:57:30 UTC
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -79,8 +79,8 @@ Last checked: 2026-10-28 14:57:30 UTC
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -226,8 +226,8 @@ Last checked: 2026-10-28 14:57:30 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - RBO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -255,16 +255,16 @@ Last checked: 2026-10-28 14:57:30 UTC
 | Blackstone (Campus) | 20 | 1 | OK |
 | Point72 | 206 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
-| Anthropic | 681 | 17 | OK |
-| Stripe | 717 | 15 | OK |
-| Datadog | 398 | 8 | OK |
+| Anthropic | 678 | 17 | OK |
+| Stripe | 716 | 15 | OK |
+| Datadog | 393 | 8 | OK |
 | Palantir | 303 | 17 | OK |
 | Ramp | 172 | 15 | OK |
-| iCapital | 215 | 9 | OK |
+| iCapital | 214 | 9 | OK |
 | AlphaSights | 63 | 12 | OK |
 | Jane Street | 220 | 6 | OK |
-| Schonfeld | 67 | 5 | OK |
-| Robinhood | 159 | 0 | OK |
+| Schonfeld | 68 | 5 | OK |
+| Robinhood | 160 | 0 | OK |
 | SoFi | 62 | 0 | OK |
 | Affirm | 243 | 7 | OK |
 | Brex | 261 | 2 | OK |
@@ -272,13 +272,13 @@ Last checked: 2026-10-28 14:57:30 UTC
 | Clear Street | 45 | 5 | OK |
 | Scale AI | 169 | 1 | OK |
 | Dataiku | 14 | 0 | OK |
-| MongoDB | 365 | 2 | OK |
+| MongoDB | 366 | 2 | OK |
 | Oscar Health | 224 | 17 | OK |
 | The Trade Desk | 110 | 3 | OK |
 | Guidepoint | 112 | 6 | OK |
-| Gusto | 93 | 4 | OK |
+| Gusto | 92 | 4 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 806 | 15 | OK |
+| OpenAI | 807 | 15 | OK |
 | Perplexity | 134 | 2 | OK |
 | Notion | 141 | 9 | OK |
 | Harvey | 368 | 21 | OK |
