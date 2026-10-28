@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-27 23:10:18 UTC
+Last checked: 2026-10-28 00:07:22 UTC
 
 237 matching roles open. ð = found in the latest run.
 
@@ -227,8 +227,8 @@ Last checked: 2026-10-27 23:10:18 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - RBO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -251,13 +251,13 @@ Last checked: 2026-10-27 23:10:18 UTC
 | Bilt | 19 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 48 | 0 | OK |
+| BlackRock | 47 | 0 | OK |
 | Blackstone | 22 | 6 | OK |
 | Blackstone (Campus) | 21 | 1 | OK |
 | Point72 | 208 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
 | Anthropic | 681 | 17 | OK |
-| Stripe | 712 | 15 | OK |
+| Stripe | 714 | 15 | OK |
 | Datadog | 424 | 8 | OK |
 | Palantir | 306 | 17 | OK |
 | Ramp | 172 | 15 | OK |
@@ -279,7 +279,7 @@ Last checked: 2026-10-27 23:10:18 UTC
 | Guidepoint | 112 | 6 | OK |
 | Gusto | 93 | 4 | OK |
 | Flatiron Health | 23 | 4 | OK |
-| OpenAI | 799 | 15 | OK |
+| OpenAI | 800 | 15 | OK |
 | Perplexity | 132 | 2 | OK |
 | Notion | 139 | 9 | OK |
 | Harvey | 365 | 21 | OK |
