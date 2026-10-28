@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-28 19:51:22 UTC
+Last checked: 2026-10-28 20:45:42 UTC
 
 230 matching roles open. ð = found in the latest run.
 
@@ -220,8 +220,8 @@ Last checked: 2026-10-28 19:51:22 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - RBO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -249,16 +249,16 @@ Last checked: 2026-10-28 19:51:22 UTC
 | Blackstone (Campus) | 20 | 1 | OK |
 | Point72 | 206 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
-| Anthropic | 680 | 17 | OK |
+| Anthropic | 679 | 17 | OK |
 | Stripe | 720 | 15 | OK |
-| Datadog | 393 | 8 | OK |
+| Datadog | 394 | 8 | OK |
 | Palantir | 303 | 17 | OK |
-| Ramp | 168 | 11 | OK |
+| Ramp | 167 | 11 | OK |
 | iCapital | 214 | 9 | OK |
 | AlphaSights | 63 | 12 | OK |
 | Jane Street | 221 | 6 | OK |
 | Schonfeld | 69 | 5 | OK |
-| Robinhood | 161 | 0 | OK |
+| Robinhood | 162 | 0 | OK |
 | SoFi | 63 | 0 | OK |
 | Affirm | 243 | 7 | OK |
 | Brex | 262 | 2 | OK |
@@ -269,10 +269,10 @@ Last checked: 2026-10-28 19:51:22 UTC
 | MongoDB | 368 | 2 | OK |
 | Oscar Health | 220 | 16 | OK |
 | The Trade Desk | 110 | 3 | OK |
-| Guidepoint | 113 | 6 | OK |
+| Guidepoint | 114 | 6 | OK |
 | Gusto | 89 | 4 | OK |
 | Flatiron Health | 25 | 5 | OK |
-| OpenAI | 806 | 14 | OK |
+| OpenAI | 807 | 14 | OK |
 | Perplexity | 133 | 2 | OK |
 | Notion | 142 | 9 | OK |
 | Harvey | 369 | 21 | OK |
