@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-28 06:16:16 UTC
+Last checked: 2026-10-28 07:38:30 UTC
 
 237 matching roles open. ð = found in the latest run.
 
@@ -254,10 +254,10 @@ Last checked: 2026-10-28 06:16:16 UTC
 | BlackRock | 47 | 0 | OK |
 | Blackstone | 22 | 6 | OK |
 | Blackstone (Campus) | 21 | 1 | OK |
-| Point72 | 207 | 11 | OK |
+| Point72 | 206 | 11 | OK |
 | General Atlantic | 13 | 1 | OK |
 | Anthropic | 680 | 17 | OK |
-| Stripe | 715 | 15 | OK |
+| Stripe | 714 | 15 | OK |
 | Datadog | 424 | 8 | OK |
 | Palantir | 306 | 17 | OK |
 | Ramp | 172 | 15 | OK |
