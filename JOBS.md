@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-29 15:57:47 UTC
+Last checked: 2026-10-29 16:57:19 UTC
 
-230 matching roles open. ð = found in the latest run.
+229 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -221,7 +221,6 @@ Last checked: 2026-10-29 15:57:47 UTC
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - RBO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -250,7 +249,7 @@ Last checked: 2026-10-29 15:57:47 UTC
 | Point72 | 205 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
 | Anthropic | 680 | 15 | OK |
-| Stripe | 729 | 15 | OK |
+| Stripe | 728 | 14 | OK |
 | Datadog | 395 | 9 | OK |
 | Palantir | 302 | 17 | OK |
 | Ramp | 168 | 11 | OK |
@@ -265,7 +264,7 @@ Last checked: 2026-10-29 15:57:47 UTC
 | Betterment | 26 | 2 | OK |
 | Clear Street | 46 | 5 | OK |
 | Scale AI | 168 | 0 | OK |
-| Dataiku | 14 | 0 | OK |
+| Dataiku | 15 | 0 | OK |
 | MongoDB | 369 | 3 | OK |
 | Oscar Health | 223 | 16 | OK |
 | The Trade Desk | 111 | 3 | OK |
@@ -274,9 +273,9 @@ Last checked: 2026-10-29 15:57:47 UTC
 | Flatiron Health | 23 | 5 | OK |
 | OpenAI | 812 | 15 | OK |
 | Perplexity | 133 | 2 | OK |
-| Notion | 143 | 9 | OK |
-| Harvey | 365 | 21 | OK |
+| Notion | 144 | 9 | OK |
+| Harvey | 366 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 119 | 5 | OK |
-| Vanta | 79 | 3 | OK |
+| Vanta | 80 | 3 | OK |
