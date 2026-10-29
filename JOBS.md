@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-29 16:57:19 UTC
+Last checked: 2026-10-29 17:52:35 UTC
 
 229 matching roles open. ð = found in the latest run.
 
@@ -236,29 +236,34 @@ Last checked: 2026-10-29 16:57:19 UTC
 |  | Vanta | [Business Development Representative, DACH](https://jobs.ashbyhq.com/vanta/7d5ac715-c4ba-45d5-a390-665a93f618cd) | London, UK / Remote |
 |  | Vanta | [Sales Development Representative, Enterprise](https://jobs.ashbyhq.com/vanta/ed31b882-0d92-4bcd-a0e7-bed3a7d04ec4) | New York, NY / Remote |
 
+## Boards that failed this run
+
+- Evercore (Students & Grads): HTTP Error 530: <none>
+- Evercore (Professionals): HTTP Error 530: <none>
+
 ## Board check results
 
 | Company | Open roles | Matching roles | Status |
 |---|---:|---:|---|
 | Bilt | 19 | 3 | OK |
-| Evercore (Students & Grads) | 0 | 0 | OK |
-| Evercore (Professionals) | 0 | 0 | OK |
+| Evercore (Students & Grads) | â | â | FAILED |
+| Evercore (Professionals) | â | â | FAILED |
 | BlackRock | 47 | 0 | OK |
 | Blackstone | 20 | 6 | OK |
 | Blackstone (Campus) | 20 | 1 | OK |
 | Point72 | 205 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 680 | 15 | OK |
-| Stripe | 728 | 14 | OK |
-| Datadog | 395 | 9 | OK |
+| Anthropic | 674 | 15 | OK |
+| Stripe | 730 | 14 | OK |
+| Datadog | 396 | 9 | OK |
 | Palantir | 302 | 17 | OK |
 | Ramp | 168 | 11 | OK |
 | iCapital | 214 | 9 | OK |
 | AlphaSights | 63 | 12 | OK |
 | Jane Street | 222 | 6 | OK |
 | Schonfeld | 70 | 5 | OK |
-| Robinhood | 163 | 0 | OK |
-| SoFi | 63 | 0 | OK |
+| Robinhood | 165 | 0 | OK |
+| SoFi | 64 | 0 | OK |
 | Affirm | 238 | 7 | OK |
 | Brex | 262 | 2 | OK |
 | Betterment | 26 | 2 | OK |
@@ -271,11 +276,11 @@ Last checked: 2026-10-29 16:57:19 UTC
 | Guidepoint | 112 | 6 | OK |
 | Gusto | 88 | 4 | OK |
 | Flatiron Health | 23 | 5 | OK |
-| OpenAI | 812 | 15 | OK |
+| OpenAI | 815 | 15 | OK |
 | Perplexity | 133 | 2 | OK |
-| Notion | 144 | 9 | OK |
-| Harvey | 366 | 21 | OK |
+| Notion | 143 | 9 | OK |
+| Harvey | 370 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 119 | 5 | OK |
-| Vanta | 80 | 3 | OK |
+| Cohere | 121 | 5 | OK |
+| Vanta | 81 | 3 | OK |
