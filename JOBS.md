@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-29 22:45:24 UTC
+Last checked: 2026-10-29 23:41:17 UTC
 
-231 matching roles open. ð = found in the latest run.
+230 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -34,7 +34,6 @@ Last checked: 2026-10-29 22:45:24 UTC
 |  | Anthropic | [Safeguards Enforcement Analyst, Age-Appropriate Design](https://job-boards.greenhouse.io/anthropic/jobs/5311234008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Bio Harms](https://job-boards.greenhouse.io/anthropic/jobs/5319696008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Chem & Explosives Harms](https://job-boards.greenhouse.io/anthropic/jobs/5319700008) | San Francisco, CA / New York City, NY / Washington, DC |
-|  | Anthropic | [Safeguards Enforcement Analyst, Child Safety](https://job-boards.greenhouse.io/anthropic/jobs/5311237008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Conventional Weapons](https://job-boards.greenhouse.io/anthropic/jobs/5410006008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Cyber Harm](https://job-boards.greenhouse.io/anthropic/jobs/5311159008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Integrity & Authenticity](https://job-boards.greenhouse.io/anthropic/jobs/5311149008) | San Francisco, CA / New York City, NY / Washington, DC |
@@ -250,8 +249,8 @@ Last checked: 2026-10-29 22:45:24 UTC
 | Blackstone (Campus) | 20 | 1 | OK |
 | Point72 | 206 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 673 | 15 | OK |
-| Stripe | 735 | 14 | OK |
+| Anthropic | 672 | 14 | OK |
+| Stripe | 737 | 14 | OK |
 | Datadog | 397 | 9 | OK |
 | Palantir | 302 | 17 | OK |
 | Ramp | 168 | 11 | OK |
@@ -260,15 +259,15 @@ Last checked: 2026-10-29 22:45:24 UTC
 | Jane Street | 222 | 6 | OK |
 | Schonfeld | 70 | 5 | OK |
 | Robinhood | 167 | 0 | OK |
-| SoFi | 62 | 0 | OK |
+| SoFi | 63 | 0 | OK |
 | Affirm | 237 | 7 | OK |
 | Brex | 264 | 3 | OK |
 | Betterment | 26 | 2 | OK |
 | Clear Street | 46 | 5 | OK |
-| Scale AI | 170 | 0 | OK |
+| Scale AI | 169 | 0 | OK |
 | Dataiku | 15 | 0 | OK |
 | MongoDB | 369 | 3 | OK |
-| Oscar Health | 212 | 16 | OK |
+| Oscar Health | 213 | 16 | OK |
 | The Trade Desk | 110 | 3 | OK |
 | Guidepoint | 113 | 6 | OK |
 | Gusto | 86 | 4 | OK |
