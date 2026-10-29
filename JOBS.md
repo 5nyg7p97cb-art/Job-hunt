@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-29 18:53:18 UTC
+Last checked: 2026-10-29 19:53:09 UTC
 
 229 matching roles open. ð = found in the latest run.
 
@@ -79,8 +79,8 @@ Last checked: 2026-10-29 18:53:18 UTC
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -236,26 +236,21 @@ Last checked: 2026-10-29 18:53:18 UTC
 |  | Vanta | [Business Development Representative, DACH](https://jobs.ashbyhq.com/vanta/7d5ac715-c4ba-45d5-a390-665a93f618cd) | London, UK / Remote |
 |  | Vanta | [Sales Development Representative, Enterprise](https://jobs.ashbyhq.com/vanta/ed31b882-0d92-4bcd-a0e7-bed3a7d04ec4) | New York, NY / Remote |
 
-## Boards that failed this run
-
-- Evercore (Students & Grads): HTTP Error 530: <none>
-- Evercore (Professionals): HTTP Error 530: <none>
-
 ## Board check results
 
 | Company | Open roles | Matching roles | Status |
 |---|---:|---:|---|
 | Bilt | 19 | 3 | OK |
-| Evercore (Students & Grads) | â | â | FAILED |
-| Evercore (Professionals) | â | â | FAILED |
+| Evercore (Students & Grads) | 0 | 0 | OK |
+| Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 43 | 0 | OK |
 | Blackstone | 20 | 6 | OK |
 | Blackstone (Campus) | 20 | 1 | OK |
 | Point72 | 205 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 672 | 15 | OK |
+| Anthropic | 673 | 15 | OK |
 | Stripe | 731 | 14 | OK |
-| Datadog | 397 | 9 | OK |
+| Datadog | 396 | 9 | OK |
 | Palantir | 302 | 17 | OK |
 | Ramp | 168 | 11 | OK |
 | iCapital | 214 | 9 | OK |
@@ -272,14 +267,14 @@ Last checked: 2026-10-29 18:53:18 UTC
 | Dataiku | 15 | 0 | OK |
 | MongoDB | 369 | 3 | OK |
 | Oscar Health | 215 | 16 | OK |
-| The Trade Desk | 111 | 3 | OK |
-| Guidepoint | 112 | 6 | OK |
+| The Trade Desk | 110 | 3 | OK |
+| Guidepoint | 113 | 6 | OK |
 | Gusto | 88 | 4 | OK |
 | Flatiron Health | 23 | 5 | OK |
-| OpenAI | 813 | 15 | OK |
-| Perplexity | 134 | 2 | OK |
+| OpenAI | 811 | 15 | OK |
+| Perplexity | 135 | 2 | OK |
 | Notion | 144 | 9 | OK |
-| Harvey | 370 | 21 | OK |
+| Harvey | 377 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 121 | 5 | OK |
