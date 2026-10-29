@@ -1,12 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-10-29 20:47:38 UTC
+Last checked: 2026-10-29 21:44:59 UTC
 
-230 matching roles open. ð = found in the latest run.
+231 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Brex | [Analyst, Banking Operations (Domestic)](https://www.brex.com/careers/8924533002?gh_jid=8924533002) | New York, New York, United States |
+| ð | OpenAI | [LATAM Public Policy Associate](https://jobs.ashbyhq.com/openai/d969a2ff-fa51-4444-a061-c9369462141e) | São Paulo / Remote |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -53,6 +53,7 @@ Last checked: 2026-10-29 20:47:38 UTC
 |  | Blackstone | [ICS - Private Capital Group, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/ICS---Private-Capital-Group--Analyst_46060-2) | New York |
 |  | Blackstone | [Public Affairs, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Public-Affairs--Associate_43586) | New York |
 |  | Blackstone (Campus) | [2027 Blackstone APAC Future Leaders Program (Online)](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Hong-Kong/XMLNAME-2027-Blackstone-APAC-Future-Leaders-Program--Online-_45896) | 6 Locations |
+|  | Brex | [Analyst, Banking Operations (Domestic)](https://www.brex.com/careers/8924533002?gh_jid=8924533002) | New York, New York, United States |
 |  | Brex | [Finance Associate](https://www.brex.com/careers/8606825002?gh_jid=8606825002) | New York, New York, United States |
 |  | Brex | [Fraud Strategy Associate](https://www.brex.com/careers/8907584002?gh_jid=8907584002) | New York, New York, United States |
 |  | Clear Street | [Associate - Client Onboarding](https://job-boards.greenhouse.io/clearstreet/jobs/8227249) | New York, NY |
@@ -250,18 +251,18 @@ Last checked: 2026-10-29 20:47:38 UTC
 | Point72 | 206 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
 | Anthropic | 673 | 15 | OK |
-| Stripe | 731 | 14 | OK |
-| Datadog | 396 | 9 | OK |
+| Stripe | 733 | 14 | OK |
+| Datadog | 397 | 9 | OK |
 | Palantir | 302 | 17 | OK |
 | Ramp | 168 | 11 | OK |
 | iCapital | 214 | 9 | OK |
 | AlphaSights | 63 | 12 | OK |
 | Jane Street | 222 | 6 | OK |
 | Schonfeld | 70 | 5 | OK |
-| Robinhood | 166 | 0 | OK |
+| Robinhood | 167 | 0 | OK |
 | SoFi | 63 | 0 | OK |
 | Affirm | 237 | 7 | OK |
-| Brex | 267 | 3 | OK |
+| Brex | 264 | 3 | OK |
 | Betterment | 26 | 2 | OK |
 | Clear Street | 46 | 5 | OK |
 | Scale AI | 169 | 0 | OK |
@@ -270,9 +271,9 @@ Last checked: 2026-10-29 20:47:38 UTC
 | Oscar Health | 212 | 16 | OK |
 | The Trade Desk | 110 | 3 | OK |
 | Guidepoint | 113 | 6 | OK |
-| Gusto | 88 | 4 | OK |
+| Gusto | 86 | 4 | OK |
 | Flatiron Health | 23 | 5 | OK |
-| OpenAI | 812 | 15 | OK |
+| OpenAI | 813 | 16 | OK |
 | Perplexity | 135 | 2 | OK |
 | Notion | 144 | 9 | OK |
 | Harvey | 376 | 21 | OK |
