@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-29 11:46:56 UTC
+Last checked: 2026-10-29 12:57:40 UTC
 
 231 matching roles open. ð = found in the latest run.
 
@@ -10,8 +10,8 @@ Last checked: 2026-10-29 11:46:56 UTC
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -251,9 +251,9 @@ Last checked: 2026-10-29 11:46:56 UTC
 | Point72 | 207 | 11 | OK |
 | General Atlantic | 14 | 1 | OK |
 | Anthropic | 680 | 17 | OK |
-| Stripe | 724 | 15 | OK |
-| Datadog | 396 | 8 | OK |
-| Palantir | 304 | 17 | OK |
+| Stripe | 725 | 15 | OK |
+| Datadog | 394 | 8 | OK |
+| Palantir | 303 | 17 | OK |
 | Ramp | 168 | 11 | OK |
 | iCapital | 214 | 9 | OK |
 | AlphaSights | 63 | 12 | OK |
@@ -265,11 +265,11 @@ Last checked: 2026-10-29 11:46:56 UTC
 | Brex | 262 | 2 | OK |
 | Betterment | 25 | 2 | OK |
 | Clear Street | 46 | 5 | OK |
-| Scale AI | 171 | 0 | OK |
+| Scale AI | 170 | 0 | OK |
 | Dataiku | 14 | 0 | OK |
-| MongoDB | 371 | 2 | OK |
+| MongoDB | 369 | 2 | OK |
 | Oscar Health | 220 | 16 | OK |
-| The Trade Desk | 112 | 3 | OK |
+| The Trade Desk | 111 | 3 | OK |
 | Guidepoint | 114 | 6 | OK |
 | Gusto | 88 | 4 | OK |
 | Flatiron Health | 25 | 5 | OK |
