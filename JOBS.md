@@ -1,17 +1,18 @@
 # Entry-level openings
 
-Last checked: 2026-10-29 19:53:09 UTC
+Last checked: 2026-10-29 20:47:38 UTC
 
-229 matching roles open. ð = found in the latest run.
+230 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Brex | [Analyst, Banking Operations (Domestic)](https://www.brex.com/careers/8924533002?gh_jid=8924533002) | New York, New York, United States |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -246,7 +247,7 @@ Last checked: 2026-10-29 19:53:09 UTC
 | BlackRock | 43 | 0 | OK |
 | Blackstone | 20 | 6 | OK |
 | Blackstone (Campus) | 20 | 1 | OK |
-| Point72 | 205 | 10 | OK |
+| Point72 | 206 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
 | Anthropic | 673 | 15 | OK |
 | Stripe | 731 | 14 | OK |
@@ -258,24 +259,24 @@ Last checked: 2026-10-29 19:53:09 UTC
 | Jane Street | 222 | 6 | OK |
 | Schonfeld | 70 | 5 | OK |
 | Robinhood | 166 | 0 | OK |
-| SoFi | 64 | 0 | OK |
-| Affirm | 238 | 7 | OK |
-| Brex | 262 | 2 | OK |
+| SoFi | 63 | 0 | OK |
+| Affirm | 237 | 7 | OK |
+| Brex | 267 | 3 | OK |
 | Betterment | 26 | 2 | OK |
 | Clear Street | 46 | 5 | OK |
 | Scale AI | 169 | 0 | OK |
 | Dataiku | 15 | 0 | OK |
 | MongoDB | 369 | 3 | OK |
-| Oscar Health | 215 | 16 | OK |
+| Oscar Health | 212 | 16 | OK |
 | The Trade Desk | 110 | 3 | OK |
 | Guidepoint | 113 | 6 | OK |
 | Gusto | 88 | 4 | OK |
 | Flatiron Health | 23 | 5 | OK |
-| OpenAI | 811 | 15 | OK |
+| OpenAI | 812 | 15 | OK |
 | Perplexity | 135 | 2 | OK |
 | Notion | 144 | 9 | OK |
-| Harvey | 377 | 21 | OK |
+| Harvey | 376 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 121 | 5 | OK |
-| Vanta | 82 | 3 | OK |
+| Vanta | 81 | 3 | OK |
