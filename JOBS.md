@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-10-29 21:44:59 UTC
+Last checked: 2026-10-29 22:45:24 UTC
 
 231 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | OpenAI | [LATAM Public Policy Associate](https://jobs.ashbyhq.com/openai/d969a2ff-fa51-4444-a061-c9369462141e) | São Paulo / Remote |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -150,6 +149,7 @@ Last checked: 2026-10-29 21:44:59 UTC
 |  | OpenAI | [Data Center Compute, OpenHouse Savannah 2026](https://jobs.ashbyhq.com/openai/6ba0ce24-ad32-4c3b-b49c-b373be9a8480) | US - Remote / Seattle / San Francisco / Remote |
 |  | OpenAI | [Enterprise Account Associate - EMEA (German Speaking)](https://jobs.ashbyhq.com/openai/6c88bfaa-7f1b-4175-82f1-6d484a516ca8) | Dublin, Ireland / Remote |
 |  | OpenAI | [Enterprise Account Associate- EMEA (French Speaking)](https://jobs.ashbyhq.com/openai/1eb6ef0f-0e51-46d3-b888-c1a4c22c190a) | Dublin, Ireland / Remote |
+|  | OpenAI | [LATAM Public Policy Associate](https://jobs.ashbyhq.com/openai/d969a2ff-fa51-4444-a061-c9369462141e) | São Paulo / Remote |
 |  | OpenAI | [Operations Analyst, User Safety & Risk Operations](https://jobs.ashbyhq.com/openai/daabc150-f22c-421e-b30d-1a50fb4cede3) | San Francisco / Remote |
 |  | OpenAI | [People Technology Analyst, Workday PATT & Benefits](https://jobs.ashbyhq.com/openai/bb28a39e-eb1f-41ef-96de-98adf58a8c3c) | San Francisco / Remote |
 |  | OpenAI | [Recruiting Coordinator - Contract](https://jobs.ashbyhq.com/openai/dbd5ae8a-7c01-4f17-be39-b8caa8fd95d5) | San Francisco / New York City / Seattle / Remote |
@@ -251,7 +251,7 @@ Last checked: 2026-10-29 21:44:59 UTC
 | Point72 | 206 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
 | Anthropic | 673 | 15 | OK |
-| Stripe | 733 | 14 | OK |
+| Stripe | 735 | 14 | OK |
 | Datadog | 397 | 9 | OK |
 | Palantir | 302 | 17 | OK |
 | Ramp | 168 | 11 | OK |
@@ -260,12 +260,12 @@ Last checked: 2026-10-29 21:44:59 UTC
 | Jane Street | 222 | 6 | OK |
 | Schonfeld | 70 | 5 | OK |
 | Robinhood | 167 | 0 | OK |
-| SoFi | 63 | 0 | OK |
+| SoFi | 62 | 0 | OK |
 | Affirm | 237 | 7 | OK |
 | Brex | 264 | 3 | OK |
 | Betterment | 26 | 2 | OK |
 | Clear Street | 46 | 5 | OK |
-| Scale AI | 169 | 0 | OK |
+| Scale AI | 170 | 0 | OK |
 | Dataiku | 15 | 0 | OK |
 | MongoDB | 369 | 3 | OK |
 | Oscar Health | 212 | 16 | OK |
@@ -274,10 +274,10 @@ Last checked: 2026-10-29 21:44:59 UTC
 | Gusto | 86 | 4 | OK |
 | Flatiron Health | 23 | 5 | OK |
 | OpenAI | 813 | 16 | OK |
-| Perplexity | 135 | 2 | OK |
-| Notion | 144 | 9 | OK |
-| Harvey | 376 | 21 | OK |
+| Perplexity | 134 | 2 | OK |
+| Notion | 145 | 9 | OK |
+| Harvey | 384 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 121 | 5 | OK |
+| Cohere | 122 | 5 | OK |
 | Vanta | 81 | 3 | OK |
