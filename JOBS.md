@@ -1,17 +1,17 @@
 # Entry-level openings
 
-Last checked: 2026-10-29 00:57:23 UTC
+Last checked: 2026-10-29 01:58:20 UTC
 
 231 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -245,19 +245,19 @@ Last checked: 2026-10-29 00:57:23 UTC
 | Bilt | 19 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 46 | 0 | OK |
+| BlackRock | 47 | 0 | OK |
 | Blackstone | 21 | 6 | OK |
 | Blackstone (Campus) | 20 | 1 | OK |
 | Point72 | 206 | 11 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 678 | 17 | OK |
+| Anthropic | 679 | 17 | OK |
 | Stripe | 721 | 15 | OK |
-| Datadog | 395 | 8 | OK |
+| Datadog | 397 | 8 | OK |
 | Palantir | 304 | 17 | OK |
 | Ramp | 168 | 11 | OK |
 | iCapital | 214 | 9 | OK |
 | AlphaSights | 63 | 12 | OK |
-| Jane Street | 221 | 6 | OK |
+| Jane Street | 222 | 6 | OK |
 | Schonfeld | 69 | 5 | OK |
 | Robinhood | 162 | 0 | OK |
 | SoFi | 63 | 0 | OK |
