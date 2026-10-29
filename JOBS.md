@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-29 10:51:28 UTC
+Last checked: 2026-10-29 11:46:56 UTC
 
 231 matching roles open. ð = found in the latest run.
 
@@ -261,7 +261,7 @@ Last checked: 2026-10-29 10:51:28 UTC
 | Schonfeld | 69 | 5 | OK |
 | Robinhood | 162 | 0 | OK |
 | SoFi | 63 | 0 | OK |
-| Affirm | 242 | 7 | OK |
+| Affirm | 240 | 7 | OK |
 | Brex | 262 | 2 | OK |
 | Betterment | 25 | 2 | OK |
 | Clear Street | 46 | 5 | OK |
@@ -276,7 +276,7 @@ Last checked: 2026-10-29 10:51:28 UTC
 | OpenAI | 812 | 15 | OK |
 | Perplexity | 133 | 2 | OK |
 | Notion | 143 | 9 | OK |
-| Harvey | 365 | 21 | OK |
+| Harvey | 366 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 119 | 5 | OK |
