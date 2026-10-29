@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-29 08:57:07 UTC
+Last checked: 2026-10-29 09:54:30 UTC
 
 231 matching roles open. ð = found in the latest run.
 
@@ -221,8 +221,8 @@ Last checked: 2026-10-29 08:57:07 UTC
 |  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
+|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8145119) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
 |  | Stripe | [Risk Operations Analyst - RBO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -248,10 +248,10 @@ Last checked: 2026-10-29 08:57:07 UTC
 | BlackRock | 47 | 0 | OK |
 | Blackstone | 21 | 6 | OK |
 | Blackstone (Campus) | 20 | 1 | OK |
-| Point72 | 206 | 11 | OK |
+| Point72 | 207 | 11 | OK |
 | General Atlantic | 14 | 1 | OK |
 | Anthropic | 680 | 17 | OK |
-| Stripe | 723 | 15 | OK |
+| Stripe | 724 | 15 | OK |
 | Datadog | 396 | 8 | OK |
 | Palantir | 304 | 17 | OK |
 | Ramp | 168 | 11 | OK |
@@ -267,7 +267,7 @@ Last checked: 2026-10-29 08:57:07 UTC
 | Clear Street | 46 | 5 | OK |
 | Scale AI | 171 | 0 | OK |
 | Dataiku | 14 | 0 | OK |
-| MongoDB | 367 | 2 | OK |
+| MongoDB | 370 | 2 | OK |
 | Oscar Health | 220 | 16 | OK |
 | The Trade Desk | 112 | 3 | OK |
 | Guidepoint | 114 | 6 | OK |
@@ -276,7 +276,7 @@ Last checked: 2026-10-29 08:57:07 UTC
 | OpenAI | 812 | 15 | OK |
 | Perplexity | 133 | 2 | OK |
 | Notion | 143 | 9 | OK |
-| Harvey | 366 | 21 | OK |
+| Harvey | 365 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 119 | 5 | OK |
