@@ -1,11 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-10-30 08:57:16 UTC
+Last checked: 2026-10-30 09:54:44 UTC
 
-228 matching roles open. ð = found in the latest run.
+229 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Affirm | [Customer Operations Associate I](https://job-boards.greenhouse.io/affirm/jobs/8040790003) | Remote US |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -245,10 +246,10 @@ Last checked: 2026-10-30 08:57:16 UTC
 | BlackRock | 39 | 0 | OK |
 | Blackstone | 20 | 6 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
-| Point72 | 207 | 10 | OK |
+| Point72 | 208 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
 | Anthropic | 670 | 12 | OK |
-| Stripe | 738 | 14 | OK |
+| Stripe | 740 | 14 | OK |
 | Datadog | 397 | 9 | OK |
 | Palantir | 302 | 17 | OK |
 | Ramp | 168 | 11 | OK |
@@ -258,7 +259,7 @@ Last checked: 2026-10-30 08:57:16 UTC
 | Schonfeld | 70 | 5 | OK |
 | Robinhood | 167 | 0 | OK |
 | SoFi | 63 | 0 | OK |
-| Affirm | 238 | 7 | OK |
+| Affirm | 241 | 8 | OK |
 | Brex | 264 | 3 | OK |
 | Betterment | 26 | 2 | OK |
 | Clear Street | 46 | 5 | OK |
