@@ -1,16 +1,15 @@
 # Entry-level openings
 
-Last checked: 2026-10-30 15:53:56 UTC
+Last checked: 2026-10-30 16:51:12 UTC
 
 229 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Betterment | [Compliance Associate](https://www.betterment.com/careers/current-openings/job?gh_jid=8327765&gh_jid=8327765) | Betterment HQ - New York City |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Customer Operations Associate I](https://job-boards.greenhouse.io/affirm/jobs/8040790003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
@@ -40,6 +39,7 @@ Last checked: 2026-10-30 15:53:56 UTC
 |  | Anthropic | [Safeguards Enforcement Analyst, Integrity & Authenticity](https://job-boards.greenhouse.io/anthropic/jobs/5311149008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Security Risk Analyst, Risk Engineering](https://job-boards.greenhouse.io/anthropic/jobs/5397704008) | San Francisco, CA / New York City, NY |
 |  | Betterment | [Business Development Representative](https://www.betterment.com/careers/current-openings/job?gh_jid=8195434&gh_jid=8195434) | Betterment HQ - New York City |
+|  | Betterment | [Compliance Associate](https://www.betterment.com/careers/current-openings/job?gh_jid=8327765&gh_jid=8327765) | Betterment HQ - New York City |
 |  | Betterment | [Payroll & Benefits Coordinator](https://www.betterment.com/careers/current-openings/job?gh_jid=8154486&gh_jid=8154486) | Betterment HQ - New York City |
 |  | Bilt | [Back End Engineer (All Levels)](https://jobs.gem.com/bilt/am9icG9zdDqaZ6Eb1hZZ8_pRooaUHvdo) | New York, United States / New York |
 |  | Bilt | [Product Specialist - Housing](https://jobs.gem.com/bilt/am9icG9zdDomdgsgAMh6F4vcm7KhuGLN) | New York, United States / New York |
@@ -246,12 +246,12 @@ Last checked: 2026-10-30 15:53:56 UTC
 | BlackRock | 40 | 0 | OK |
 | Blackstone | 20 | 6 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
-| Point72 | 208 | 10 | OK |
+| Point72 | 207 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 671 | 12 | OK |
-| Stripe | 742 | 14 | OK |
-| Datadog | 396 | 9 | OK |
-| Palantir | 302 | 17 | OK |
+| Anthropic | 674 | 12 | OK |
+| Stripe | 747 | 14 | OK |
+| Datadog | 395 | 9 | OK |
+| Palantir | 299 | 17 | OK |
 | Ramp | 168 | 11 | OK |
 | iCapital | 214 | 9 | OK |
 | AlphaSights | 63 | 12 | OK |
@@ -259,13 +259,13 @@ Last checked: 2026-10-30 15:53:56 UTC
 | Schonfeld | 70 | 5 | OK |
 | Robinhood | 163 | 0 | OK |
 | SoFi | 59 | 0 | OK |
-| Affirm | 242 | 8 | OK |
-| Brex | 264 | 3 | OK |
+| Affirm | 244 | 8 | OK |
+| Brex | 260 | 3 | OK |
 | Betterment | 27 | 3 | OK |
 | Clear Street | 46 | 5 | OK |
 | Scale AI | 169 | 0 | OK |
 | Dataiku | 16 | 0 | OK |
-| MongoDB | 370 | 3 | OK |
+| MongoDB | 369 | 3 | OK |
 | Oscar Health | 216 | 17 | OK |
 | The Trade Desk | 109 | 3 | OK |
 | Guidepoint | 113 | 6 | OK |
@@ -273,7 +273,7 @@ Last checked: 2026-10-30 15:53:56 UTC
 | Flatiron Health | 23 | 5 | OK |
 | OpenAI | 814 | 15 | OK |
 | Perplexity | 134 | 2 | OK |
-| Notion | 144 | 9 | OK |
+| Notion | 146 | 9 | OK |
 | Harvey | 382 | 20 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
