@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-30 10:50:27 UTC
+Last checked: 2026-10-30 11:43:38 UTC
 
-229 matching roles open. ð = found in the latest run.
+228 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -104,7 +104,6 @@ Last checked: 2026-10-30 10:50:27 UTC
 |  | Harvey | [Sales Development Representative  (German Speaking)](https://jobs.ashbyhq.com/harvey/62570156-bb6a-42b5-aae4-ea544d9f1beb) | Munich / Remote |
 |  | Harvey | [Sales Development Representative (English Speaking)](https://jobs.ashbyhq.com/harvey/98572b27-b6fc-4682-a441-62874eb10265) | Dublin / Remote |
 |  | Harvey | [Sales Development Representative (German Speaking)](https://jobs.ashbyhq.com/harvey/3adf9734-7339-4b21-b361-96288a9a6224) | Dublin / Remote |
-|  | Harvey | [Sales Development Representative (Italian Speaking)](https://jobs.ashbyhq.com/harvey/95b0e486-e777-4435-a842-19db85d1f137) | Dublin / Remote |
 |  | Harvey | [Sales Development Representative, ANZ](https://jobs.ashbyhq.com/harvey/b8a9dded-d9f4-4295-8216-fdc93beec6d1) | Sydney / Remote |
 |  | Harvey | [Software Engineer, New Grad (2027)](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5) | San Francisco / Remote |
 |  | Harvey | [Software Engineer, New Grad (2027)](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc) | New York |
@@ -249,13 +248,13 @@ Last checked: 2026-10-30 10:50:27 UTC
 | Point72 | 208 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
 | Anthropic | 670 | 12 | OK |
-| Stripe | 740 | 14 | OK |
+| Stripe | 742 | 14 | OK |
 | Datadog | 397 | 9 | OK |
 | Palantir | 302 | 17 | OK |
 | Ramp | 168 | 11 | OK |
 | iCapital | 214 | 9 | OK |
 | AlphaSights | 63 | 12 | OK |
-| Jane Street | 221 | 6 | OK |
+| Jane Street | 219 | 6 | OK |
 | Schonfeld | 70 | 5 | OK |
 | Robinhood | 167 | 0 | OK |
 | SoFi | 63 | 0 | OK |
@@ -274,7 +273,7 @@ Last checked: 2026-10-30 10:50:27 UTC
 | OpenAI | 814 | 16 | OK |
 | Perplexity | 134 | 2 | OK |
 | Notion | 145 | 9 | OK |
-| Harvey | 385 | 21 | OK |
+| Harvey | 384 | 20 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 122 | 5 | OK |
