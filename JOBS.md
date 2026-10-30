@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-29 23:41:17 UTC
+Last checked: 2026-10-30 00:58:37 UTC
 
 230 matching roles open. ð = found in the latest run.
 
@@ -10,8 +10,8 @@ Last checked: 2026-10-29 23:41:17 UTC
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -249,8 +249,8 @@ Last checked: 2026-10-29 23:41:17 UTC
 | Blackstone (Campus) | 20 | 1 | OK |
 | Point72 | 206 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 672 | 14 | OK |
-| Stripe | 737 | 14 | OK |
+| Anthropic | 673 | 14 | OK |
+| Stripe | 736 | 14 | OK |
 | Datadog | 397 | 9 | OK |
 | Palantir | 302 | 17 | OK |
 | Ramp | 168 | 11 | OK |
@@ -272,7 +272,7 @@ Last checked: 2026-10-29 23:41:17 UTC
 | Guidepoint | 113 | 6 | OK |
 | Gusto | 86 | 4 | OK |
 | Flatiron Health | 23 | 5 | OK |
-| OpenAI | 813 | 16 | OK |
+| OpenAI | 814 | 16 | OK |
 | Perplexity | 134 | 2 | OK |
 | Notion | 145 | 9 | OK |
 | Harvey | 384 | 21 | OK |
