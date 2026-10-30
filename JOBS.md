@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-30 22:42:21 UTC
+Last checked: 2026-10-30 23:40:08 UTC
 
 229 matching roles open. ð = found in the latest run.
 
@@ -11,8 +11,8 @@ Last checked: 2026-10-30 22:42:21 UTC
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -243,7 +243,7 @@ Last checked: 2026-10-30 22:42:21 UTC
 | Bilt | 21 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 48 | 0 | OK |
+| BlackRock | 47 | 0 | OK |
 | Blackstone | 20 | 6 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
 | Point72 | 206 | 10 | OK |
@@ -257,7 +257,7 @@ Last checked: 2026-10-30 22:42:21 UTC
 | AlphaSights | 63 | 12 | OK |
 | Jane Street | 218 | 6 | OK |
 | Schonfeld | 70 | 5 | OK |
-| Robinhood | 161 | 0 | OK |
+| Robinhood | 160 | 0 | OK |
 | SoFi | 62 | 0 | OK |
 | Affirm | 245 | 8 | OK |
 | Brex | 263 | 3 | OK |
@@ -272,7 +272,7 @@ Last checked: 2026-10-30 22:42:21 UTC
 | Gusto | 84 | 4 | OK |
 | Flatiron Health | 26 | 5 | OK |
 | OpenAI | 815 | 15 | OK |
-| Perplexity | 136 | 2 | OK |
+| Perplexity | 137 | 2 | OK |
 | Notion | 148 | 9 | OK |
 | Harvey | 387 | 20 | OK |
 | Kalshi | 46 | 1 | OK |
