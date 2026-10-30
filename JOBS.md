@@ -1,11 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-10-30 14:59:52 UTC
+Last checked: 2026-10-30 15:53:56 UTC
 
-227 matching roles open. ð = found in the latest run.
+229 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Betterment | [Compliance Associate](https://www.betterment.com/careers/current-openings/job?gh_jid=8327765&gh_jid=8327765) | Betterment HQ - New York City |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Customer Operations Associate I](https://job-boards.greenhouse.io/affirm/jobs/8040790003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
@@ -167,6 +168,7 @@ Last checked: 2026-10-30 14:59:52 UTC
 |  | Oscar Health | [Network Contracting & Services Associate](https://job-boards.greenhouse.io/oscar/jobs/8080961) | Remote |
 |  | Oscar Health | [Operations Engineer I](https://job-boards.greenhouse.io/oscar/jobs/8301410) | New York, New York, United States |
 |  | Oscar Health | [Provider Network Associate](https://job-boards.greenhouse.io/oscar/jobs/8178503) | Remote |
+|  | Oscar Health | [Strategic Insights Associate, Data Analytics](https://job-boards.greenhouse.io/oscar/jobs/8249773) | New York, New York, United States |
 |  | Palantir | [Compliance Analyst](https://jobs.lever.co/palantir/c6f9eaaf-b397-476f-8b7d-c511cfb7e5c6) | New York, NY |
 |  | Palantir | [Deployment Strategist, New Grad - Warp Speed](https://jobs.lever.co/palantir/37780e70-c7af-45e1-9be7-071df201c387) | New York, NY |
 |  | Palantir | [Forward Deployed Infrastructure Engineer, New Grad - US Government](https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8) | New York, NY |
@@ -241,30 +243,30 @@ Last checked: 2026-10-30 14:59:52 UTC
 | Bilt | 21 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 39 | 0 | OK |
+| BlackRock | 40 | 0 | OK |
 | Blackstone | 20 | 6 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
 | Point72 | 208 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
 | Anthropic | 671 | 12 | OK |
-| Stripe | 744 | 14 | OK |
-| Datadog | 395 | 9 | OK |
+| Stripe | 742 | 14 | OK |
+| Datadog | 396 | 9 | OK |
 | Palantir | 302 | 17 | OK |
 | Ramp | 168 | 11 | OK |
-| iCapital | 215 | 9 | OK |
+| iCapital | 214 | 9 | OK |
 | AlphaSights | 63 | 12 | OK |
 | Jane Street | 219 | 6 | OK |
 | Schonfeld | 70 | 5 | OK |
-| Robinhood | 165 | 0 | OK |
-| SoFi | 60 | 0 | OK |
+| Robinhood | 163 | 0 | OK |
+| SoFi | 59 | 0 | OK |
 | Affirm | 242 | 8 | OK |
 | Brex | 264 | 3 | OK |
-| Betterment | 26 | 2 | OK |
+| Betterment | 27 | 3 | OK |
 | Clear Street | 46 | 5 | OK |
 | Scale AI | 169 | 0 | OK |
 | Dataiku | 16 | 0 | OK |
 | MongoDB | 370 | 3 | OK |
-| Oscar Health | 212 | 16 | OK |
+| Oscar Health | 216 | 17 | OK |
 | The Trade Desk | 109 | 3 | OK |
 | Guidepoint | 113 | 6 | OK |
 | Gusto | 86 | 4 | OK |
@@ -272,7 +274,7 @@ Last checked: 2026-10-30 14:59:52 UTC
 | OpenAI | 814 | 15 | OK |
 | Perplexity | 134 | 2 | OK |
 | Notion | 144 | 9 | OK |
-| Harvey | 381 | 20 | OK |
+| Harvey | 382 | 20 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 121 | 5 | OK |
