@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-30 00:58:37 UTC
+Last checked: 2026-10-30 01:59:10 UTC
 
-230 matching roles open. ð = found in the latest run.
+229 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -37,7 +37,6 @@ Last checked: 2026-10-30 00:58:37 UTC
 |  | Anthropic | [Safeguards Enforcement Analyst, Conventional Weapons](https://job-boards.greenhouse.io/anthropic/jobs/5410006008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Cyber Harm](https://job-boards.greenhouse.io/anthropic/jobs/5311159008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Integrity & Authenticity](https://job-boards.greenhouse.io/anthropic/jobs/5311149008) | San Francisco, CA / New York City, NY / Washington, DC |
-|  | Anthropic | [Safeguards Enforcement Analyst, Safety Evaluations](https://job-boards.greenhouse.io/anthropic/jobs/5137183008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Security Risk Analyst, Risk Engineering](https://job-boards.greenhouse.io/anthropic/jobs/5397704008) | San Francisco, CA / New York City, NY |
 |  | Betterment | [Business Development Representative](https://www.betterment.com/careers/current-openings/job?gh_jid=8195434&gh_jid=8195434) | Betterment HQ - New York City |
 |  | Betterment | [Payroll & Benefits Coordinator](https://www.betterment.com/careers/current-openings/job?gh_jid=8154486&gh_jid=8154486) | Betterment HQ - New York City |
@@ -249,7 +248,7 @@ Last checked: 2026-10-30 00:58:37 UTC
 | Blackstone (Campus) | 20 | 1 | OK |
 | Point72 | 206 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 673 | 14 | OK |
+| Anthropic | 672 | 13 | OK |
 | Stripe | 736 | 14 | OK |
 | Datadog | 397 | 9 | OK |
 | Palantir | 302 | 17 | OK |
@@ -275,7 +274,7 @@ Last checked: 2026-10-30 00:58:37 UTC
 | OpenAI | 814 | 16 | OK |
 | Perplexity | 134 | 2 | OK |
 | Notion | 145 | 9 | OK |
-| Harvey | 384 | 21 | OK |
+| Harvey | 385 | 21 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 122 | 5 | OK |
