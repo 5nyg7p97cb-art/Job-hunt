@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-30 17:45:52 UTC
+Last checked: 2026-10-30 18:49:05 UTC
 
 229 matching roles open. ð = found in the latest run.
 
@@ -8,8 +8,8 @@ Last checked: 2026-10-30 17:45:52 UTC
 |---|---|---|---|
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Customer Operations Associate I](https://job-boards.greenhouse.io/affirm/jobs/8040790003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
@@ -248,33 +248,33 @@ Last checked: 2026-10-30 17:45:52 UTC
 | Blackstone (Campus) | 18 | 1 | OK |
 | Point72 | 207 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 674 | 12 | OK |
+| Anthropic | 675 | 12 | OK |
 | Stripe | 747 | 14 | OK |
-| Datadog | 397 | 9 | OK |
+| Datadog | 398 | 9 | OK |
 | Palantir | 299 | 17 | OK |
 | Ramp | 168 | 11 | OK |
 | iCapital | 214 | 9 | OK |
 | AlphaSights | 63 | 12 | OK |
 | Jane Street | 218 | 6 | OK |
 | Schonfeld | 70 | 5 | OK |
-| Robinhood | 163 | 0 | OK |
-| SoFi | 59 | 0 | OK |
-| Affirm | 245 | 8 | OK |
-| Brex | 260 | 3 | OK |
+| Robinhood | 162 | 0 | OK |
+| SoFi | 63 | 0 | OK |
+| Affirm | 246 | 8 | OK |
+| Brex | 261 | 3 | OK |
 | Betterment | 27 | 3 | OK |
 | Clear Street | 46 | 5 | OK |
 | Scale AI | 169 | 0 | OK |
 | Dataiku | 16 | 0 | OK |
-| MongoDB | 367 | 3 | OK |
-| Oscar Health | 217 | 17 | OK |
-| The Trade Desk | 109 | 3 | OK |
+| MongoDB | 366 | 3 | OK |
+| Oscar Health | 214 | 17 | OK |
+| The Trade Desk | 108 | 3 | OK |
 | Guidepoint | 113 | 6 | OK |
-| Gusto | 85 | 4 | OK |
-| Flatiron Health | 24 | 5 | OK |
-| OpenAI | 816 | 15 | OK |
+| Gusto | 84 | 4 | OK |
+| Flatiron Health | 25 | 5 | OK |
+| OpenAI | 817 | 15 | OK |
 | Perplexity | 135 | 2 | OK |
 | Notion | 147 | 9 | OK |
-| Harvey | 381 | 20 | OK |
+| Harvey | 383 | 20 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 122 | 5 | OK |
