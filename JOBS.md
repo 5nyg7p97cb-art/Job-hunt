@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-30 11:43:38 UTC
+Last checked: 2026-10-30 12:57:05 UTC
 
 228 matching roles open. ð = found in the latest run.
 
@@ -239,7 +239,7 @@ Last checked: 2026-10-30 11:43:38 UTC
 
 | Company | Open roles | Matching roles | Status |
 |---|---:|---:|---|
-| Bilt | 19 | 3 | OK |
+| Bilt | 20 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 39 | 0 | OK |
@@ -248,7 +248,7 @@ Last checked: 2026-10-30 11:43:38 UTC
 | Point72 | 208 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
 | Anthropic | 670 | 12 | OK |
-| Stripe | 742 | 14 | OK |
+| Stripe | 743 | 14 | OK |
 | Datadog | 397 | 9 | OK |
 | Palantir | 302 | 17 | OK |
 | Ramp | 168 | 11 | OK |
@@ -258,7 +258,7 @@ Last checked: 2026-10-30 11:43:38 UTC
 | Schonfeld | 70 | 5 | OK |
 | Robinhood | 167 | 0 | OK |
 | SoFi | 63 | 0 | OK |
-| Affirm | 241 | 8 | OK |
+| Affirm | 240 | 8 | OK |
 | Brex | 264 | 3 | OK |
 | Betterment | 26 | 2 | OK |
 | Clear Street | 46 | 5 | OK |
