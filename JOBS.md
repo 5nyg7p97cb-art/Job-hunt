@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-30 02:51:37 UTC
+Last checked: 2026-10-30 03:51:00 UTC
 
-229 matching roles open. ð = found in the latest run.
+228 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -35,7 +35,6 @@ Last checked: 2026-10-30 02:51:37 UTC
 |  | Anthropic | [Safeguards Enforcement Analyst, Bio Harms](https://job-boards.greenhouse.io/anthropic/jobs/5319696008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Chem & Explosives Harms](https://job-boards.greenhouse.io/anthropic/jobs/5319700008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Conventional Weapons](https://job-boards.greenhouse.io/anthropic/jobs/5410006008) | San Francisco, CA / New York City, NY / Washington, DC |
-|  | Anthropic | [Safeguards Enforcement Analyst, Cyber Harm](https://job-boards.greenhouse.io/anthropic/jobs/5311159008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Integrity & Authenticity](https://job-boards.greenhouse.io/anthropic/jobs/5311149008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Security Risk Analyst, Risk Engineering](https://job-boards.greenhouse.io/anthropic/jobs/5397704008) | San Francisco, CA / New York City, NY |
 |  | Betterment | [Business Development Representative](https://www.betterment.com/careers/current-openings/job?gh_jid=8195434&gh_jid=8195434) | Betterment HQ - New York City |
@@ -248,8 +247,8 @@ Last checked: 2026-10-30 02:51:37 UTC
 | Blackstone (Campus) | 20 | 1 | OK |
 | Point72 | 206 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 672 | 13 | OK |
-| Stripe | 736 | 14 | OK |
+| Anthropic | 671 | 12 | OK |
+| Stripe | 737 | 14 | OK |
 | Datadog | 397 | 9 | OK |
 | Palantir | 302 | 17 | OK |
 | Ramp | 168 | 11 | OK |
@@ -265,7 +264,7 @@ Last checked: 2026-10-30 02:51:37 UTC
 | Clear Street | 46 | 5 | OK |
 | Scale AI | 169 | 0 | OK |
 | Dataiku | 15 | 0 | OK |
-| MongoDB | 369 | 3 | OK |
+| MongoDB | 368 | 3 | OK |
 | Oscar Health | 213 | 16 | OK |
 | The Trade Desk | 110 | 3 | OK |
 | Guidepoint | 113 | 6 | OK |
