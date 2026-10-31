@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-31 00:59:22 UTC
+Last checked: 2026-10-31 06:56:58 UTC
 
-228 matching roles open. ð = found in the latest run.
+221 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -11,8 +11,8 @@ Last checked: 2026-10-31 00:59:22 UTC
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -44,13 +44,6 @@ Last checked: 2026-10-31 00:59:22 UTC
 |  | Bilt | [Back End Engineer (All Levels)](https://jobs.gem.com/bilt/am9icG9zdDqaZ6Eb1hZZ8_pRooaUHvdo) | New York, United States / New York |
 |  | Bilt | [Product Specialist - Housing](https://jobs.gem.com/bilt/am9icG9zdDomdgsgAMh6F4vcm7KhuGLN) | New York, United States / New York |
 |  | Bilt | [Product Specialist - Rentals](https://jobs.gem.com/bilt/am9icG9zdDqsNnnE7MCdbcnEXNRijoSv) | New York, United States / New York |
-|  | Blackstone | [AI Engineer, Analyst – Data Analytics & AI](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/AI-Engineer--Analyst---Data-Analytics---AI_45238-1) | New York |
-|  | Blackstone | [BXMA - Business & Financial Evaluation - Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA---Business---Financial-Evaluation---Analyst_45566) | New York |
-|  | Blackstone | [BXMA- Direct Trading Operations, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA--Direct-Trading-Operations--Analyst_43372) | New York |
-|  | Blackstone | [Blackstone Private Wealth - Internal Sales, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York-601-Lex/Private-Wealth-Solutions---Internal-Sales--Associate_31726-5) | New York 601 Lex |
-|  | Blackstone | [ICS - Private Capital Group, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/ICS---Private-Capital-Group--Analyst_46060-2) | New York |
-|  | Blackstone | [Public Affairs, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Public-Affairs--Associate_43586) | New York |
-|  | Blackstone (Campus) | [2027 Blackstone APAC Future Leaders Program (Online)](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Hong-Kong/XMLNAME-2027-Blackstone-APAC-Future-Leaders-Program--Online-_45896) | 6 Locations |
 |  | Brex | [Analyst, Banking Operations (Domestic)](https://www.brex.com/careers/8924533002?gh_jid=8924533002) | New York, New York, United States |
 |  | Brex | [Finance Associate](https://www.brex.com/careers/8606825002?gh_jid=8606825002) | New York, New York, United States |
 |  | Brex | [Fraud Strategy Associate](https://www.brex.com/careers/8907584002?gh_jid=8907584002) | New York, New York, United States |
@@ -235,6 +228,12 @@ Last checked: 2026-10-31 00:59:22 UTC
 |  | Vanta | [Business Development Representative, DACH](https://jobs.ashbyhq.com/vanta/7d5ac715-c4ba-45d5-a390-665a93f618cd) | London, UK / Remote |
 |  | Vanta | [Sales Development Representative, Enterprise](https://jobs.ashbyhq.com/vanta/ed31b882-0d92-4bcd-a0e7-bed3a7d04ec4) | New York, NY / Remote |
 
+## Boards that failed this run
+
+- BlackRock: Expecting value: line 1 column 1 (char 0)
+- Blackstone: Expecting value: line 1 column 1 (char 0)
+- Blackstone (Campus): Expecting value: line 1 column 1 (char 0)
+
 ## Board check results
 
 | Company | Open roles | Matching roles | Status |
@@ -242,9 +241,9 @@ Last checked: 2026-10-31 00:59:22 UTC
 | Bilt | 21 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 45 | 0 | OK |
-| Blackstone | 20 | 6 | OK |
-| Blackstone (Campus) | 18 | 1 | OK |
+| BlackRock | â | â | FAILED |
+| Blackstone | â | â | FAILED |
+| Blackstone (Campus) | â | â | FAILED |
 | Point72 | 206 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
 | Anthropic | 675 | 12 | OK |
@@ -270,10 +269,10 @@ Last checked: 2026-10-31 00:59:22 UTC
 | Guidepoint | 113 | 6 | OK |
 | Gusto | 84 | 4 | OK |
 | Flatiron Health | 26 | 5 | OK |
-| OpenAI | 815 | 15 | OK |
+| OpenAI | 813 | 15 | OK |
 | Perplexity | 138 | 2 | OK |
 | Notion | 148 | 9 | OK |
-| Harvey | 386 | 19 | OK |
+| Harvey | 381 | 19 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 122 | 5 | OK |
