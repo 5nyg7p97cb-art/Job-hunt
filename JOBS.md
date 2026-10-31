@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-10-30 23:40:08 UTC
+Last checked: 2026-10-31 00:59:22 UTC
 
-229 matching roles open. ð = found in the latest run.
+228 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -97,7 +97,6 @@ Last checked: 2026-10-30 23:40:08 UTC
 |  | Harvey | [Compliance Analyst](https://jobs.ashbyhq.com/harvey/2f35e50f-2978-44c3-a495-7cbfc1f512d4) | San Francisco / Remote |
 |  | Harvey | [Deal Operations Analyst](https://jobs.ashbyhq.com/harvey/16b67976-02a3-4179-9eca-afc86c551b8a) | Chicago / Remote |
 |  | Harvey | [Deal Operations Analyst](https://jobs.ashbyhq.com/harvey/41e581a5-b5ee-47cb-94e5-6224f1559e4d) | Dallas / Remote |
-|  | Harvey | [People Operations Coordinator, Onboarding](https://jobs.ashbyhq.com/harvey/3188a79d-c5f2-40c3-8f9f-bf1c37938f9f) | New York |
 |  | Harvey | [Recruiting Coordinator](https://jobs.ashbyhq.com/harvey/5a1452ff-566c-4a80-905d-61281a02a40f) | New York / Remote |
 |  | Harvey | [Sales Compensation Analyst](https://jobs.ashbyhq.com/harvey/817fb895-ce20-4711-afd5-aec1ed1edc6d) | Dublin / Remote |
 |  | Harvey | [Sales Development Representative](https://jobs.ashbyhq.com/harvey/a009e4a8-518e-4d92-a0f4-92f2e2dcee7a) | New York / Remote |
@@ -243,12 +242,12 @@ Last checked: 2026-10-30 23:40:08 UTC
 | Bilt | 21 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 47 | 0 | OK |
+| BlackRock | 45 | 0 | OK |
 | Blackstone | 20 | 6 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
 | Point72 | 206 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 676 | 12 | OK |
+| Anthropic | 675 | 12 | OK |
 | Stripe | 746 | 14 | OK |
 | Datadog | 397 | 9 | OK |
 | Palantir | 299 | 17 | OK |
@@ -267,14 +266,14 @@ Last checked: 2026-10-30 23:40:08 UTC
 | Dataiku | 16 | 0 | OK |
 | MongoDB | 366 | 3 | OK |
 | Oscar Health | 214 | 17 | OK |
-| The Trade Desk | 108 | 3 | OK |
+| The Trade Desk | 107 | 3 | OK |
 | Guidepoint | 113 | 6 | OK |
 | Gusto | 84 | 4 | OK |
 | Flatiron Health | 26 | 5 | OK |
 | OpenAI | 815 | 15 | OK |
-| Perplexity | 137 | 2 | OK |
+| Perplexity | 138 | 2 | OK |
 | Notion | 148 | 9 | OK |
-| Harvey | 387 | 20 | OK |
+| Harvey | 386 | 19 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 122 | 5 | OK |
