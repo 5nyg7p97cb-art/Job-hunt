@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-10-31 13:35:57 UTC
+Last checked: 2026-10-31 17:55:50 UTC
 
 228 matching roles open. ð = found in the latest run.
 
@@ -8,8 +8,8 @@ Last checked: 2026-10-31 13:35:57 UTC
 |---|---|---|---|
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Customer Operations Associate I](https://job-boards.greenhouse.io/affirm/jobs/8040790003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
@@ -248,7 +248,7 @@ Last checked: 2026-10-31 13:35:57 UTC
 | Point72 | 206 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
 | Anthropic | 675 | 12 | OK |
-| Stripe | 746 | 14 | OK |
+| Stripe | 745 | 14 | OK |
 | Datadog | 397 | 9 | OK |
 | Palantir | 299 | 17 | OK |
 | Ramp | 171 | 11 | OK |
@@ -258,7 +258,7 @@ Last checked: 2026-10-31 13:35:57 UTC
 | Schonfeld | 70 | 5 | OK |
 | Robinhood | 160 | 0 | OK |
 | SoFi | 62 | 0 | OK |
-| Affirm | 245 | 8 | OK |
+| Affirm | 244 | 8 | OK |
 | Brex | 263 | 3 | OK |
 | Betterment | 27 | 3 | OK |
 | Clear Street | 46 | 5 | OK |
@@ -270,7 +270,7 @@ Last checked: 2026-10-31 13:35:57 UTC
 | Guidepoint | 113 | 6 | OK |
 | Gusto | 84 | 4 | OK |
 | Flatiron Health | 26 | 5 | OK |
-| OpenAI | 813 | 15 | OK |
+| OpenAI | 812 | 15 | OK |
 | Perplexity | 138 | 2 | OK |
 | Notion | 148 | 9 | OK |
 | Harvey | 381 | 19 | OK |
