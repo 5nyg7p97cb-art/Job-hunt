@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-11-01 19:11:15 UTC
+Last checked: 2026-11-01 23:07:23 UTC
 
-228 matching roles open. ð = found in the latest run.
+227 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -150,7 +150,6 @@ Last checked: 2026-11-01 19:11:15 UTC
 |  | OpenAI | [People Technology Analyst, Workday PATT & Benefits](https://jobs.ashbyhq.com/openai/bb28a39e-eb1f-41ef-96de-98adf58a8c3c) | San Francisco / Remote |
 |  | OpenAI | [Recruiting Coordinator - Contract](https://jobs.ashbyhq.com/openai/dbd5ae8a-7c01-4f17-be39-b8caa8fd95d5) | San Francisco / New York City / Seattle / Remote |
 |  | OpenAI | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | San Francisco / Remote |
-|  | OpenAI | [US External Affairs Associate, Global Affairs](https://jobs.ashbyhq.com/openai/544af761-e37a-450c-884b-b96506c1b883) | Washington, DC / Remote |
 |  | Oscar Health | [Actuarial Analyst, Valuation](https://job-boards.greenhouse.io/oscar/jobs/8303593) | New York, New York, United States |
 |  | Oscar Health | [Analyst, Risk Adjustment](https://job-boards.greenhouse.io/oscar/jobs/8303591) | New York, New York, United States |
 |  | Oscar Health | [Associate, Actuarial](https://job-boards.greenhouse.io/oscar/jobs/8069495) | Remote |
@@ -247,8 +246,8 @@ Last checked: 2026-11-01 19:11:15 UTC
 | Blackstone (Campus) | 18 | 1 | OK |
 | Point72 | 206 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 674 | 12 | OK |
-| Stripe | 746 | 14 | OK |
+| Anthropic | 672 | 12 | OK |
+| Stripe | 745 | 14 | OK |
 | Datadog | 397 | 9 | OK |
 | Palantir | 301 | 17 | OK |
 | Ramp | 172 | 11 | OK |
@@ -258,7 +257,7 @@ Last checked: 2026-11-01 19:11:15 UTC
 | Schonfeld | 70 | 5 | OK |
 | Robinhood | 160 | 0 | OK |
 | SoFi | 62 | 0 | OK |
-| Affirm | 244 | 8 | OK |
+| Affirm | 240 | 8 | OK |
 | Brex | 263 | 3 | OK |
 | Betterment | 27 | 3 | OK |
 | Clear Street | 46 | 5 | OK |
@@ -270,10 +269,10 @@ Last checked: 2026-11-01 19:11:15 UTC
 | Guidepoint | 112 | 6 | OK |
 | Gusto | 84 | 4 | OK |
 | Flatiron Health | 26 | 5 | OK |
-| OpenAI | 810 | 15 | OK |
+| OpenAI | 809 | 14 | OK |
 | Perplexity | 138 | 2 | OK |
 | Notion | 148 | 9 | OK |
-| Harvey | 381 | 19 | OK |
+| Harvey | 378 | 19 | OK |
 | Kalshi | 46 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 120 | 5 | OK |
