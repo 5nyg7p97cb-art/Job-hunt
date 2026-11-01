@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-11-01 06:48:59 UTC
+Last checked: 2026-11-01 14:14:42 UTC
 
 228 matching roles open. ð = found in the latest run.
 
@@ -11,8 +11,8 @@ Last checked: 2026-11-01 06:48:59 UTC
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -267,7 +267,7 @@ Last checked: 2026-11-01 06:48:59 UTC
 | MongoDB | 366 | 3 | OK |
 | Oscar Health | 214 | 17 | OK |
 | The Trade Desk | 107 | 3 | OK |
-| Guidepoint | 113 | 6 | OK |
+| Guidepoint | 112 | 6 | OK |
 | Gusto | 84 | 4 | OK |
 | Flatiron Health | 26 | 5 | OK |
 | OpenAI | 810 | 15 | OK |
