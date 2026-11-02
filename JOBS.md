@@ -1,18 +1,19 @@
 # Entry-level openings
 
-Last checked: 2026-11-02 09:56:05 UTC
+Last checked: 2026-11-02 20:19:09 UTC
 
-226 matching roles open. ð = found in the latest run.
+224 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Anthropic | [Data Center Asset Management, Commercial Associate](https://job-boards.greenhouse.io/anthropic/jobs/5468352008) | San Francisco, CA / New York City, NY |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Customer Operations Associate I](https://job-boards.greenhouse.io/affirm/jobs/8040790003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -144,7 +145,6 @@ Last checked: 2026-11-02 09:56:05 UTC
 |  | OpenAI | [Compensation Operations Analyst](https://jobs.ashbyhq.com/openai/31df540f-4062-46e8-918f-b747a90c7052) | San Francisco / Remote |
 |  | OpenAI | [Data Center Compute, OpenHouse Savannah 2026](https://jobs.ashbyhq.com/openai/6ba0ce24-ad32-4c3b-b49c-b373be9a8480) | US - Remote / Seattle / San Francisco / Remote |
 |  | OpenAI | [Enterprise Account Associate - EMEA (German Speaking)](https://jobs.ashbyhq.com/openai/6c88bfaa-7f1b-4175-82f1-6d484a516ca8) | Dublin, Ireland / Remote |
-|  | OpenAI | [LATAM Public Policy Associate](https://jobs.ashbyhq.com/openai/d969a2ff-fa51-4444-a061-c9369462141e) | São Paulo / Remote |
 |  | OpenAI | [Operations Analyst, User Safety & Risk Operations](https://jobs.ashbyhq.com/openai/daabc150-f22c-421e-b30d-1a50fb4cede3) | San Francisco / Remote |
 |  | OpenAI | [People Technology Analyst, Workday PATT & Benefits](https://jobs.ashbyhq.com/openai/bb28a39e-eb1f-41ef-96de-98adf58a8c3c) | San Francisco / Remote |
 |  | OpenAI | [Recruiting Coordinator - Contract](https://jobs.ashbyhq.com/openai/dbd5ae8a-7c01-4f17-be39-b8caa8fd95d5) | San Francisco / New York City / Seattle / Remote |
@@ -165,7 +165,6 @@ Last checked: 2026-11-02 09:56:05 UTC
 |  | Oscar Health | [Network Contracting & Services Associate](https://job-boards.greenhouse.io/oscar/jobs/8080961) | Remote |
 |  | Oscar Health | [Operations Engineer I](https://job-boards.greenhouse.io/oscar/jobs/8301410) | New York, New York, United States |
 |  | Oscar Health | [Provider Network Associate](https://job-boards.greenhouse.io/oscar/jobs/8178503) | Remote |
-|  | Oscar Health | [Strategic Insights Associate, Data Analytics](https://job-boards.greenhouse.io/oscar/jobs/8249773) | New York, New York, United States |
 |  | Palantir | [Compliance Analyst](https://jobs.lever.co/palantir/c6f9eaaf-b397-476f-8b7d-c511cfb7e5c6) | New York, NY |
 |  | Palantir | [Deployment Strategist, New Grad - Warp Speed](https://jobs.lever.co/palantir/37780e70-c7af-45e1-9be7-071df201c387) | New York, NY |
 |  | Palantir | [Forward Deployed Infrastructure Engineer, New Grad - US Government](https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8) | New York, NY |
@@ -214,7 +213,6 @@ Last checked: 2026-11-02 09:56:05 UTC
 |  | Stripe | [Comms Strategy & Operations Associate](https://stripe.com/jobs/search?gh_jid=8241857) | NYC, SF |
 |  | Stripe | [Credit Risk Analyst Commercial Underwriter](https://stripe.com/jobs/search?gh_jid=7540441) | Chicago, US-Remote, Canada-Remote |
 |  | Stripe | [Credit Risk Analyst, North American Underwriter](https://stripe.com/jobs/search?gh_jid=7612192) | Toronto, Remote-Canada |
-|  | Stripe | [Data Analyst, NYC](https://stripe.com/jobs/search?gh_jid=8189909) | New York |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
@@ -237,42 +235,42 @@ Last checked: 2026-11-02 09:56:05 UTC
 
 | Company | Open roles | Matching roles | Status |
 |---|---:|---:|---|
-| Bilt | 21 | 3 | OK |
+| Bilt | 22 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 44 | 0 | OK |
 | Blackstone | 20 | 6 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
-| Point72 | 200 | 10 | OK |
+| Point72 | 198 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 677 | 12 | OK |
-| Stripe | 749 | 14 | OK |
-| Datadog | 397 | 9 | OK |
-| Palantir | 301 | 17 | OK |
-| Ramp | 172 | 11 | OK |
-| iCapital | 215 | 9 | OK |
+| Anthropic | 677 | 13 | OK |
+| Stripe | 739 | 13 | OK |
+| Datadog | 404 | 9 | OK |
+| Palantir | 302 | 17 | OK |
+| Ramp | 171 | 11 | OK |
+| iCapital | 209 | 9 | OK |
 | AlphaSights | 63 | 12 | OK |
-| Jane Street | 218 | 6 | OK |
-| Schonfeld | 70 | 5 | OK |
-| Robinhood | 161 | 0 | OK |
-| SoFi | 62 | 0 | OK |
-| Affirm | 240 | 8 | OK |
-| Brex | 263 | 3 | OK |
+| Jane Street | 217 | 6 | OK |
+| Schonfeld | 71 | 5 | OK |
+| Robinhood | 160 | 0 | OK |
+| SoFi | 63 | 0 | OK |
+| Affirm | 236 | 8 | OK |
+| Brex | 258 | 3 | OK |
 | Betterment | 27 | 3 | OK |
-| Clear Street | 46 | 5 | OK |
-| Scale AI | 170 | 0 | OK |
+| Clear Street | 45 | 5 | OK |
+| Scale AI | 169 | 0 | OK |
 | Dataiku | 16 | 0 | OK |
-| MongoDB | 364 | 3 | OK |
-| Oscar Health | 214 | 17 | OK |
-| The Trade Desk | 108 | 3 | OK |
+| MongoDB | 358 | 3 | OK |
+| Oscar Health | 207 | 16 | OK |
+| The Trade Desk | 107 | 3 | OK |
 | Guidepoint | 110 | 6 | OK |
-| Gusto | 84 | 4 | OK |
+| Gusto | 83 | 4 | OK |
 | Flatiron Health | 26 | 5 | OK |
-| OpenAI | 811 | 14 | OK |
-| Perplexity | 138 | 2 | OK |
-| Notion | 148 | 9 | OK |
-| Harvey | 376 | 19 | OK |
+| OpenAI | 805 | 13 | OK |
+| Perplexity | 137 | 2 | OK |
+| Notion | 146 | 9 | OK |
+| Harvey | 377 | 19 | OK |
 | Kalshi | 33 | 0 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 119 | 5 | OK |
-| Vanta | 79 | 3 | OK |
+| Vanta | 78 | 3 | OK |
