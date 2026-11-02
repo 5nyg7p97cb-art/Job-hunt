@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-11-01 23:07:23 UTC
+Last checked: 2026-11-02 02:26:01 UTC
 
-227 matching roles open. ð = found in the latest run.
+226 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -11,8 +11,8 @@ Last checked: 2026-11-01 23:07:23 UTC
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -123,7 +123,6 @@ Last checked: 2026-11-01 23:07:23 UTC
 |  | Jane Street | [Campus Recruiter, Technology](https://www.janestreet.com/join-jane-street/apply/8345570002?gh_jid=8345570002) | New York, New York, United States |
 |  | Jane Street | [Fundamental Research Analyst](https://www.janestreet.com/join-jane-street/apply/8347286002?gh_jid=8347286002) | New York, New York, United States |
 |  | Jane Street | [Recruiting Coordinator](https://www.janestreet.com/join-jane-street/apply/8560087002?gh_jid=8560087002) | New York, New York, United States |
-|  | Kalshi | [Surveillance Analyst](https://jobs.ashbyhq.com/kalshi/72111d46-0815-47bf-bad2-152cf530b010) | New York Office |
 |  | MongoDB | [Financial Analyst, P&T](https://www.mongodb.com/careers/job/?gh_jid=8328622) | New York City |
 |  | MongoDB | [Product Pricing & Monetization Strategy - Associate](https://www.mongodb.com/careers/job/?gh_jid=7523751) | New York City |
 |  | MongoDB | [Strategic Finance Analyst](https://www.mongodb.com/careers/job/?gh_jid=8192216) | New York City |
@@ -247,7 +246,7 @@ Last checked: 2026-11-01 23:07:23 UTC
 | Point72 | 206 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
 | Anthropic | 672 | 12 | OK |
-| Stripe | 745 | 14 | OK |
+| Stripe | 746 | 14 | OK |
 | Datadog | 397 | 9 | OK |
 | Palantir | 301 | 17 | OK |
 | Ramp | 172 | 11 | OK |
@@ -269,11 +268,11 @@ Last checked: 2026-11-01 23:07:23 UTC
 | Guidepoint | 112 | 6 | OK |
 | Gusto | 84 | 4 | OK |
 | Flatiron Health | 26 | 5 | OK |
-| OpenAI | 809 | 14 | OK |
+| OpenAI | 812 | 14 | OK |
 | Perplexity | 138 | 2 | OK |
 | Notion | 148 | 9 | OK |
 | Harvey | 378 | 19 | OK |
-| Kalshi | 46 | 1 | OK |
+| Kalshi | 33 | 0 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 120 | 5 | OK |
 | Vanta | 79 | 3 | OK |
