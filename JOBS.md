@@ -1,11 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-11-03 18:24:11 UTC
+Last checked: 2026-11-03 23:39:14 UTC
 
 220 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Bilt | [Talent Sourcer and Coordinator](https://jobs.gem.com/bilt/am9icG9zdDofGbhzJIuHecGEtj3m_gRR) | New York, United States / New York |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
@@ -48,7 +49,6 @@ Last checked: 2026-11-03 18:24:11 UTC
 |  | Blackstone | [BXMA - Business & Financial Evaluation - Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA---Business---Financial-Evaluation---Analyst_45566) | New York |
 |  | Blackstone | [BXMA- Direct Trading Operations, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA--Direct-Trading-Operations--Analyst_43372) | New York |
 |  | Blackstone | [Blackstone Private Wealth - Internal Sales, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York-601-Lex/Private-Wealth-Solutions---Internal-Sales--Associate_31726-5) | New York 601 Lex |
-|  | Blackstone | [ICS - Private Capital Group, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/ICS---Private-Capital-Group--Analyst_46060-2) | New York |
 |  | Blackstone | [Public Affairs, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Public-Affairs--Associate_43586) | New York |
 |  | Blackstone (Campus) | [2027 Blackstone APAC Future Leaders Program (Online)](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Hong-Kong/XMLNAME-2027-Blackstone-APAC-Future-Leaders-Program--Online-_45896) | 6 Locations |
 |  | Brex | [Analyst, Banking Operations (Domestic)](https://www.brex.com/careers/8924533002?gh_jid=8924533002) | New York, New York, United States |
@@ -160,7 +160,6 @@ Last checked: 2026-11-03 18:24:11 UTC
 |  | Oscar Health | [Associate, Strategic Finance](https://oscarhealth.com/careers/jobs?gh_jid=8011066) | New York, New York, United States |
 |  | Oscar Health | [Network Contracting & Services Associate](https://oscarhealth.com/careers/jobs?gh_jid=8080961) | Remote |
 |  | Oscar Health | [Operations Engineer I](https://oscarhealth.com/careers/jobs?gh_jid=8301410) | New York, New York, United States |
-|  | Oscar Health | [Provider Network Associate](https://oscarhealth.com/careers/jobs?gh_jid=8178503) | Remote |
 |  | Palantir | [Compliance Analyst](https://jobs.lever.co/palantir/c6f9eaaf-b397-476f-8b7d-c511cfb7e5c6) | New York, NY |
 |  | Palantir | [Deployment Strategist, New Grad - Warp Speed](https://jobs.lever.co/palantir/37780e70-c7af-45e1-9be7-071df201c387) | New York, NY |
 |  | Palantir | [Forward Deployed Infrastructure Engineer, New Grad - US Government](https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8) | New York, NY |
@@ -180,6 +179,7 @@ Last checked: 2026-11-03 18:24:11 UTC
 |  | Palantir | [Talent Coordinator](https://jobs.lever.co/palantir/4186c7e2-1fc4-4049-81fb-fa98efb9d1de) | New York, NY |
 |  | Perplexity | [Business Development Representative](https://jobs.ashbyhq.com/perplexity/a5b97109-222d-49e1-b2ac-e101487a5ddd) | San Francisco / New York City / Remote |
 |  | Perplexity | [Payroll Analyst](https://jobs.ashbyhq.com/perplexity/5080dab5-7eb7-4cb2-9e2c-c61531fd3ad1) | San Francisco / Remote (United States) / Remote |
+|  | Perplexity | [Recruiting Coordinator](https://jobs.ashbyhq.com/perplexity/ed4fb057-3f06-419a-8bb2-9c98f370d477) | San Francisco / New York City |
 |  | Point72 | [Credit Research Analyst, Global Macro](https://boards.greenhouse.io/point72/jobs/7605647002?gh_jid=7605647002) | New York |
 |  | Point72 | [Data Sourcing & Strategy Operations Analyst](https://boards.greenhouse.io/point72/jobs/8888064002?gh_jid=8888064002) | New York, NY |
 |  | Point72 | [Identity & Privileged Governance Analyst](https://boards.greenhouse.io/point72/jobs/8488737002?gh_jid=8488737002) | New York, NY |
@@ -231,42 +231,42 @@ Last checked: 2026-11-03 18:24:11 UTC
 
 | Company | Open roles | Matching roles | Status |
 |---|---:|---:|---|
-| Bilt | 21 | 3 | OK |
+| Bilt | 22 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 45 | 0 | OK |
-| Blackstone | 20 | 6 | OK |
+| Blackstone | 19 | 5 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
-| Point72 | 196 | 10 | OK |
+| Point72 | 198 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 672 | 13 | OK |
-| Stripe | 739 | 13 | OK |
-| Datadog | 399 | 8 | OK |
-| Palantir | 304 | 17 | OK |
+| Anthropic | 680 | 13 | OK |
+| Stripe | 745 | 13 | OK |
+| Datadog | 398 | 8 | OK |
+| Palantir | 305 | 17 | OK |
 | Ramp | 169 | 11 | OK |
 | iCapital | 212 | 9 | OK |
 | AlphaSights | 63 | 12 | OK |
-| Jane Street | 217 | 6 | OK |
-| Schonfeld | 67 | 5 | OK |
-| Robinhood | 160 | 0 | OK |
-| SoFi | 58 | 0 | OK |
+| Jane Street | 219 | 6 | OK |
+| Schonfeld | 69 | 5 | OK |
+| Robinhood | 159 | 0 | OK |
+| SoFi | 56 | 0 | OK |
 | Affirm | 238 | 7 | OK |
 | Brex | 270 | 3 | OK |
 | Betterment | 27 | 3 | OK |
 | Clear Street | 44 | 5 | OK |
 | Scale AI | 166 | 0 | OK |
 | Dataiku | 16 | 0 | OK |
-| MongoDB | 358 | 3 | OK |
-| Oscar Health | 218 | 16 | OK |
+| MongoDB | 360 | 3 | OK |
+| Oscar Health | 216 | 15 | OK |
 | The Trade Desk | 106 | 3 | OK |
 | Guidepoint | 107 | 6 | OK |
-| Gusto | 83 | 4 | OK |
-| Flatiron Health | 26 | 5 | OK |
-| OpenAI | 805 | 13 | OK |
-| Perplexity | 136 | 2 | OK |
+| Gusto | 81 | 4 | OK |
+| Flatiron Health | 25 | 5 | OK |
+| OpenAI | 808 | 13 | OK |
+| Perplexity | 136 | 3 | OK |
 | Notion | 146 | 9 | OK |
-| Harvey | 372 | 17 | OK |
+| Harvey | 375 | 17 | OK |
 | Kalshi | 34 | 0 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 119 | 5 | OK |
-| Vanta | 84 | 3 | OK |
+| Vanta | 83 | 3 | OK |
