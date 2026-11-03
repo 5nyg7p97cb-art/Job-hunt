@@ -1,15 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-11-03 10:45:23 UTC
+Last checked: 2026-11-03 18:24:11 UTC
 
-224 matching roles open. ð = found in the latest run.
+220 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Customer Operations Associate I](https://job-boards.greenhouse.io/affirm/jobs/8040790003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
@@ -70,7 +69,6 @@ Last checked: 2026-11-03 10:45:23 UTC
 |  | Datadog | [FP&A Analyst R&D](https://careers.datadoghq.com/detail/8204554/?gh_jid=8204554) | New York, New York, USA |
 |  | Datadog | [FP&A Analyst, Cloud Finance](https://careers.datadoghq.com/detail/8267437/?gh_jid=8267437) | New York, New York, USA |
 |  | Datadog | [GTM Strategy/Operations Associate](https://careers.datadoghq.com/detail/8171303/?gh_jid=8171303) | New York, New York, USA |
-|  | Datadog | [GTM Strategy/Operations Associate - New York](https://careers.datadoghq.com/detail/8179647/?gh_jid=8179647) | New York, New York, USA |
 |  | Datadog | [People Solutions Coordinator (NYC)](https://careers.datadoghq.com/detail/7728298/?gh_jid=7728298) | New York, New York, USA |
 |  | Datadog | [Recruiting Coordinator](https://careers.datadoghq.com/detail/8247346/?gh_jid=8247346) | Boston, Massachusetts, USA; New York, New York, USA |
 |  | Datadog | [Strategic Finance Analyst](https://careers.datadoghq.com/detail/8257306/?gh_jid=8257306) | New York, New York, USA |
@@ -80,8 +78,8 @@ Last checked: 2026-11-03 10:45:23 UTC
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -106,8 +104,6 @@ Last checked: 2026-11-03 10:45:23 UTC
 |  | Harvey | [Sales Development Representative (English Speaking)](https://jobs.ashbyhq.com/harvey/98572b27-b6fc-4682-a441-62874eb10265) | Dublin / Remote |
 |  | Harvey | [Sales Development Representative (German Speaking)](https://jobs.ashbyhq.com/harvey/3adf9734-7339-4b21-b361-96288a9a6224) | Dublin / Remote |
 |  | Harvey | [Sales Development Representative, ANZ](https://jobs.ashbyhq.com/harvey/b8a9dded-d9f4-4295-8216-fdc93beec6d1) | Sydney / Remote |
-|  | Harvey | [Software Engineer, New Grad (2027)](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5) | San Francisco / Remote |
-|  | Harvey | [Software Engineer, New Grad (2027)](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc) | New York |
 |  | Harvey | [Strategy Associate](https://jobs.ashbyhq.com/harvey/23a93539-af9f-400d-9da6-dd9165364002) | New York |
 |  | iCapital | [Annuities Sales - Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8649096002) | New York, New York, United States |
 |  | iCapital | [Business Process Analyst, UiPath Developer - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8853762002) | New York, New York, United States |
@@ -149,22 +145,22 @@ Last checked: 2026-11-03 10:45:23 UTC
 |  | OpenAI | [People Technology Analyst, Workday PATT & Benefits](https://jobs.ashbyhq.com/openai/bb28a39e-eb1f-41ef-96de-98adf58a8c3c) | San Francisco / Remote |
 |  | OpenAI | [Recruiting Coordinator - Contract](https://jobs.ashbyhq.com/openai/dbd5ae8a-7c01-4f17-be39-b8caa8fd95d5) | San Francisco / New York City / Seattle / Remote |
 |  | OpenAI | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | San Francisco / Remote |
-|  | Oscar Health | [Actuarial Analyst, Valuation](https://job-boards.greenhouse.io/oscar/jobs/8303593) | New York, New York, United States |
-|  | Oscar Health | [Analyst, Risk Adjustment](https://job-boards.greenhouse.io/oscar/jobs/8303591) | New York, New York, United States |
-|  | Oscar Health | [Associate, Actuarial](https://job-boards.greenhouse.io/oscar/jobs/8069495) | Remote |
-|  | Oscar Health | [Associate, Health System Contracting](https://job-boards.greenhouse.io/oscar/jobs/8145078) | Remote |
-|  | Oscar Health | [Associate, Inquiries and Investigations](https://job-boards.greenhouse.io/oscar/jobs/8168186) | New York, New York, United States |
-|  | Oscar Health | [Associate, Medical Economics](https://job-boards.greenhouse.io/oscar/jobs/8023759) | Remote |
-|  | Oscar Health | [Associate, Member and Provider Programs](https://job-boards.greenhouse.io/oscar/jobs/8303620) | New York, New York, United States |
-|  | Oscar Health | [Associate, National Provider Contracting](https://job-boards.greenhouse.io/oscar/jobs/8301173) | Remote |
-|  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://job-boards.greenhouse.io/oscar/jobs/8145032) | New York, New York, United States |
-|  | Oscar Health | [Associate, Operational Forecasting](https://job-boards.greenhouse.io/oscar/jobs/8103001) | New York, New York, United States |
-|  | Oscar Health | [Associate, Payment Integrity](https://job-boards.greenhouse.io/oscar/jobs/8306738) | Remote |
-|  | Oscar Health | [Associate, Process Optimization](https://job-boards.greenhouse.io/oscar/jobs/8107490) | New York, New York, United States |
-|  | Oscar Health | [Associate, Strategic Finance](https://job-boards.greenhouse.io/oscar/jobs/8011066) | New York, New York, United States |
-|  | Oscar Health | [Network Contracting & Services Associate](https://job-boards.greenhouse.io/oscar/jobs/8080961) | Remote |
-|  | Oscar Health | [Operations Engineer I](https://job-boards.greenhouse.io/oscar/jobs/8301410) | New York, New York, United States |
-|  | Oscar Health | [Provider Network Associate](https://job-boards.greenhouse.io/oscar/jobs/8178503) | Remote |
+|  | Oscar Health | [Actuarial Analyst, Valuation](https://oscarhealth.com/careers/jobs?gh_jid=8303593) | New York, New York, United States |
+|  | Oscar Health | [Analyst, Risk Adjustment](https://oscarhealth.com/careers/jobs?gh_jid=8303591) | New York, New York, United States |
+|  | Oscar Health | [Associate, Actuarial](https://oscarhealth.com/careers/jobs?gh_jid=8069495) | Remote |
+|  | Oscar Health | [Associate, Health System Contracting](https://oscarhealth.com/careers/jobs?gh_jid=8145078) | Remote |
+|  | Oscar Health | [Associate, Inquiries and Investigations](https://oscarhealth.com/careers/jobs?gh_jid=8168186) | New York, New York, United States |
+|  | Oscar Health | [Associate, Medical Economics](https://oscarhealth.com/careers/jobs?gh_jid=8023759) | Remote |
+|  | Oscar Health | [Associate, Member and Provider Programs](https://oscarhealth.com/careers/jobs?gh_jid=8303620) | New York, New York, United States |
+|  | Oscar Health | [Associate, National Provider Contracting](https://oscarhealth.com/careers/jobs?gh_jid=8301173) | Remote |
+|  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://oscarhealth.com/careers/jobs?gh_jid=8145032) | New York, New York, United States |
+|  | Oscar Health | [Associate, Operational Forecasting](https://oscarhealth.com/careers/jobs?gh_jid=8103001) | New York, New York, United States |
+|  | Oscar Health | [Associate, Payment Integrity](https://oscarhealth.com/careers/jobs?gh_jid=8306738) | Remote |
+|  | Oscar Health | [Associate, Process Optimization](https://oscarhealth.com/careers/jobs?gh_jid=8107490) | New York, New York, United States |
+|  | Oscar Health | [Associate, Strategic Finance](https://oscarhealth.com/careers/jobs?gh_jid=8011066) | New York, New York, United States |
+|  | Oscar Health | [Network Contracting & Services Associate](https://oscarhealth.com/careers/jobs?gh_jid=8080961) | Remote |
+|  | Oscar Health | [Operations Engineer I](https://oscarhealth.com/careers/jobs?gh_jid=8301410) | New York, New York, United States |
+|  | Oscar Health | [Provider Network Associate](https://oscarhealth.com/careers/jobs?gh_jid=8178503) | Remote |
 |  | Palantir | [Compliance Analyst](https://jobs.lever.co/palantir/c6f9eaaf-b397-476f-8b7d-c511cfb7e5c6) | New York, NY |
 |  | Palantir | [Deployment Strategist, New Grad - Warp Speed](https://jobs.lever.co/palantir/37780e70-c7af-45e1-9be7-071df201c387) | New York, NY |
 |  | Palantir | [Forward Deployed Infrastructure Engineer, New Grad - US Government](https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8) | New York, NY |
@@ -238,39 +234,39 @@ Last checked: 2026-11-03 10:45:23 UTC
 | Bilt | 21 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 44 | 0 | OK |
+| BlackRock | 45 | 0 | OK |
 | Blackstone | 20 | 6 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
-| Point72 | 198 | 10 | OK |
+| Point72 | 196 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 676 | 13 | OK |
-| Stripe | 737 | 13 | OK |
-| Datadog | 402 | 9 | OK |
-| Palantir | 305 | 17 | OK |
-| Ramp | 170 | 11 | OK |
-| iCapital | 210 | 9 | OK |
+| Anthropic | 672 | 13 | OK |
+| Stripe | 739 | 13 | OK |
+| Datadog | 399 | 8 | OK |
+| Palantir | 304 | 17 | OK |
+| Ramp | 169 | 11 | OK |
+| iCapital | 212 | 9 | OK |
 | AlphaSights | 63 | 12 | OK |
 | Jane Street | 217 | 6 | OK |
-| Schonfeld | 68 | 5 | OK |
-| Robinhood | 162 | 0 | OK |
-| SoFi | 63 | 0 | OK |
-| Affirm | 237 | 8 | OK |
-| Brex | 262 | 3 | OK |
+| Schonfeld | 67 | 5 | OK |
+| Robinhood | 160 | 0 | OK |
+| SoFi | 58 | 0 | OK |
+| Affirm | 238 | 7 | OK |
+| Brex | 270 | 3 | OK |
 | Betterment | 27 | 3 | OK |
-| Clear Street | 45 | 5 | OK |
+| Clear Street | 44 | 5 | OK |
 | Scale AI | 166 | 0 | OK |
 | Dataiku | 16 | 0 | OK |
-| MongoDB | 361 | 3 | OK |
-| Oscar Health | 213 | 16 | OK |
+| MongoDB | 358 | 3 | OK |
+| Oscar Health | 218 | 16 | OK |
 | The Trade Desk | 106 | 3 | OK |
-| Guidepoint | 108 | 6 | OK |
-| Gusto | 84 | 4 | OK |
+| Guidepoint | 107 | 6 | OK |
+| Gusto | 83 | 4 | OK |
 | Flatiron Health | 26 | 5 | OK |
 | OpenAI | 805 | 13 | OK |
 | Perplexity | 136 | 2 | OK |
-| Notion | 147 | 9 | OK |
-| Harvey | 374 | 19 | OK |
-| Kalshi | 33 | 0 | OK |
+| Notion | 146 | 9 | OK |
+| Harvey | 372 | 17 | OK |
+| Kalshi | 34 | 0 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 120 | 5 | OK |
-| Vanta | 81 | 3 | OK |
+| Cohere | 119 | 5 | OK |
+| Vanta | 84 | 3 | OK |
