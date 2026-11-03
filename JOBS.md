@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-11-02 20:19:09 UTC
+Last checked: 2026-11-03 02:37:35 UTC
 
 224 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Anthropic | [Data Center Asset Management, Commercial Associate](https://job-boards.greenhouse.io/anthropic/jobs/5468352008) | San Francisco, CA / New York City, NY |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Customer Operations Associate I](https://job-boards.greenhouse.io/affirm/jobs/8040790003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
@@ -30,6 +29,7 @@ Last checked: 2026-11-02 20:19:09 UTC
 |  | Anthropic | [Business Development Representative](https://job-boards.greenhouse.io/anthropic/jobs/5396186008) | San Francisco, CA / New York City, NY |
 |  | Anthropic | [Business Systems Analyst, GTM Systems](https://job-boards.greenhouse.io/anthropic/jobs/5436196008) | San Francisco, CA / New York City, NY |
 |  | Anthropic | [Business Systems Analyst, New Product Introduction](https://job-boards.greenhouse.io/anthropic/jobs/5416829008) | San Francisco, CA / New York City, NY / Seattle, WA |
+|  | Anthropic | [Data Center Asset Management, Commercial Associate](https://job-boards.greenhouse.io/anthropic/jobs/5468352008) | San Francisco, CA / New York City, NY |
 |  | Anthropic | [Enforcement Analyst, Agentic Alignment](https://job-boards.greenhouse.io/anthropic/jobs/5462893008) | Boston, MA; San Francisco, CA / Seattle, WA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Access Controls & Identity](https://job-boards.greenhouse.io/anthropic/jobs/5319626008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Account Takeover & Credential Abuse](https://job-boards.greenhouse.io/anthropic/jobs/5319624008) | San Francisco, CA / New York City, NY / Washington, DC |
@@ -235,7 +235,7 @@ Last checked: 2026-11-02 20:19:09 UTC
 
 | Company | Open roles | Matching roles | Status |
 |---|---:|---:|---|
-| Bilt | 22 | 3 | OK |
+| Bilt | 21 | 3 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 44 | 0 | OK |
@@ -243,34 +243,34 @@ Last checked: 2026-11-02 20:19:09 UTC
 | Blackstone (Campus) | 18 | 1 | OK |
 | Point72 | 198 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 677 | 13 | OK |
-| Stripe | 739 | 13 | OK |
-| Datadog | 404 | 9 | OK |
-| Palantir | 302 | 17 | OK |
+| Anthropic | 676 | 13 | OK |
+| Stripe | 740 | 13 | OK |
+| Datadog | 405 | 9 | OK |
+| Palantir | 305 | 17 | OK |
 | Ramp | 171 | 11 | OK |
-| iCapital | 209 | 9 | OK |
+| iCapital | 210 | 9 | OK |
 | AlphaSights | 63 | 12 | OK |
 | Jane Street | 217 | 6 | OK |
-| Schonfeld | 71 | 5 | OK |
-| Robinhood | 160 | 0 | OK |
+| Schonfeld | 68 | 5 | OK |
+| Robinhood | 162 | 0 | OK |
 | SoFi | 63 | 0 | OK |
-| Affirm | 236 | 8 | OK |
-| Brex | 258 | 3 | OK |
+| Affirm | 237 | 8 | OK |
+| Brex | 262 | 3 | OK |
 | Betterment | 27 | 3 | OK |
 | Clear Street | 45 | 5 | OK |
-| Scale AI | 169 | 0 | OK |
+| Scale AI | 166 | 0 | OK |
 | Dataiku | 16 | 0 | OK |
 | MongoDB | 358 | 3 | OK |
-| Oscar Health | 207 | 16 | OK |
-| The Trade Desk | 107 | 3 | OK |
+| Oscar Health | 213 | 16 | OK |
+| The Trade Desk | 106 | 3 | OK |
 | Guidepoint | 110 | 6 | OK |
-| Gusto | 83 | 4 | OK |
+| Gusto | 84 | 4 | OK |
 | Flatiron Health | 26 | 5 | OK |
-| OpenAI | 805 | 13 | OK |
-| Perplexity | 137 | 2 | OK |
+| OpenAI | 804 | 13 | OK |
+| Perplexity | 136 | 2 | OK |
 | Notion | 146 | 9 | OK |
-| Harvey | 377 | 19 | OK |
+| Harvey | 374 | 19 | OK |
 | Kalshi | 33 | 0 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 119 | 5 | OK |
-| Vanta | 78 | 3 | OK |
+| Cohere | 120 | 5 | OK |
+| Vanta | 80 | 3 | OK |
