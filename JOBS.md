@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-11-04 06:06:57 UTC
+Last checked: 2026-11-04 14:31:29 UTC
 
-218 matching roles open. ð = found in the latest run.
+217 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
@@ -32,7 +32,6 @@ Last checked: 2026-11-04 06:06:57 UTC
 |  | Anthropic | [Enforcement Analyst, Agentic Alignment](https://job-boards.greenhouse.io/anthropic/jobs/5462893008) | Boston, MA; San Francisco, CA / Seattle, WA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Access Controls & Identity](https://job-boards.greenhouse.io/anthropic/jobs/5319626008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Account Takeover & Credential Abuse](https://job-boards.greenhouse.io/anthropic/jobs/5319624008) | San Francisco, CA / New York City, NY / Washington, DC |
-|  | Anthropic | [Safeguards Enforcement Analyst, Age-Appropriate Design](https://job-boards.greenhouse.io/anthropic/jobs/5311234008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Bio Harms](https://job-boards.greenhouse.io/anthropic/jobs/5319696008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Chem & Explosives Harms](https://job-boards.greenhouse.io/anthropic/jobs/5319700008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Conventional Weapons](https://job-boards.greenhouse.io/anthropic/jobs/5410006008) | San Francisco, CA / New York City, NY / Washington, DC |
@@ -235,36 +234,36 @@ Last checked: 2026-11-04 06:06:57 UTC
 | BlackRock | 45 | 0 | OK |
 | Blackstone | 19 | 5 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
-| Point72 | 198 | 10 | OK |
+| Point72 | 197 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 681 | 13 | OK |
-| Stripe | 745 | 13 | OK |
-| Datadog | 396 | 8 | OK |
+| Anthropic | 682 | 12 | OK |
+| Stripe | 757 | 13 | OK |
+| Datadog | 394 | 8 | OK |
 | Palantir | 307 | 17 | OK |
 | Ramp | 168 | 10 | OK |
 | iCapital | 212 | 9 | OK |
-| AlphaSights | 63 | 12 | OK |
+| AlphaSights | 64 | 12 | OK |
 | Jane Street | 219 | 6 | OK |
-| Schonfeld | 69 | 5 | OK |
+| Schonfeld | 70 | 5 | OK |
 | Robinhood | 159 | 0 | OK |
 | SoFi | 56 | 0 | OK |
-| Affirm | 238 | 7 | OK |
+| Affirm | 237 | 7 | OK |
 | Brex | 270 | 3 | OK |
 | Betterment | 27 | 3 | OK |
 | Clear Street | 44 | 5 | OK |
 | Scale AI | 166 | 0 | OK |
 | Dataiku | 16 | 0 | OK |
-| MongoDB | 360 | 3 | OK |
-| Oscar Health | 216 | 15 | OK |
-| The Trade Desk | 106 | 3 | OK |
+| MongoDB | 361 | 3 | OK |
+| Oscar Health | 212 | 15 | OK |
+| The Trade Desk | 105 | 3 | OK |
 | Guidepoint | 107 | 6 | OK |
-| Gusto | 81 | 4 | OK |
+| Gusto | 80 | 4 | OK |
 | Flatiron Health | 25 | 5 | OK |
-| OpenAI | 813 | 13 | OK |
+| OpenAI | 812 | 13 | OK |
 | Perplexity | 137 | 3 | OK |
 | Notion | 146 | 9 | OK |
 | Harvey | 376 | 16 | OK |
 | Kalshi | 33 | 0 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 119 | 5 | OK |
+| Cohere | 117 | 5 | OK |
 | Vanta | 83 | 3 | OK |
