@@ -1,17 +1,18 @@
 # Entry-level openings
 
-Last checked: 2026-11-04 14:31:29 UTC
+Last checked: 2026-11-04 20:55:44 UTC
 
-217 matching roles open. ð = found in the latest run.
+218 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Clear Street | [Investor Relations Associate](https://job-boards.greenhouse.io/clearstreet/jobs/8353000) | New York, NY |
+| ð | Gusto | [People Tech Business Systems Analyst](https://job-boards.greenhouse.io/gusto/jobs/8257482) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
+| ð | Oscar Health | [Associate, Service Transformation](https://oscarhealth.com/careers/jobs?gh_jid=8349789) | New York, New York, United States |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -77,8 +78,8 @@ Last checked: 2026-11-04 14:31:29 UTC
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -127,7 +128,7 @@ Last checked: 2026-11-04 14:31:29 UTC
 |  | Notion | [Business Development Representative, New York](https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13) | New York, New York / Remote |
 |  | Notion | [Business Development Representative, San Francisco](https://jobs.ashbyhq.com/notion/b21fef72-4864-4a3e-a627-91557a0f8a36) | San Francisco, California / Remote |
 |  | Notion | [Payroll Analyst](https://jobs.ashbyhq.com/notion/92de7ece-b7d9-4b2a-b9cb-b978cc690a46) | San Francisco, California / Remote |
-|  | Notion | [Recruiting Coordinator - AMER](https://jobs.ashbyhq.com/notion/4f678608-f9f7-455d-b81c-9433ec974d0e) | San Francisco, California / New York, New York / Remote |
+|  | Notion | [Recruiting Coordinator,  AMER](https://jobs.ashbyhq.com/notion/4f678608-f9f7-455d-b81c-9433ec974d0e) | San Francisco, California / New York, New York / Remote |
 |  | Notion | [Software Engineer, Early Career (AI)](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) | San Francisco, California / Remote |
 |  | Notion | [Software Engineer, New Grad (Dec 2026)](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816) | San Francisco, California / Remote |
 |  | OpenAI | [Account Associate - SF](https://jobs.ashbyhq.com/openai/55f36629-8351-41d9-b2f5-3d63c5e26bf7) | San Francisco / Remote |
@@ -158,6 +159,7 @@ Last checked: 2026-11-04 14:31:29 UTC
 |  | Oscar Health | [Associate, Strategic Finance](https://oscarhealth.com/careers/jobs?gh_jid=8011066) | New York, New York, United States |
 |  | Oscar Health | [Network Contracting & Services Associate](https://oscarhealth.com/careers/jobs?gh_jid=8080961) | Remote |
 |  | Oscar Health | [Operations Engineer I](https://oscarhealth.com/careers/jobs?gh_jid=8301410) | New York, New York, United States |
+|  | Oscar Health | [Provider Network Associate](https://oscarhealth.com/careers/jobs?gh_jid=8178503) | Remote |
 |  | Palantir | [Compliance Analyst](https://jobs.lever.co/palantir/c6f9eaaf-b397-476f-8b7d-c511cfb7e5c6) | New York, NY |
 |  | Palantir | [Deployment Strategist, New Grad - Warp Speed](https://jobs.lever.co/palantir/37780e70-c7af-45e1-9be7-071df201c387) | New York, NY |
 |  | Palantir | [Forward Deployed Infrastructure Engineer, New Grad - US Government](https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8) | New York, NY |
@@ -191,7 +193,6 @@ Last checked: 2026-11-04 14:31:29 UTC
 |  | Ramp | [Analyst, Deal Operations](https://jobs.ashbyhq.com/ramp/7e531974-caac-46a2-804e-c6c3140bfda4) | San Francisco, CA / Remote |
 |  | Ramp | [Associate, Strategic Finance](https://jobs.ashbyhq.com/ramp/606475af-b74f-42c4-978a-dde138a86ac7) | New York, NY (HQ) / San Francisco, CA / Remote |
 |  | Ramp | [Business Development Representative / Ontario, Canada](https://jobs.ashbyhq.com/ramp/cce684de-191d-4a8a-bc42-7ded3ccd47af) | Toronto, ON / Remote |
-|  | Ramp | [Credit Risk Associate](https://jobs.ashbyhq.com/ramp/4745807e-82f4-4b1a-857c-dc8dadc73076) | New York, NY (HQ) / Remote |
 |  | Ramp | [HRIS Analyst (Workday)](https://jobs.ashbyhq.com/ramp/a11f7720-f3a8-4e86-9cc6-562bb11420b2) | New York, NY (HQ) / Remote |
 |  | Ramp | [KYB/AML Analyst, Sweden](https://jobs.ashbyhq.com/ramp/50770187-f226-468a-823e-fe193287c59f) | Remote (Sweden) / Remote |
 |  | Ramp | [Sales Development Representative / Public Sector](https://jobs.ashbyhq.com/ramp/6c1c3192-2508-4805-9dbb-08a4f581b44d) | New York, NY (HQ) / San Francisco, CA / Washington, D.C. / Remote |
@@ -228,7 +229,7 @@ Last checked: 2026-11-04 14:31:29 UTC
 
 | Company | Open roles | Matching roles | Status |
 |---|---:|---:|---|
-| Bilt | 22 | 4 | OK |
+| Bilt | 21 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 45 | 0 | OK |
@@ -236,34 +237,34 @@ Last checked: 2026-11-04 14:31:29 UTC
 | Blackstone (Campus) | 18 | 1 | OK |
 | Point72 | 197 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 682 | 12 | OK |
-| Stripe | 757 | 13 | OK |
-| Datadog | 394 | 8 | OK |
-| Palantir | 307 | 17 | OK |
-| Ramp | 168 | 10 | OK |
-| iCapital | 212 | 9 | OK |
-| AlphaSights | 64 | 12 | OK |
+| Anthropic | 681 | 12 | OK |
+| Stripe | 758 | 13 | OK |
+| Datadog | 396 | 8 | OK |
+| Palantir | 309 | 17 | OK |
+| Ramp | 168 | 9 | OK |
+| iCapital | 214 | 9 | OK |
+| AlphaSights | 65 | 12 | OK |
 | Jane Street | 219 | 6 | OK |
 | Schonfeld | 70 | 5 | OK |
 | Robinhood | 159 | 0 | OK |
-| SoFi | 56 | 0 | OK |
-| Affirm | 237 | 7 | OK |
+| SoFi | 53 | 0 | OK |
+| Affirm | 231 | 5 | OK |
 | Brex | 270 | 3 | OK |
 | Betterment | 27 | 3 | OK |
-| Clear Street | 44 | 5 | OK |
+| Clear Street | 46 | 6 | OK |
 | Scale AI | 166 | 0 | OK |
 | Dataiku | 16 | 0 | OK |
-| MongoDB | 361 | 3 | OK |
-| Oscar Health | 212 | 15 | OK |
-| The Trade Desk | 105 | 3 | OK |
-| Guidepoint | 107 | 6 | OK |
-| Gusto | 80 | 4 | OK |
+| MongoDB | 360 | 3 | OK |
+| Oscar Health | 219 | 17 | OK |
+| The Trade Desk | 107 | 3 | OK |
+| Guidepoint | 109 | 6 | OK |
+| Gusto | 81 | 5 | OK |
 | Flatiron Health | 25 | 5 | OK |
-| OpenAI | 812 | 13 | OK |
+| OpenAI | 814 | 13 | OK |
 | Perplexity | 137 | 3 | OK |
 | Notion | 146 | 9 | OK |
-| Harvey | 376 | 16 | OK |
-| Kalshi | 33 | 0 | OK |
+| Harvey | 373 | 16 | OK |
+| Kalshi | 35 | 0 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 117 | 5 | OK |
 | Vanta | 83 | 3 | OK |
