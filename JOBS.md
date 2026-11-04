@@ -1,18 +1,17 @@
 # Entry-level openings
 
-Last checked: 2026-11-03 23:39:14 UTC
+Last checked: 2026-11-04 06:06:57 UTC
 
-220 matching roles open. ð = found in the latest run.
+218 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Bilt | [Talent Sourcer and Coordinator](https://jobs.gem.com/bilt/am9icG9zdDofGbhzJIuHecGEtj3m_gRR) | New York, United States / New York |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807506003) | Remote Spain |
+|  | Affirm | [Software Engineer I, Backend (Collections)](https://job-boards.greenhouse.io/affirm/jobs/7807508003) | Remote Poland |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -45,6 +44,7 @@ Last checked: 2026-11-03 23:39:14 UTC
 |  | Bilt | [Back End Engineer (All Levels)](https://jobs.gem.com/bilt/am9icG9zdDqaZ6Eb1hZZ8_pRooaUHvdo) | New York, United States / New York |
 |  | Bilt | [Product Specialist - Housing](https://jobs.gem.com/bilt/am9icG9zdDomdgsgAMh6F4vcm7KhuGLN) | New York, United States / New York |
 |  | Bilt | [Product Specialist - Rentals](https://jobs.gem.com/bilt/am9icG9zdDqsNnnE7MCdbcnEXNRijoSv) | New York, United States / New York |
+|  | Bilt | [Talent Sourcer and Coordinator](https://jobs.gem.com/bilt/am9icG9zdDofGbhzJIuHecGEtj3m_gRR) | New York, United States / New York |
 |  | Blackstone | [AI Engineer, Analyst – Data Analytics & AI](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/AI-Engineer--Analyst---Data-Analytics---AI_45238-1) | New York |
 |  | Blackstone | [BXMA - Business & Financial Evaluation - Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA---Business---Financial-Evaluation---Analyst_45566) | New York |
 |  | Blackstone | [BXMA- Direct Trading Operations, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA--Direct-Trading-Operations--Analyst_43372) | New York |
@@ -96,7 +96,6 @@ Last checked: 2026-11-03 23:39:14 UTC
 |  | Harvey | [Compliance Analyst](https://jobs.ashbyhq.com/harvey/2f35e50f-2978-44c3-a495-7cbfc1f512d4) | San Francisco / Remote |
 |  | Harvey | [Deal Operations Analyst](https://jobs.ashbyhq.com/harvey/16b67976-02a3-4179-9eca-afc86c551b8a) | Chicago / Remote |
 |  | Harvey | [Deal Operations Analyst](https://jobs.ashbyhq.com/harvey/41e581a5-b5ee-47cb-94e5-6224f1559e4d) | Dallas / Remote |
-|  | Harvey | [Recruiting Coordinator](https://jobs.ashbyhq.com/harvey/5a1452ff-566c-4a80-905d-61281a02a40f) | New York / Remote |
 |  | Harvey | [Sales Compensation Analyst](https://jobs.ashbyhq.com/harvey/817fb895-ce20-4711-afd5-aec1ed1edc6d) | Dublin / Remote |
 |  | Harvey | [Sales Development Representative](https://jobs.ashbyhq.com/harvey/a009e4a8-518e-4d92-a0f4-92f2e2dcee7a) | New York / Remote |
 |  | Harvey | [Sales Development Representative](https://jobs.ashbyhq.com/harvey/08d3d70d-80a6-429d-8a27-d5efd41372f5) | San Francisco / Remote |
@@ -191,7 +190,6 @@ Last checked: 2026-11-03 23:39:14 UTC
 |  | Point72 | [Technical Business Analyst](https://boards.greenhouse.io/point72/jobs/8877421002?gh_jid=8877421002) | New York |
 |  | Point72 | [Trader/Quant Analyst](https://boards.greenhouse.io/point72/jobs/8375066002?gh_jid=8375066002) | Stamford, New York |
 |  | Ramp | [Analyst, Deal Operations](https://jobs.ashbyhq.com/ramp/7e531974-caac-46a2-804e-c6c3140bfda4) | San Francisco, CA / Remote |
-|  | Ramp | [Associate GTM Recruiter](https://jobs.ashbyhq.com/ramp/a85afad0-8051-4333-ae89-0f82321dea87) | San Francisco, CA / Remote |
 |  | Ramp | [Associate, Strategic Finance](https://jobs.ashbyhq.com/ramp/606475af-b74f-42c4-978a-dde138a86ac7) | New York, NY (HQ) / San Francisco, CA / Remote |
 |  | Ramp | [Business Development Representative / Ontario, Canada](https://jobs.ashbyhq.com/ramp/cce684de-191d-4a8a-bc42-7ded3ccd47af) | Toronto, ON / Remote |
 |  | Ramp | [Credit Risk Associate](https://jobs.ashbyhq.com/ramp/4745807e-82f4-4b1a-857c-dc8dadc73076) | New York, NY (HQ) / Remote |
@@ -239,11 +237,11 @@ Last checked: 2026-11-03 23:39:14 UTC
 | Blackstone (Campus) | 18 | 1 | OK |
 | Point72 | 198 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 680 | 13 | OK |
+| Anthropic | 681 | 13 | OK |
 | Stripe | 745 | 13 | OK |
-| Datadog | 398 | 8 | OK |
-| Palantir | 305 | 17 | OK |
-| Ramp | 169 | 11 | OK |
+| Datadog | 396 | 8 | OK |
+| Palantir | 307 | 17 | OK |
+| Ramp | 168 | 10 | OK |
 | iCapital | 212 | 9 | OK |
 | AlphaSights | 63 | 12 | OK |
 | Jane Street | 219 | 6 | OK |
@@ -262,11 +260,11 @@ Last checked: 2026-11-03 23:39:14 UTC
 | Guidepoint | 107 | 6 | OK |
 | Gusto | 81 | 4 | OK |
 | Flatiron Health | 25 | 5 | OK |
-| OpenAI | 808 | 13 | OK |
-| Perplexity | 136 | 3 | OK |
+| OpenAI | 813 | 13 | OK |
+| Perplexity | 137 | 3 | OK |
 | Notion | 146 | 9 | OK |
-| Harvey | 375 | 17 | OK |
-| Kalshi | 34 | 0 | OK |
+| Harvey | 376 | 16 | OK |
+| Kalshi | 33 | 0 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 119 | 5 | OK |
 | Vanta | 83 | 3 | OK |
