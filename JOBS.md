@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-11-05 01:26:25 UTC
+Last checked: 2026-11-05 08:28:53 UTC
 
 216 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Ramp | [Recruiting Coordinator (Fixed Term)](https://jobs.ashbyhq.com/ramp/af262319-1c4f-4a36-93bd-ef260cb02aed) | New York, NY (HQ) / Remote |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
@@ -193,6 +192,7 @@ Last checked: 2026-11-05 01:26:25 UTC
 |  | Ramp | [Business Development Representative / Ontario, Canada](https://jobs.ashbyhq.com/ramp/cce684de-191d-4a8a-bc42-7ded3ccd47af) | Toronto, ON / Remote |
 |  | Ramp | [HRIS Analyst (Workday)](https://jobs.ashbyhq.com/ramp/a11f7720-f3a8-4e86-9cc6-562bb11420b2) | New York, NY (HQ) / Remote |
 |  | Ramp | [KYB/AML Analyst, Sweden](https://jobs.ashbyhq.com/ramp/50770187-f226-468a-823e-fe193287c59f) | Remote (Sweden) / Remote |
+|  | Ramp | [Recruiting Coordinator (Fixed Term)](https://jobs.ashbyhq.com/ramp/af262319-1c4f-4a36-93bd-ef260cb02aed) | New York, NY (HQ) / Remote |
 |  | Ramp | [Sales Development Representative / Public Sector](https://jobs.ashbyhq.com/ramp/6c1c3192-2508-4805-9dbb-08a4f581b44d) | New York, NY (HQ) / San Francisco, CA / Washington, D.C. / Remote |
 |  | Ramp | [Sales Development Representative, Mid-Market](https://jobs.ashbyhq.com/ramp/83eec8f4-c37d-43c9-860b-27223eee3643) | New York, NY (HQ) / San Francisco, CA / Remote |
 |  | Ramp | [Sales Development Representative, SMB](https://jobs.ashbyhq.com/ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f) | New York, NY (HQ) / San Francisco, CA / Remote |
@@ -230,37 +230,37 @@ Last checked: 2026-11-05 01:26:25 UTC
 | Bilt | 21 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 45 | 0 | OK |
+| BlackRock | 46 | 0 | OK |
 | Blackstone | 19 | 5 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
 | Point72 | 197 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 682 | 12 | OK |
-| Stripe | 759 | 13 | OK |
+| Anthropic | 681 | 12 | OK |
+| Stripe | 760 | 13 | OK |
 | Datadog | 396 | 8 | OK |
 | Palantir | 309 | 17 | OK |
-| Ramp | 170 | 10 | OK |
+| Ramp | 171 | 10 | OK |
 | iCapital | 219 | 9 | OK |
 | AlphaSights | 65 | 12 | OK |
 | Jane Street | 219 | 6 | OK |
 | Schonfeld | 70 | 5 | OK |
 | Robinhood | 154 | 0 | OK |
 | SoFi | 53 | 0 | OK |
-| Affirm | 233 | 5 | OK |
-| Brex | 275 | 3 | OK |
+| Affirm | 235 | 5 | OK |
+| Brex | 271 | 3 | OK |
 | Betterment | 27 | 3 | OK |
 | Clear Street | 46 | 6 | OK |
 | Scale AI | 165 | 0 | OK |
 | Dataiku | 16 | 0 | OK |
 | MongoDB | 361 | 3 | OK |
 | Oscar Health | 214 | 16 | OK |
-| The Trade Desk | 104 | 3 | OK |
-| Guidepoint | 109 | 6 | OK |
+| The Trade Desk | 103 | 3 | OK |
+| Guidepoint | 108 | 6 | OK |
 | Gusto | 81 | 4 | OK |
 | Flatiron Health | 25 | 5 | OK |
-| OpenAI | 809 | 13 | OK |
+| OpenAI | 812 | 13 | OK |
 | Perplexity | 139 | 3 | OK |
-| Notion | 147 | 9 | OK |
+| Notion | 148 | 9 | OK |
 | Harvey | 367 | 15 | OK |
 | Kalshi | 35 | 0 | OK |
 | Unify | 11 | 1 | OK |
