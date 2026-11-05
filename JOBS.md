@@ -1,13 +1,13 @@
 # Entry-level openings
 
-Last checked: 2026-11-05 16:48:51 UTC
+Last checked: 2026-11-05 22:39:55 UTC
 
-217 matching roles open. ð = found in the latest run.
+216 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | iCapital | [Legal Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8931989002) | New York, New York, United States |
-| ð | Palantir | [Operations Analyst - US Government](https://jobs.lever.co/palantir/b14585f4-9a68-49e8-97af-3f03f2a6c357) | New York, NY |
+| ð | OpenAI | [BIM Designer & Coordinator: Civil](https://jobs.ashbyhq.com/openai/66453891-c75a-41c9-a7de-d0c67f23db4e) | US - Remote / Remote |
+| ð | Perplexity | [University Recruiter](https://jobs.ashbyhq.com/perplexity/9ffca709-f4e1-40e7-81bf-270ff73c7a50) | San Francisco / New York City |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
@@ -78,8 +78,8 @@ Last checked: 2026-11-05 16:48:51 UTC
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -104,9 +104,11 @@ Last checked: 2026-11-05 16:48:51 UTC
 |  | Harvey | [Sales Development Representative (German Speaking)](https://jobs.ashbyhq.com/harvey/3adf9734-7339-4b21-b361-96288a9a6224) | Dublin / Remote |
 |  | Harvey | [Sales Development Representative, ANZ](https://jobs.ashbyhq.com/harvey/b8a9dded-d9f4-4295-8216-fdc93beec6d1) | Sydney / Remote |
 |  | iCapital | [Annuities Sales - Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8649096002) | New York, New York, United States |
+|  | iCapital | [Artificial Intelligence / Machine Learning Engineer - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8802717002) | New York, New York, United States |
 |  | iCapital | [Business Process Analyst, UiPath Developer - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8853762002) | New York, New York, United States |
 |  | iCapital | [Corporate Finance, Revenue Operations - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8889716002) | New York, New York, United States |
 |  | iCapital | [Investment Strategy - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8766868002) | New York, New York, United States |
+|  | iCapital | [Legal Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8931989002) | New York, New York, United States |
 |  | iCapital | [Regulatory and Compliance - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8729940002) | New York, New York, United States |
 |  | iCapital | [Regulatory and Compliance, AML - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8875456002) | New York, New York, United States |
 |  | iCapital | [Regulatory and Compliance, Subscription Document Review - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8812006002) | New York, New York, United States |
@@ -135,7 +137,6 @@ Last checked: 2026-11-05 16:48:51 UTC
 |  | OpenAI | [Account Associate - Singapore (Korean-speaking)](https://jobs.ashbyhq.com/openai/974fff14-f2d7-4a99-8740-eb8dc5300d82) | Singapore / Remote |
 |  | OpenAI | [Account Associate, Japan](https://jobs.ashbyhq.com/openai/2f3f416d-cc2a-4836-bcff-daee80c94e95) | Tokyo, Japan / Remote |
 |  | OpenAI | [Associate General Counsel, Commercial – Infrastructure](https://jobs.ashbyhq.com/openai/2b148425-b807-46a5-97e1-fae307aacb80) | San Francisco / Remote |
-|  | OpenAI | [BIM Designer & Coordinator](https://jobs.ashbyhq.com/openai/ad6b55f9-fa63-4860-b852-d90592e49d1c) | San Francisco / Seattle / US - Remote / Remote |
 |  | OpenAI | [Compensation Operations Analyst](https://jobs.ashbyhq.com/openai/31df540f-4062-46e8-918f-b747a90c7052) | San Francisco / Remote |
 |  | OpenAI | [Data Center Compute, OpenHouse Savannah 2026](https://jobs.ashbyhq.com/openai/6ba0ce24-ad32-4c3b-b49c-b373be9a8480) | US - Remote / Seattle / San Francisco / Remote |
 |  | OpenAI | [Enterprise Account Associate - EMEA (German Speaking)](https://jobs.ashbyhq.com/openai/6c88bfaa-7f1b-4175-82f1-6d484a516ca8) | Dublin, Ireland / Remote |
@@ -152,8 +153,6 @@ Last checked: 2026-11-05 16:48:51 UTC
 |  | Oscar Health | [Associate, Member and Provider Programs](https://oscarhealth.com/careers/jobs?gh_jid=8303620) | New York, New York, United States |
 |  | Oscar Health | [Associate, National Provider Contracting](https://oscarhealth.com/careers/jobs?gh_jid=8301173) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://oscarhealth.com/careers/jobs?gh_jid=8145032) | New York, New York, United States |
-|  | Oscar Health | [Associate, Operational Forecasting](https://oscarhealth.com/careers/jobs?gh_jid=8103001) | New York, New York, United States |
-|  | Oscar Health | [Associate, Payment Integrity](https://oscarhealth.com/careers/jobs?gh_jid=8306738) | Remote |
 |  | Oscar Health | [Associate, Service Transformation](https://oscarhealth.com/careers/jobs?gh_jid=8349789) | New York, New York, United States |
 |  | Oscar Health | [Associate, Strategic Finance](https://oscarhealth.com/careers/jobs?gh_jid=8011066) | New York, New York, United States |
 |  | Oscar Health | [Network Contracting & Services Associate](https://oscarhealth.com/careers/jobs?gh_jid=8080961) | Remote |
@@ -165,6 +164,7 @@ Last checked: 2026-11-05 16:48:51 UTC
 |  | Palantir | [Forward Deployed Software Engineer, New Grad - Commercial](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728) | New York, NY |
 |  | Palantir | [Forward Deployed Software Engineer, New Grad - US Government](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca) | New York, NY |
 |  | Palantir | [Forward Deployed Software Engineer, New Grad - Warp Speed](https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7) | New York, NY |
+|  | Palantir | [Operations Analyst - US Government](https://jobs.lever.co/palantir/b14585f4-9a68-49e8-97af-3f03f2a6c357) | New York, NY |
 |  | Palantir | [Privacy & Civil Liberties Engineer - New Grad](https://jobs.lever.co/palantir/95e0d2b0-437a-4096-a5c6-0f247f426c90) | New York, NY |
 |  | Palantir | [Product Designer, New Grad](https://jobs.lever.co/palantir/4c0fb3a1-8256-4d14-9a27-23727235752e) | New York, NY |
 |  | Palantir | [Product Designer, New Grad - US Government](https://jobs.lever.co/palantir/5f7a90e7-f927-47bf-90ed-52d17c58ae02) | New York, NY |
@@ -180,7 +180,6 @@ Last checked: 2026-11-05 16:48:51 UTC
 |  | Perplexity | [Recruiting Coordinator](https://jobs.ashbyhq.com/perplexity/ed4fb057-3f06-419a-8bb2-9c98f370d477) | San Francisco / New York City |
 |  | Point72 | [Credit Research Analyst, Global Macro](https://boards.greenhouse.io/point72/jobs/7605647002?gh_jid=7605647002) | New York |
 |  | Point72 | [Data Sourcing & Strategy Operations Analyst](https://boards.greenhouse.io/point72/jobs/8888064002?gh_jid=8888064002) | New York, NY |
-|  | Point72 | [Identity & Privileged Governance Analyst](https://boards.greenhouse.io/point72/jobs/8488737002?gh_jid=8488737002) | New York, NY |
 |  | Point72 | [Macro Analyst, Market Intelligence, US](https://boards.greenhouse.io/point72/jobs/8785996002?gh_jid=8785996002) | New York, NY |
 |  | Point72 | [Quantitative Analyst - CIO Office](https://boards.greenhouse.io/point72/jobs/7297616002?gh_jid=7297616002) | New York |
 |  | Point72 | [Quantitative Analyst / Software Developer](https://boards.greenhouse.io/point72/jobs/7297622002?gh_jid=7297622002) | New York |
@@ -228,42 +227,42 @@ Last checked: 2026-11-05 16:48:51 UTC
 
 | Company | Open roles | Matching roles | Status |
 |---|---:|---:|---|
-| Bilt | 21 | 4 | OK |
+| Bilt | 22 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 46 | 0 | OK |
-| Blackstone | 19 | 5 | OK |
+| BlackRock | 45 | 0 | OK |
+| Blackstone | 20 | 5 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
-| Point72 | 197 | 10 | OK |
+| Point72 | 195 | 9 | OK |
 | General Atlantic | 14 | 1 | OK |
 | Anthropic | 677 | 12 | OK |
-| Stripe | 762 | 13 | OK |
-| Datadog | 394 | 8 | OK |
-| Palantir | 307 | 17 | OK |
-| Ramp | 171 | 10 | OK |
-| iCapital | 218 | 10 | OK |
+| Stripe | 767 | 13 | OK |
+| Datadog | 398 | 8 | OK |
+| Palantir | 309 | 17 | OK |
+| Ramp | 170 | 10 | OK |
+| iCapital | 224 | 11 | OK |
 | AlphaSights | 65 | 12 | OK |
 | Jane Street | 219 | 6 | OK |
 | Schonfeld | 67 | 5 | OK |
 | Robinhood | 152 | 0 | OK |
 | SoFi | 52 | 0 | OK |
-| Affirm | 237 | 5 | OK |
-| Brex | 271 | 3 | OK |
+| Affirm | 236 | 5 | OK |
+| Brex | 274 | 3 | OK |
 | Betterment | 26 | 3 | OK |
 | Clear Street | 46 | 6 | OK |
-| Scale AI | 166 | 0 | OK |
+| Scale AI | 167 | 0 | OK |
 | Dataiku | 13 | 0 | OK |
-| MongoDB | 364 | 3 | OK |
-| Oscar Health | 213 | 16 | OK |
-| The Trade Desk | 101 | 3 | OK |
+| MongoDB | 368 | 3 | OK |
+| Oscar Health | 208 | 14 | OK |
+| The Trade Desk | 103 | 3 | OK |
 | Guidepoint | 105 | 6 | OK |
-| Gusto | 81 | 4 | OK |
-| Flatiron Health | 24 | 5 | OK |
-| OpenAI | 814 | 13 | OK |
-| Perplexity | 139 | 3 | OK |
+| Gusto | 83 | 4 | OK |
+| Flatiron Health | 25 | 5 | OK |
+| OpenAI | 820 | 13 | OK |
+| Perplexity | 137 | 4 | OK |
 | Notion | 150 | 9 | OK |
-| Harvey | 366 | 15 | OK |
-| Kalshi | 35 | 0 | OK |
+| Harvey | 360 | 15 | OK |
+| Kalshi | 32 | 0 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 118 | 5 | OK |
-| Vanta | 84 | 3 | OK |
+| Cohere | 119 | 5 | OK |
+| Vanta | 85 | 3 | OK |
