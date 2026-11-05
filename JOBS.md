@@ -1,11 +1,13 @@
 # Entry-level openings
 
-Last checked: 2026-11-05 08:28:53 UTC
+Last checked: 2026-11-05 16:48:51 UTC
 
-216 matching roles open. ð = found in the latest run.
+217 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | iCapital | [Legal Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8931989002) | New York, New York, United States |
+| ð | Palantir | [Operations Analyst - US Government](https://jobs.lever.co/palantir/b14585f4-9a68-49e8-97af-3f03f2a6c357) | New York, NY |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
@@ -167,7 +169,6 @@ Last checked: 2026-11-05 08:28:53 UTC
 |  | Palantir | [Product Designer, New Grad](https://jobs.lever.co/palantir/4c0fb3a1-8256-4d14-9a27-23727235752e) | New York, NY |
 |  | Palantir | [Product Designer, New Grad - US Government](https://jobs.lever.co/palantir/5f7a90e7-f927-47bf-90ed-52d17c58ae02) | New York, NY |
 |  | Palantir | [Site Reliability Operations Analyst - Commercial](https://jobs.lever.co/palantir/5174e95b-2e0a-46f8-8db7-e2c837a0ac94) | New York, NY |
-|  | Palantir | [Site Reliability Operations Analyst - US Government](https://jobs.lever.co/palantir/7d91ca36-1e23-4603-b0f1-82a835e27d3f) | New York, NY |
 |  | Palantir | [Software Engineer, New Grad](https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92) | New York, NY |
 |  | Palantir | [Software Engineer, New Grad - Defense](https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278) | New York, NY |
 |  | Palantir | [Software Engineer, New Grad - Infrastructure](https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4) | New York, NY |
@@ -235,33 +236,33 @@ Last checked: 2026-11-05 08:28:53 UTC
 | Blackstone (Campus) | 18 | 1 | OK |
 | Point72 | 197 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 681 | 12 | OK |
-| Stripe | 760 | 13 | OK |
-| Datadog | 396 | 8 | OK |
-| Palantir | 309 | 17 | OK |
+| Anthropic | 677 | 12 | OK |
+| Stripe | 762 | 13 | OK |
+| Datadog | 394 | 8 | OK |
+| Palantir | 307 | 17 | OK |
 | Ramp | 171 | 10 | OK |
-| iCapital | 219 | 9 | OK |
+| iCapital | 218 | 10 | OK |
 | AlphaSights | 65 | 12 | OK |
 | Jane Street | 219 | 6 | OK |
-| Schonfeld | 70 | 5 | OK |
-| Robinhood | 154 | 0 | OK |
-| SoFi | 53 | 0 | OK |
-| Affirm | 235 | 5 | OK |
+| Schonfeld | 67 | 5 | OK |
+| Robinhood | 152 | 0 | OK |
+| SoFi | 52 | 0 | OK |
+| Affirm | 237 | 5 | OK |
 | Brex | 271 | 3 | OK |
-| Betterment | 27 | 3 | OK |
+| Betterment | 26 | 3 | OK |
 | Clear Street | 46 | 6 | OK |
-| Scale AI | 165 | 0 | OK |
-| Dataiku | 16 | 0 | OK |
-| MongoDB | 361 | 3 | OK |
-| Oscar Health | 214 | 16 | OK |
-| The Trade Desk | 103 | 3 | OK |
-| Guidepoint | 108 | 6 | OK |
+| Scale AI | 166 | 0 | OK |
+| Dataiku | 13 | 0 | OK |
+| MongoDB | 364 | 3 | OK |
+| Oscar Health | 213 | 16 | OK |
+| The Trade Desk | 101 | 3 | OK |
+| Guidepoint | 105 | 6 | OK |
 | Gusto | 81 | 4 | OK |
-| Flatiron Health | 25 | 5 | OK |
-| OpenAI | 812 | 13 | OK |
+| Flatiron Health | 24 | 5 | OK |
+| OpenAI | 814 | 13 | OK |
 | Perplexity | 139 | 3 | OK |
-| Notion | 148 | 9 | OK |
-| Harvey | 367 | 15 | OK |
+| Notion | 150 | 9 | OK |
+| Harvey | 366 | 15 | OK |
 | Kalshi | 35 | 0 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 118 | 5 | OK |
