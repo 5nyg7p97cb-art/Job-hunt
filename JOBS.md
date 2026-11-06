@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-11-06 03:23:13 UTC
+Last checked: 2026-11-06 11:27:21 UTC
 
 217 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Stripe | [AMER Data Analyst - Sales Strategy and Operations](https://stripe.com/jobs/search?gh_jid=8354566) | Chicago, US Remote, SF, NYC, Seattle |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
@@ -203,6 +202,7 @@ Last checked: 2026-11-06 03:23:13 UTC
 |  | Schonfeld | [Enterprise Risk Associate, FX & Rates](https://job-boards.greenhouse.io/schonfeld/jobs/7535613) | New York, New York, United States |
 |  | Schonfeld | [Regulatory Reporting Associate](https://job-boards.greenhouse.io/schonfeld/jobs/8226258) | New York, New York, United States |
 |  | Schonfeld | [Systematic Portfolio Strategy and Risk Analyst (NYC or Miami)](https://job-boards.greenhouse.io/schonfeld/jobs/7402926) | Miami, Florida, United States; New York, New York, United States |
+|  | Stripe | [AMER Data Analyst - Sales Strategy and Operations](https://stripe.com/jobs/search?gh_jid=8354566) | Chicago, US Remote, SF, NYC, Seattle |
 |  | Stripe | [Comms Strategy & Operations Associate](https://stripe.com/jobs/search?gh_jid=8241857) | NYC, SF |
 |  | Stripe | [Credit Risk Analyst Commercial Underwriter](https://stripe.com/jobs/search?gh_jid=7540441) | Chicago, US-Remote, Canada-Remote |
 |  | Stripe | [Credit Risk Analyst, North American Underwriter](https://stripe.com/jobs/search?gh_jid=7612192) | Toronto, Remote-Canada |
@@ -231,38 +231,38 @@ Last checked: 2026-11-06 03:23:13 UTC
 | Bilt | 22 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 45 | 0 | OK |
+| BlackRock | 44 | 0 | OK |
 | Blackstone | 20 | 5 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
-| Point72 | 195 | 9 | OK |
+| Point72 | 197 | 9 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 676 | 12 | OK |
-| Stripe | 768 | 14 | OK |
-| Datadog | 401 | 8 | OK |
+| Anthropic | 674 | 12 | OK |
+| Stripe | 765 | 14 | OK |
+| Datadog | 399 | 8 | OK |
 | Palantir | 309 | 17 | OK |
 | Ramp | 170 | 10 | OK |
 | iCapital | 224 | 11 | OK |
-| AlphaSights | 65 | 12 | OK |
+| AlphaSights | 64 | 12 | OK |
 | Jane Street | 219 | 6 | OK |
 | Schonfeld | 67 | 5 | OK |
 | Robinhood | 153 | 0 | OK |
 | SoFi | 53 | 0 | OK |
-| Affirm | 235 | 5 | OK |
+| Affirm | 236 | 5 | OK |
 | Brex | 272 | 3 | OK |
 | Betterment | 26 | 3 | OK |
 | Clear Street | 46 | 6 | OK |
-| Scale AI | 167 | 0 | OK |
+| Scale AI | 170 | 0 | OK |
 | Dataiku | 13 | 0 | OK |
-| MongoDB | 368 | 3 | OK |
+| MongoDB | 369 | 3 | OK |
 | Oscar Health | 208 | 14 | OK |
-| The Trade Desk | 103 | 3 | OK |
+| The Trade Desk | 102 | 3 | OK |
 | Guidepoint | 105 | 6 | OK |
 | Gusto | 81 | 4 | OK |
 | Flatiron Health | 25 | 5 | OK |
-| OpenAI | 822 | 13 | OK |
+| OpenAI | 823 | 13 | OK |
 | Perplexity | 137 | 4 | OK |
-| Notion | 150 | 9 | OK |
-| Harvey | 362 | 15 | OK |
+| Notion | 147 | 9 | OK |
+| Harvey | 361 | 15 | OK |
 | Kalshi | 32 | 0 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 119 | 5 | OK |
