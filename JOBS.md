@@ -1,13 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-11-05 22:39:55 UTC
+Last checked: 2026-11-06 03:23:13 UTC
 
-216 matching roles open. ð = found in the latest run.
+217 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | OpenAI | [BIM Designer & Coordinator: Civil](https://jobs.ashbyhq.com/openai/66453891-c75a-41c9-a7de-d0c67f23db4e) | US - Remote / Remote |
-| ð | Perplexity | [University Recruiter](https://jobs.ashbyhq.com/perplexity/9ffca709-f4e1-40e7-81bf-270ff73c7a50) | San Francisco / New York City |
+| ð | Stripe | [AMER Data Analyst - Sales Strategy and Operations](https://stripe.com/jobs/search?gh_jid=8354566) | Chicago, US Remote, SF, NYC, Seattle |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
@@ -78,8 +77,8 @@ Last checked: 2026-11-05 22:39:55 UTC
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -137,6 +136,7 @@ Last checked: 2026-11-05 22:39:55 UTC
 |  | OpenAI | [Account Associate - Singapore (Korean-speaking)](https://jobs.ashbyhq.com/openai/974fff14-f2d7-4a99-8740-eb8dc5300d82) | Singapore / Remote |
 |  | OpenAI | [Account Associate, Japan](https://jobs.ashbyhq.com/openai/2f3f416d-cc2a-4836-bcff-daee80c94e95) | Tokyo, Japan / Remote |
 |  | OpenAI | [Associate General Counsel, Commercial – Infrastructure](https://jobs.ashbyhq.com/openai/2b148425-b807-46a5-97e1-fae307aacb80) | San Francisco / Remote |
+|  | OpenAI | [BIM Designer & Coordinator: Civil](https://jobs.ashbyhq.com/openai/66453891-c75a-41c9-a7de-d0c67f23db4e) | US - Remote / Remote |
 |  | OpenAI | [Compensation Operations Analyst](https://jobs.ashbyhq.com/openai/31df540f-4062-46e8-918f-b747a90c7052) | San Francisco / Remote |
 |  | OpenAI | [Data Center Compute, OpenHouse Savannah 2026](https://jobs.ashbyhq.com/openai/6ba0ce24-ad32-4c3b-b49c-b373be9a8480) | US - Remote / Seattle / San Francisco / Remote |
 |  | OpenAI | [Enterprise Account Associate - EMEA (German Speaking)](https://jobs.ashbyhq.com/openai/6c88bfaa-7f1b-4175-82f1-6d484a516ca8) | Dublin, Ireland / Remote |
@@ -178,6 +178,7 @@ Last checked: 2026-11-05 22:39:55 UTC
 |  | Perplexity | [Business Development Representative](https://jobs.ashbyhq.com/perplexity/a5b97109-222d-49e1-b2ac-e101487a5ddd) | San Francisco / New York City / Remote |
 |  | Perplexity | [Payroll Analyst](https://jobs.ashbyhq.com/perplexity/5080dab5-7eb7-4cb2-9e2c-c61531fd3ad1) | San Francisco / Remote (United States) / Remote |
 |  | Perplexity | [Recruiting Coordinator](https://jobs.ashbyhq.com/perplexity/ed4fb057-3f06-419a-8bb2-9c98f370d477) | San Francisco / New York City |
+|  | Perplexity | [University Recruiter](https://jobs.ashbyhq.com/perplexity/9ffca709-f4e1-40e7-81bf-270ff73c7a50) | San Francisco / New York City |
 |  | Point72 | [Credit Research Analyst, Global Macro](https://boards.greenhouse.io/point72/jobs/7605647002?gh_jid=7605647002) | New York |
 |  | Point72 | [Data Sourcing & Strategy Operations Analyst](https://boards.greenhouse.io/point72/jobs/8888064002?gh_jid=8888064002) | New York, NY |
 |  | Point72 | [Macro Analyst, Market Intelligence, US](https://boards.greenhouse.io/point72/jobs/8785996002?gh_jid=8785996002) | New York, NY |
@@ -235,19 +236,19 @@ Last checked: 2026-11-05 22:39:55 UTC
 | Blackstone (Campus) | 18 | 1 | OK |
 | Point72 | 195 | 9 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 677 | 12 | OK |
-| Stripe | 767 | 13 | OK |
-| Datadog | 398 | 8 | OK |
+| Anthropic | 676 | 12 | OK |
+| Stripe | 768 | 14 | OK |
+| Datadog | 401 | 8 | OK |
 | Palantir | 309 | 17 | OK |
 | Ramp | 170 | 10 | OK |
 | iCapital | 224 | 11 | OK |
 | AlphaSights | 65 | 12 | OK |
 | Jane Street | 219 | 6 | OK |
 | Schonfeld | 67 | 5 | OK |
-| Robinhood | 152 | 0 | OK |
-| SoFi | 52 | 0 | OK |
-| Affirm | 236 | 5 | OK |
-| Brex | 274 | 3 | OK |
+| Robinhood | 153 | 0 | OK |
+| SoFi | 53 | 0 | OK |
+| Affirm | 235 | 5 | OK |
+| Brex | 272 | 3 | OK |
 | Betterment | 26 | 3 | OK |
 | Clear Street | 46 | 6 | OK |
 | Scale AI | 167 | 0 | OK |
@@ -256,13 +257,13 @@ Last checked: 2026-11-05 22:39:55 UTC
 | Oscar Health | 208 | 14 | OK |
 | The Trade Desk | 103 | 3 | OK |
 | Guidepoint | 105 | 6 | OK |
-| Gusto | 83 | 4 | OK |
+| Gusto | 81 | 4 | OK |
 | Flatiron Health | 25 | 5 | OK |
-| OpenAI | 820 | 13 | OK |
+| OpenAI | 822 | 13 | OK |
 | Perplexity | 137 | 4 | OK |
 | Notion | 150 | 9 | OK |
-| Harvey | 360 | 15 | OK |
+| Harvey | 362 | 15 | OK |
 | Kalshi | 32 | 0 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 119 | 5 | OK |
-| Vanta | 85 | 3 | OK |
+| Vanta | 84 | 3 | OK |
