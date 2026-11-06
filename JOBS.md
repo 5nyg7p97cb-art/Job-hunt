@@ -1,11 +1,15 @@
 # Entry-level openings
 
-Last checked: 2026-11-06 18:25:25 UTC
+Last checked: 2026-11-06 23:29:47 UTC
 
-219 matching roles open. ð = found in the latest run.
+220 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Gusto | [CX Business Intelligence Analyst](https://job-boards.greenhouse.io/gusto/jobs/8119978) | Denver, CO - Hybrid; New York, NY - Hybrid |
+| ð | Gusto | [Security Operations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8348189) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
+| ð | MongoDB | [Candidate Experience Coordinator, Contract](https://www.mongodb.com/careers/job/?gh_jid=8359939) | Austin; New York City; San Francisco; United States |
+| ð | Point72 | [Quantitative Analyst, Private Credit](https://boards.greenhouse.io/point72/jobs/8917054002?gh_jid=8917054002) | New York, NY |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
@@ -74,7 +78,6 @@ Last checked: 2026-11-06 18:25:25 UTC
 |  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
-|  | Flatiron Health | [Point of Care Growth and Partnerships Associate](https://flatiron.com/careers/open-positions/job?gh_jid=8053392) | NY office OR Remote - US |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
@@ -206,8 +209,6 @@ Last checked: 2026-11-06 18:25:25 UTC
 |  | Schonfeld | [Systematic Portfolio Strategy and Risk Analyst (NYC or Miami)](https://job-boards.greenhouse.io/schonfeld/jobs/7402926) | Miami, Florida, United States; New York, New York, United States |
 |  | Stripe | [AMER Data Analyst - Sales Strategy and Operations](https://stripe.com/jobs/search?gh_jid=8354566) | Chicago, US Remote, SF, NYC, Seattle |
 |  | Stripe | [Comms Strategy & Operations Associate](https://stripe.com/jobs/search?gh_jid=8241857) | NYC, SF |
-|  | Stripe | [Credit Risk Analyst Commercial Underwriter](https://stripe.com/jobs/search?gh_jid=7540441) | Chicago, US-Remote, Canada-Remote |
-|  | Stripe | [Credit Risk Analyst, North American Underwriter](https://stripe.com/jobs/search?gh_jid=7612192) | Toronto, Remote-Canada |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
@@ -236,36 +237,36 @@ Last checked: 2026-11-06 18:25:25 UTC
 | BlackRock | 44 | 0 | OK |
 | Blackstone | 19 | 5 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
-| Point72 | 200 | 9 | OK |
+| Point72 | 201 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 673 | 12 | OK |
-| Stripe | 767 | 14 | OK |
-| Datadog | 396 | 8 | OK |
+| Anthropic | 675 | 12 | OK |
+| Stripe | 765 | 12 | OK |
+| Datadog | 399 | 8 | OK |
 | Palantir | 305 | 17 | OK |
-| Ramp | 171 | 13 | OK |
-| iCapital | 222 | 11 | OK |
+| Ramp | 170 | 13 | OK |
+| iCapital | 219 | 11 | OK |
 | AlphaSights | 64 | 12 | OK |
 | Jane Street | 219 | 6 | OK |
 | Schonfeld | 67 | 5 | OK |
-| Robinhood | 152 | 0 | OK |
+| Robinhood | 151 | 0 | OK |
 | SoFi | 46 | 0 | OK |
-| Affirm | 236 | 5 | OK |
-| Brex | 267 | 3 | OK |
+| Affirm | 223 | 5 | OK |
+| Brex | 268 | 3 | OK |
 | Betterment | 26 | 3 | OK |
 | Clear Street | 46 | 6 | OK |
-| Scale AI | 173 | 0 | OK |
+| Scale AI | 168 | 0 | OK |
 | Dataiku | 15 | 0 | OK |
-| MongoDB | 371 | 3 | OK |
-| Oscar Health | 208 | 14 | OK |
+| MongoDB | 375 | 4 | OK |
+| Oscar Health | 207 | 14 | OK |
 | The Trade Desk | 102 | 3 | OK |
 | Guidepoint | 105 | 6 | OK |
-| Gusto | 82 | 4 | OK |
-| Flatiron Health | 25 | 5 | OK |
-| OpenAI | 819 | 13 | OK |
-| Perplexity | 136 | 4 | OK |
-| Notion | 153 | 9 | OK |
+| Gusto | 84 | 6 | OK |
+| Flatiron Health | 24 | 4 | OK |
+| OpenAI | 821 | 13 | OK |
+| Perplexity | 137 | 4 | OK |
+| Notion | 154 | 9 | OK |
 | Harvey | 369 | 14 | OK |
 | Kalshi | 32 | 0 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 122 | 5 | OK |
+| Cohere | 124 | 5 | OK |
 | Vanta | 84 | 3 | OK |
