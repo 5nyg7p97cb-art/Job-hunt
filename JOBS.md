@@ -1,11 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-11-07 16:49:42 UTC
+Last checked: 2026-11-07 20:50:53 UTC
 
-218 matching roles open. ð = found in the latest run.
+219 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Harvey | [Associate Legal Engineer](https://jobs.ashbyhq.com/harvey/8a6fd2f5-1d8f-40b3-a101-1e792f0ff80a) | New York |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
@@ -238,7 +239,7 @@ Last checked: 2026-11-07 16:49:42 UTC
 | Point72 | 201 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
 | Anthropic | 675 | 11 | OK |
-| Stripe | 765 | 12 | OK |
+| Stripe | 766 | 12 | OK |
 | Datadog | 400 | 8 | OK |
 | Palantir | 305 | 17 | OK |
 | Ramp | 171 | 13 | OK |
@@ -263,7 +264,7 @@ Last checked: 2026-11-07 16:49:42 UTC
 | OpenAI | 819 | 13 | OK |
 | Perplexity | 137 | 4 | OK |
 | Notion | 154 | 9 | OK |
-| Harvey | 371 | 14 | OK |
+| Harvey | 370 | 15 | OK |
 | Kalshi | 32 | 0 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 124 | 5 | OK |
