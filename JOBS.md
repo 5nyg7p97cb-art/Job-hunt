@@ -1,15 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-11-06 23:29:47 UTC
+Last checked: 2026-11-07 03:11:36 UTC
 
 220 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Gusto | [CX Business Intelligence Analyst](https://job-boards.greenhouse.io/gusto/jobs/8119978) | Denver, CO - Hybrid; New York, NY - Hybrid |
-| ð | Gusto | [Security Operations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8348189) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
-| ð | MongoDB | [Candidate Experience Coordinator, Contract](https://www.mongodb.com/careers/job/?gh_jid=8359939) | Austin; New York City; San Francisco; United States |
-| ð | Point72 | [Quantitative Analyst, Private Credit](https://boards.greenhouse.io/point72/jobs/8917054002?gh_jid=8917054002) | New York, NY |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Frontend (Upfunnel)](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
@@ -85,10 +81,12 @@ Last checked: 2026-11-06 23:29:47 UTC
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8715494002) | New York, New York, United States |
+|  | Gusto | [CX Business Intelligence Analyst](https://job-boards.greenhouse.io/gusto/jobs/8119978) | Denver, CO - Hybrid; New York, NY - Hybrid |
 |  | Gusto | [Enhanced Due Diligence Investigations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8275011) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
 |  | Gusto | [Fraud Investigations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8275021) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
 |  | Gusto | [Payment Operations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8180461) | San Francisco, CA - Hybrid; Seattle, WA - Remote |
 |  | Gusto | [People Tech Business Systems Analyst](https://job-boards.greenhouse.io/gusto/jobs/8257482) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
+|  | Gusto | [Security Operations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8348189) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
 |  | Harvey | [Associate Commercial Counsel, London](https://jobs.ashbyhq.com/harvey/0a8ca756-7d41-46cc-8cde-960af47658b2) | London / Remote |
 |  | Harvey | [CX Data Analyst](https://jobs.ashbyhq.com/harvey/ecfc45be-fc15-4c16-a419-509c998b6c80) | San Francisco / Remote |
 |  | Harvey | [CX Data Analyst](https://jobs.ashbyhq.com/harvey/e69f2050-b4c0-4fbb-9852-2c60d2adbb45) | Remote / Remote |
@@ -120,6 +118,7 @@ Last checked: 2026-11-06 23:29:47 UTC
 |  | Jane Street | [Campus Recruiter, Technology](https://www.janestreet.com/join-jane-street/apply/8345570002?gh_jid=8345570002) | New York, New York, United States |
 |  | Jane Street | [Fundamental Research Analyst](https://www.janestreet.com/join-jane-street/apply/8347286002?gh_jid=8347286002) | New York, New York, United States |
 |  | Jane Street | [Recruiting Coordinator](https://www.janestreet.com/join-jane-street/apply/8560087002?gh_jid=8560087002) | New York, New York, United States |
+|  | MongoDB | [Candidate Experience Coordinator, Contract](https://www.mongodb.com/careers/job/?gh_jid=8359939) | Austin; New York City; San Francisco; United States |
 |  | MongoDB | [Financial Analyst, P&T](https://www.mongodb.com/careers/job/?gh_jid=8328622) | New York City |
 |  | MongoDB | [Product Pricing & Monetization Strategy - Associate](https://www.mongodb.com/careers/job/?gh_jid=7523751) | New York City |
 |  | MongoDB | [Strategic Finance Analyst](https://www.mongodb.com/careers/job/?gh_jid=8192216) | New York City |
@@ -185,6 +184,7 @@ Last checked: 2026-11-06 23:29:47 UTC
 |  | Point72 | [Macro Analyst, Market Intelligence, US](https://boards.greenhouse.io/point72/jobs/8785996002?gh_jid=8785996002) | New York, NY |
 |  | Point72 | [Quantitative Analyst - CIO Office](https://boards.greenhouse.io/point72/jobs/7297616002?gh_jid=7297616002) | New York |
 |  | Point72 | [Quantitative Analyst / Software Developer](https://boards.greenhouse.io/point72/jobs/7297622002?gh_jid=7297622002) | New York |
+|  | Point72 | [Quantitative Analyst, Private Credit](https://boards.greenhouse.io/point72/jobs/8917054002?gh_jid=8917054002) | New York, NY |
 |  | Point72 | [Quantitative Analyst, Structured Products Investment Team](https://boards.greenhouse.io/point72/jobs/8745810002?gh_jid=8745810002) | New York, NY |
 |  | Point72 | [Sector Analyst, MI-Data](https://boards.greenhouse.io/point72/jobs/7820104002?gh_jid=7820104002) | New York, NY |
 |  | Point72 | [Technical Business Analyst](https://boards.greenhouse.io/point72/jobs/8877421002?gh_jid=8877421002) | New York |
@@ -239,16 +239,16 @@ Last checked: 2026-11-06 23:29:47 UTC
 | Blackstone (Campus) | 18 | 1 | OK |
 | Point72 | 201 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 675 | 12 | OK |
+| Anthropic | 678 | 12 | OK |
 | Stripe | 765 | 12 | OK |
 | Datadog | 399 | 8 | OK |
 | Palantir | 305 | 17 | OK |
-| Ramp | 170 | 13 | OK |
+| Ramp | 171 | 13 | OK |
 | iCapital | 219 | 11 | OK |
 | AlphaSights | 64 | 12 | OK |
 | Jane Street | 219 | 6 | OK |
 | Schonfeld | 67 | 5 | OK |
-| Robinhood | 151 | 0 | OK |
+| Robinhood | 150 | 0 | OK |
 | SoFi | 46 | 0 | OK |
 | Affirm | 223 | 5 | OK |
 | Brex | 268 | 3 | OK |
@@ -260,13 +260,13 @@ Last checked: 2026-11-06 23:29:47 UTC
 | Oscar Health | 207 | 14 | OK |
 | The Trade Desk | 102 | 3 | OK |
 | Guidepoint | 105 | 6 | OK |
-| Gusto | 84 | 6 | OK |
+| Gusto | 83 | 6 | OK |
 | Flatiron Health | 24 | 4 | OK |
-| OpenAI | 821 | 13 | OK |
+| OpenAI | 820 | 13 | OK |
 | Perplexity | 137 | 4 | OK |
 | Notion | 154 | 9 | OK |
-| Harvey | 369 | 14 | OK |
+| Harvey | 371 | 14 | OK |
 | Kalshi | 32 | 0 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 124 | 5 | OK |
-| Vanta | 84 | 3 | OK |
+| Vanta | 85 | 3 | OK |
