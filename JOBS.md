@@ -1,11 +1,15 @@
 # Entry-level openings
 
-Last checked: 2026-11-08 00:30:49 UTC
+Last checked: 2026-11-08 06:40:30 UTC
 
-219 matching roles open. ð = found in the latest run.
+223 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Harvey | [Associate Legal Engineer](https://jobs.ashbyhq.com/harvey/ac406ea9-bd7f-4a50-9341-8370ceca3949) | San Francisco / Remote |
+| ð | Harvey | [Associate Legal Engineer](https://jobs.ashbyhq.com/harvey/e2613ef0-b37c-42ab-aae2-3b47162a9401) | Chicago / Remote |
+| ð | Harvey | [Associate Legal Engineer](https://jobs.ashbyhq.com/harvey/eb6318f2-957c-4d2b-8c44-054a0ef049a3) | Boston / Remote |
+| ð | Harvey | [Associate Legal Engineer](https://jobs.ashbyhq.com/harvey/28b62bdc-3d36-47eb-980d-4f52455cc3f2) | Dallas / Remote |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
@@ -73,8 +77,8 @@ Last checked: 2026-11-08 00:30:49 UTC
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -86,7 +90,7 @@ Last checked: 2026-11-08 00:30:49 UTC
 |  | Gusto | [People Tech Business Systems Analyst](https://job-boards.greenhouse.io/gusto/jobs/8257482) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
 |  | Gusto | [Security Operations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8348189) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
 |  | Harvey | [Associate Commercial Counsel, London](https://jobs.ashbyhq.com/harvey/0a8ca756-7d41-46cc-8cde-960af47658b2) | London / Remote |
-|  | Harvey | [Associate Legal Engineer](https://jobs.ashbyhq.com/harvey/8a6fd2f5-1d8f-40b3-a101-1e792f0ff80a) | New York |
+|  | Harvey | [Associate Legal Engineer](https://jobs.ashbyhq.com/harvey/8a6fd2f5-1d8f-40b3-a101-1e792f0ff80a) | New York / Remote |
 |  | Harvey | [CX Data Analyst](https://jobs.ashbyhq.com/harvey/ecfc45be-fc15-4c16-a419-509c998b6c80) | San Francisco / Remote |
 |  | Harvey | [CX Data Analyst](https://jobs.ashbyhq.com/harvey/e69f2050-b4c0-4fbb-9852-2c60d2adbb45) | Remote / Remote |
 |  | Harvey | [CX Data Analyst](https://jobs.ashbyhq.com/harvey/f8857e81-4062-4669-a7e3-7b73b114979b) | New York / Remote |
@@ -240,7 +244,7 @@ Last checked: 2026-11-08 00:30:49 UTC
 | General Atlantic | 14 | 1 | OK |
 | Anthropic | 675 | 11 | OK |
 | Stripe | 766 | 12 | OK |
-| Datadog | 400 | 8 | OK |
+| Datadog | 401 | 8 | OK |
 | Palantir | 305 | 17 | OK |
 | Ramp | 169 | 13 | OK |
 | iCapital | 219 | 11 | OK |
@@ -255,16 +259,16 @@ Last checked: 2026-11-08 00:30:49 UTC
 | Clear Street | 46 | 6 | OK |
 | Scale AI | 168 | 0 | OK |
 | Dataiku | 15 | 0 | OK |
-| MongoDB | 375 | 4 | OK |
+| MongoDB | 374 | 4 | OK |
 | Oscar Health | 207 | 14 | OK |
 | The Trade Desk | 101 | 3 | OK |
 | Guidepoint | 105 | 6 | OK |
 | Gusto | 83 | 6 | OK |
 | Flatiron Health | 24 | 4 | OK |
-| OpenAI | 819 | 13 | OK |
+| OpenAI | 818 | 13 | OK |
 | Perplexity | 137 | 4 | OK |
 | Notion | 154 | 9 | OK |
-| Harvey | 370 | 15 | OK |
+| Harvey | 373 | 19 | OK |
 | Kalshi | 32 | 0 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 124 | 5 | OK |
