@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-11-07 20:50:53 UTC
+Last checked: 2026-11-08 00:30:49 UTC
 
 219 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Harvey | [Associate Legal Engineer](https://jobs.ashbyhq.com/harvey/8a6fd2f5-1d8f-40b3-a101-1e792f0ff80a) | New York |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
@@ -87,6 +86,7 @@ Last checked: 2026-11-07 20:50:53 UTC
 |  | Gusto | [People Tech Business Systems Analyst](https://job-boards.greenhouse.io/gusto/jobs/8257482) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
 |  | Gusto | [Security Operations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8348189) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
 |  | Harvey | [Associate Commercial Counsel, London](https://jobs.ashbyhq.com/harvey/0a8ca756-7d41-46cc-8cde-960af47658b2) | London / Remote |
+|  | Harvey | [Associate Legal Engineer](https://jobs.ashbyhq.com/harvey/8a6fd2f5-1d8f-40b3-a101-1e792f0ff80a) | New York |
 |  | Harvey | [CX Data Analyst](https://jobs.ashbyhq.com/harvey/ecfc45be-fc15-4c16-a419-509c998b6c80) | San Francisco / Remote |
 |  | Harvey | [CX Data Analyst](https://jobs.ashbyhq.com/harvey/e69f2050-b4c0-4fbb-9852-2c60d2adbb45) | Remote / Remote |
 |  | Harvey | [CX Data Analyst](https://jobs.ashbyhq.com/harvey/f8857e81-4062-4669-a7e3-7b73b114979b) | New York / Remote |
@@ -242,7 +242,7 @@ Last checked: 2026-11-07 20:50:53 UTC
 | Stripe | 766 | 12 | OK |
 | Datadog | 400 | 8 | OK |
 | Palantir | 305 | 17 | OK |
-| Ramp | 171 | 13 | OK |
+| Ramp | 169 | 13 | OK |
 | iCapital | 219 | 11 | OK |
 | AlphaSights | 64 | 12 | OK |
 | Jane Street | 219 | 6 | OK |
