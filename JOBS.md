@@ -1,11 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-11-09 10:21:52 UTC
+Last checked: 2026-11-09 21:03:05 UTC
 
-216 matching roles open. ð = found in the latest run.
+221 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Ramp | [Legal & Privacy Operations Associate](https://jobs.ashbyhq.com/ramp/31bd9e9e-102f-4051-abc1-22cdd7d9617a) | NYC / SF / Remote |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
@@ -32,14 +33,18 @@ Last checked: 2026-11-09 10:21:52 UTC
 |  | Anthropic | [Safeguards Enforcement Analyst, Bio Harms](https://job-boards.greenhouse.io/anthropic/jobs/5319696008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Conventional Weapons](https://job-boards.greenhouse.io/anthropic/jobs/5410006008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Integrity & Authenticity](https://job-boards.greenhouse.io/anthropic/jobs/5311149008) | San Francisco, CA / New York City, NY / Washington, DC |
-|  | Anthropic | [Security Risk Analyst, Risk Engineering](https://job-boards.greenhouse.io/anthropic/jobs/5397704008) | San Francisco, CA / New York City, NY |
 |  | Betterment | [Business Development Representative](https://www.betterment.com/careers/current-openings/job?gh_jid=8195434&gh_jid=8195434) | Betterment HQ - New York City |
 |  | Betterment | [Compliance Associate](https://www.betterment.com/careers/current-openings/job?gh_jid=8327765&gh_jid=8327765) | Betterment HQ - New York City |
-|  | Betterment | [Payroll & Benefits Coordinator](https://www.betterment.com/careers/current-openings/job?gh_jid=8154486&gh_jid=8154486) | Betterment HQ - New York City |
 |  | Bilt | [Back End Engineer (All Levels)](https://jobs.gem.com/bilt/am9icG9zdDqaZ6Eb1hZZ8_pRooaUHvdo) | New York, United States / New York |
 |  | Bilt | [Product Specialist - Housing](https://jobs.gem.com/bilt/am9icG9zdDomdgsgAMh6F4vcm7KhuGLN) | New York, United States / New York |
 |  | Bilt | [Product Specialist - Rentals](https://jobs.gem.com/bilt/am9icG9zdDqsNnnE7MCdbcnEXNRijoSv) | New York, United States / New York |
 |  | Bilt | [Talent Sourcer and Coordinator](https://jobs.gem.com/bilt/am9icG9zdDofGbhzJIuHecGEtj3m_gRR) | New York, United States / New York |
+|  | Blackstone | [AI Engineer, Analyst – Data Analytics & AI](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/AI-Engineer--Analyst---Data-Analytics---AI_45238-1) | New York |
+|  | Blackstone | [BXMA - Business & Financial Evaluation - Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA---Business---Financial-Evaluation---Analyst_45566) | New York |
+|  | Blackstone | [BXMA- Direct Trading Operations, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA--Direct-Trading-Operations--Analyst_43372) | New York |
+|  | Blackstone | [Blackstone Private Wealth - Internal Sales, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York-601-Lex/Private-Wealth-Solutions---Internal-Sales--Associate_31726-5) | New York 601 Lex |
+|  | Blackstone | [Public Affairs, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Public-Affairs--Associate_43586) | New York |
+|  | Blackstone (Campus) | [2027 Blackstone APAC Future Leaders Program (Online)](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Hong-Kong/XMLNAME-2027-Blackstone-APAC-Future-Leaders-Program--Online-_45896) | 6 Locations |
 |  | Brex | [Analyst, Banking Operations (Domestic)](https://www.brex.com/careers/8924533002?gh_jid=8924533002) | New York, New York, United States |
 |  | Brex | [Finance Associate](https://www.brex.com/careers/8606825002?gh_jid=8606825002) | New York, New York, United States |
 |  | Brex | [Fraud Strategy Associate](https://www.brex.com/careers/8907584002?gh_jid=8907584002) | New York, New York, United States |
@@ -67,17 +72,16 @@ Last checked: 2026-11-09 10:21:52 UTC
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8715494002) | New York, New York, United States |
-|  | Gusto | [CX Business Intelligence Analyst](https://job-boards.greenhouse.io/gusto/jobs/8119978) | Denver, CO - Hybrid; New York, NY - Hybrid |
 |  | Gusto | [Enhanced Due Diligence Investigations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8275011) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
 |  | Gusto | [Fraud Investigations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8275021) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
 |  | Gusto | [Payment Operations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8180461) | San Francisco, CA - Hybrid; Seattle, WA - Remote |
-|  | Gusto | [People Tech Business Systems Analyst](https://job-boards.greenhouse.io/gusto/jobs/8257482) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
+|  | Gusto | [People Tech Business Systems Analyst](https://job-boards.greenhouse.io/gusto/jobs/8257482) | Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid |
 |  | Gusto | [Security Operations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8348189) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
 |  | Harvey | [Associate Commercial Counsel, London](https://jobs.ashbyhq.com/harvey/0a8ca756-7d41-46cc-8cde-960af47658b2) | London / Remote |
 |  | Harvey | [Associate Legal Engineer](https://jobs.ashbyhq.com/harvey/8a6fd2f5-1d8f-40b3-a101-1e792f0ff80a) | New York / Remote |
@@ -98,8 +102,9 @@ Last checked: 2026-11-09 10:21:52 UTC
 |  | Harvey | [Sales Development Representative (English Speaking)](https://jobs.ashbyhq.com/harvey/98572b27-b6fc-4682-a441-62874eb10265) | Dublin / Remote |
 |  | Harvey | [Sales Development Representative (German Speaking)](https://jobs.ashbyhq.com/harvey/3adf9734-7339-4b21-b361-96288a9a6224) | Dublin / Remote |
 |  | Harvey | [Sales Development Representative, ANZ](https://jobs.ashbyhq.com/harvey/b8a9dded-d9f4-4295-8216-fdc93beec6d1) | Sydney / Remote |
+|  | Harvey | [Software Engineer, New Grad (2027)](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5) | San Francisco / Remote |
+|  | Harvey | [Software Engineer, New Grad (2027)](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc) | New York |
 |  | iCapital | [Annuities Sales - Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8649096002) | New York, New York, United States |
-|  | iCapital | [Artificial Intelligence / Machine Learning Engineer - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8802717002) | New York, New York, United States |
 |  | iCapital | [Business Process Analyst, UiPath Developer - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8853762002) | New York, New York, United States |
 |  | iCapital | [Corporate Finance, Revenue Operations - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8889716002) | New York, New York, United States |
 |  | iCapital | [Investment Strategy - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8766868002) | New York, New York, United States |
@@ -185,19 +190,19 @@ Last checked: 2026-11-09 10:21:52 UTC
 |  | Point72 | [Sector Analyst, MI-Data](https://boards.greenhouse.io/point72/jobs/7820104002?gh_jid=7820104002) | New York, NY |
 |  | Point72 | [Technical Business Analyst](https://boards.greenhouse.io/point72/jobs/8877421002?gh_jid=8877421002) | New York |
 |  | Point72 | [Trader/Quant Analyst](https://boards.greenhouse.io/point72/jobs/8375066002?gh_jid=8375066002) | Stamford, New York |
-|  | Ramp | [Analyst, Deal Operations](https://jobs.ashbyhq.com/ramp/7e531974-caac-46a2-804e-c6c3140bfda4) | San Francisco, CA / Remote |
-|  | Ramp | [Associate, Strategic Finance](https://jobs.ashbyhq.com/ramp/606475af-b74f-42c4-978a-dde138a86ac7) | New York, NY (HQ) / San Francisco, CA / Remote |
-|  | Ramp | [Business Development Representative / Ontario, Canada](https://jobs.ashbyhq.com/ramp/cce684de-191d-4a8a-bc42-7ded3ccd47af) | Toronto, ON / Remote |
-|  | Ramp | [Customer Experience Associate](https://jobs.ashbyhq.com/ramp/d64609dd-c391-45a2-bfdb-c1bb34e8f93c) | New York, NY (HQ) / Remote (US) / Denver, CO / Miami, FL / Remote |
-|  | Ramp | [Customer Experience Associate (Evening Shift)](https://jobs.ashbyhq.com/ramp/40f43993-21e8-4db1-a9f4-7a3e6098a9ba) | New York, NY (HQ) / San Francisco, CA / Remote (US) / Denver, CO / Miami, FL / Remote |
-|  | Ramp | [HRIS Analyst (Workday)](https://jobs.ashbyhq.com/ramp/a11f7720-f3a8-4e86-9cc6-562bb11420b2) | New York, NY (HQ) / Remote |
+|  | Ramp | [Analyst, Deal Operations](https://jobs.ashbyhq.com/ramp/7e531974-caac-46a2-804e-c6c3140bfda4) | SF / Remote |
+|  | Ramp | [Associate, Strategic Finance](https://jobs.ashbyhq.com/ramp/606475af-b74f-42c4-978a-dde138a86ac7) | NYC / SF / Remote |
+|  | Ramp | [Business Development Representative / Ontario, Canada](https://jobs.ashbyhq.com/ramp/cce684de-191d-4a8a-bc42-7ded3ccd47af) | Toronto / Remote |
+|  | Ramp | [Customer Experience Associate](https://jobs.ashbyhq.com/ramp/d64609dd-c391-45a2-bfdb-c1bb34e8f93c) | NYC / Remote / Denver, CO / Miami, FL / Remote |
+|  | Ramp | [Customer Experience Associate (Evening Shift)](https://jobs.ashbyhq.com/ramp/40f43993-21e8-4db1-a9f4-7a3e6098a9ba) | NYC / SF / Remote / Denver, CO / Miami, FL / Remote |
+|  | Ramp | [HRIS Analyst (Workday)](https://jobs.ashbyhq.com/ramp/a11f7720-f3a8-4e86-9cc6-562bb11420b2) | NYC / Remote |
 |  | Ramp | [KYB/AML Analyst, Sweden](https://jobs.ashbyhq.com/ramp/50770187-f226-468a-823e-fe193287c59f) | Remote (Sweden) / Remote |
-|  | Ramp | [Recruiting Coordinator (Fixed Term)](https://jobs.ashbyhq.com/ramp/af262319-1c4f-4a36-93bd-ef260cb02aed) | New York, NY (HQ) / Remote |
-|  | Ramp | [Sales Development Representative / Public Sector](https://jobs.ashbyhq.com/ramp/6c1c3192-2508-4805-9dbb-08a4f581b44d) | New York, NY (HQ) / San Francisco, CA / Washington, D.C. / Remote |
-|  | Ramp | [Sales Development Representative, Mid-Market](https://jobs.ashbyhq.com/ramp/83eec8f4-c37d-43c9-860b-27223eee3643) | New York, NY (HQ) / San Francisco, CA / Remote |
-|  | Ramp | [Sales Development Representative, SMB](https://jobs.ashbyhq.com/ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f) | New York, NY (HQ) / San Francisco, CA / Remote |
-|  | Ramp | [Sales Development Representative, Strategic Accounts](https://jobs.ashbyhq.com/ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284) | New York, NY (HQ) / Remote |
-|  | Ramp | [University Grad / Customer Experience Associate](https://jobs.ashbyhq.com/ramp/fc971889-db1d-4a20-a25e-f282f9296936) | New York, NY (HQ) / San Francisco, CA / Remote (US) / Remote |
+|  | Ramp | [Recruiting Coordinator (Fixed Term)](https://jobs.ashbyhq.com/ramp/af262319-1c4f-4a36-93bd-ef260cb02aed) | NYC / Remote |
+|  | Ramp | [Sales Development Representative / Public Sector](https://jobs.ashbyhq.com/ramp/6c1c3192-2508-4805-9dbb-08a4f581b44d) | NYC / SF / Washington, D.C. / Remote |
+|  | Ramp | [Sales Development Representative, Mid-Market](https://jobs.ashbyhq.com/ramp/83eec8f4-c37d-43c9-860b-27223eee3643) | NYC / SF / Remote |
+|  | Ramp | [Sales Development Representative, SMB](https://jobs.ashbyhq.com/ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f) | NYC / SF / Remote |
+|  | Ramp | [Sales Development Representative, Strategic Accounts](https://jobs.ashbyhq.com/ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284) | NYC / Remote |
+|  | Ramp | [University Grad / Customer Experience Associate](https://jobs.ashbyhq.com/ramp/fc971889-db1d-4a20-a25e-f282f9296936) | NYC / SF / Remote / Remote |
 |  | Schonfeld | [Associate Counsel, PM Legal and Fund Formation](https://job-boards.greenhouse.io/schonfeld/jobs/8186867) | New York, New York, United States |
 |  | Schonfeld | [Corporate Access Associate](https://job-boards.greenhouse.io/schonfeld/jobs/8281961) | New York, New York, United States |
 |  | Schonfeld | [Enterprise Risk Associate, FX & Rates](https://job-boards.greenhouse.io/schonfeld/jobs/7535613) | New York, New York, United States |
@@ -223,11 +228,6 @@ Last checked: 2026-11-09 10:21:52 UTC
 |  | Vanta | [Business Development Representative, DACH](https://jobs.ashbyhq.com/vanta/7d5ac715-c4ba-45d5-a390-665a93f618cd) | London, UK / Remote |
 |  | Vanta | [Sales Development Representative, Enterprise](https://jobs.ashbyhq.com/vanta/ed31b882-0d92-4bcd-a0e7-bed3a7d04ec4) | New York, NY / Remote |
 
-## Boards that failed this run
-
-- Blackstone: HTTP Error 401: Unauthorized
-- Blackstone (Campus): HTTP Error 401: Unauthorized
-
 ## Board check results
 
 | Company | Open roles | Matching roles | Status |
@@ -236,38 +236,38 @@ Last checked: 2026-11-09 10:21:52 UTC
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 44 | 0 | OK |
-| Blackstone | â | â | FAILED |
-| Blackstone (Campus) | â | â | FAILED |
+| Blackstone | 18 | 5 | OK |
+| Blackstone (Campus) | 18 | 1 | OK |
 | Point72 | 199 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 676 | 11 | OK |
-| Stripe | 767 | 12 | OK |
-| Datadog | 402 | 8 | OK |
-| Palantir | 305 | 17 | OK |
-| Ramp | 169 | 13 | OK |
-| iCapital | 219 | 11 | OK |
+| Anthropic | 676 | 10 | OK |
+| Stripe | 771 | 12 | OK |
+| Datadog | 401 | 8 | OK |
+| Palantir | 304 | 17 | OK |
+| Ramp | 172 | 14 | OK |
+| iCapital | 217 | 10 | OK |
 | AlphaSights | 64 | 12 | OK |
-| Jane Street | 219 | 6 | OK |
+| Jane Street | 220 | 6 | OK |
 | Schonfeld | 67 | 5 | OK |
-| Robinhood | 150 | 0 | OK |
-| SoFi | 46 | 0 | OK |
-| Affirm | 222 | 4 | OK |
+| Robinhood | 154 | 0 | OK |
+| SoFi | 48 | 0 | OK |
+| Affirm | 221 | 4 | OK |
 | Brex | 268 | 3 | OK |
-| Betterment | 26 | 3 | OK |
-| Clear Street | 46 | 6 | OK |
-| Scale AI | 168 | 0 | OK |
+| Betterment | 25 | 2 | OK |
+| Clear Street | 39 | 6 | OK |
+| Scale AI | 170 | 0 | OK |
 | Dataiku | 14 | 0 | OK |
-| MongoDB | 375 | 4 | OK |
-| Oscar Health | 207 | 14 | OK |
+| MongoDB | 377 | 4 | OK |
+| Oscar Health | 198 | 14 | OK |
 | The Trade Desk | 101 | 3 | OK |
-| Guidepoint | 105 | 6 | OK |
-| Gusto | 83 | 6 | OK |
+| Guidepoint | 106 | 6 | OK |
+| Gusto | 79 | 5 | OK |
 | Flatiron Health | 24 | 4 | OK |
-| OpenAI | 813 | 12 | OK |
+| OpenAI | 811 | 12 | OK |
 | Perplexity | 137 | 4 | OK |
-| Notion | 154 | 9 | OK |
-| Harvey | 373 | 19 | OK |
-| Kalshi | 32 | 0 | OK |
+| Notion | 153 | 9 | OK |
+| Harvey | 374 | 21 | OK |
+| Kalshi | 35 | 0 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 124 | 5 | OK |
-| Vanta | 85 | 3 | OK |
+| Cohere | 125 | 5 | OK |
+| Vanta | 80 | 3 | OK |

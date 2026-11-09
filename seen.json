@@ -77,6 +77,7 @@
 "ab-perplexity-ed4fb057-3f06-419a-8bb2-9c98f370d477",
 "ab-ramp-0d731586-3626-48fb-9dc5-3061ae5fd240",
 "ab-ramp-196e4e25-c452-430d-8b2f-36a40f88a2ae",
+"ab-ramp-31bd9e9e-102f-4051-abc1-22cdd7d9617a",
 "ab-ramp-40f43993-21e8-4db1-a9f4-7a3e6098a9ba",
 "ab-ramp-4745807e-82f4-4b1a-857c-dc8dadc73076",
 "ab-ramp-50770187-f226-468a-823e-fe193287c59f",
@@ -337,8 +338,5 @@
 "wd-blackstone-/job/New-York/XMLNAME-2026-Portfolio-Management-Program_43989",
 "wd-blackstone-/job/New-York/XMLNAME-2027-Blackstone-Real-Estate-Acquisitions-Analyst_45626"
 ],
-"failing": [
-"Blackstone",
-"Blackstone (Campus)"
-]
+"failing": []
 }
