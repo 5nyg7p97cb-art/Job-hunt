@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-11-09 02:37:08 UTC
+Last checked: 2026-11-09 10:21:52 UTC
 
 216 matching roles open. ð = found in the latest run.
 
@@ -67,8 +67,8 @@ Last checked: 2026-11-09 02:37:08 UTC
 |  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -235,12 +235,12 @@ Last checked: 2026-11-09 02:37:08 UTC
 | Bilt | 23 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 45 | 0 | OK |
+| BlackRock | 44 | 0 | OK |
 | Blackstone | â | â | FAILED |
 | Blackstone (Campus) | â | â | FAILED |
-| Point72 | 201 | 10 | OK |
+| Point72 | 199 | 10 | OK |
 | General Atlantic | 14 | 1 | OK |
-| Anthropic | 675 | 11 | OK |
+| Anthropic | 676 | 11 | OK |
 | Stripe | 767 | 12 | OK |
 | Datadog | 402 | 8 | OK |
 | Palantir | 305 | 17 | OK |
@@ -256,14 +256,14 @@ Last checked: 2026-11-09 02:37:08 UTC
 | Betterment | 26 | 3 | OK |
 | Clear Street | 46 | 6 | OK |
 | Scale AI | 168 | 0 | OK |
-| Dataiku | 15 | 0 | OK |
-| MongoDB | 374 | 4 | OK |
+| Dataiku | 14 | 0 | OK |
+| MongoDB | 375 | 4 | OK |
 | Oscar Health | 207 | 14 | OK |
 | The Trade Desk | 101 | 3 | OK |
 | Guidepoint | 105 | 6 | OK |
 | Gusto | 83 | 6 | OK |
 | Flatiron Health | 24 | 4 | OK |
-| OpenAI | 817 | 12 | OK |
+| OpenAI | 813 | 12 | OK |
 | Perplexity | 137 | 4 | OK |
 | Notion | 154 | 9 | OK |
 | Harvey | 373 | 19 | OK |
