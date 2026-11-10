@@ -1,15 +1,15 @@
 # Entry-level openings
 
-Last checked: 2026-11-10 03:30:12 UTC
+Last checked: 2026-11-10 11:43:41 UTC
 
-222 matching roles open. ð = found in the latest run.
+223 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Cohere | [Financial Analyst, G&A](https://jobs.ashbyhq.com/cohere/53c89232-1de7-42b5-ab9d-b5290451c7e8) | United States / San Francisco / New York / Toronto / Remote |
+| ð | OpenAI | [Account Associate - Singapore (Bahasa-speaking)](https://jobs.ashbyhq.com/openai/1da72072-cf6e-4f5c-acbf-d4f2a2a74612) | Singapore / Remote |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -58,6 +58,7 @@ Last checked: 2026-11-10 03:30:12 UTC
 |  | Cohere | [Business Development Representative](https://jobs.ashbyhq.com/cohere/dbe76343-a8ae-445c-b2f9-c5a304d54f6a) | Dubai / Remote |
 |  | Cohere | [Business Development Representative - French Speaking](https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89) | United Kingdom / Remote |
 |  | Cohere | [Delivery Operations Analyst](https://jobs.ashbyhq.com/cohere/3906eb1d-932f-485a-8f77-e8cc31859fdd) | Toronto / Ottawa / Montreal / Remote |
+|  | Cohere | [Financial Analyst, G&A](https://jobs.ashbyhq.com/cohere/53c89232-1de7-42b5-ab9d-b5290451c7e8) | United States / San Francisco / New York / Toronto / Remote |
 |  | Cohere | [Public Sector Delivery Analyst](https://jobs.ashbyhq.com/cohere/9be116c1-c1df-49bd-8e90-31d41b62645f) | Ottawa / Remote |
 |  | Datadog | [Accounts Payable Analyst](https://careers.datadoghq.com/detail/8257324/?gh_jid=8257324) | New York, New York, USA |
 |  | Datadog | [FP&A Analyst GTM](https://careers.datadoghq.com/detail/8312438/?gh_jid=8312438) | New York, New York, USA |
@@ -134,8 +135,8 @@ Last checked: 2026-11-10 03:30:12 UTC
 |  | Notion | [Software Engineer, Early Career (AI)](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) | San Francisco, California / Remote |
 |  | Notion | [Software Engineer, New Grad (Dec 2026)](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816) | San Francisco, California / Remote |
 |  | OpenAI | [Account Associate - SF](https://jobs.ashbyhq.com/openai/55f36629-8351-41d9-b2f5-3d63c5e26bf7) | San Francisco / Remote |
-|  | OpenAI | [Account Associate - Singapore (ANZ Market)](https://jobs.ashbyhq.com/openai/d9696b77-5b11-49c5-8d0b-b1826bb6115c) | Singapore / Remote |
-|  | OpenAI | [Account Associate - Singapore (Korean-speaking)](https://jobs.ashbyhq.com/openai/974fff14-f2d7-4a99-8740-eb8dc5300d82) | Singapore / Remote |
+|  | OpenAI | [Account Associate - Singapore](https://jobs.ashbyhq.com/openai/d9696b77-5b11-49c5-8d0b-b1826bb6115c) | Singapore / Remote |
+|  | OpenAI | [Account Associate - Singapore (Mandarin-speaking)](https://jobs.ashbyhq.com/openai/974fff14-f2d7-4a99-8740-eb8dc5300d82) | Singapore / Remote |
 |  | OpenAI | [Account Associate, Japan](https://jobs.ashbyhq.com/openai/2f3f416d-cc2a-4836-bcff-daee80c94e95) | Tokyo, Japan / Remote |
 |  | OpenAI | [Associate General Counsel, Commercial – Infrastructure](https://jobs.ashbyhq.com/openai/2b148425-b807-46a5-97e1-fae307aacb80) | San Francisco / Remote |
 |  | OpenAI | [BIM Designer & Coordinator: Civil](https://jobs.ashbyhq.com/openai/66453891-c75a-41c9-a7de-d0c67f23db4e) | US - Remote / Remote |
@@ -242,29 +243,29 @@ Last checked: 2026-11-10 03:30:12 UTC
 | Point72 | 199 | 10 | OK |
 | General Atlantic | 13 | 1 | OK |
 | Anthropic | 676 | 10 | OK |
-| Stripe | 772 | 12 | OK |
-| Datadog | 400 | 8 | OK |
+| Stripe | 774 | 12 | OK |
+| Datadog | 397 | 8 | OK |
 | Palantir | 304 | 17 | OK |
 | Ramp | 172 | 14 | OK |
-| iCapital | 214 | 10 | OK |
+| iCapital | 215 | 10 | OK |
 | AlphaSights | 64 | 12 | OK |
-| Jane Street | 220 | 6 | OK |
+| Jane Street | 221 | 6 | OK |
 | Schonfeld | 67 | 5 | OK |
 | Robinhood | 153 | 0 | OK |
 | SoFi | 48 | 0 | OK |
-| Affirm | 221 | 4 | OK |
-| Brex | 267 | 3 | OK |
+| Affirm | 216 | 4 | OK |
+| Brex | 271 | 3 | OK |
 | Betterment | 25 | 2 | OK |
 | Clear Street | 39 | 6 | OK |
 | Scale AI | 169 | 0 | OK |
 | Dataiku | 14 | 0 | OK |
-| MongoDB | 374 | 4 | OK |
+| MongoDB | 372 | 4 | OK |
 | Oscar Health | 199 | 14 | OK |
 | The Trade Desk | 101 | 3 | OK |
 | Guidepoint | 106 | 6 | OK |
 | Gusto | 80 | 5 | OK |
 | Flatiron Health | 24 | 4 | OK |
-| OpenAI | 825 | 12 | OK |
+| OpenAI | 826 | 13 | OK |
 | Perplexity | 136 | 4 | OK |
 | Notion | 153 | 9 | OK |
 | Harvey | 376 | 21 | OK |
