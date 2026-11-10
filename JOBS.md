@@ -1,15 +1,15 @@
 # Entry-level openings
 
-Last checked: 2026-11-09 21:03:05 UTC
+Last checked: 2026-11-10 03:30:12 UTC
 
-221 matching roles open. ð = found in the latest run.
+222 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Ramp | [Legal & Privacy Operations Associate](https://jobs.ashbyhq.com/ramp/31bd9e9e-102f-4051-abc1-22cdd7d9617a) | NYC / SF / Remote |
+| ð | Cohere | [Financial Analyst, G&A](https://jobs.ashbyhq.com/cohere/53c89232-1de7-42b5-ab9d-b5290451c7e8) | United States / San Francisco / New York / Toronto / Remote |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -190,19 +190,20 @@ Last checked: 2026-11-09 21:03:05 UTC
 |  | Point72 | [Sector Analyst, MI-Data](https://boards.greenhouse.io/point72/jobs/7820104002?gh_jid=7820104002) | New York, NY |
 |  | Point72 | [Technical Business Analyst](https://boards.greenhouse.io/point72/jobs/8877421002?gh_jid=8877421002) | New York |
 |  | Point72 | [Trader/Quant Analyst](https://boards.greenhouse.io/point72/jobs/8375066002?gh_jid=8375066002) | Stamford, New York |
-|  | Ramp | [Analyst, Deal Operations](https://jobs.ashbyhq.com/ramp/7e531974-caac-46a2-804e-c6c3140bfda4) | SF / Remote |
-|  | Ramp | [Associate, Strategic Finance](https://jobs.ashbyhq.com/ramp/606475af-b74f-42c4-978a-dde138a86ac7) | NYC / SF / Remote |
-|  | Ramp | [Business Development Representative / Ontario, Canada](https://jobs.ashbyhq.com/ramp/cce684de-191d-4a8a-bc42-7ded3ccd47af) | Toronto / Remote |
-|  | Ramp | [Customer Experience Associate](https://jobs.ashbyhq.com/ramp/d64609dd-c391-45a2-bfdb-c1bb34e8f93c) | NYC / Remote / Denver, CO / Miami, FL / Remote |
-|  | Ramp | [Customer Experience Associate (Evening Shift)](https://jobs.ashbyhq.com/ramp/40f43993-21e8-4db1-a9f4-7a3e6098a9ba) | NYC / SF / Remote / Denver, CO / Miami, FL / Remote |
-|  | Ramp | [HRIS Analyst (Workday)](https://jobs.ashbyhq.com/ramp/a11f7720-f3a8-4e86-9cc6-562bb11420b2) | NYC / Remote |
+|  | Ramp | [Analyst, Deal Operations](https://jobs.ashbyhq.com/ramp/7e531974-caac-46a2-804e-c6c3140bfda4) | San Francisco, CA / Remote |
+|  | Ramp | [Associate, Strategic Finance](https://jobs.ashbyhq.com/ramp/606475af-b74f-42c4-978a-dde138a86ac7) | New York, NY (HQ) / San Francisco, CA / Remote |
+|  | Ramp | [Business Development Representative / Ontario, Canada](https://jobs.ashbyhq.com/ramp/cce684de-191d-4a8a-bc42-7ded3ccd47af) | Toronto, ON / Remote |
+|  | Ramp | [Customer Experience Associate](https://jobs.ashbyhq.com/ramp/d64609dd-c391-45a2-bfdb-c1bb34e8f93c) | New York, NY (HQ) / Remote (US) / Denver, CO / Miami, FL / Remote |
+|  | Ramp | [Customer Experience Associate (Evening Shift)](https://jobs.ashbyhq.com/ramp/40f43993-21e8-4db1-a9f4-7a3e6098a9ba) | New York, NY (HQ) / San Francisco, CA / Remote (US) / Denver, CO / Miami, FL / Remote |
+|  | Ramp | [HRIS Analyst (Workday)](https://jobs.ashbyhq.com/ramp/a11f7720-f3a8-4e86-9cc6-562bb11420b2) | New York, NY (HQ) / Remote |
 |  | Ramp | [KYB/AML Analyst, Sweden](https://jobs.ashbyhq.com/ramp/50770187-f226-468a-823e-fe193287c59f) | Remote (Sweden) / Remote |
-|  | Ramp | [Recruiting Coordinator (Fixed Term)](https://jobs.ashbyhq.com/ramp/af262319-1c4f-4a36-93bd-ef260cb02aed) | NYC / Remote |
-|  | Ramp | [Sales Development Representative / Public Sector](https://jobs.ashbyhq.com/ramp/6c1c3192-2508-4805-9dbb-08a4f581b44d) | NYC / SF / Washington, D.C. / Remote |
-|  | Ramp | [Sales Development Representative, Mid-Market](https://jobs.ashbyhq.com/ramp/83eec8f4-c37d-43c9-860b-27223eee3643) | NYC / SF / Remote |
-|  | Ramp | [Sales Development Representative, SMB](https://jobs.ashbyhq.com/ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f) | NYC / SF / Remote |
-|  | Ramp | [Sales Development Representative, Strategic Accounts](https://jobs.ashbyhq.com/ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284) | NYC / Remote |
-|  | Ramp | [University Grad / Customer Experience Associate](https://jobs.ashbyhq.com/ramp/fc971889-db1d-4a20-a25e-f282f9296936) | NYC / SF / Remote / Remote |
+|  | Ramp | [Legal & Privacy Operations Associate](https://jobs.ashbyhq.com/ramp/31bd9e9e-102f-4051-abc1-22cdd7d9617a) | New York, NY (HQ) / San Francisco, CA / Remote |
+|  | Ramp | [Recruiting Coordinator (Fixed Term)](https://jobs.ashbyhq.com/ramp/af262319-1c4f-4a36-93bd-ef260cb02aed) | New York, NY (HQ) / Remote |
+|  | Ramp | [Sales Development Representative / Public Sector](https://jobs.ashbyhq.com/ramp/6c1c3192-2508-4805-9dbb-08a4f581b44d) | New York, NY (HQ) / San Francisco, CA / Washington, D.C. / Remote |
+|  | Ramp | [Sales Development Representative, Mid-Market](https://jobs.ashbyhq.com/ramp/83eec8f4-c37d-43c9-860b-27223eee3643) | New York, NY (HQ) / San Francisco, CA / Remote |
+|  | Ramp | [Sales Development Representative, SMB](https://jobs.ashbyhq.com/ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f) | New York, NY (HQ) / San Francisco, CA / Remote |
+|  | Ramp | [Sales Development Representative, Strategic Accounts](https://jobs.ashbyhq.com/ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284) | New York, NY (HQ) / Remote |
+|  | Ramp | [University Grad / Customer Experience Associate](https://jobs.ashbyhq.com/ramp/fc971889-db1d-4a20-a25e-f282f9296936) | New York, NY (HQ) / San Francisco, CA / Remote (US) / Remote |
 |  | Schonfeld | [Associate Counsel, PM Legal and Fund Formation](https://job-boards.greenhouse.io/schonfeld/jobs/8186867) | New York, New York, United States |
 |  | Schonfeld | [Corporate Access Associate](https://job-boards.greenhouse.io/schonfeld/jobs/8281961) | New York, New York, United States |
 |  | Schonfeld | [Enterprise Risk Associate, FX & Rates](https://job-boards.greenhouse.io/schonfeld/jobs/7535613) | New York, New York, United States |
@@ -235,39 +236,39 @@ Last checked: 2026-11-09 21:03:05 UTC
 | Bilt | 23 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 44 | 0 | OK |
+| BlackRock | 45 | 0 | OK |
 | Blackstone | 18 | 5 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
 | Point72 | 199 | 10 | OK |
-| General Atlantic | 14 | 1 | OK |
+| General Atlantic | 13 | 1 | OK |
 | Anthropic | 676 | 10 | OK |
-| Stripe | 771 | 12 | OK |
-| Datadog | 401 | 8 | OK |
+| Stripe | 772 | 12 | OK |
+| Datadog | 400 | 8 | OK |
 | Palantir | 304 | 17 | OK |
 | Ramp | 172 | 14 | OK |
-| iCapital | 217 | 10 | OK |
+| iCapital | 214 | 10 | OK |
 | AlphaSights | 64 | 12 | OK |
 | Jane Street | 220 | 6 | OK |
 | Schonfeld | 67 | 5 | OK |
-| Robinhood | 154 | 0 | OK |
+| Robinhood | 153 | 0 | OK |
 | SoFi | 48 | 0 | OK |
 | Affirm | 221 | 4 | OK |
-| Brex | 268 | 3 | OK |
+| Brex | 267 | 3 | OK |
 | Betterment | 25 | 2 | OK |
 | Clear Street | 39 | 6 | OK |
-| Scale AI | 170 | 0 | OK |
+| Scale AI | 169 | 0 | OK |
 | Dataiku | 14 | 0 | OK |
-| MongoDB | 377 | 4 | OK |
-| Oscar Health | 198 | 14 | OK |
+| MongoDB | 374 | 4 | OK |
+| Oscar Health | 199 | 14 | OK |
 | The Trade Desk | 101 | 3 | OK |
 | Guidepoint | 106 | 6 | OK |
-| Gusto | 79 | 5 | OK |
+| Gusto | 80 | 5 | OK |
 | Flatiron Health | 24 | 4 | OK |
-| OpenAI | 811 | 12 | OK |
-| Perplexity | 137 | 4 | OK |
+| OpenAI | 825 | 12 | OK |
+| Perplexity | 136 | 4 | OK |
 | Notion | 153 | 9 | OK |
-| Harvey | 374 | 21 | OK |
+| Harvey | 376 | 21 | OK |
 | Kalshi | 35 | 0 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 125 | 5 | OK |
-| Vanta | 80 | 3 | OK |
+| Cohere | 127 | 6 | OK |
+| Vanta | 81 | 3 | OK |
