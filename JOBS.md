@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-11-10 11:43:41 UTC
+Last checked: 2026-11-10 19:40:03 UTC
 
-223 matching roles open. ð = found in the latest run.
+218 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | OpenAI | [Account Associate - Singapore (Bahasa-speaking)](https://jobs.ashbyhq.com/openai/1da72072-cf6e-4f5c-acbf-d4f2a2a74612) | Singapore / Remote |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
@@ -58,19 +57,16 @@ Last checked: 2026-11-10 11:43:41 UTC
 |  | Cohere | [Business Development Representative](https://jobs.ashbyhq.com/cohere/dbe76343-a8ae-445c-b2f9-c5a304d54f6a) | Dubai / Remote |
 |  | Cohere | [Business Development Representative - French Speaking](https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89) | United Kingdom / Remote |
 |  | Cohere | [Delivery Operations Analyst](https://jobs.ashbyhq.com/cohere/3906eb1d-932f-485a-8f77-e8cc31859fdd) | Toronto / Ottawa / Montreal / Remote |
-|  | Cohere | [Financial Analyst, G&A](https://jobs.ashbyhq.com/cohere/53c89232-1de7-42b5-ab9d-b5290451c7e8) | United States / San Francisco / New York / Toronto / Remote |
 |  | Cohere | [Public Sector Delivery Analyst](https://jobs.ashbyhq.com/cohere/9be116c1-c1df-49bd-8e90-31d41b62645f) | Ottawa / Remote |
 |  | Datadog | [Accounts Payable Analyst](https://careers.datadoghq.com/detail/8257324/?gh_jid=8257324) | New York, New York, USA |
 |  | Datadog | [FP&A Analyst GTM](https://careers.datadoghq.com/detail/8312438/?gh_jid=8312438) | New York, New York, USA |
 |  | Datadog | [FP&A Analyst R&D](https://careers.datadoghq.com/detail/8204554/?gh_jid=8204554) | New York, New York, USA |
 |  | Datadog | [FP&A Analyst, Cloud Finance](https://careers.datadoghq.com/detail/8267437/?gh_jid=8267437) | New York, New York, USA |
-|  | Datadog | [GTM Strategy/Operations Associate](https://careers.datadoghq.com/detail/8171303/?gh_jid=8171303) | New York, New York, USA |
 |  | Datadog | [People Solutions Coordinator (NYC)](https://careers.datadoghq.com/detail/7728298/?gh_jid=7728298) | New York, New York, USA |
 |  | Datadog | [Recruiting Coordinator](https://careers.datadoghq.com/detail/8247346/?gh_jid=8247346) | Boston, Massachusetts, USA; New York, New York, USA |
 |  | Datadog | [Strategic Finance Analyst](https://careers.datadoghq.com/detail/8257306/?gh_jid=8257306) | New York, New York, USA |
 |  | Flatiron Health | [Associate, Abstraction Training - Instructional Designer](https://flatiron.com/careers/open-positions/job?gh_jid=8292596) | NY office |
 |  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
-|  | Flatiron Health | [Associate, Product Marketing (Real-World Evidence)](https://flatiron.com/careers/open-positions/job?gh_jid=8128223) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
@@ -136,6 +132,7 @@ Last checked: 2026-11-10 11:43:41 UTC
 |  | Notion | [Software Engineer, New Grad (Dec 2026)](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816) | San Francisco, California / Remote |
 |  | OpenAI | [Account Associate - SF](https://jobs.ashbyhq.com/openai/55f36629-8351-41d9-b2f5-3d63c5e26bf7) | San Francisco / Remote |
 |  | OpenAI | [Account Associate - Singapore](https://jobs.ashbyhq.com/openai/d9696b77-5b11-49c5-8d0b-b1826bb6115c) | Singapore / Remote |
+|  | OpenAI | [Account Associate - Singapore (Bahasa-speaking)](https://jobs.ashbyhq.com/openai/1da72072-cf6e-4f5c-acbf-d4f2a2a74612) | Singapore / Remote |
 |  | OpenAI | [Account Associate - Singapore (Mandarin-speaking)](https://jobs.ashbyhq.com/openai/974fff14-f2d7-4a99-8740-eb8dc5300d82) | Singapore / Remote |
 |  | OpenAI | [Account Associate, Japan](https://jobs.ashbyhq.com/openai/2f3f416d-cc2a-4836-bcff-daee80c94e95) | Tokyo, Japan / Remote |
 |  | OpenAI | [Associate General Counsel, Commercial – Infrastructure](https://jobs.ashbyhq.com/openai/2b148425-b807-46a5-97e1-fae307aacb80) | San Francisco / Remote |
@@ -205,7 +202,6 @@ Last checked: 2026-11-10 11:43:41 UTC
 |  | Ramp | [Sales Development Representative, SMB](https://jobs.ashbyhq.com/ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f) | New York, NY (HQ) / San Francisco, CA / Remote |
 |  | Ramp | [Sales Development Representative, Strategic Accounts](https://jobs.ashbyhq.com/ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284) | New York, NY (HQ) / Remote |
 |  | Ramp | [University Grad / Customer Experience Associate](https://jobs.ashbyhq.com/ramp/fc971889-db1d-4a20-a25e-f282f9296936) | New York, NY (HQ) / San Francisco, CA / Remote (US) / Remote |
-|  | Schonfeld | [Associate Counsel, PM Legal and Fund Formation](https://job-boards.greenhouse.io/schonfeld/jobs/8186867) | New York, New York, United States |
 |  | Schonfeld | [Corporate Access Associate](https://job-boards.greenhouse.io/schonfeld/jobs/8281961) | New York, New York, United States |
 |  | Schonfeld | [Enterprise Risk Associate, FX & Rates](https://job-boards.greenhouse.io/schonfeld/jobs/7535613) | New York, New York, United States |
 |  | Schonfeld | [Regulatory Reporting Associate](https://job-boards.greenhouse.io/schonfeld/jobs/8226258) | New York, New York, United States |
@@ -224,7 +220,6 @@ Last checked: 2026-11-10 11:43:41 UTC
 |  | Stripe | [Workplace Design Coordinator](https://stripe.com/jobs/search?gh_jid=8275261) | SF, NYC, SEA, TOR |
 |  | The Trade Desk | [Associate General Counsel, Commercial CTV & Advertising](https://job-boards.greenhouse.io/thetradedesk/jobs/4682475007) | Chicago; Irvine; Los Angeles; New York; San Francisco; San Jose |
 |  | The Trade Desk | [Associate General Counsel, Product & Privacy](https://job-boards.greenhouse.io/thetradedesk/jobs/5154942007) | Chicago; Irvine; Los Angeles; New York; San Francisco; San Jose |
-|  | The Trade Desk | [Employment Associate General Counsel](https://job-boards.greenhouse.io/thetradedesk/jobs/5082193007) | New York |
 |  | Unify | [Sales Development Representative](https://jobs.ashbyhq.com/unify/9ba552ad-dc0c-44ce-be05-b28c12b27018) | San Francisco Office / New York Office |
 |  | Vanta | [Business Development Representative [German Fluency]](https://jobs.ashbyhq.com/vanta/cb338edc-a332-4f01-ab3f-b3e45ade44ba) | Dublin, Ireland / Remote |
 |  | Vanta | [Business Development Representative, DACH](https://jobs.ashbyhq.com/vanta/7d5ac715-c4ba-45d5-a390-665a93f618cd) | London, UK / Remote |
@@ -240,36 +235,36 @@ Last checked: 2026-11-10 11:43:41 UTC
 | BlackRock | 45 | 0 | OK |
 | Blackstone | 18 | 5 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
-| Point72 | 199 | 10 | OK |
+| Point72 | 197 | 10 | OK |
 | General Atlantic | 13 | 1 | OK |
-| Anthropic | 676 | 10 | OK |
+| Anthropic | 677 | 10 | OK |
 | Stripe | 774 | 12 | OK |
-| Datadog | 397 | 8 | OK |
+| Datadog | 394 | 7 | OK |
 | Palantir | 304 | 17 | OK |
-| Ramp | 172 | 14 | OK |
-| iCapital | 215 | 10 | OK |
+| Ramp | 173 | 14 | OK |
+| iCapital | 218 | 10 | OK |
 | AlphaSights | 64 | 12 | OK |
-| Jane Street | 221 | 6 | OK |
-| Schonfeld | 67 | 5 | OK |
+| Jane Street | 220 | 6 | OK |
+| Schonfeld | 66 | 4 | OK |
 | Robinhood | 153 | 0 | OK |
 | SoFi | 48 | 0 | OK |
-| Affirm | 216 | 4 | OK |
-| Brex | 271 | 3 | OK |
-| Betterment | 25 | 2 | OK |
+| Affirm | 211 | 4 | OK |
+| Brex | 276 | 3 | OK |
+| Betterment | 27 | 2 | OK |
 | Clear Street | 39 | 6 | OK |
 | Scale AI | 169 | 0 | OK |
 | Dataiku | 14 | 0 | OK |
-| MongoDB | 372 | 4 | OK |
-| Oscar Health | 199 | 14 | OK |
-| The Trade Desk | 101 | 3 | OK |
+| MongoDB | 373 | 4 | OK |
+| Oscar Health | 196 | 14 | OK |
+| The Trade Desk | 100 | 2 | OK |
 | Guidepoint | 106 | 6 | OK |
-| Gusto | 80 | 5 | OK |
-| Flatiron Health | 24 | 4 | OK |
-| OpenAI | 826 | 13 | OK |
-| Perplexity | 136 | 4 | OK |
-| Notion | 153 | 9 | OK |
-| Harvey | 376 | 21 | OK |
-| Kalshi | 35 | 0 | OK |
+| Gusto | 81 | 5 | OK |
+| Flatiron Health | 25 | 3 | OK |
+| OpenAI | 830 | 13 | OK |
+| Perplexity | 137 | 4 | OK |
+| Notion | 155 | 9 | OK |
+| Harvey | 375 | 21 | OK |
+| Kalshi | 36 | 0 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 127 | 6 | OK |
+| Cohere | 125 | 5 | OK |
 | Vanta | 81 | 3 | OK |
