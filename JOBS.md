@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-11-10 19:40:03 UTC
+Last checked: 2026-11-11 00:37:14 UTC
 
 218 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -62,6 +62,7 @@ Last checked: 2026-11-10 19:40:03 UTC
 |  | Datadog | [FP&A Analyst GTM](https://careers.datadoghq.com/detail/8312438/?gh_jid=8312438) | New York, New York, USA |
 |  | Datadog | [FP&A Analyst R&D](https://careers.datadoghq.com/detail/8204554/?gh_jid=8204554) | New York, New York, USA |
 |  | Datadog | [FP&A Analyst, Cloud Finance](https://careers.datadoghq.com/detail/8267437/?gh_jid=8267437) | New York, New York, USA |
+|  | Datadog | [GTM Strategy/Operations Associate](https://careers.datadoghq.com/detail/8171303/?gh_jid=8171303) | New York, New York, USA |
 |  | Datadog | [People Solutions Coordinator (NYC)](https://careers.datadoghq.com/detail/7728298/?gh_jid=7728298) | New York, New York, USA |
 |  | Datadog | [Recruiting Coordinator](https://careers.datadoghq.com/detail/8247346/?gh_jid=8247346) | Boston, Massachusetts, USA; New York, New York, USA |
 |  | Datadog | [Strategic Finance Analyst](https://careers.datadoghq.com/detail/8257306/?gh_jid=8257306) | New York, New York, USA |
@@ -69,8 +70,8 @@ Last checked: 2026-11-10 19:40:03 UTC
 |  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -147,7 +148,6 @@ Last checked: 2026-11-10 19:40:03 UTC
 |  | Oscar Health | [Analyst, Risk Adjustment](https://oscarhealth.com/careers/jobs?gh_jid=8303591) | New York, New York, United States |
 |  | Oscar Health | [Associate, Actuarial](https://oscarhealth.com/careers/jobs?gh_jid=8069495) | Remote |
 |  | Oscar Health | [Associate, Health System Contracting](https://oscarhealth.com/careers/jobs?gh_jid=8145078) | Remote |
-|  | Oscar Health | [Associate, Inquiries and Investigations](https://oscarhealth.com/careers/jobs?gh_jid=8168186) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://oscarhealth.com/careers/jobs?gh_jid=8023759) | Remote |
 |  | Oscar Health | [Associate, Member and Provider Programs](https://oscarhealth.com/careers/jobs?gh_jid=8303620) | New York, New York, United States |
 |  | Oscar Health | [Associate, National Provider Contracting](https://oscarhealth.com/careers/jobs?gh_jid=8301173) | Remote |
@@ -196,7 +196,7 @@ Last checked: 2026-11-10 19:40:03 UTC
 |  | Ramp | [HRIS Analyst (Workday)](https://jobs.ashbyhq.com/ramp/a11f7720-f3a8-4e86-9cc6-562bb11420b2) | New York, NY (HQ) / Remote |
 |  | Ramp | [KYB/AML Analyst, Sweden](https://jobs.ashbyhq.com/ramp/50770187-f226-468a-823e-fe193287c59f) | Remote (Sweden) / Remote |
 |  | Ramp | [Legal & Privacy Operations Associate](https://jobs.ashbyhq.com/ramp/31bd9e9e-102f-4051-abc1-22cdd7d9617a) | New York, NY (HQ) / San Francisco, CA / Remote |
-|  | Ramp | [Recruiting Coordinator (Fixed Term)](https://jobs.ashbyhq.com/ramp/af262319-1c4f-4a36-93bd-ef260cb02aed) | New York, NY (HQ) / Remote |
+|  | Ramp | [Recruiting Coordinator (Fixed Term)](https://jobs.ashbyhq.com/ramp/af262319-1c4f-4a36-93bd-ef260cb02aed) | New York, NY (HQ) / San Francisco, CA / Remote |
 |  | Ramp | [Sales Development Representative / Public Sector](https://jobs.ashbyhq.com/ramp/6c1c3192-2508-4805-9dbb-08a4f581b44d) | New York, NY (HQ) / San Francisco, CA / Washington, D.C. / Remote |
 |  | Ramp | [Sales Development Representative, Mid-Market](https://jobs.ashbyhq.com/ramp/83eec8f4-c37d-43c9-860b-27223eee3643) | New York, NY (HQ) / San Francisco, CA / Remote |
 |  | Ramp | [Sales Development Representative, SMB](https://jobs.ashbyhq.com/ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f) | New York, NY (HQ) / San Francisco, CA / Remote |
@@ -232,39 +232,39 @@ Last checked: 2026-11-10 19:40:03 UTC
 | Bilt | 23 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 45 | 0 | OK |
+| BlackRock | 46 | 0 | OK |
 | Blackstone | 18 | 5 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
-| Point72 | 197 | 10 | OK |
+| Point72 | 196 | 10 | OK |
 | General Atlantic | 13 | 1 | OK |
-| Anthropic | 677 | 10 | OK |
-| Stripe | 774 | 12 | OK |
-| Datadog | 394 | 7 | OK |
+| Anthropic | 679 | 10 | OK |
+| Stripe | 778 | 12 | OK |
+| Datadog | 394 | 8 | OK |
 | Palantir | 304 | 17 | OK |
-| Ramp | 173 | 14 | OK |
-| iCapital | 218 | 10 | OK |
+| Ramp | 176 | 14 | OK |
+| iCapital | 220 | 10 | OK |
 | AlphaSights | 64 | 12 | OK |
 | Jane Street | 220 | 6 | OK |
 | Schonfeld | 66 | 4 | OK |
-| Robinhood | 153 | 0 | OK |
-| SoFi | 48 | 0 | OK |
-| Affirm | 211 | 4 | OK |
-| Brex | 276 | 3 | OK |
+| Robinhood | 156 | 0 | OK |
+| SoFi | 50 | 0 | OK |
+| Affirm | 210 | 4 | OK |
+| Brex | 279 | 3 | OK |
 | Betterment | 27 | 2 | OK |
 | Clear Street | 39 | 6 | OK |
 | Scale AI | 169 | 0 | OK |
 | Dataiku | 14 | 0 | OK |
-| MongoDB | 373 | 4 | OK |
-| Oscar Health | 196 | 14 | OK |
-| The Trade Desk | 100 | 2 | OK |
-| Guidepoint | 106 | 6 | OK |
+| MongoDB | 377 | 4 | OK |
+| Oscar Health | 188 | 13 | OK |
+| The Trade Desk | 97 | 2 | OK |
+| Guidepoint | 105 | 6 | OK |
 | Gusto | 81 | 5 | OK |
 | Flatiron Health | 25 | 3 | OK |
-| OpenAI | 830 | 13 | OK |
-| Perplexity | 137 | 4 | OK |
-| Notion | 155 | 9 | OK |
-| Harvey | 375 | 21 | OK |
+| OpenAI | 826 | 13 | OK |
+| Perplexity | 135 | 4 | OK |
+| Notion | 156 | 9 | OK |
+| Harvey | 373 | 21 | OK |
 | Kalshi | 36 | 0 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 125 | 5 | OK |
-| Vanta | 81 | 3 | OK |
+| Cohere | 127 | 5 | OK |
+| Vanta | 82 | 3 | OK |
