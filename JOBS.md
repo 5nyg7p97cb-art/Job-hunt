@@ -1,14 +1,16 @@
 # Entry-level openings
 
-Last checked: 2026-11-11 00:37:14 UTC
+Last checked: 2026-11-11 07:10:25 UTC
 
-218 matching roles open. ð = found in the latest run.
+219 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Cohere | [Data Partnerships Coordinator (1-year contract)](https://jobs.ashbyhq.com/cohere/6d2d5e2e-46bd-4da5-9e03-573578424976) | Toronto / New York / Remote |
+| ð | MongoDB | [Pricing & Monetization Associate](https://www.mongodb.com/careers/job/?gh_jid=8372135) | New York City |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -120,7 +122,6 @@ Last checked: 2026-11-11 00:37:14 UTC
 |  | Jane Street | [Recruiting Coordinator](https://www.janestreet.com/join-jane-street/apply/8560087002?gh_jid=8560087002) | New York, New York, United States |
 |  | MongoDB | [Candidate Experience Coordinator, Contract](https://www.mongodb.com/careers/job/?gh_jid=8359939) | Austin; New York City; San Francisco; United States |
 |  | MongoDB | [Financial Analyst, P&T](https://www.mongodb.com/careers/job/?gh_jid=8328622) | New York City |
-|  | MongoDB | [Product Pricing & Monetization Strategy - Associate](https://www.mongodb.com/careers/job/?gh_jid=7523751) | New York City |
 |  | MongoDB | [Strategic Finance Analyst](https://www.mongodb.com/careers/job/?gh_jid=8192216) | New York City |
 |  | Notion | [Business Development Representative](https://jobs.ashbyhq.com/notion/c64a2cda-4c84-45bd-823d-f9141c316733) | Tokyo, Japan  / Remote |
 |  | Notion | [Business Development Representative](https://jobs.ashbyhq.com/notion/759a9c5a-cdd6-4d05-8eaf-e78eabc34293) | Seoul, South Korea / Remote |
@@ -237,18 +238,18 @@ Last checked: 2026-11-11 00:37:14 UTC
 | Blackstone (Campus) | 18 | 1 | OK |
 | Point72 | 196 | 10 | OK |
 | General Atlantic | 13 | 1 | OK |
-| Anthropic | 679 | 10 | OK |
-| Stripe | 778 | 12 | OK |
-| Datadog | 394 | 8 | OK |
+| Anthropic | 677 | 10 | OK |
+| Stripe | 779 | 12 | OK |
+| Datadog | 393 | 8 | OK |
 | Palantir | 304 | 17 | OK |
 | Ramp | 176 | 14 | OK |
 | iCapital | 220 | 10 | OK |
 | AlphaSights | 64 | 12 | OK |
 | Jane Street | 220 | 6 | OK |
 | Schonfeld | 66 | 4 | OK |
-| Robinhood | 156 | 0 | OK |
+| Robinhood | 155 | 0 | OK |
 | SoFi | 50 | 0 | OK |
-| Affirm | 210 | 4 | OK |
+| Affirm | 207 | 4 | OK |
 | Brex | 279 | 3 | OK |
 | Betterment | 27 | 2 | OK |
 | Clear Street | 39 | 6 | OK |
@@ -256,15 +257,15 @@ Last checked: 2026-11-11 00:37:14 UTC
 | Dataiku | 14 | 0 | OK |
 | MongoDB | 377 | 4 | OK |
 | Oscar Health | 188 | 13 | OK |
-| The Trade Desk | 97 | 2 | OK |
+| The Trade Desk | 98 | 2 | OK |
 | Guidepoint | 105 | 6 | OK |
-| Gusto | 81 | 5 | OK |
+| Gusto | 80 | 5 | OK |
 | Flatiron Health | 25 | 3 | OK |
-| OpenAI | 826 | 13 | OK |
-| Perplexity | 135 | 4 | OK |
+| OpenAI | 828 | 13 | OK |
+| Perplexity | 138 | 4 | OK |
 | Notion | 156 | 9 | OK |
-| Harvey | 373 | 21 | OK |
+| Harvey | 374 | 21 | OK |
 | Kalshi | 36 | 0 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 127 | 5 | OK |
+| Cohere | 127 | 6 | OK |
 | Vanta | 82 | 3 | OK |
