@@ -1,15 +1,18 @@
 # Entry-level openings
 
-Last checked: 2026-11-11 15:36:21 UTC
+Last checked: 2026-11-11 22:16:58 UTC
 
-219 matching roles open. ð = found in the latest run.
+222 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Harvey | [Associate Legal Engineer](https://jobs.ashbyhq.com/harvey/4d3751fa-6080-431c-a431-6ac85ce713a8) | Sydney / Remote |
+| ð | Betterment | [Capital Markets Associate](https://www.betterment.com/careers/current-openings/job?gh_jid=8351132&gh_jid=8351132) | Betterment HQ - New York City |
+| ð | Bilt | [Onboarding Specialist - Housing](https://jobs.gem.com/bilt/am9icG9zdDpTiNGt7KgS904pAIJqZTXB) | New York, United States / New York |
+| ð | Kalshi | [Product Analyst](https://jobs.ashbyhq.com/kalshi/30675a37-75df-4c2d-8641-3c19a9ade9f7) | New York Office |
+| ð | Oscar Health | [Associate, Pricing Configuration](https://oscarhealth.com/careers/jobs?gh_jid=8374121) | New York, New York, United States |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -72,8 +75,8 @@ Last checked: 2026-11-11 15:36:21 UTC
 |  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -89,6 +92,7 @@ Last checked: 2026-11-11 15:36:21 UTC
 |  | Harvey | [Associate Legal Engineer](https://jobs.ashbyhq.com/harvey/e2613ef0-b37c-42ab-aae2-3b47162a9401) | Chicago / Remote |
 |  | Harvey | [Associate Legal Engineer](https://jobs.ashbyhq.com/harvey/eb6318f2-957c-4d2b-8c44-054a0ef049a3) | Boston / Remote |
 |  | Harvey | [Associate Legal Engineer](https://jobs.ashbyhq.com/harvey/28b62bdc-3d36-47eb-980d-4f52455cc3f2) | Dallas / Remote |
+|  | Harvey | [Associate Legal Engineer](https://jobs.ashbyhq.com/harvey/4d3751fa-6080-431c-a431-6ac85ce713a8) | Sydney / Remote |
 |  | Harvey | [CX Data Analyst](https://jobs.ashbyhq.com/harvey/ecfc45be-fc15-4c16-a419-509c998b6c80) | San Francisco / Remote |
 |  | Harvey | [CX Data Analyst](https://jobs.ashbyhq.com/harvey/e69f2050-b4c0-4fbb-9852-2c60d2adbb45) | Remote / Remote |
 |  | Harvey | [CX Data Analyst](https://jobs.ashbyhq.com/harvey/f8857e81-4062-4669-a7e3-7b73b114979b) | New York / Remote |
@@ -143,7 +147,6 @@ Last checked: 2026-11-11 15:36:21 UTC
 |  | OpenAI | [Compensation Operations Analyst](https://jobs.ashbyhq.com/openai/31df540f-4062-46e8-918f-b747a90c7052) | San Francisco / Remote |
 |  | OpenAI | [Enterprise Account Associate - EMEA (German Speaking)](https://jobs.ashbyhq.com/openai/6c88bfaa-7f1b-4175-82f1-6d484a516ca8) | Dublin, Ireland / Remote |
 |  | OpenAI | [Operations Analyst, User Safety & Risk Operations](https://jobs.ashbyhq.com/openai/daabc150-f22c-421e-b30d-1a50fb4cede3) | San Francisco / Remote |
-|  | OpenAI | [People Technology Analyst, Workday PATT & Benefits](https://jobs.ashbyhq.com/openai/bb28a39e-eb1f-41ef-96de-98adf58a8c3c) | San Francisco / Remote |
 |  | OpenAI | [Recruiting Coordinator - Contract](https://jobs.ashbyhq.com/openai/dbd5ae8a-7c01-4f17-be39-b8caa8fd95d5) | San Francisco / New York City / Seattle / Remote |
 |  | OpenAI | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | San Francisco / Remote |
 |  | Oscar Health | [Actuarial Analyst, Valuation](https://oscarhealth.com/careers/jobs?gh_jid=8303593) | New York, New York, United States |
@@ -212,7 +215,7 @@ Last checked: 2026-11-11 15:36:21 UTC
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
 |  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
-|  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Remote |
+|  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Chicago, Atlanta, US-Remote, Toro |
 |  | Stripe | [Risk Operations Analyst - RBO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -230,42 +233,42 @@ Last checked: 2026-11-11 15:36:21 UTC
 
 | Company | Open roles | Matching roles | Status |
 |---|---:|---:|---|
-| Bilt | 23 | 4 | OK |
+| Bilt | 24 | 5 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 45 | 0 | OK |
+| BlackRock | 46 | 0 | OK |
 | Blackstone | 18 | 5 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
-| Point72 | 200 | 10 | OK |
+| Point72 | 201 | 10 | OK |
 | General Atlantic | 13 | 1 | OK |
-| Anthropic | 677 | 10 | OK |
-| Stripe | 781 | 12 | OK |
+| Anthropic | 674 | 10 | OK |
+| Stripe | 785 | 12 | OK |
 | Datadog | 392 | 8 | OK |
 | Palantir | 303 | 16 | OK |
 | Ramp | 176 | 14 | OK |
-| iCapital | 220 | 10 | OK |
-| AlphaSights | 63 | 12 | OK |
-| Jane Street | 220 | 6 | OK |
-| Schonfeld | 66 | 4 | OK |
-| Robinhood | 156 | 0 | OK |
-| SoFi | 49 | 0 | OK |
+| iCapital | 221 | 10 | OK |
+| AlphaSights | 64 | 12 | OK |
+| Jane Street | 218 | 6 | OK |
+| Schonfeld | 70 | 4 | OK |
+| Robinhood | 154 | 0 | OK |
+| SoFi | 47 | 0 | OK |
 | Affirm | 207 | 4 | OK |
-| Brex | 279 | 3 | OK |
-| Betterment | 27 | 2 | OK |
-| Clear Street | 39 | 6 | OK |
+| Brex | 280 | 3 | OK |
+| Betterment | 28 | 3 | OK |
+| Clear Street | 38 | 6 | OK |
 | Scale AI | 169 | 0 | OK |
 | Dataiku | 15 | 0 | OK |
-| MongoDB | 375 | 4 | OK |
-| Oscar Health | 187 | 13 | OK |
+| MongoDB | 377 | 4 | OK |
+| Oscar Health | 191 | 14 | OK |
 | The Trade Desk | 98 | 2 | OK |
 | Guidepoint | 105 | 6 | OK |
 | Gusto | 80 | 5 | OK |
 | Flatiron Health | 25 | 3 | OK |
-| OpenAI | 825 | 13 | OK |
-| Perplexity | 138 | 4 | OK |
+| OpenAI | 821 | 12 | OK |
+| Perplexity | 136 | 4 | OK |
 | Notion | 156 | 9 | OK |
 | Harvey | 380 | 22 | OK |
-| Kalshi | 36 | 0 | OK |
+| Kalshi | 38 | 1 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 124 | 6 | OK |
-| Vanta | 82 | 3 | OK |
+| Cohere | 123 | 6 | OK |
+| Vanta | 81 | 3 | OK |
