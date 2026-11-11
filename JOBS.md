@@ -1,16 +1,15 @@
 # Entry-level openings
 
-Last checked: 2026-11-11 07:10:25 UTC
+Last checked: 2026-11-11 15:36:21 UTC
 
 219 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Cohere | [Data Partnerships Coordinator (1-year contract)](https://jobs.ashbyhq.com/cohere/6d2d5e2e-46bd-4da5-9e03-573578424976) | Toronto / New York / Remote |
-| ð | MongoDB | [Pricing & Monetization Associate](https://www.mongodb.com/careers/job/?gh_jid=8372135) | New York City |
+| ð | Harvey | [Associate Legal Engineer](https://jobs.ashbyhq.com/harvey/4d3751fa-6080-431c-a431-6ac85ce713a8) | Sydney / Remote |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -58,6 +57,7 @@ Last checked: 2026-11-11 07:10:25 UTC
 |  | Cohere | [Business Development Representative](https://jobs.ashbyhq.com/cohere/e824f0bd-72e6-4a9b-aecb-e604e3ca8ac2) | Toronto / Remote |
 |  | Cohere | [Business Development Representative](https://jobs.ashbyhq.com/cohere/dbe76343-a8ae-445c-b2f9-c5a304d54f6a) | Dubai / Remote |
 |  | Cohere | [Business Development Representative - French Speaking](https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89) | United Kingdom / Remote |
+|  | Cohere | [Data Partnerships Coordinator (1-year contract)](https://jobs.ashbyhq.com/cohere/6d2d5e2e-46bd-4da5-9e03-573578424976) | Toronto / New York / Remote |
 |  | Cohere | [Delivery Operations Analyst](https://jobs.ashbyhq.com/cohere/3906eb1d-932f-485a-8f77-e8cc31859fdd) | Toronto / Ottawa / Montreal / Remote |
 |  | Cohere | [Public Sector Delivery Analyst](https://jobs.ashbyhq.com/cohere/9be116c1-c1df-49bd-8e90-31d41b62645f) | Ottawa / Remote |
 |  | Datadog | [Accounts Payable Analyst](https://careers.datadoghq.com/detail/8257324/?gh_jid=8257324) | New York, New York, USA |
@@ -72,8 +72,8 @@ Last checked: 2026-11-11 07:10:25 UTC
 |  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -122,6 +122,7 @@ Last checked: 2026-11-11 07:10:25 UTC
 |  | Jane Street | [Recruiting Coordinator](https://www.janestreet.com/join-jane-street/apply/8560087002?gh_jid=8560087002) | New York, New York, United States |
 |  | MongoDB | [Candidate Experience Coordinator, Contract](https://www.mongodb.com/careers/job/?gh_jid=8359939) | Austin; New York City; San Francisco; United States |
 |  | MongoDB | [Financial Analyst, P&T](https://www.mongodb.com/careers/job/?gh_jid=8328622) | New York City |
+|  | MongoDB | [Pricing & Monetization Associate](https://www.mongodb.com/careers/job/?gh_jid=8372135) | New York City |
 |  | MongoDB | [Strategic Finance Analyst](https://www.mongodb.com/careers/job/?gh_jid=8192216) | New York City |
 |  | Notion | [Business Development Representative](https://jobs.ashbyhq.com/notion/c64a2cda-4c84-45bd-823d-f9141c316733) | Tokyo, Japan  / Remote |
 |  | Notion | [Business Development Representative](https://jobs.ashbyhq.com/notion/759a9c5a-cdd6-4d05-8eaf-e78eabc34293) | Seoul, South Korea / Remote |
@@ -159,7 +160,6 @@ Last checked: 2026-11-11 07:10:25 UTC
 |  | Oscar Health | [Operations Engineer I](https://oscarhealth.com/careers/jobs?gh_jid=8301410) | New York, New York, United States |
 |  | Oscar Health | [Provider Network Associate](https://oscarhealth.com/careers/jobs?gh_jid=8178503) | Remote |
 |  | Palantir | [Compliance Analyst](https://jobs.lever.co/palantir/c6f9eaaf-b397-476f-8b7d-c511cfb7e5c6) | New York, NY |
-|  | Palantir | [Deployment Strategist, New Grad - Warp Speed](https://jobs.lever.co/palantir/37780e70-c7af-45e1-9be7-071df201c387) | New York, NY |
 |  | Palantir | [Forward Deployed Infrastructure Engineer, New Grad - US Government](https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8) | New York, NY |
 |  | Palantir | [Forward Deployed Software Engineer, New Grad - Commercial](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728) | New York, NY |
 |  | Palantir | [Forward Deployed Software Engineer, New Grad - US Government](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca) | New York, NY |
@@ -233,39 +233,39 @@ Last checked: 2026-11-11 07:10:25 UTC
 | Bilt | 23 | 4 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 46 | 0 | OK |
+| BlackRock | 45 | 0 | OK |
 | Blackstone | 18 | 5 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
-| Point72 | 196 | 10 | OK |
+| Point72 | 200 | 10 | OK |
 | General Atlantic | 13 | 1 | OK |
 | Anthropic | 677 | 10 | OK |
-| Stripe | 779 | 12 | OK |
-| Datadog | 393 | 8 | OK |
-| Palantir | 304 | 17 | OK |
+| Stripe | 781 | 12 | OK |
+| Datadog | 392 | 8 | OK |
+| Palantir | 303 | 16 | OK |
 | Ramp | 176 | 14 | OK |
 | iCapital | 220 | 10 | OK |
-| AlphaSights | 64 | 12 | OK |
+| AlphaSights | 63 | 12 | OK |
 | Jane Street | 220 | 6 | OK |
 | Schonfeld | 66 | 4 | OK |
-| Robinhood | 155 | 0 | OK |
-| SoFi | 50 | 0 | OK |
+| Robinhood | 156 | 0 | OK |
+| SoFi | 49 | 0 | OK |
 | Affirm | 207 | 4 | OK |
 | Brex | 279 | 3 | OK |
 | Betterment | 27 | 2 | OK |
 | Clear Street | 39 | 6 | OK |
 | Scale AI | 169 | 0 | OK |
-| Dataiku | 14 | 0 | OK |
-| MongoDB | 377 | 4 | OK |
-| Oscar Health | 188 | 13 | OK |
+| Dataiku | 15 | 0 | OK |
+| MongoDB | 375 | 4 | OK |
+| Oscar Health | 187 | 13 | OK |
 | The Trade Desk | 98 | 2 | OK |
 | Guidepoint | 105 | 6 | OK |
 | Gusto | 80 | 5 | OK |
 | Flatiron Health | 25 | 3 | OK |
-| OpenAI | 828 | 13 | OK |
+| OpenAI | 825 | 13 | OK |
 | Perplexity | 138 | 4 | OK |
 | Notion | 156 | 9 | OK |
-| Harvey | 374 | 21 | OK |
+| Harvey | 380 | 22 | OK |
 | Kalshi | 36 | 0 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 127 | 6 | OK |
+| Cohere | 124 | 6 | OK |
 | Vanta | 82 | 3 | OK |
