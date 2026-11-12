@@ -43,6 +43,7 @@
 "ab-harvey-f8857e81-4062-4669-a7e3-7b73b114979b",
 "ab-kalshi-30675a37-75df-4c2d-8641-3c19a9ade9f7",
 "ab-kalshi-72111d46-0815-47bf-bad2-152cf530b010",
+"ab-kalshi-95c9e8d7-493b-4dcf-91b5-02e47732a626",
 "ab-notion-05e14247-17c4-4e98-9a13-53828a4e2f13",
 "ab-notion-4f678608-f9f7-455d-b81c-9433ec974d0e",
 "ab-notion-759a9c5a-cdd6-4d05-8eaf-e78eabc34293",
@@ -217,6 +218,7 @@
 "gh-icapitalnetwork-8875456002",
 "gh-icapitalnetwork-8889716002",
 "gh-icapitalnetwork-8931989002",
+"gh-icapitalnetwork-8935366002",
 "gh-janestreet-7950706002",
 "gh-janestreet-8180726002",
 "gh-janestreet-8229056002",
@@ -343,15 +345,12 @@
 "wd-blackstone-/job/New-York/Blackstone-Executive-Offices---Leadership-Program--Analyst_45155-2",
 "wd-blackstone-/job/New-York/Blackstone-Executive-Offices---Strategic-Relationships--Analyst_43716",
 "wd-blackstone-/job/New-York/Blackstone-Multi-Asset-Investing--BXMA---Treasury--Analyst_39176",
+"wd-blackstone-/job/New-York/Credit-Secondaries-Analyst---Strategic-Partners_43090-3",
 "wd-blackstone-/job/New-York/ICS---Private-Capital-Group--Analyst_46060-2",
 "wd-blackstone-/job/New-York/Public-Affairs--Associate_43586",
 "wd-blackstone-/job/New-York/XMLNAME-2026-Blackstone-US-Future-Leaders-Program_45140",
 "wd-blackstone-/job/New-York/XMLNAME-2026-Portfolio-Management-Program_43989",
 "wd-blackstone-/job/New-York/XMLNAME-2027-Blackstone-Real-Estate-Acquisitions-Analyst_45626"
 ],
-"failing": [
-"Anthropic",
-"Dataiku",
-"Schonfeld"
-]
+"failing": []
 }

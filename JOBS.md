@@ -1,12 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-11-12 11:48:35 UTC
+Last checked: 2026-11-12 19:51:18 UTC
 
-210 matching roles open. ð = found in the latest run.
+225 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | OpenAI | [Partnerships & External Affairs Associate, Global Affairs](https://jobs.ashbyhq.com/openai/a00fce27-16ef-47f0-a584-a1ea37adbc96) | San Francisco / Remote |
+| ð | Blackstone | [Credit Secondaries Analyst - Strategic Partners](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Credit-Secondaries-Analyst---Strategic-Partners_43090-3) | New York |
+| ð | iCapital | [Compliance Officer, IAS / Registered Funds - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8935366002) | New York, New York, United States |
+| ð | Kalshi | [Trading Systems Analyst](https://jobs.ashbyhq.com/kalshi/95c9e8d7-493b-4dcf-91b5-02e47732a626) | New York Office |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
@@ -23,6 +25,16 @@ Last checked: 2026-11-12 11:48:35 UTC
 |  | AlphaSights | [Summer Associate, Client Service, Portuguese Speaker 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7909510) | New York |
 |  | AlphaSights | [Summer Associate, Client Service, Spanish Speaker (NY)](https://www.alphasights.com/careers/open-roles?gh_jid=7909591) | New York |
 |  | AlphaSights | [US/Asia Transfer Associate, Client Service (Mandarin Speaker), 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7909605) | New York |
+|  | Anthropic | [Business Development Representative](https://job-boards.greenhouse.io/anthropic/jobs/5396186008) | San Francisco, CA / New York City, NY |
+|  | Anthropic | [Business Systems Analyst, GTM Systems](https://job-boards.greenhouse.io/anthropic/jobs/5436196008) | San Francisco, CA / New York City, NY |
+|  | Anthropic | [Business Systems Analyst, New Product Introduction](https://job-boards.greenhouse.io/anthropic/jobs/5416829008) | San Francisco, CA / New York City, NY / Seattle, WA |
+|  | Anthropic | [Data Center Asset Management, Commercial Associate](https://job-boards.greenhouse.io/anthropic/jobs/5468352008) | San Francisco, CA / New York City, NY |
+|  | Anthropic | [Enforcement Analyst, Agentic Alignment](https://job-boards.greenhouse.io/anthropic/jobs/5462893008) | Boston, MA; San Francisco, CA / Seattle, WA / New York City, NY / Washington, DC |
+|  | Anthropic | [Safeguards Enforcement Analyst, Access Controls & Identity](https://job-boards.greenhouse.io/anthropic/jobs/5319626008) | San Francisco, CA / New York City, NY / Washington, DC |
+|  | Anthropic | [Safeguards Enforcement Analyst, Account Takeover & Credential Abuse](https://job-boards.greenhouse.io/anthropic/jobs/5319624008) | San Francisco, CA / New York City, NY / Washington, DC |
+|  | Anthropic | [Safeguards Enforcement Analyst, Bio Harms](https://job-boards.greenhouse.io/anthropic/jobs/5319696008) | San Francisco, CA / New York City, NY / Washington, DC |
+|  | Anthropic | [Safeguards Enforcement Analyst, Conventional Weapons](https://job-boards.greenhouse.io/anthropic/jobs/5410006008) | San Francisco, CA / New York City, NY / Washington, DC |
+|  | Anthropic | [Safeguards Enforcement Analyst, Integrity & Authenticity](https://job-boards.greenhouse.io/anthropic/jobs/5311149008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Betterment | [Business Development Representative](https://www.betterment.com/careers/current-openings/job?gh_jid=8195434&gh_jid=8195434) | Betterment HQ - New York City |
 |  | Betterment | [Capital Markets Associate](https://www.betterment.com/careers/current-openings/job?gh_jid=8351132&gh_jid=8351132) | Betterment HQ - New York City |
 |  | Betterment | [Compliance Associate](https://www.betterment.com/careers/current-openings/job?gh_jid=8327765&gh_jid=8327765) | Betterment HQ - New York City |
@@ -57,7 +69,6 @@ Last checked: 2026-11-12 11:48:35 UTC
 |  | Datadog | [FP&A Analyst GTM](https://careers.datadoghq.com/detail/8312438/?gh_jid=8312438) | New York, New York, USA |
 |  | Datadog | [FP&A Analyst R&D](https://careers.datadoghq.com/detail/8204554/?gh_jid=8204554) | New York, New York, USA |
 |  | Datadog | [FP&A Analyst, Cloud Finance](https://careers.datadoghq.com/detail/8267437/?gh_jid=8267437) | New York, New York, USA |
-|  | Datadog | [GTM Strategy/Operations Associate](https://careers.datadoghq.com/detail/8171303/?gh_jid=8171303) | New York, New York, USA |
 |  | Datadog | [People Solutions Coordinator (NYC)](https://careers.datadoghq.com/detail/7728298/?gh_jid=7728298) | New York, New York, USA |
 |  | Datadog | [Recruiting Coordinator](https://careers.datadoghq.com/detail/8247346/?gh_jid=8247346) | Boston, Massachusetts, USA; New York, New York, USA |
 |  | Datadog | [Strategic Finance Analyst](https://careers.datadoghq.com/detail/8257306/?gh_jid=8257306) | New York, New York, USA |
@@ -118,13 +129,12 @@ Last checked: 2026-11-12 11:48:35 UTC
 |  | MongoDB | [Candidate Experience Coordinator, Contract](https://www.mongodb.com/careers/job/?gh_jid=8359939) | Austin; New York City; San Francisco; United States |
 |  | MongoDB | [Financial Analyst, P&T](https://www.mongodb.com/careers/job/?gh_jid=8328622) | New York City |
 |  | MongoDB | [Pricing & Monetization Associate](https://www.mongodb.com/careers/job/?gh_jid=8372135) | New York City |
-|  | MongoDB | [Strategic Finance Analyst](https://www.mongodb.com/careers/job/?gh_jid=8192216) | New York City |
 |  | Notion | [Business Development Representative](https://jobs.ashbyhq.com/notion/c64a2cda-4c84-45bd-823d-f9141c316733) | Tokyo, Japan  / Remote |
 |  | Notion | [Business Development Representative](https://jobs.ashbyhq.com/notion/759a9c5a-cdd6-4d05-8eaf-e78eabc34293) | Seoul, South Korea / Remote |
 |  | Notion | [Business Development Representative](https://jobs.ashbyhq.com/notion/a59ae31e-059e-4f6b-84a7-0fa9db88c72b) | Sydney, Australia / Remote |
 |  | Notion | [Business Development Representative, New York](https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13) | New York, New York / Remote |
 |  | Notion | [Business Development Representative, San Francisco](https://jobs.ashbyhq.com/notion/b21fef72-4864-4a3e-a627-91557a0f8a36) | San Francisco, California / Remote |
-|  | Notion | [Payroll Analyst](https://jobs.ashbyhq.com/notion/92de7ece-b7d9-4b2a-b9cb-b978cc690a46) | San Francisco, California / Remote |
+|  | Notion | [Payroll Analyst, AMER](https://jobs.ashbyhq.com/notion/92de7ece-b7d9-4b2a-b9cb-b978cc690a46) | San Francisco, California / Remote |
 |  | Notion | [Recruiting Coordinator,  AMER](https://jobs.ashbyhq.com/notion/4f678608-f9f7-455d-b81c-9433ec974d0e) | San Francisco, California / New York, New York / Remote |
 |  | Notion | [Software Engineer, Early Career (AI)](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) | San Francisco, California / Remote |
 |  | Notion | [Software Engineer, New Grad (Dec 2026)](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816) | San Francisco, California / Remote |
@@ -138,6 +148,7 @@ Last checked: 2026-11-12 11:48:35 UTC
 |  | OpenAI | [Compensation Operations Analyst](https://jobs.ashbyhq.com/openai/31df540f-4062-46e8-918f-b747a90c7052) | San Francisco / Remote |
 |  | OpenAI | [Enterprise Account Associate - EMEA (German Speaking)](https://jobs.ashbyhq.com/openai/6c88bfaa-7f1b-4175-82f1-6d484a516ca8) | Dublin, Ireland / Remote |
 |  | OpenAI | [Operations Analyst, User Safety & Risk Operations](https://jobs.ashbyhq.com/openai/daabc150-f22c-421e-b30d-1a50fb4cede3) | San Francisco / Remote |
+|  | OpenAI | [Partnerships & External Affairs Associate, Global Affairs](https://jobs.ashbyhq.com/openai/a00fce27-16ef-47f0-a584-a1ea37adbc96) | San Francisco / Remote |
 |  | OpenAI | [Recruiting Coordinator - Contract](https://jobs.ashbyhq.com/openai/dbd5ae8a-7c01-4f17-be39-b8caa8fd95d5) | San Francisco / New York City / Seattle / Remote |
 |  | OpenAI | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | San Francisco / Remote |
 |  | Oscar Health | [Actuarial Analyst, Valuation](https://oscarhealth.com/careers/jobs?gh_jid=8303593) | New York, New York, United States |
@@ -198,6 +209,10 @@ Last checked: 2026-11-12 11:48:35 UTC
 |  | Ramp | [Sales Development Representative, SMB](https://jobs.ashbyhq.com/ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f) | New York, NY (HQ) / San Francisco, CA / Remote |
 |  | Ramp | [Sales Development Representative, Strategic Accounts](https://jobs.ashbyhq.com/ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284) | New York, NY (HQ) / Remote |
 |  | Ramp | [University Grad / Customer Experience Associate](https://jobs.ashbyhq.com/ramp/fc971889-db1d-4a20-a25e-f282f9296936) | New York, NY (HQ) / San Francisco, CA / Remote (US) / Remote |
+|  | Schonfeld | [Corporate Access Associate](https://job-boards.greenhouse.io/schonfeld/jobs/8281961) | New York, New York, United States |
+|  | Schonfeld | [Enterprise Risk Associate, FX & Rates](https://job-boards.greenhouse.io/schonfeld/jobs/7535613) | New York, New York, United States |
+|  | Schonfeld | [Regulatory Reporting Associate](https://job-boards.greenhouse.io/schonfeld/jobs/8226258) | New York, New York, United States |
+|  | Schonfeld | [Systematic Portfolio Strategy and Risk Analyst (NYC or Miami)](https://job-boards.greenhouse.io/schonfeld/jobs/7402926) | Miami, Florida, United States; New York, New York, United States |
 |  | Stripe | [AMER Data Analyst - Sales Strategy and Operations](https://stripe.com/jobs/search?gh_jid=8354566) | Chicago, US Remote, SF, NYC, Seattle |
 |  | Stripe | [Comms Strategy & Operations Associate](https://stripe.com/jobs/search?gh_jid=8241857) | NYC, SF |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
@@ -217,12 +232,6 @@ Last checked: 2026-11-12 11:48:35 UTC
 |  | Vanta | [Business Development Representative, DACH](https://jobs.ashbyhq.com/vanta/7d5ac715-c4ba-45d5-a390-665a93f618cd) | London, UK / Remote |
 |  | Vanta | [Sales Development Representative, Enterprise](https://jobs.ashbyhq.com/vanta/ed31b882-0d92-4bcd-a0e7-bed3a7d04ec4) | New York, NY / Remote |
 
-## Boards that failed this run
-
-- Anthropic: <urlopen error [Errno 104] Connection reset by peer>
-- Schonfeld: <urlopen error [Errno 104] Connection reset by peer>
-- Dataiku: <urlopen error [Errno 104] Connection reset by peer>
-
 ## Board check results
 
 | Company | Open roles | Matching roles | Status |
@@ -230,39 +239,39 @@ Last checked: 2026-11-12 11:48:35 UTC
 | Bilt | 24 | 5 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 46 | 0 | OK |
-| Blackstone | 19 | 6 | OK |
+| BlackRock | 47 | 0 | OK |
+| Blackstone | 20 | 7 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
-| Point72 | 201 | 10 | OK |
-| General Atlantic | 13 | 1 | OK |
-| Anthropic | â | â | FAILED |
-| Stripe | 785 | 12 | OK |
-| Datadog | 388 | 8 | OK |
-| Palantir | 303 | 16 | OK |
-| Ramp | 176 | 14 | OK |
-| iCapital | 226 | 10 | OK |
+| Point72 | 199 | 10 | OK |
+| General Atlantic | 12 | 1 | OK |
+| Anthropic | 669 | 10 | OK |
+| Stripe | 784 | 12 | OK |
+| Datadog | 383 | 7 | OK |
+| Palantir | 301 | 16 | OK |
+| Ramp | 177 | 14 | OK |
+| iCapital | 227 | 11 | OK |
 | AlphaSights | 64 | 12 | OK |
-| Jane Street | 218 | 6 | OK |
-| Schonfeld | â | â | FAILED |
+| Jane Street | 217 | 6 | OK |
+| Schonfeld | 70 | 4 | OK |
 | Robinhood | 155 | 0 | OK |
-| SoFi | 46 | 0 | OK |
-| Affirm | 207 | 4 | OK |
-| Brex | 284 | 3 | OK |
+| SoFi | 45 | 0 | OK |
+| Affirm | 216 | 4 | OK |
+| Brex | 285 | 3 | OK |
 | Betterment | 28 | 3 | OK |
 | Clear Street | 38 | 6 | OK |
-| Scale AI | 169 | 0 | OK |
-| Dataiku | â | â | FAILED |
-| MongoDB | 379 | 4 | OK |
-| Oscar Health | 184 | 14 | OK |
-| The Trade Desk | 98 | 2 | OK |
+| Scale AI | 170 | 0 | OK |
+| Dataiku | 15 | 0 | OK |
+| MongoDB | 381 | 3 | OK |
+| Oscar Health | 187 | 14 | OK |
+| The Trade Desk | 96 | 2 | OK |
 | Guidepoint | 106 | 6 | OK |
 | Gusto | 80 | 5 | OK |
-| Flatiron Health | 25 | 3 | OK |
-| OpenAI | 823 | 13 | OK |
-| Perplexity | 136 | 4 | OK |
-| Notion | 160 | 9 | OK |
-| Harvey | 381 | 22 | OK |
-| Kalshi | 38 | 1 | OK |
+| Flatiron Health | 23 | 3 | OK |
+| OpenAI | 827 | 13 | OK |
+| Perplexity | 135 | 4 | OK |
+| Notion | 161 | 9 | OK |
+| Harvey | 379 | 22 | OK |
+| Kalshi | 40 | 2 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 123 | 6 | OK |
-| Vanta | 80 | 3 | OK |
+| Cohere | 122 | 6 | OK |
+| Vanta | 79 | 3 | OK |
