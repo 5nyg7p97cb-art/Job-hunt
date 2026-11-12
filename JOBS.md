@@ -1,15 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-11-11 22:16:58 UTC
+Last checked: 2026-11-12 03:20:00 UTC
 
-222 matching roles open. ð = found in the latest run.
+223 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Betterment | [Capital Markets Associate](https://www.betterment.com/careers/current-openings/job?gh_jid=8351132&gh_jid=8351132) | Betterment HQ - New York City |
-| ð | Bilt | [Onboarding Specialist - Housing](https://jobs.gem.com/bilt/am9icG9zdDpTiNGt7KgS904pAIJqZTXB) | New York, United States / New York |
-| ð | Kalshi | [Product Analyst](https://jobs.ashbyhq.com/kalshi/30675a37-75df-4c2d-8641-3c19a9ade9f7) | New York Office |
-| ð | Oscar Health | [Associate, Pricing Configuration](https://oscarhealth.com/careers/jobs?gh_jid=8374121) | New York, New York, United States |
+| ð | Blackstone | [Blackstone Charitable Foundation, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Blackstone-Charitable-Foundation--Analyst_46246) | New York |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
@@ -37,8 +34,10 @@ Last checked: 2026-11-11 22:16:58 UTC
 |  | Anthropic | [Safeguards Enforcement Analyst, Conventional Weapons](https://job-boards.greenhouse.io/anthropic/jobs/5410006008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Integrity & Authenticity](https://job-boards.greenhouse.io/anthropic/jobs/5311149008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Betterment | [Business Development Representative](https://www.betterment.com/careers/current-openings/job?gh_jid=8195434&gh_jid=8195434) | Betterment HQ - New York City |
+|  | Betterment | [Capital Markets Associate](https://www.betterment.com/careers/current-openings/job?gh_jid=8351132&gh_jid=8351132) | Betterment HQ - New York City |
 |  | Betterment | [Compliance Associate](https://www.betterment.com/careers/current-openings/job?gh_jid=8327765&gh_jid=8327765) | Betterment HQ - New York City |
 |  | Bilt | [Back End Engineer (All Levels)](https://jobs.gem.com/bilt/am9icG9zdDqaZ6Eb1hZZ8_pRooaUHvdo) | New York, United States / New York |
+|  | Bilt | [Onboarding Specialist - Housing](https://jobs.gem.com/bilt/am9icG9zdDpTiNGt7KgS904pAIJqZTXB) | New York, United States / New York |
 |  | Bilt | [Product Specialist - Housing](https://jobs.gem.com/bilt/am9icG9zdDomdgsgAMh6F4vcm7KhuGLN) | New York, United States / New York |
 |  | Bilt | [Product Specialist - Rentals](https://jobs.gem.com/bilt/am9icG9zdDqsNnnE7MCdbcnEXNRijoSv) | New York, United States / New York |
 |  | Bilt | [Talent Sourcer and Coordinator](https://jobs.gem.com/bilt/am9icG9zdDofGbhzJIuHecGEtj3m_gRR) | New York, United States / New York |
@@ -124,6 +123,7 @@ Last checked: 2026-11-11 22:16:58 UTC
 |  | Jane Street | [Campus Recruiter, Technology](https://www.janestreet.com/join-jane-street/apply/8345570002?gh_jid=8345570002) | New York, New York, United States |
 |  | Jane Street | [Fundamental Research Analyst](https://www.janestreet.com/join-jane-street/apply/8347286002?gh_jid=8347286002) | New York, New York, United States |
 |  | Jane Street | [Recruiting Coordinator](https://www.janestreet.com/join-jane-street/apply/8560087002?gh_jid=8560087002) | New York, New York, United States |
+|  | Kalshi | [Product Analyst](https://jobs.ashbyhq.com/kalshi/30675a37-75df-4c2d-8641-3c19a9ade9f7) | New York Office |
 |  | MongoDB | [Candidate Experience Coordinator, Contract](https://www.mongodb.com/careers/job/?gh_jid=8359939) | Austin; New York City; San Francisco; United States |
 |  | MongoDB | [Financial Analyst, P&T](https://www.mongodb.com/careers/job/?gh_jid=8328622) | New York City |
 |  | MongoDB | [Pricing & Monetization Associate](https://www.mongodb.com/careers/job/?gh_jid=8372135) | New York City |
@@ -157,6 +157,7 @@ Last checked: 2026-11-11 22:16:58 UTC
 |  | Oscar Health | [Associate, Member and Provider Programs](https://oscarhealth.com/careers/jobs?gh_jid=8303620) | New York, New York, United States |
 |  | Oscar Health | [Associate, National Provider Contracting](https://oscarhealth.com/careers/jobs?gh_jid=8301173) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://oscarhealth.com/careers/jobs?gh_jid=8145032) | New York, New York, United States |
+|  | Oscar Health | [Associate, Pricing Configuration](https://oscarhealth.com/careers/jobs?gh_jid=8374121) | New York, New York, United States |
 |  | Oscar Health | [Associate, Service Transformation](https://oscarhealth.com/careers/jobs?gh_jid=8349789) | New York, New York, United States |
 |  | Oscar Health | [Associate, Strategic Finance](https://oscarhealth.com/careers/jobs?gh_jid=8011066) | New York, New York, United States |
 |  | Oscar Health | [Network Contracting & Services Associate](https://oscarhealth.com/careers/jobs?gh_jid=8080961) | Remote |
@@ -236,21 +237,21 @@ Last checked: 2026-11-11 22:16:58 UTC
 | Bilt | 24 | 5 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 46 | 0 | OK |
-| Blackstone | 18 | 5 | OK |
+| BlackRock | 45 | 0 | OK |
+| Blackstone | 19 | 6 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
 | Point72 | 201 | 10 | OK |
 | General Atlantic | 13 | 1 | OK |
 | Anthropic | 674 | 10 | OK |
-| Stripe | 785 | 12 | OK |
-| Datadog | 392 | 8 | OK |
+| Stripe | 787 | 12 | OK |
+| Datadog | 390 | 8 | OK |
 | Palantir | 303 | 16 | OK |
 | Ramp | 176 | 14 | OK |
-| iCapital | 221 | 10 | OK |
-| AlphaSights | 64 | 12 | OK |
+| iCapital | 226 | 10 | OK |
+| AlphaSights | 63 | 12 | OK |
 | Jane Street | 218 | 6 | OK |
 | Schonfeld | 70 | 4 | OK |
-| Robinhood | 154 | 0 | OK |
+| Robinhood | 155 | 0 | OK |
 | SoFi | 47 | 0 | OK |
 | Affirm | 207 | 4 | OK |
 | Brex | 280 | 3 | OK |
@@ -258,17 +259,17 @@ Last checked: 2026-11-11 22:16:58 UTC
 | Clear Street | 38 | 6 | OK |
 | Scale AI | 169 | 0 | OK |
 | Dataiku | 15 | 0 | OK |
-| MongoDB | 377 | 4 | OK |
-| Oscar Health | 191 | 14 | OK |
+| MongoDB | 381 | 4 | OK |
+| Oscar Health | 184 | 14 | OK |
 | The Trade Desk | 98 | 2 | OK |
-| Guidepoint | 105 | 6 | OK |
+| Guidepoint | 106 | 6 | OK |
 | Gusto | 80 | 5 | OK |
 | Flatiron Health | 25 | 3 | OK |
 | OpenAI | 821 | 12 | OK |
-| Perplexity | 136 | 4 | OK |
-| Notion | 156 | 9 | OK |
-| Harvey | 380 | 22 | OK |
+| Perplexity | 135 | 4 | OK |
+| Notion | 157 | 9 | OK |
+| Harvey | 381 | 22 | OK |
 | Kalshi | 38 | 1 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 123 | 6 | OK |
-| Vanta | 81 | 3 | OK |
+| Vanta | 80 | 3 | OK |
