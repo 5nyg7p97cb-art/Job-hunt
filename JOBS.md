@@ -1,12 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-11-12 03:20:00 UTC
+Last checked: 2026-11-12 11:48:35 UTC
 
-223 matching roles open. ð = found in the latest run.
+210 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Blackstone | [Blackstone Charitable Foundation, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Blackstone-Charitable-Foundation--Analyst_46246) | New York |
+| ð | OpenAI | [Partnerships & External Affairs Associate, Global Affairs](https://jobs.ashbyhq.com/openai/a00fce27-16ef-47f0-a584-a1ea37adbc96) | San Francisco / Remote |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
@@ -23,16 +23,6 @@ Last checked: 2026-11-12 03:20:00 UTC
 |  | AlphaSights | [Summer Associate, Client Service, Portuguese Speaker 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7909510) | New York |
 |  | AlphaSights | [Summer Associate, Client Service, Spanish Speaker (NY)](https://www.alphasights.com/careers/open-roles?gh_jid=7909591) | New York |
 |  | AlphaSights | [US/Asia Transfer Associate, Client Service (Mandarin Speaker), 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7909605) | New York |
-|  | Anthropic | [Business Development Representative](https://job-boards.greenhouse.io/anthropic/jobs/5396186008) | San Francisco, CA / New York City, NY |
-|  | Anthropic | [Business Systems Analyst, GTM Systems](https://job-boards.greenhouse.io/anthropic/jobs/5436196008) | San Francisco, CA / New York City, NY |
-|  | Anthropic | [Business Systems Analyst, New Product Introduction](https://job-boards.greenhouse.io/anthropic/jobs/5416829008) | San Francisco, CA / New York City, NY / Seattle, WA |
-|  | Anthropic | [Data Center Asset Management, Commercial Associate](https://job-boards.greenhouse.io/anthropic/jobs/5468352008) | San Francisco, CA / New York City, NY |
-|  | Anthropic | [Enforcement Analyst, Agentic Alignment](https://job-boards.greenhouse.io/anthropic/jobs/5462893008) | Boston, MA; San Francisco, CA / Seattle, WA / New York City, NY / Washington, DC |
-|  | Anthropic | [Safeguards Enforcement Analyst, Access Controls & Identity](https://job-boards.greenhouse.io/anthropic/jobs/5319626008) | San Francisco, CA / New York City, NY / Washington, DC |
-|  | Anthropic | [Safeguards Enforcement Analyst, Account Takeover & Credential Abuse](https://job-boards.greenhouse.io/anthropic/jobs/5319624008) | San Francisco, CA / New York City, NY / Washington, DC |
-|  | Anthropic | [Safeguards Enforcement Analyst, Bio Harms](https://job-boards.greenhouse.io/anthropic/jobs/5319696008) | San Francisco, CA / New York City, NY / Washington, DC |
-|  | Anthropic | [Safeguards Enforcement Analyst, Conventional Weapons](https://job-boards.greenhouse.io/anthropic/jobs/5410006008) | San Francisco, CA / New York City, NY / Washington, DC |
-|  | Anthropic | [Safeguards Enforcement Analyst, Integrity & Authenticity](https://job-boards.greenhouse.io/anthropic/jobs/5311149008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Betterment | [Business Development Representative](https://www.betterment.com/careers/current-openings/job?gh_jid=8195434&gh_jid=8195434) | Betterment HQ - New York City |
 |  | Betterment | [Capital Markets Associate](https://www.betterment.com/careers/current-openings/job?gh_jid=8351132&gh_jid=8351132) | Betterment HQ - New York City |
 |  | Betterment | [Compliance Associate](https://www.betterment.com/careers/current-openings/job?gh_jid=8327765&gh_jid=8327765) | Betterment HQ - New York City |
@@ -44,6 +34,7 @@ Last checked: 2026-11-12 03:20:00 UTC
 |  | Blackstone | [AI Engineer, Analyst – Data Analytics & AI](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/AI-Engineer--Analyst---Data-Analytics---AI_45238-1) | New York |
 |  | Blackstone | [BXMA - Business & Financial Evaluation - Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA---Business---Financial-Evaluation---Analyst_45566) | New York |
 |  | Blackstone | [BXMA- Direct Trading Operations, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA--Direct-Trading-Operations--Analyst_43372) | New York |
+|  | Blackstone | [Blackstone Charitable Foundation, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Blackstone-Charitable-Foundation--Analyst_46246) | New York |
 |  | Blackstone | [Blackstone Private Wealth - Internal Sales, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York-601-Lex/Private-Wealth-Solutions---Internal-Sales--Associate_31726-5) | New York 601 Lex |
 |  | Blackstone | [Public Affairs, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Public-Affairs--Associate_43586) | New York |
 |  | Blackstone (Campus) | [2027 Blackstone APAC Future Leaders Program (Online)](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Hong-Kong/XMLNAME-2027-Blackstone-APAC-Future-Leaders-Program--Online-_45896) | 6 Locations |
@@ -207,10 +198,6 @@ Last checked: 2026-11-12 03:20:00 UTC
 |  | Ramp | [Sales Development Representative, SMB](https://jobs.ashbyhq.com/ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f) | New York, NY (HQ) / San Francisco, CA / Remote |
 |  | Ramp | [Sales Development Representative, Strategic Accounts](https://jobs.ashbyhq.com/ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284) | New York, NY (HQ) / Remote |
 |  | Ramp | [University Grad / Customer Experience Associate](https://jobs.ashbyhq.com/ramp/fc971889-db1d-4a20-a25e-f282f9296936) | New York, NY (HQ) / San Francisco, CA / Remote (US) / Remote |
-|  | Schonfeld | [Corporate Access Associate](https://job-boards.greenhouse.io/schonfeld/jobs/8281961) | New York, New York, United States |
-|  | Schonfeld | [Enterprise Risk Associate, FX & Rates](https://job-boards.greenhouse.io/schonfeld/jobs/7535613) | New York, New York, United States |
-|  | Schonfeld | [Regulatory Reporting Associate](https://job-boards.greenhouse.io/schonfeld/jobs/8226258) | New York, New York, United States |
-|  | Schonfeld | [Systematic Portfolio Strategy and Risk Analyst (NYC or Miami)](https://job-boards.greenhouse.io/schonfeld/jobs/7402926) | Miami, Florida, United States; New York, New York, United States |
 |  | Stripe | [AMER Data Analyst - Sales Strategy and Operations](https://stripe.com/jobs/search?gh_jid=8354566) | Chicago, US Remote, SF, NYC, Seattle |
 |  | Stripe | [Comms Strategy & Operations Associate](https://stripe.com/jobs/search?gh_jid=8241857) | NYC, SF |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
@@ -230,6 +217,12 @@ Last checked: 2026-11-12 03:20:00 UTC
 |  | Vanta | [Business Development Representative, DACH](https://jobs.ashbyhq.com/vanta/7d5ac715-c4ba-45d5-a390-665a93f618cd) | London, UK / Remote |
 |  | Vanta | [Sales Development Representative, Enterprise](https://jobs.ashbyhq.com/vanta/ed31b882-0d92-4bcd-a0e7-bed3a7d04ec4) | New York, NY / Remote |
 
+## Boards that failed this run
+
+- Anthropic: <urlopen error [Errno 104] Connection reset by peer>
+- Schonfeld: <urlopen error [Errno 104] Connection reset by peer>
+- Dataiku: <urlopen error [Errno 104] Connection reset by peer>
+
 ## Board check results
 
 | Company | Open roles | Matching roles | Status |
@@ -237,37 +230,37 @@ Last checked: 2026-11-12 03:20:00 UTC
 | Bilt | 24 | 5 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 45 | 0 | OK |
+| BlackRock | 46 | 0 | OK |
 | Blackstone | 19 | 6 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
 | Point72 | 201 | 10 | OK |
 | General Atlantic | 13 | 1 | OK |
-| Anthropic | 674 | 10 | OK |
-| Stripe | 787 | 12 | OK |
-| Datadog | 390 | 8 | OK |
+| Anthropic | â | â | FAILED |
+| Stripe | 785 | 12 | OK |
+| Datadog | 388 | 8 | OK |
 | Palantir | 303 | 16 | OK |
 | Ramp | 176 | 14 | OK |
 | iCapital | 226 | 10 | OK |
-| AlphaSights | 63 | 12 | OK |
+| AlphaSights | 64 | 12 | OK |
 | Jane Street | 218 | 6 | OK |
-| Schonfeld | 70 | 4 | OK |
+| Schonfeld | â | â | FAILED |
 | Robinhood | 155 | 0 | OK |
-| SoFi | 47 | 0 | OK |
+| SoFi | 46 | 0 | OK |
 | Affirm | 207 | 4 | OK |
-| Brex | 280 | 3 | OK |
+| Brex | 284 | 3 | OK |
 | Betterment | 28 | 3 | OK |
 | Clear Street | 38 | 6 | OK |
 | Scale AI | 169 | 0 | OK |
-| Dataiku | 15 | 0 | OK |
-| MongoDB | 381 | 4 | OK |
+| Dataiku | â | â | FAILED |
+| MongoDB | 379 | 4 | OK |
 | Oscar Health | 184 | 14 | OK |
 | The Trade Desk | 98 | 2 | OK |
 | Guidepoint | 106 | 6 | OK |
 | Gusto | 80 | 5 | OK |
 | Flatiron Health | 25 | 3 | OK |
-| OpenAI | 821 | 12 | OK |
-| Perplexity | 135 | 4 | OK |
-| Notion | 157 | 9 | OK |
+| OpenAI | 823 | 13 | OK |
+| Perplexity | 136 | 4 | OK |
+| Notion | 160 | 9 | OK |
 | Harvey | 381 | 22 | OK |
 | Kalshi | 38 | 1 | OK |
 | Unify | 11 | 1 | OK |
