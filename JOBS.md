@@ -1,14 +1,15 @@
 # Entry-level openings
 
-Last checked: 2026-11-13 01:01:46 UTC
+Last checked: 2026-11-13 07:52:22 UTC
 
 227 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
-| ð | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
+| ð | Notion | [Business Development Representative](https://jobs.ashbyhq.com/notion/a9b33d2b-cfef-435f-8fff-5b79aad19d3b) | Singapore / Remote |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
+|  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
+|  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
@@ -76,15 +77,14 @@ Last checked: 2026-11-13 01:01:46 UTC
 |  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8715494002) | New York, New York, United States |
 |  | Gusto | [Enhanced Due Diligence Investigations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8275011) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
 |  | Gusto | [Fraud Investigations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8275021) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
-|  | Gusto | [Payment Operations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8180461) | San Francisco, CA - Hybrid; Seattle, WA - Remote |
 |  | Gusto | [People Tech Business Systems Analyst](https://job-boards.greenhouse.io/gusto/jobs/8257482) | Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid |
 |  | Gusto | [Security Operations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8348189) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
 |  | Harvey | [Associate Commercial Counsel, London](https://jobs.ashbyhq.com/harvey/0a8ca756-7d41-46cc-8cde-960af47658b2) | London / Remote |
@@ -241,38 +241,38 @@ Last checked: 2026-11-13 01:01:46 UTC
 | Bilt | 24 | 5 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 47 | 0 | OK |
+| BlackRock | 45 | 0 | OK |
 | Blackstone | 20 | 7 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
 | Point72 | 200 | 10 | OK |
 | General Atlantic | 13 | 1 | OK |
-| Anthropic | 672 | 10 | OK |
-| Stripe | 785 | 12 | OK |
-| Datadog | 382 | 7 | OK |
+| Anthropic | 673 | 10 | OK |
+| Stripe | 787 | 12 | OK |
+| Datadog | 383 | 7 | OK |
 | Palantir | 302 | 16 | OK |
 | Ramp | 180 | 14 | OK |
 | iCapital | 227 | 11 | OK |
-| AlphaSights | 64 | 12 | OK |
+| AlphaSights | 65 | 12 | OK |
 | Jane Street | 217 | 6 | OK |
 | Schonfeld | 70 | 4 | OK |
 | Robinhood | 160 | 0 | OK |
 | SoFi | 46 | 0 | OK |
-| Affirm | 221 | 6 | OK |
+| Affirm | 220 | 6 | OK |
 | Brex | 283 | 3 | OK |
 | Betterment | 28 | 3 | OK |
 | Clear Street | 37 | 6 | OK |
 | Scale AI | 170 | 0 | OK |
 | Dataiku | 15 | 0 | OK |
-| MongoDB | 385 | 3 | OK |
+| MongoDB | 386 | 3 | OK |
 | Oscar Health | 191 | 14 | OK |
 | The Trade Desk | 98 | 2 | OK |
 | Guidepoint | 106 | 6 | OK |
-| Gusto | 79 | 5 | OK |
+| Gusto | 78 | 4 | OK |
 | Flatiron Health | 23 | 3 | OK |
-| OpenAI | 826 | 13 | OK |
-| Perplexity | 140 | 4 | OK |
-| Notion | 160 | 9 | OK |
-| Harvey | 378 | 22 | OK |
+| OpenAI | 827 | 13 | OK |
+| Perplexity | 142 | 4 | OK |
+| Notion | 165 | 10 | OK |
+| Harvey | 377 | 22 | OK |
 | Kalshi | 41 | 2 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 121 | 6 | OK |
