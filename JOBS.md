@@ -1,12 +1,13 @@
 # Entry-level openings
 
-Last checked: 2026-11-13 07:52:22 UTC
+Last checked: 2026-11-13 16:14:42 UTC
 
-227 matching roles open. ð = found in the latest run.
+226 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Notion | [Business Development Representative](https://jobs.ashbyhq.com/notion/a9b33d2b-cfef-435f-8fff-5b79aad19d3b) | Singapore / Remote |
+| ð | Clear Street | [Associate Associate - Equity Research](https://job-boards.greenhouse.io/clearstreet/jobs/8381024) | New York, NY |
+| ð | OpenAI | [Onboarding Coordinator - APAC](https://jobs.ashbyhq.com/openai/70eba6e4-73e0-4cf9-a0d5-e49caeca9d7b) | Singapore / Remote |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
@@ -75,10 +76,9 @@ Last checked: 2026-11-13 07:52:22 UTC
 |  | Datadog | [Strategic Finance Analyst](https://careers.datadoghq.com/detail/8257306/?gh_jid=8257306) | New York, New York, USA |
 |  | Flatiron Health | [Associate, Abstraction Training - Instructional Designer](https://flatiron.com/careers/open-positions/job?gh_jid=8292596) | NY office |
 |  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
-|  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -134,6 +134,7 @@ Last checked: 2026-11-13 07:52:22 UTC
 |  | Notion | [Business Development Representative](https://jobs.ashbyhq.com/notion/c64a2cda-4c84-45bd-823d-f9141c316733) | Tokyo, Japan  / Remote |
 |  | Notion | [Business Development Representative](https://jobs.ashbyhq.com/notion/759a9c5a-cdd6-4d05-8eaf-e78eabc34293) | Seoul, South Korea / Remote |
 |  | Notion | [Business Development Representative](https://jobs.ashbyhq.com/notion/a59ae31e-059e-4f6b-84a7-0fa9db88c72b) | Sydney, Australia / Remote |
+|  | Notion | [Business Development Representative](https://jobs.ashbyhq.com/notion/a9b33d2b-cfef-435f-8fff-5b79aad19d3b) | Singapore / Remote |
 |  | Notion | [Business Development Representative, New York](https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13) | New York, New York / Remote |
 |  | Notion | [Business Development Representative, San Francisco](https://jobs.ashbyhq.com/notion/b21fef72-4864-4a3e-a627-91557a0f8a36) | San Francisco, California / Remote |
 |  | Notion | [Payroll Analyst, AMER](https://jobs.ashbyhq.com/notion/92de7ece-b7d9-4b2a-b9cb-b978cc690a46) | San Francisco, California / Remote |
@@ -155,7 +156,6 @@ Last checked: 2026-11-13 07:52:22 UTC
 |  | OpenAI | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | San Francisco / Remote |
 |  | Oscar Health | [Actuarial Analyst, Valuation](https://oscarhealth.com/careers/jobs?gh_jid=8303593) | New York, New York, United States |
 |  | Oscar Health | [Analyst, Risk Adjustment](https://oscarhealth.com/careers/jobs?gh_jid=8303591) | New York, New York, United States |
-|  | Oscar Health | [Associate, Actuarial](https://oscarhealth.com/careers/jobs?gh_jid=8069495) | Remote |
 |  | Oscar Health | [Associate, Health System Contracting](https://oscarhealth.com/careers/jobs?gh_jid=8145078) | Remote |
 |  | Oscar Health | [Associate, Medical Economics](https://oscarhealth.com/careers/jobs?gh_jid=8023759) | Remote |
 |  | Oscar Health | [Associate, Member and Provider Programs](https://oscarhealth.com/careers/jobs?gh_jid=8303620) | New York, New York, United States |
@@ -164,7 +164,6 @@ Last checked: 2026-11-13 07:52:22 UTC
 |  | Oscar Health | [Associate, Pricing Configuration](https://oscarhealth.com/careers/jobs?gh_jid=8374121) | New York, New York, United States |
 |  | Oscar Health | [Associate, Service Transformation](https://oscarhealth.com/careers/jobs?gh_jid=8349789) | New York, New York, United States |
 |  | Oscar Health | [Associate, Strategic Finance](https://oscarhealth.com/careers/jobs?gh_jid=8011066) | New York, New York, United States |
-|  | Oscar Health | [Network Contracting & Services Associate](https://oscarhealth.com/careers/jobs?gh_jid=8080961) | Remote |
 |  | Oscar Health | [Operations Engineer I](https://oscarhealth.com/careers/jobs?gh_jid=8301410) | New York, New York, United States |
 |  | Oscar Health | [Provider Network Associate](https://oscarhealth.com/careers/jobs?gh_jid=8178503) | Remote |
 |  | Palantir | [Compliance Analyst](https://jobs.lever.co/palantir/c6f9eaaf-b397-476f-8b7d-c511cfb7e5c6) | New York, NY |
@@ -242,38 +241,38 @@ Last checked: 2026-11-13 07:52:22 UTC
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 45 | 0 | OK |
-| Blackstone | 20 | 7 | OK |
+| Blackstone | 21 | 7 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
 | Point72 | 200 | 10 | OK |
-| General Atlantic | 13 | 1 | OK |
-| Anthropic | 673 | 10 | OK |
-| Stripe | 787 | 12 | OK |
-| Datadog | 383 | 7 | OK |
-| Palantir | 302 | 16 | OK |
+| General Atlantic | 12 | 1 | OK |
+| Anthropic | 671 | 10 | OK |
+| Stripe | 785 | 12 | OK |
+| Datadog | 387 | 7 | OK |
+| Palantir | 301 | 16 | OK |
 | Ramp | 180 | 14 | OK |
 | iCapital | 227 | 11 | OK |
 | AlphaSights | 65 | 12 | OK |
 | Jane Street | 217 | 6 | OK |
 | Schonfeld | 70 | 4 | OK |
 | Robinhood | 160 | 0 | OK |
-| SoFi | 46 | 0 | OK |
-| Affirm | 220 | 6 | OK |
+| SoFi | 48 | 0 | OK |
+| Affirm | 219 | 6 | OK |
 | Brex | 283 | 3 | OK |
 | Betterment | 28 | 3 | OK |
-| Clear Street | 37 | 6 | OK |
-| Scale AI | 170 | 0 | OK |
-| Dataiku | 15 | 0 | OK |
+| Clear Street | 38 | 7 | OK |
+| Scale AI | 169 | 0 | OK |
+| Dataiku | 14 | 0 | OK |
 | MongoDB | 386 | 3 | OK |
-| Oscar Health | 191 | 14 | OK |
+| Oscar Health | 189 | 12 | OK |
 | The Trade Desk | 98 | 2 | OK |
 | Guidepoint | 106 | 6 | OK |
-| Gusto | 78 | 4 | OK |
-| Flatiron Health | 23 | 3 | OK |
-| OpenAI | 827 | 13 | OK |
+| Gusto | 76 | 4 | OK |
+| Flatiron Health | 21 | 2 | OK |
+| OpenAI | 832 | 14 | OK |
 | Perplexity | 142 | 4 | OK |
-| Notion | 165 | 10 | OK |
-| Harvey | 377 | 22 | OK |
-| Kalshi | 41 | 2 | OK |
+| Notion | 166 | 10 | OK |
+| Harvey | 376 | 22 | OK |
+| Kalshi | 42 | 2 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 121 | 6 | OK |
-| Vanta | 79 | 3 | OK |
+| Cohere | 120 | 6 | OK |
+| Vanta | 80 | 3 | OK |
