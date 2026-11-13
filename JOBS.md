@@ -1,16 +1,16 @@
 # Entry-level openings
 
-Last checked: 2026-11-13 16:14:42 UTC
+Last checked: 2026-11-13 22:09:50 UTC
 
 226 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Clear Street | [Associate Associate - Equity Research](https://job-boards.greenhouse.io/clearstreet/jobs/8381024) | New York, NY |
-| ð | OpenAI | [Onboarding Coordinator - APAC](https://jobs.ashbyhq.com/openai/70eba6e4-73e0-4cf9-a0d5-e49caeca9d7b) | Singapore / Remote |
+| ð | OpenAI | [Account Associate - Austin](https://jobs.ashbyhq.com/openai/fa49d49e-0a9b-4927-898e-2e3faa6be981) | US - Remote / Remote |
+| ð | OpenAI | [Technical Operations Analyst, User Safety & Risk Operations](https://jobs.ashbyhq.com/openai/7b867d19-f018-4c08-8183-d2358b733ee5) | San Francisco / Remote |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
@@ -27,7 +27,6 @@ Last checked: 2026-11-13 16:14:42 UTC
 |  | AlphaSights | [Summer Associate, Client Service, Spanish Speaker (NY)](https://www.alphasights.com/careers/open-roles?gh_jid=7909591) | New York |
 |  | AlphaSights | [US/Asia Transfer Associate, Client Service (Mandarin Speaker), 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7909605) | New York |
 |  | Anthropic | [Business Development Representative](https://job-boards.greenhouse.io/anthropic/jobs/5396186008) | San Francisco, CA / New York City, NY |
-|  | Anthropic | [Business Systems Analyst, GTM Systems](https://job-boards.greenhouse.io/anthropic/jobs/5436196008) | San Francisco, CA / New York City, NY |
 |  | Anthropic | [Business Systems Analyst, New Product Introduction](https://job-boards.greenhouse.io/anthropic/jobs/5416829008) | San Francisco, CA / New York City, NY / Seattle, WA |
 |  | Anthropic | [Data Center Asset Management, Commercial Associate](https://job-boards.greenhouse.io/anthropic/jobs/5468352008) | San Francisco, CA / New York City, NY |
 |  | Anthropic | [Enforcement Analyst, Agentic Alignment](https://job-boards.greenhouse.io/anthropic/jobs/5462893008) | Boston, MA; San Francisco, CA / Seattle, WA / New York City, NY / Washington, DC |
@@ -58,13 +57,14 @@ Last checked: 2026-11-13 16:14:42 UTC
 |  | Clear Street | [Associate - Client Onboarding](https://job-boards.greenhouse.io/clearstreet/jobs/8227249) | New York, NY |
 |  | Clear Street | [Associate - Tax Operations](https://job-boards.greenhouse.io/clearstreet/jobs/8249141) | New York, NY |
 |  | Clear Street | [Associate - Trade Surveillance](https://job-boards.greenhouse.io/clearstreet/jobs/7561417) | New York, NY |
+|  | Clear Street | [Associate Associate - Equity Research](https://job-boards.greenhouse.io/clearstreet/jobs/8381024) | New York, NY |
 |  | Clear Street | [Associate Counsel, Commercial Retail](https://job-boards.greenhouse.io/clearstreet/jobs/8256730) | New York, NY |
 |  | Clear Street | [Associate, Internal Audit](https://job-boards.greenhouse.io/clearstreet/jobs/8259228) | New York, NY |
 |  | Clear Street | [Investor Relations Associate](https://job-boards.greenhouse.io/clearstreet/jobs/8353000) | New York, NY |
 |  | Cohere | [Business Development Representative](https://jobs.ashbyhq.com/cohere/e824f0bd-72e6-4a9b-aecb-e604e3ca8ac2) | Toronto / Remote |
 |  | Cohere | [Business Development Representative](https://jobs.ashbyhq.com/cohere/dbe76343-a8ae-445c-b2f9-c5a304d54f6a) | Dubai / Remote |
 |  | Cohere | [Business Development Representative - French Speaking](https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89) | United Kingdom / Remote |
-|  | Cohere | [Data Partnerships Coordinator (1-year contract)](https://jobs.ashbyhq.com/cohere/6d2d5e2e-46bd-4da5-9e03-573578424976) | Toronto / New York / Remote |
+|  | Cohere | [Data Partnerships Coordinator (1-year contract)](https://jobs.ashbyhq.com/cohere/6d2d5e2e-46bd-4da5-9e03-573578424976) | Toronto / Canada / United States / New York / Ottawa / Montreal / Remote |
 |  | Cohere | [Delivery Operations Analyst](https://jobs.ashbyhq.com/cohere/3906eb1d-932f-485a-8f77-e8cc31859fdd) | Toronto / Ottawa / Montreal / Remote |
 |  | Cohere | [Public Sector Delivery Analyst](https://jobs.ashbyhq.com/cohere/9be116c1-c1df-49bd-8e90-31d41b62645f) | Ottawa / Remote |
 |  | Datadog | [Accounts Payable Analyst](https://careers.datadoghq.com/detail/8257324/?gh_jid=8257324) | New York, New York, USA |
@@ -77,8 +77,8 @@ Last checked: 2026-11-13 16:14:42 UTC
 |  | Flatiron Health | [Associate, Abstraction Training - Instructional Designer](https://flatiron.com/careers/open-positions/job?gh_jid=8292596) | NY office |
 |  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -141,7 +141,7 @@ Last checked: 2026-11-13 16:14:42 UTC
 |  | Notion | [Recruiting Coordinator,  AMER](https://jobs.ashbyhq.com/notion/4f678608-f9f7-455d-b81c-9433ec974d0e) | San Francisco, California / New York, New York / Remote |
 |  | Notion | [Software Engineer, Early Career (AI)](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) | San Francisco, California / Remote |
 |  | Notion | [Software Engineer, New Grad (Dec 2026)](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816) | San Francisco, California / Remote |
-|  | OpenAI | [Account Associate - SF](https://jobs.ashbyhq.com/openai/55f36629-8351-41d9-b2f5-3d63c5e26bf7) | San Francisco / Remote |
+|  | OpenAI | [Account Associate - NYC](https://jobs.ashbyhq.com/openai/55f36629-8351-41d9-b2f5-3d63c5e26bf7) | New York City / Remote |
 |  | OpenAI | [Account Associate - Singapore](https://jobs.ashbyhq.com/openai/d9696b77-5b11-49c5-8d0b-b1826bb6115c) | Singapore / Remote |
 |  | OpenAI | [Account Associate - Singapore (Bahasa-speaking)](https://jobs.ashbyhq.com/openai/1da72072-cf6e-4f5c-acbf-d4f2a2a74612) | Singapore / Remote |
 |  | OpenAI | [Account Associate - Singapore (Mandarin-speaking)](https://jobs.ashbyhq.com/openai/974fff14-f2d7-4a99-8740-eb8dc5300d82) | Singapore / Remote |
@@ -150,6 +150,7 @@ Last checked: 2026-11-13 16:14:42 UTC
 |  | OpenAI | [BIM Designer & Coordinator: Civil](https://jobs.ashbyhq.com/openai/66453891-c75a-41c9-a7de-d0c67f23db4e) | US - Remote / Remote |
 |  | OpenAI | [Compensation Operations Analyst](https://jobs.ashbyhq.com/openai/31df540f-4062-46e8-918f-b747a90c7052) | San Francisco / Remote |
 |  | OpenAI | [Enterprise Account Associate - EMEA (German Speaking)](https://jobs.ashbyhq.com/openai/6c88bfaa-7f1b-4175-82f1-6d484a516ca8) | Dublin, Ireland / Remote |
+|  | OpenAI | [Onboarding Coordinator - APAC](https://jobs.ashbyhq.com/openai/70eba6e4-73e0-4cf9-a0d5-e49caeca9d7b) | Singapore / Remote |
 |  | OpenAI | [Operations Analyst, User Safety & Risk Operations](https://jobs.ashbyhq.com/openai/daabc150-f22c-421e-b30d-1a50fb4cede3) | San Francisco / Remote |
 |  | OpenAI | [Partnerships & External Affairs Associate, Global Affairs](https://jobs.ashbyhq.com/openai/a00fce27-16ef-47f0-a584-a1ea37adbc96) | San Francisco / Remote |
 |  | OpenAI | [Recruiting Coordinator - Contract](https://jobs.ashbyhq.com/openai/dbd5ae8a-7c01-4f17-be39-b8caa8fd95d5) | San Francisco / New York City / Seattle / Remote |
@@ -218,7 +219,6 @@ Last checked: 2026-11-13 16:14:42 UTC
 |  | Stripe | [Comms Strategy & Operations Associate](https://stripe.com/jobs/search?gh_jid=8241857) | NYC, SF |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
-|  | Stripe | [GTM Strategy & Operations Analyst](https://stripe.com/jobs/search?gh_jid=8201680) | NYC, SF, Seattle, US |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Chicago, Atlanta, US-Remote, Toro |
 |  | Stripe | [Risk Operations Analyst - RBO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -237,42 +237,42 @@ Last checked: 2026-11-13 16:14:42 UTC
 
 | Company | Open roles | Matching roles | Status |
 |---|---:|---:|---|
-| Bilt | 24 | 5 | OK |
+| Bilt | 25 | 5 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 45 | 0 | OK |
+| BlackRock | 43 | 0 | OK |
 | Blackstone | 21 | 7 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
 | Point72 | 200 | 10 | OK |
 | General Atlantic | 12 | 1 | OK |
-| Anthropic | 671 | 10 | OK |
-| Stripe | 785 | 12 | OK |
-| Datadog | 387 | 7 | OK |
+| Anthropic | 673 | 9 | OK |
+| Stripe | 786 | 11 | OK |
+| Datadog | 384 | 7 | OK |
 | Palantir | 301 | 16 | OK |
 | Ramp | 180 | 14 | OK |
-| iCapital | 227 | 11 | OK |
+| iCapital | 225 | 11 | OK |
 | AlphaSights | 65 | 12 | OK |
 | Jane Street | 217 | 6 | OK |
-| Schonfeld | 70 | 4 | OK |
-| Robinhood | 160 | 0 | OK |
+| Schonfeld | 71 | 4 | OK |
+| Robinhood | 162 | 0 | OK |
 | SoFi | 48 | 0 | OK |
 | Affirm | 219 | 6 | OK |
-| Brex | 283 | 3 | OK |
+| Brex | 282 | 3 | OK |
 | Betterment | 28 | 3 | OK |
 | Clear Street | 38 | 7 | OK |
-| Scale AI | 169 | 0 | OK |
+| Scale AI | 170 | 0 | OK |
 | Dataiku | 14 | 0 | OK |
-| MongoDB | 386 | 3 | OK |
-| Oscar Health | 189 | 12 | OK |
+| MongoDB | 391 | 3 | OK |
+| Oscar Health | 181 | 12 | OK |
 | The Trade Desk | 98 | 2 | OK |
-| Guidepoint | 106 | 6 | OK |
-| Gusto | 76 | 4 | OK |
+| Guidepoint | 105 | 6 | OK |
+| Gusto | 75 | 4 | OK |
 | Flatiron Health | 21 | 2 | OK |
-| OpenAI | 832 | 14 | OK |
+| OpenAI | 837 | 16 | OK |
 | Perplexity | 142 | 4 | OK |
-| Notion | 166 | 10 | OK |
-| Harvey | 376 | 22 | OK |
+| Notion | 167 | 10 | OK |
+| Harvey | 375 | 22 | OK |
 | Kalshi | 42 | 2 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 120 | 6 | OK |
+| Cohere | 121 | 6 | OK |
 | Vanta | 80 | 3 | OK |
