@@ -1,17 +1,16 @@
 # Entry-level openings
 
-Last checked: 2026-11-12 19:51:18 UTC
+Last checked: 2026-11-13 01:01:46 UTC
 
-225 matching roles open. ð = found in the latest run.
+227 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Blackstone | [Credit Secondaries Analyst - Strategic Partners](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Credit-Secondaries-Analyst---Strategic-Partners_43090-3) | New York |
-| ð | iCapital | [Compliance Officer, IAS / Registered Funds - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8935366002) | New York, New York, United States |
-| ð | Kalshi | [Trading Systems Analyst](https://jobs.ashbyhq.com/kalshi/95c9e8d7-493b-4dcf-91b5-02e47732a626) | New York Office |
+| ð | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
+| ð | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -48,6 +47,7 @@ Last checked: 2026-11-12 19:51:18 UTC
 |  | Blackstone | [BXMA- Direct Trading Operations, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA--Direct-Trading-Operations--Analyst_43372) | New York |
 |  | Blackstone | [Blackstone Charitable Foundation, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Blackstone-Charitable-Foundation--Analyst_46246) | New York |
 |  | Blackstone | [Blackstone Private Wealth - Internal Sales, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York-601-Lex/Private-Wealth-Solutions---Internal-Sales--Associate_31726-5) | New York 601 Lex |
+|  | Blackstone | [Credit Secondaries Analyst - Strategic Partners](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Credit-Secondaries-Analyst---Strategic-Partners_43090-3) | New York |
 |  | Blackstone | [Public Affairs, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Public-Affairs--Associate_43586) | New York |
 |  | Blackstone (Campus) | [2027 Blackstone APAC Future Leaders Program (Online)](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Hong-Kong/XMLNAME-2027-Blackstone-APAC-Future-Leaders-Program--Online-_45896) | 6 Locations |
 |  | Brex | [Analyst, Banking Operations (Domestic)](https://www.brex.com/careers/8924533002?gh_jid=8924533002) | New York, New York, United States |
@@ -111,6 +111,7 @@ Last checked: 2026-11-12 19:51:18 UTC
 |  | Harvey | [Software Engineer, New Grad (2027)](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc) | New York |
 |  | iCapital | [Annuities Sales - Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8649096002) | New York, New York, United States |
 |  | iCapital | [Business Process Analyst, UiPath Developer - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8853762002) | New York, New York, United States |
+|  | iCapital | [Compliance Officer, IAS / Registered Funds - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8935366002) | New York, New York, United States |
 |  | iCapital | [Corporate Finance, Revenue Operations - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8889716002) | New York, New York, United States |
 |  | iCapital | [Investment Strategy - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8766868002) | New York, New York, United States |
 |  | iCapital | [Legal Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8931989002) | New York, New York, United States |
@@ -126,6 +127,7 @@ Last checked: 2026-11-12 19:51:18 UTC
 |  | Jane Street | [Fundamental Research Analyst](https://www.janestreet.com/join-jane-street/apply/8347286002?gh_jid=8347286002) | New York, New York, United States |
 |  | Jane Street | [Recruiting Coordinator](https://www.janestreet.com/join-jane-street/apply/8560087002?gh_jid=8560087002) | New York, New York, United States |
 |  | Kalshi | [Product Analyst](https://jobs.ashbyhq.com/kalshi/30675a37-75df-4c2d-8641-3c19a9ade9f7) | New York Office |
+|  | Kalshi | [Trading Systems Analyst](https://jobs.ashbyhq.com/kalshi/95c9e8d7-493b-4dcf-91b5-02e47732a626) | New York Office |
 |  | MongoDB | [Candidate Experience Coordinator, Contract](https://www.mongodb.com/careers/job/?gh_jid=8359939) | Austin; New York City; San Francisco; United States |
 |  | MongoDB | [Financial Analyst, P&T](https://www.mongodb.com/careers/job/?gh_jid=8328622) | New York City |
 |  | MongoDB | [Pricing & Monetization Associate](https://www.mongodb.com/careers/job/?gh_jid=8372135) | New York City |
@@ -242,36 +244,36 @@ Last checked: 2026-11-12 19:51:18 UTC
 | BlackRock | 47 | 0 | OK |
 | Blackstone | 20 | 7 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
-| Point72 | 199 | 10 | OK |
-| General Atlantic | 12 | 1 | OK |
-| Anthropic | 669 | 10 | OK |
-| Stripe | 784 | 12 | OK |
-| Datadog | 383 | 7 | OK |
-| Palantir | 301 | 16 | OK |
-| Ramp | 177 | 14 | OK |
+| Point72 | 200 | 10 | OK |
+| General Atlantic | 13 | 1 | OK |
+| Anthropic | 672 | 10 | OK |
+| Stripe | 785 | 12 | OK |
+| Datadog | 382 | 7 | OK |
+| Palantir | 302 | 16 | OK |
+| Ramp | 180 | 14 | OK |
 | iCapital | 227 | 11 | OK |
 | AlphaSights | 64 | 12 | OK |
 | Jane Street | 217 | 6 | OK |
 | Schonfeld | 70 | 4 | OK |
-| Robinhood | 155 | 0 | OK |
-| SoFi | 45 | 0 | OK |
-| Affirm | 216 | 4 | OK |
-| Brex | 285 | 3 | OK |
+| Robinhood | 160 | 0 | OK |
+| SoFi | 46 | 0 | OK |
+| Affirm | 221 | 6 | OK |
+| Brex | 283 | 3 | OK |
 | Betterment | 28 | 3 | OK |
-| Clear Street | 38 | 6 | OK |
+| Clear Street | 37 | 6 | OK |
 | Scale AI | 170 | 0 | OK |
 | Dataiku | 15 | 0 | OK |
-| MongoDB | 381 | 3 | OK |
-| Oscar Health | 187 | 14 | OK |
-| The Trade Desk | 96 | 2 | OK |
+| MongoDB | 385 | 3 | OK |
+| Oscar Health | 191 | 14 | OK |
+| The Trade Desk | 98 | 2 | OK |
 | Guidepoint | 106 | 6 | OK |
-| Gusto | 80 | 5 | OK |
+| Gusto | 79 | 5 | OK |
 | Flatiron Health | 23 | 3 | OK |
-| OpenAI | 827 | 13 | OK |
-| Perplexity | 135 | 4 | OK |
-| Notion | 161 | 9 | OK |
-| Harvey | 379 | 22 | OK |
-| Kalshi | 40 | 2 | OK |
+| OpenAI | 826 | 13 | OK |
+| Perplexity | 140 | 4 | OK |
+| Notion | 160 | 9 | OK |
+| Harvey | 378 | 22 | OK |
+| Kalshi | 41 | 2 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 122 | 6 | OK |
+| Cohere | 121 | 6 | OK |
 | Vanta | 79 | 3 | OK |
