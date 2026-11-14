@@ -1,18 +1,16 @@
 # Entry-level openings
 
-Last checked: 2026-11-13 22:09:50 UTC
+Last checked: 2026-11-14 02:40:29 UTC
 
-226 matching roles open. ð = found in the latest run.
+218 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | OpenAI | [Account Associate - Austin](https://jobs.ashbyhq.com/openai/fa49d49e-0a9b-4927-898e-2e3faa6be981) | US - Remote / Remote |
-| ð | OpenAI | [Technical Operations Analyst, User Safety & Risk Operations](https://jobs.ashbyhq.com/openai/7b867d19-f018-4c08-8183-d2358b733ee5) | San Francisco / Remote |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
+|  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -43,14 +41,6 @@ Last checked: 2026-11-13 22:09:50 UTC
 |  | Bilt | [Product Specialist - Housing](https://jobs.gem.com/bilt/am9icG9zdDomdgsgAMh6F4vcm7KhuGLN) | New York, United States / New York |
 |  | Bilt | [Product Specialist - Rentals](https://jobs.gem.com/bilt/am9icG9zdDqsNnnE7MCdbcnEXNRijoSv) | New York, United States / New York |
 |  | Bilt | [Talent Sourcer and Coordinator](https://jobs.gem.com/bilt/am9icG9zdDofGbhzJIuHecGEtj3m_gRR) | New York, United States / New York |
-|  | Blackstone | [AI Engineer, Analyst – Data Analytics & AI](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/AI-Engineer--Analyst---Data-Analytics---AI_45238-1) | New York |
-|  | Blackstone | [BXMA - Business & Financial Evaluation - Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA---Business---Financial-Evaluation---Analyst_45566) | New York |
-|  | Blackstone | [BXMA- Direct Trading Operations, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA--Direct-Trading-Operations--Analyst_43372) | New York |
-|  | Blackstone | [Blackstone Charitable Foundation, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Blackstone-Charitable-Foundation--Analyst_46246) | New York |
-|  | Blackstone | [Blackstone Private Wealth - Internal Sales, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York-601-Lex/Private-Wealth-Solutions---Internal-Sales--Associate_31726-5) | New York 601 Lex |
-|  | Blackstone | [Credit Secondaries Analyst - Strategic Partners](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Credit-Secondaries-Analyst---Strategic-Partners_43090-3) | New York |
-|  | Blackstone | [Public Affairs, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Public-Affairs--Associate_43586) | New York |
-|  | Blackstone (Campus) | [2027 Blackstone APAC Future Leaders Program (Online)](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Hong-Kong/XMLNAME-2027-Blackstone-APAC-Future-Leaders-Program--Online-_45896) | 6 Locations |
 |  | Brex | [Analyst, Banking Operations (Domestic)](https://www.brex.com/careers/8924533002?gh_jid=8924533002) | New York, New York, United States |
 |  | Brex | [Finance Associate](https://www.brex.com/careers/8606825002?gh_jid=8606825002) | New York, New York, United States |
 |  | Brex | [Fraud Strategy Associate](https://www.brex.com/careers/8907584002?gh_jid=8907584002) | New York, New York, United States |
@@ -141,6 +131,7 @@ Last checked: 2026-11-13 22:09:50 UTC
 |  | Notion | [Recruiting Coordinator,  AMER](https://jobs.ashbyhq.com/notion/4f678608-f9f7-455d-b81c-9433ec974d0e) | San Francisco, California / New York, New York / Remote |
 |  | Notion | [Software Engineer, Early Career (AI)](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) | San Francisco, California / Remote |
 |  | Notion | [Software Engineer, New Grad (Dec 2026)](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816) | San Francisco, California / Remote |
+|  | OpenAI | [Account Associate - Austin](https://jobs.ashbyhq.com/openai/fa49d49e-0a9b-4927-898e-2e3faa6be981) | US - Remote / Remote |
 |  | OpenAI | [Account Associate - NYC](https://jobs.ashbyhq.com/openai/55f36629-8351-41d9-b2f5-3d63c5e26bf7) | New York City / Remote |
 |  | OpenAI | [Account Associate - Singapore](https://jobs.ashbyhq.com/openai/d9696b77-5b11-49c5-8d0b-b1826bb6115c) | Singapore / Remote |
 |  | OpenAI | [Account Associate - Singapore (Bahasa-speaking)](https://jobs.ashbyhq.com/openai/1da72072-cf6e-4f5c-acbf-d4f2a2a74612) | Singapore / Remote |
@@ -155,6 +146,7 @@ Last checked: 2026-11-13 22:09:50 UTC
 |  | OpenAI | [Partnerships & External Affairs Associate, Global Affairs](https://jobs.ashbyhq.com/openai/a00fce27-16ef-47f0-a584-a1ea37adbc96) | San Francisco / Remote |
 |  | OpenAI | [Recruiting Coordinator - Contract](https://jobs.ashbyhq.com/openai/dbd5ae8a-7c01-4f17-be39-b8caa8fd95d5) | San Francisco / New York City / Seattle / Remote |
 |  | OpenAI | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | San Francisco / Remote |
+|  | OpenAI | [Technical Operations Analyst, User Safety & Risk Operations](https://jobs.ashbyhq.com/openai/7b867d19-f018-4c08-8183-d2358b733ee5) | San Francisco / Remote |
 |  | Oscar Health | [Actuarial Analyst, Valuation](https://oscarhealth.com/careers/jobs?gh_jid=8303593) | New York, New York, United States |
 |  | Oscar Health | [Analyst, Risk Adjustment](https://oscarhealth.com/careers/jobs?gh_jid=8303591) | New York, New York, United States |
 |  | Oscar Health | [Associate, Health System Contracting](https://oscarhealth.com/careers/jobs?gh_jid=8145078) | Remote |
@@ -233,6 +225,12 @@ Last checked: 2026-11-13 22:09:50 UTC
 |  | Vanta | [Business Development Representative, DACH](https://jobs.ashbyhq.com/vanta/7d5ac715-c4ba-45d5-a390-665a93f618cd) | London, UK / Remote |
 |  | Vanta | [Sales Development Representative, Enterprise](https://jobs.ashbyhq.com/vanta/ed31b882-0d92-4bcd-a0e7-bed3a7d04ec4) | New York, NY / Remote |
 
+## Boards that failed this run
+
+- BlackRock: HTTP Error 521: <none>
+- Blackstone: HTTP Error 521: <none>
+- Blackstone (Campus): HTTP Error 521: <none>
+
 ## Board check results
 
 | Company | Open roles | Matching roles | Status |
@@ -240,38 +238,38 @@ Last checked: 2026-11-13 22:09:50 UTC
 | Bilt | 25 | 5 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 43 | 0 | OK |
-| Blackstone | 21 | 7 | OK |
-| Blackstone (Campus) | 18 | 1 | OK |
+| BlackRock | â | â | FAILED |
+| Blackstone | â | â | FAILED |
+| Blackstone (Campus) | â | â | FAILED |
 | Point72 | 200 | 10 | OK |
 | General Atlantic | 12 | 1 | OK |
-| Anthropic | 673 | 9 | OK |
+| Anthropic | 668 | 9 | OK |
 | Stripe | 786 | 11 | OK |
 | Datadog | 384 | 7 | OK |
-| Palantir | 301 | 16 | OK |
+| Palantir | 302 | 16 | OK |
 | Ramp | 180 | 14 | OK |
 | iCapital | 225 | 11 | OK |
 | AlphaSights | 65 | 12 | OK |
 | Jane Street | 217 | 6 | OK |
 | Schonfeld | 71 | 4 | OK |
-| Robinhood | 162 | 0 | OK |
+| Robinhood | 165 | 0 | OK |
 | SoFi | 48 | 0 | OK |
-| Affirm | 219 | 6 | OK |
-| Brex | 282 | 3 | OK |
+| Affirm | 217 | 6 | OK |
+| Brex | 286 | 3 | OK |
 | Betterment | 28 | 3 | OK |
 | Clear Street | 38 | 7 | OK |
 | Scale AI | 170 | 0 | OK |
 | Dataiku | 14 | 0 | OK |
 | MongoDB | 391 | 3 | OK |
-| Oscar Health | 181 | 12 | OK |
+| Oscar Health | 183 | 12 | OK |
 | The Trade Desk | 98 | 2 | OK |
 | Guidepoint | 105 | 6 | OK |
 | Gusto | 75 | 4 | OK |
 | Flatiron Health | 21 | 2 | OK |
-| OpenAI | 837 | 16 | OK |
-| Perplexity | 142 | 4 | OK |
-| Notion | 167 | 10 | OK |
-| Harvey | 375 | 22 | OK |
+| OpenAI | 838 | 16 | OK |
+| Perplexity | 141 | 4 | OK |
+| Notion | 166 | 10 | OK |
+| Harvey | 387 | 22 | OK |
 | Kalshi | 42 | 2 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 121 | 6 | OK |
