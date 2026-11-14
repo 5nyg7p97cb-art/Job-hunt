@@ -1,11 +1,12 @@
 # Entry-level openings
 
-Last checked: 2026-11-14 16:43:29 UTC
+Last checked: 2026-11-14 21:25:07 UTC
 
-226 matching roles open. ð = found in the latest run.
+227 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Harvey | [Marketing Coordinator, Brand Partnerships](https://jobs.ashbyhq.com/harvey/ba8a6b0a-f791-4d06-8f1a-b960825cd7f8) | New York / Remote |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
@@ -245,7 +246,7 @@ Last checked: 2026-11-14 16:43:29 UTC
 | Blackstone (Campus) | 18 | 1 | OK |
 | Point72 | 200 | 10 | OK |
 | General Atlantic | 12 | 1 | OK |
-| Anthropic | 669 | 9 | OK |
+| Anthropic | 670 | 9 | OK |
 | Stripe | 786 | 11 | OK |
 | Datadog | 384 | 7 | OK |
 | Palantir | 302 | 16 | OK |
@@ -262,16 +263,16 @@ Last checked: 2026-11-14 16:43:29 UTC
 | Clear Street | 38 | 7 | OK |
 | Scale AI | 170 | 0 | OK |
 | Dataiku | 14 | 0 | OK |
-| MongoDB | 391 | 3 | OK |
+| MongoDB | 390 | 3 | OK |
 | Oscar Health | 183 | 12 | OK |
 | The Trade Desk | 98 | 2 | OK |
 | Guidepoint | 105 | 6 | OK |
 | Gusto | 75 | 4 | OK |
 | Flatiron Health | 21 | 2 | OK |
-| OpenAI | 838 | 16 | OK |
+| OpenAI | 839 | 16 | OK |
 | Perplexity | 141 | 4 | OK |
 | Notion | 166 | 10 | OK |
-| Harvey | 387 | 22 | OK |
+| Harvey | 388 | 23 | OK |
 | Kalshi | 42 | 2 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 121 | 6 | OK |
