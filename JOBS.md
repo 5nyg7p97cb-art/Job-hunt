@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-11-14 02:40:29 UTC
+Last checked: 2026-11-14 10:14:06 UTC
 
 218 matching roles open. ð = found in the latest run.
 
@@ -227,9 +227,9 @@ Last checked: 2026-11-14 02:40:29 UTC
 
 ## Boards that failed this run
 
-- BlackRock: HTTP Error 521: <none>
-- Blackstone: HTTP Error 521: <none>
-- Blackstone (Campus): HTTP Error 521: <none>
+- BlackRock: Expecting value: line 1 column 1 (char 0)
+- Blackstone: Expecting value: line 1 column 1 (char 0)
+- Blackstone (Campus): Expecting value: line 1 column 1 (char 0)
 
 ## Board check results
 
@@ -243,7 +243,7 @@ Last checked: 2026-11-14 02:40:29 UTC
 | Blackstone (Campus) | â | â | FAILED |
 | Point72 | 200 | 10 | OK |
 | General Atlantic | 12 | 1 | OK |
-| Anthropic | 668 | 9 | OK |
+| Anthropic | 670 | 9 | OK |
 | Stripe | 786 | 11 | OK |
 | Datadog | 384 | 7 | OK |
 | Palantir | 302 | 16 | OK |
