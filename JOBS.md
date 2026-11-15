@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-11-14 21:25:07 UTC
+Last checked: 2026-11-15 01:18:13 UTC
 
 227 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Harvey | [Marketing Coordinator, Brand Partnerships](https://jobs.ashbyhq.com/harvey/ba8a6b0a-f791-4d06-8f1a-b960825cd7f8) | New York / Remote |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
@@ -99,6 +98,7 @@ Last checked: 2026-11-14 21:25:07 UTC
 |  | Harvey | [Compliance Analyst](https://jobs.ashbyhq.com/harvey/2f35e50f-2978-44c3-a495-7cbfc1f512d4) | San Francisco / Remote |
 |  | Harvey | [Deal Operations Analyst](https://jobs.ashbyhq.com/harvey/16b67976-02a3-4179-9eca-afc86c551b8a) | Chicago / Remote |
 |  | Harvey | [Deal Operations Analyst](https://jobs.ashbyhq.com/harvey/41e581a5-b5ee-47cb-94e5-6224f1559e4d) | Dallas / Remote |
+|  | Harvey | [Marketing Coordinator, Brand Partnerships](https://jobs.ashbyhq.com/harvey/ba8a6b0a-f791-4d06-8f1a-b960825cd7f8) | New York / Remote |
 |  | Harvey | [Sales Compensation Analyst](https://jobs.ashbyhq.com/harvey/817fb895-ce20-4711-afd5-aec1ed1edc6d) | Dublin / Remote |
 |  | Harvey | [Sales Development Representative](https://jobs.ashbyhq.com/harvey/a009e4a8-518e-4d92-a0f4-92f2e2dcee7a) | New York / Remote |
 |  | Harvey | [Sales Development Representative](https://jobs.ashbyhq.com/harvey/08d3d70d-80a6-429d-8a27-d5efd41372f5) | San Francisco / Remote |
@@ -241,7 +241,7 @@ Last checked: 2026-11-14 21:25:07 UTC
 | Bilt | 25 | 5 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 41 | 0 | OK |
+| BlackRock | 40 | 0 | OK |
 | Blackstone | 21 | 7 | OK |
 | Blackstone (Campus) | 18 | 1 | OK |
 | Point72 | 200 | 10 | OK |
