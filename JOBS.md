@@ -1,14 +1,16 @@
 # Entry-level openings
 
-Last checked: 2026-11-16 07:55:29 UTC
+Last checked: 2026-11-16 18:25:53 UTC
 
-226 matching roles open. ð = found in the latest run.
+227 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | AlphaSights | [Analyst, Surveys](https://www.alphasights.com/careers/open-roles?gh_jid=8383826) | New York |
+| ð | Bilt | [Technical Sourcer and Coordinator](https://jobs.gem.com/bilt/am9icG9zdDr8SgKecSrdkVLSwgIIXAAP) | New York, United States / New York |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
@@ -40,7 +42,7 @@ Last checked: 2026-11-16 07:55:29 UTC
 |  | Bilt | [Onboarding Specialist - Housing](https://jobs.gem.com/bilt/am9icG9zdDpTiNGt7KgS904pAIJqZTXB) | New York, United States / New York |
 |  | Bilt | [Product Specialist - Housing](https://jobs.gem.com/bilt/am9icG9zdDomdgsgAMh6F4vcm7KhuGLN) | New York, United States / New York |
 |  | Bilt | [Product Specialist - Rentals](https://jobs.gem.com/bilt/am9icG9zdDqsNnnE7MCdbcnEXNRijoSv) | New York, United States / New York |
-|  | Bilt | [Talent Sourcer and Coordinator](https://jobs.gem.com/bilt/am9icG9zdDofGbhzJIuHecGEtj3m_gRR) | New York, United States / New York |
+|  | Bilt | [Recruiting Sourcer and Coordinator](https://jobs.gem.com/bilt/am9icG9zdDofGbhzJIuHecGEtj3m_gRR) | New York, United States / New York |
 |  | Blackstone | [AI Engineer, Analyst – Data Analytics & AI](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/AI-Engineer--Analyst---Data-Analytics---AI_45238-1) | New York |
 |  | Blackstone | [BXMA - Business & Financial Evaluation - Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA---Business---Financial-Evaluation---Analyst_45566) | New York |
 |  | Blackstone | [BXMA- Direct Trading Operations, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA--Direct-Trading-Operations--Analyst_43372) | New York |
@@ -73,6 +75,7 @@ Last checked: 2026-11-16 07:55:29 UTC
 |  | Datadog | [Strategic Finance Analyst](https://careers.datadoghq.com/detail/8257306/?gh_jid=8257306) | New York, New York, USA |
 |  | Flatiron Health | [Associate, Abstraction Training - Instructional Designer](https://flatiron.com/careers/open-positions/job?gh_jid=8292596) | NY office |
 |  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
+|  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
@@ -160,7 +163,6 @@ Last checked: 2026-11-16 07:55:29 UTC
 |  | Oscar Health | [Associate, Health System Contracting](https://oscarhealth.com/careers/jobs?gh_jid=8145078) | Remote |
 |  | Oscar Health | [Associate, Medical Economics](https://oscarhealth.com/careers/jobs?gh_jid=8023759) | Remote |
 |  | Oscar Health | [Associate, Member and Provider Programs](https://oscarhealth.com/careers/jobs?gh_jid=8303620) | New York, New York, United States |
-|  | Oscar Health | [Associate, National Provider Contracting](https://oscarhealth.com/careers/jobs?gh_jid=8301173) | Remote |
 |  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://oscarhealth.com/careers/jobs?gh_jid=8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Pricing Configuration](https://oscarhealth.com/careers/jobs?gh_jid=8374121) | New York, New York, United States |
 |  | Oscar Health | [Associate, Service Transformation](https://oscarhealth.com/careers/jobs?gh_jid=8349789) | New York, New York, United States |
@@ -221,7 +223,6 @@ Last checked: 2026-11-16 07:55:29 UTC
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Chicago, Atlanta, US-Remote, Toro |
 |  | Stripe | [Risk Operations Analyst - RBO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
-|  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
 |  | Stripe | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8128744) | San Francisco, Seattle, New York |
 |  | Stripe | [University Recruiter (Fixed Term)](https://stripe.com/jobs/search?gh_jid=8226211) | San Francisco, New York, Seattle, US-Remote |
@@ -237,42 +238,42 @@ Last checked: 2026-11-16 07:55:29 UTC
 
 | Company | Open roles | Matching roles | Status |
 |---|---:|---:|---|
-| Bilt | 25 | 5 | OK |
+| Bilt | 28 | 6 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 40 | 0 | OK |
+| BlackRock | 41 | 0 | OK |
 | Blackstone | 21 | 7 | OK |
 | Blackstone (Campus) | 17 | 0 | OK |
-| Point72 | 198 | 10 | OK |
+| Point72 | 196 | 10 | OK |
 | General Atlantic | 12 | 1 | OK |
-| Anthropic | 661 | 9 | OK |
-| Stripe | 785 | 11 | OK |
-| Datadog | 382 | 7 | OK |
+| Anthropic | 662 | 9 | OK |
+| Stripe | 789 | 10 | OK |
+| Datadog | 381 | 7 | OK |
 | Palantir | 302 | 16 | OK |
-| Ramp | 179 | 14 | OK |
-| iCapital | 225 | 11 | OK |
-| AlphaSights | 64 | 12 | OK |
-| Jane Street | 217 | 6 | OK |
+| Ramp | 178 | 14 | OK |
+| iCapital | 222 | 11 | OK |
+| AlphaSights | 65 | 13 | OK |
+| Jane Street | 216 | 6 | OK |
 | Schonfeld | 71 | 4 | OK |
 | Robinhood | 165 | 0 | OK |
-| SoFi | 48 | 0 | OK |
+| SoFi | 50 | 0 | OK |
 | Affirm | 217 | 6 | OK |
-| Brex | 286 | 3 | OK |
-| Betterment | 28 | 3 | OK |
-| Clear Street | 38 | 7 | OK |
+| Brex | 278 | 3 | OK |
+| Betterment | 27 | 3 | OK |
+| Clear Street | 39 | 7 | OK |
 | Scale AI | 170 | 0 | OK |
-| Dataiku | 13 | 0 | OK |
-| MongoDB | 390 | 3 | OK |
-| Oscar Health | 183 | 12 | OK |
-| The Trade Desk | 98 | 2 | OK |
+| Dataiku | 14 | 0 | OK |
+| MongoDB | 396 | 3 | OK |
+| Oscar Health | 183 | 11 | OK |
+| The Trade Desk | 100 | 2 | OK |
 | Guidepoint | 104 | 6 | OK |
-| Gusto | 75 | 4 | OK |
-| Flatiron Health | 21 | 2 | OK |
-| OpenAI | 838 | 16 | OK |
-| Perplexity | 141 | 4 | OK |
+| Gusto | 76 | 4 | OK |
+| Flatiron Health | 23 | 3 | OK |
+| OpenAI | 833 | 16 | OK |
+| Perplexity | 144 | 4 | OK |
 | Notion | 165 | 10 | OK |
-| Harvey | 387 | 23 | OK |
+| Harvey | 390 | 23 | OK |
 | Kalshi | 42 | 2 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 121 | 6 | OK |
-| Vanta | 80 | 3 | OK |
+| Cohere | 122 | 6 | OK |
+| Vanta | 79 | 3 | OK |
