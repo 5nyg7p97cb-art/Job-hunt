@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-11-16 00:58:00 UTC
+Last checked: 2026-11-16 07:55:29 UTC
 
-227 matching roles open. ð = found in the latest run.
+226 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -48,7 +48,6 @@ Last checked: 2026-11-16 00:58:00 UTC
 |  | Blackstone | [Blackstone Private Wealth - Internal Sales, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York-601-Lex/Private-Wealth-Solutions---Internal-Sales--Associate_31726-5) | New York 601 Lex |
 |  | Blackstone | [Credit Secondaries Analyst - Strategic Partners](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Credit-Secondaries-Analyst---Strategic-Partners_43090-3) | New York |
 |  | Blackstone | [Public Affairs, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Public-Affairs--Associate_43586) | New York |
-|  | Blackstone (Campus) | [2027 Blackstone APAC Future Leaders Program (Online)](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Hong-Kong/XMLNAME-2027-Blackstone-APAC-Future-Leaders-Program--Online-_45896) | 6 Locations |
 |  | Brex | [Analyst, Banking Operations (Domestic)](https://www.brex.com/careers/8924533002?gh_jid=8924533002) | New York, New York, United States |
 |  | Brex | [Finance Associate](https://www.brex.com/careers/8606825002?gh_jid=8606825002) | New York, New York, United States |
 |  | Brex | [Fraud Strategy Associate](https://www.brex.com/careers/8907584002?gh_jid=8907584002) | New York, New York, United States |
@@ -243,12 +242,12 @@ Last checked: 2026-11-16 00:58:00 UTC
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 40 | 0 | OK |
 | Blackstone | 21 | 7 | OK |
-| Blackstone (Campus) | 18 | 1 | OK |
-| Point72 | 200 | 10 | OK |
+| Blackstone (Campus) | 17 | 0 | OK |
+| Point72 | 198 | 10 | OK |
 | General Atlantic | 12 | 1 | OK |
-| Anthropic | 664 | 9 | OK |
+| Anthropic | 661 | 9 | OK |
 | Stripe | 785 | 11 | OK |
-| Datadog | 384 | 7 | OK |
+| Datadog | 382 | 7 | OK |
 | Palantir | 302 | 16 | OK |
 | Ramp | 179 | 14 | OK |
 | iCapital | 225 | 11 | OK |
@@ -262,17 +261,17 @@ Last checked: 2026-11-16 00:58:00 UTC
 | Betterment | 28 | 3 | OK |
 | Clear Street | 38 | 7 | OK |
 | Scale AI | 170 | 0 | OK |
-| Dataiku | 14 | 0 | OK |
-| MongoDB | 392 | 3 | OK |
+| Dataiku | 13 | 0 | OK |
+| MongoDB | 390 | 3 | OK |
 | Oscar Health | 183 | 12 | OK |
 | The Trade Desk | 98 | 2 | OK |
-| Guidepoint | 105 | 6 | OK |
+| Guidepoint | 104 | 6 | OK |
 | Gusto | 75 | 4 | OK |
 | Flatiron Health | 21 | 2 | OK |
 | OpenAI | 838 | 16 | OK |
 | Perplexity | 141 | 4 | OK |
 | Notion | 165 | 10 | OK |
-| Harvey | 388 | 23 | OK |
+| Harvey | 387 | 23 | OK |
 | Kalshi | 42 | 2 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 121 | 6 | OK |
