@@ -3,6 +3,7 @@
 "ab-cohere-3906eb1d-932f-485a-8f77-e8cc31859fdd",
 "ab-cohere-53c89232-1de7-42b5-ab9d-b5290451c7e8",
 "ab-cohere-6d2d5e2e-46bd-4da5-9e03-573578424976",
+"ab-cohere-74373c60-3ce9-48fd-ae8d-5235fa24c682",
 "ab-cohere-9be116c1-c1df-49bd-8e90-31d41b62645f",
 "ab-cohere-9f8d2b51-7fe9-470d-8108-fe5fb48c8a89",
 "ab-cohere-dbe76343-a8ae-445c-b2f9-c5a304d54f6a",
@@ -106,6 +107,7 @@
 "ab-ramp-d64609dd-c391-45a2-bfdb-c1bb34e8f93c",
 "ab-ramp-fc971889-db1d-4a20-a25e-f282f9296936",
 "ab-unify-9ba552ad-dc0c-44ce-be05-b28c12b27018",
+"ab-vanta-10098ac6-b0c1-4ba6-9903-6c5ebe85fe1e",
 "ab-vanta-7d5ac715-c4ba-45d5-a390-665a93f618cd",
 "ab-vanta-cb338edc-a332-4f01-ab3f-b3e45ade44ba",
 "ab-vanta-ed31b882-0d92-4bcd-a0e7-bed3a7d04ec4",
@@ -156,6 +158,7 @@
 "gh-anthropic-5397704008",
 "gh-anthropic-5410006008",
 "gh-anthropic-5416829008",
+"gh-anthropic-5422952008",
 "gh-anthropic-5436196008",
 "gh-anthropic-5447080008",
 "gh-anthropic-5452403008",
@@ -362,7 +365,5 @@
 "wd-blackstone-/job/New-York/XMLNAME-2026-Portfolio-Management-Program_43989",
 "wd-blackstone-/job/New-York/XMLNAME-2027-Blackstone-Real-Estate-Acquisitions-Analyst_45626"
 ],
-"failing": [
-"Palantir"
-]
+"failing": []
 }

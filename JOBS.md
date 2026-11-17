@@ -1,16 +1,19 @@
 # Entry-level openings
 
-Last checked: 2026-11-17 10:39:50 UTC
+Last checked: 2026-11-17 19:47:37 UTC
 
-208 matching roles open. ð = found in the latest run.
+224 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Anthropic | [Protective Intelligence Analyst](https://job-boards.greenhouse.io/anthropic/jobs/5422952008) | San Francisco, CA / New York City, NY / Washington, DC |
+| ð | Cohere | [Talent Coordinator](https://jobs.ashbyhq.com/cohere/74373c60-3ce9-48fd-ae8d-5235fa24c682) | Germany / Remote |
+| ð | Vanta | [Business Development Representative [French Fluency]](https://jobs.ashbyhq.com/vanta/10098ac6-b0c1-4ba6-9903-6c5ebe85fe1e) | Dublin, Ireland / Remote |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Analyst, Surveys](https://www.alphasights.com/careers/open-roles?gh_jid=8383826) | New York |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
@@ -45,7 +48,6 @@ Last checked: 2026-11-17 10:39:50 UTC
 |  | Bilt | [Technical Sourcer and Coordinator](https://jobs.gem.com/bilt/am9icG9zdDr8SgKecSrdkVLSwgIIXAAP) | New York, United States / New York |
 |  | Blackstone | [AI Engineer, Analyst – Data Analytics & AI](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/AI-Engineer--Analyst---Data-Analytics---AI_45238-1) | New York |
 |  | Blackstone | [BXMA - Business & Financial Evaluation - Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA---Business---Financial-Evaluation---Analyst_45566) | New York |
-|  | Blackstone | [BXMA- Direct Trading Operations, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA--Direct-Trading-Operations--Analyst_43372) | New York |
 |  | Blackstone | [Blackstone Charitable Foundation, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Blackstone-Charitable-Foundation--Analyst_46246) | New York |
 |  | Blackstone | [Blackstone Private Wealth - Internal Sales, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York-601-Lex/Private-Wealth-Solutions---Internal-Sales--Associate_31726-5) | New York 601 Lex |
 |  | Blackstone | [Credit Secondaries Analyst - Strategic Partners](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Credit-Secondaries-Analyst---Strategic-Partners_43090-3) | New York |
@@ -108,7 +110,6 @@ Last checked: 2026-11-17 10:39:50 UTC
 |  | Harvey | [Sales Development Representative (English Speaking)](https://jobs.ashbyhq.com/harvey/98572b27-b6fc-4682-a441-62874eb10265) | Dublin / Remote |
 |  | Harvey | [Sales Development Representative (German Speaking)](https://jobs.ashbyhq.com/harvey/3adf9734-7339-4b21-b361-96288a9a6224) | Dublin / Remote |
 |  | Harvey | [Sales Development Representative, ANZ](https://jobs.ashbyhq.com/harvey/b8a9dded-d9f4-4295-8216-fdc93beec6d1) | Sydney / Remote |
-|  | iCapital | [Annuities Sales - Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8649096002) | New York, New York, United States |
 |  | iCapital | [Business Process Analyst, UiPath Developer - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8853762002) | New York, New York, United States |
 |  | iCapital | [Compliance Officer, IAS / Registered Funds - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8935366002) | New York, New York, United States |
 |  | iCapital | [Corporate Finance, Revenue Operations - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8889716002) | New York, New York, United States |
@@ -167,6 +168,22 @@ Last checked: 2026-11-17 10:39:50 UTC
 |  | Oscar Health | [Associate, Strategic Finance](https://oscarhealth.com/careers/jobs?gh_jid=8011066) | New York, New York, United States |
 |  | Oscar Health | [Operations Engineer I](https://oscarhealth.com/careers/jobs?gh_jid=8301410) | New York, New York, United States |
 |  | Oscar Health | [Provider Network Associate](https://oscarhealth.com/careers/jobs?gh_jid=8178503) | Remote |
+|  | Palantir | [Compliance Analyst](https://jobs.lever.co/palantir/c6f9eaaf-b397-476f-8b7d-c511cfb7e5c6) | New York, NY |
+|  | Palantir | [Forward Deployed Infrastructure Engineer, New Grad - US Government](https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8) | New York, NY |
+|  | Palantir | [Forward Deployed Software Engineer, New Grad - Commercial](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728) | New York, NY |
+|  | Palantir | [Forward Deployed Software Engineer, New Grad - US Government](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca) | New York, NY |
+|  | Palantir | [Forward Deployed Software Engineer, New Grad - Warp Speed](https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7) | New York, NY |
+|  | Palantir | [Operations Analyst - US Government](https://jobs.lever.co/palantir/b14585f4-9a68-49e8-97af-3f03f2a6c357) | New York, NY |
+|  | Palantir | [Privacy & Civil Liberties Engineer - New Grad](https://jobs.lever.co/palantir/95e0d2b0-437a-4096-a5c6-0f247f426c90) | New York, NY |
+|  | Palantir | [Product Designer, New Grad](https://jobs.lever.co/palantir/4c0fb3a1-8256-4d14-9a27-23727235752e) | New York, NY |
+|  | Palantir | [Product Designer, New Grad - US Government](https://jobs.lever.co/palantir/5f7a90e7-f927-47bf-90ed-52d17c58ae02) | New York, NY |
+|  | Palantir | [Site Reliability Operations Analyst - Commercial](https://jobs.lever.co/palantir/5174e95b-2e0a-46f8-8db7-e2c837a0ac94) | New York, NY |
+|  | Palantir | [Software Engineer, New Grad](https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92) | New York, NY |
+|  | Palantir | [Software Engineer, New Grad - Defense](https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278) | New York, NY |
+|  | Palantir | [Software Engineer, New Grad - Infrastructure](https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4) | New York, NY |
+|  | Palantir | [Software Engineer, New Grad - Production Infrastructure](https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a) | New York, NY |
+|  | Palantir | [Software Engineer, New Grad - Query Engines](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac) | New York, NY |
+|  | Palantir | [Talent Coordinator](https://jobs.lever.co/palantir/4186c7e2-1fc4-4049-81fb-fa98efb9d1de) | New York, NY |
 |  | Perplexity | [Business Development Representative](https://jobs.ashbyhq.com/Perplexity/a5b97109-222d-49e1-b2ac-e101487a5ddd) | San Francisco / New York City / Remote |
 |  | Perplexity | [Payroll Analyst](https://jobs.ashbyhq.com/Perplexity/5080dab5-7eb7-4cb2-9e2c-c61531fd3ad1) | San Francisco / Remote (United States) / Remote |
 |  | Perplexity | [Recruiting Coordinator](https://jobs.ashbyhq.com/Perplexity/ed4fb057-3f06-419a-8bb2-9c98f370d477) | San Francisco / New York City |
@@ -213,11 +230,6 @@ Last checked: 2026-11-17 10:39:50 UTC
 |  | Unify | [Sales Development Representative](https://jobs.ashbyhq.com/unify/9ba552ad-dc0c-44ce-be05-b28c12b27018) | San Francisco Office / New York Office |
 |  | Vanta | [Business Development Representative [German Fluency]](https://jobs.ashbyhq.com/vanta/cb338edc-a332-4f01-ab3f-b3e45ade44ba) | Dublin, Ireland / Remote |
 |  | Vanta | [Business Development Representative, DACH](https://jobs.ashbyhq.com/vanta/7d5ac715-c4ba-45d5-a390-665a93f618cd) | London, UK / Remote |
-|  | Vanta | [Sales Development Representative, Enterprise](https://jobs.ashbyhq.com/vanta/ed31b882-0d92-4bcd-a0e7-bed3a7d04ec4) | New York, NY / Remote |
-
-## Boards that failed this run
-
-- Palantir: The read operation timed out
 
 ## Board check results
 
@@ -227,38 +239,38 @@ Last checked: 2026-11-17 10:39:50 UTC
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 40 | 0 | OK |
-| Blackstone | 21 | 7 | OK |
-| Blackstone (Campus) | 17 | 0 | OK |
-| Point72 | 197 | 10 | OK |
-| General Atlantic | 13 | 1 | OK |
-| Anthropic | 660 | 9 | OK |
-| Stripe | 793 | 9 | OK |
-| Datadog | 381 | 7 | OK |
-| Palantir | â | â | FAILED |
-| Ramp | 179 | 14 | OK |
-| iCapital | 224 | 11 | OK |
+| Blackstone | 20 | 6 | OK |
+| Blackstone (Campus) | 15 | 0 | OK |
+| Point72 | 199 | 10 | OK |
+| General Atlantic | 12 | 1 | OK |
+| Anthropic | 660 | 10 | OK |
+| Stripe | 791 | 9 | OK |
+| Datadog | 380 | 7 | OK |
+| Palantir | 301 | 16 | OK |
+| Ramp | 181 | 14 | OK |
+| iCapital | 225 | 10 | OK |
 | AlphaSights | 66 | 13 | OK |
-| Jane Street | 216 | 6 | OK |
+| Jane Street | 215 | 6 | OK |
 | Schonfeld | 72 | 4 | OK |
-| Robinhood | 166 | 0 | OK |
-| SoFi | 50 | 0 | OK |
-| Affirm | 213 | 6 | OK |
-| Brex | 277 | 3 | OK |
+| Robinhood | 167 | 0 | OK |
+| SoFi | 49 | 0 | OK |
+| Affirm | 220 | 6 | OK |
+| Brex | 273 | 3 | OK |
 | Betterment | 25 | 3 | OK |
 | Clear Street | 39 | 7 | OK |
-| Scale AI | 169 | 0 | OK |
-| Dataiku | 14 | 0 | OK |
-| MongoDB | 399 | 3 | OK |
-| Oscar Health | 181 | 11 | OK |
-| The Trade Desk | 104 | 2 | OK |
-| Guidepoint | 105 | 6 | OK |
-| Gusto | 78 | 4 | OK |
+| Scale AI | 167 | 0 | OK |
+| Dataiku | 13 | 0 | OK |
+| MongoDB | 394 | 3 | OK |
+| Oscar Health | 179 | 11 | OK |
+| The Trade Desk | 105 | 2 | OK |
+| Guidepoint | 108 | 6 | OK |
+| Gusto | 80 | 4 | OK |
 | Flatiron Health | 23 | 3 | OK |
-| OpenAI | 840 | 16 | OK |
+| OpenAI | 837 | 16 | OK |
 | Perplexity | 148 | 4 | OK |
 | Notion | 164 | 10 | OK |
-| Harvey | 386 | 21 | OK |
-| Kalshi | 42 | 2 | OK |
+| Harvey | 384 | 21 | OK |
+| Kalshi | 43 | 2 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 125 | 6 | OK |
-| Vanta | 80 | 3 | OK |
+| Cohere | 127 | 7 | OK |
+| Vanta | 79 | 3 | OK |
