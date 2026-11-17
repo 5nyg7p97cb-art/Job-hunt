@@ -1,19 +1,18 @@
 # Entry-level openings
 
-Last checked: 2026-11-16 18:25:53 UTC
+Last checked: 2026-11-17 02:04:09 UTC
 
-227 matching roles open. ð = found in the latest run.
+224 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | AlphaSights | [Analyst, Surveys](https://www.alphasights.com/careers/open-roles?gh_jid=8383826) | New York |
-| ð | Bilt | [Technical Sourcer and Coordinator](https://jobs.gem.com/bilt/am9icG9zdDr8SgKecSrdkVLSwgIIXAAP) | New York, United States / New York |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
+|  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
+|  | AlphaSights | [Analyst, Surveys](https://www.alphasights.com/careers/open-roles?gh_jid=8383826) | New York |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
 |  | AlphaSights | [Associate, Client Service, Mandarin Speaker, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7909492) | New York |
@@ -43,6 +42,7 @@ Last checked: 2026-11-16 18:25:53 UTC
 |  | Bilt | [Product Specialist - Housing](https://jobs.gem.com/bilt/am9icG9zdDomdgsgAMh6F4vcm7KhuGLN) | New York, United States / New York |
 |  | Bilt | [Product Specialist - Rentals](https://jobs.gem.com/bilt/am9icG9zdDqsNnnE7MCdbcnEXNRijoSv) | New York, United States / New York |
 |  | Bilt | [Recruiting Sourcer and Coordinator](https://jobs.gem.com/bilt/am9icG9zdDofGbhzJIuHecGEtj3m_gRR) | New York, United States / New York |
+|  | Bilt | [Technical Sourcer and Coordinator](https://jobs.gem.com/bilt/am9icG9zdDr8SgKecSrdkVLSwgIIXAAP) | New York, United States / New York |
 |  | Blackstone | [AI Engineer, Analyst – Data Analytics & AI](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/AI-Engineer--Analyst---Data-Analytics---AI_45238-1) | New York |
 |  | Blackstone | [BXMA - Business & Financial Evaluation - Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA---Business---Financial-Evaluation---Analyst_45566) | New York |
 |  | Blackstone | [BXMA- Direct Trading Operations, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/BXMA--Direct-Trading-Operations--Analyst_43372) | New York |
@@ -108,8 +108,6 @@ Last checked: 2026-11-16 18:25:53 UTC
 |  | Harvey | [Sales Development Representative (English Speaking)](https://jobs.ashbyhq.com/harvey/98572b27-b6fc-4682-a441-62874eb10265) | Dublin / Remote |
 |  | Harvey | [Sales Development Representative (German Speaking)](https://jobs.ashbyhq.com/harvey/3adf9734-7339-4b21-b361-96288a9a6224) | Dublin / Remote |
 |  | Harvey | [Sales Development Representative, ANZ](https://jobs.ashbyhq.com/harvey/b8a9dded-d9f4-4295-8216-fdc93beec6d1) | Sydney / Remote |
-|  | Harvey | [Software Engineer, New Grad (2027)](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5) | San Francisco / Remote |
-|  | Harvey | [Software Engineer, New Grad (2027)](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc) | New York |
 |  | iCapital | [Annuities Sales - Analyst](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8649096002) | New York, New York, United States |
 |  | iCapital | [Business Process Analyst, UiPath Developer - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8853762002) | New York, New York, United States |
 |  | iCapital | [Compliance Officer, IAS / Registered Funds - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8935366002) | New York, New York, United States |
@@ -218,7 +216,6 @@ Last checked: 2026-11-16 18:25:53 UTC
 |  | Schonfeld | [Regulatory Reporting Associate](https://job-boards.greenhouse.io/schonfeld/jobs/8226258) | New York, New York, United States |
 |  | Schonfeld | [Systematic Portfolio Strategy and Risk Analyst (NYC or Miami)](https://job-boards.greenhouse.io/schonfeld/jobs/7402926) | Miami, Florida, United States; New York, New York, United States |
 |  | Stripe | [AMER Data Analyst - Sales Strategy and Operations](https://stripe.com/jobs/search?gh_jid=8354566) | Chicago, US Remote, SF, NYC, Seattle |
-|  | Stripe | [Comms Strategy & Operations Associate](https://stripe.com/jobs/search?gh_jid=8241857) | NYC, SF |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Chicago, Atlanta, US-Remote, Toro |
@@ -241,39 +238,39 @@ Last checked: 2026-11-16 18:25:53 UTC
 | Bilt | 28 | 6 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 41 | 0 | OK |
+| BlackRock | 40 | 0 | OK |
 | Blackstone | 21 | 7 | OK |
 | Blackstone (Campus) | 17 | 0 | OK |
 | Point72 | 196 | 10 | OK |
-| General Atlantic | 12 | 1 | OK |
+| General Atlantic | 13 | 1 | OK |
 | Anthropic | 662 | 9 | OK |
-| Stripe | 789 | 10 | OK |
-| Datadog | 381 | 7 | OK |
-| Palantir | 302 | 16 | OK |
-| Ramp | 178 | 14 | OK |
-| iCapital | 222 | 11 | OK |
-| AlphaSights | 65 | 13 | OK |
+| Stripe | 791 | 9 | OK |
+| Datadog | 382 | 7 | OK |
+| Palantir | 303 | 16 | OK |
+| Ramp | 179 | 14 | OK |
+| iCapital | 224 | 11 | OK |
+| AlphaSights | 64 | 13 | OK |
 | Jane Street | 216 | 6 | OK |
-| Schonfeld | 71 | 4 | OK |
-| Robinhood | 165 | 0 | OK |
+| Schonfeld | 72 | 4 | OK |
+| Robinhood | 166 | 0 | OK |
 | SoFi | 50 | 0 | OK |
-| Affirm | 217 | 6 | OK |
-| Brex | 278 | 3 | OK |
-| Betterment | 27 | 3 | OK |
+| Affirm | 211 | 6 | OK |
+| Brex | 277 | 3 | OK |
+| Betterment | 25 | 3 | OK |
 | Clear Street | 39 | 7 | OK |
-| Scale AI | 170 | 0 | OK |
+| Scale AI | 169 | 0 | OK |
 | Dataiku | 14 | 0 | OK |
-| MongoDB | 396 | 3 | OK |
-| Oscar Health | 183 | 11 | OK |
-| The Trade Desk | 100 | 2 | OK |
-| Guidepoint | 104 | 6 | OK |
-| Gusto | 76 | 4 | OK |
+| MongoDB | 400 | 3 | OK |
+| Oscar Health | 181 | 11 | OK |
+| The Trade Desk | 103 | 2 | OK |
+| Guidepoint | 105 | 6 | OK |
+| Gusto | 77 | 4 | OK |
 | Flatiron Health | 23 | 3 | OK |
-| OpenAI | 833 | 16 | OK |
-| Perplexity | 144 | 4 | OK |
+| OpenAI | 839 | 16 | OK |
+| Perplexity | 147 | 4 | OK |
 | Notion | 165 | 10 | OK |
-| Harvey | 390 | 23 | OK |
+| Harvey | 386 | 21 | OK |
 | Kalshi | 42 | 2 | OK |
 | Unify | 11 | 1 | OK |
-| Cohere | 122 | 6 | OK |
-| Vanta | 79 | 3 | OK |
+| Cohere | 123 | 6 | OK |
+| Vanta | 80 | 3 | OK |
