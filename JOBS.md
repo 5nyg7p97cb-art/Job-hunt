@@ -1,19 +1,18 @@
 # Entry-level openings
 
-Last checked: 2026-11-17 19:47:37 UTC
+Last checked: 2026-11-18 02:23:41 UTC
 
-224 matching roles open. ð = found in the latest run.
+226 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Anthropic | [Protective Intelligence Analyst](https://job-boards.greenhouse.io/anthropic/jobs/5422952008) | San Francisco, CA / New York City, NY / Washington, DC |
-| ð | Cohere | [Talent Coordinator](https://jobs.ashbyhq.com/cohere/74373c60-3ce9-48fd-ae8d-5235fa24c682) | Germany / Remote |
-| ð | Vanta | [Business Development Representative [French Fluency]](https://jobs.ashbyhq.com/vanta/10098ac6-b0c1-4ba6-9903-6c5ebe85fe1e) | Dublin, Ireland / Remote |
+| ð | OpenAI | [Privacy Operations Analyst](https://jobs.ashbyhq.com/openai/6b8c6731-9bf0-4a0a-8e2f-46662f5a5073) | Dublin, Ireland / Remote |
+| ð | Stripe | [Executive Programs Coordinator](https://stripe.com/jobs/search?gh_jid=8376777) | Remote in the US |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
+|  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer, Early Career (NYC)](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | New York, New York, United States |
 |  | AlphaSights | [Analyst, Surveys](https://www.alphasights.com/careers/open-roles?gh_jid=8383826) | New York |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
@@ -32,6 +31,7 @@ Last checked: 2026-11-17 19:47:37 UTC
 |  | Anthropic | [Business Systems Analyst, New Product Introduction](https://job-boards.greenhouse.io/anthropic/jobs/5416829008) | San Francisco, CA / New York City, NY / Seattle, WA |
 |  | Anthropic | [Data Center Asset Management, Commercial Associate](https://job-boards.greenhouse.io/anthropic/jobs/5468352008) | San Francisco, CA / New York City, NY |
 |  | Anthropic | [Enforcement Analyst, Agentic Alignment](https://job-boards.greenhouse.io/anthropic/jobs/5462893008) | Boston, MA; San Francisco, CA / Seattle, WA / New York City, NY / Washington, DC |
+|  | Anthropic | [Protective Intelligence Analyst](https://job-boards.greenhouse.io/anthropic/jobs/5422952008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Access Controls & Identity](https://job-boards.greenhouse.io/anthropic/jobs/5319626008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Account Takeover & Credential Abuse](https://job-boards.greenhouse.io/anthropic/jobs/5319624008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Bio Harms](https://job-boards.greenhouse.io/anthropic/jobs/5319696008) | San Francisco, CA / New York City, NY / Washington, DC |
@@ -68,6 +68,7 @@ Last checked: 2026-11-17 19:47:37 UTC
 |  | Cohere | [Data Partnerships Coordinator (1-year contract)](https://jobs.ashbyhq.com/cohere/6d2d5e2e-46bd-4da5-9e03-573578424976) | Toronto / Canada / United States / New York / Ottawa / Montreal / Remote |
 |  | Cohere | [Delivery Operations Analyst](https://jobs.ashbyhq.com/cohere/3906eb1d-932f-485a-8f77-e8cc31859fdd) | Toronto / Ottawa / Montreal / Remote |
 |  | Cohere | [Public Sector Delivery Analyst](https://jobs.ashbyhq.com/cohere/9be116c1-c1df-49bd-8e90-31d41b62645f) | Ottawa / Remote |
+|  | Cohere | [Talent Coordinator](https://jobs.ashbyhq.com/cohere/74373c60-3ce9-48fd-ae8d-5235fa24c682) | Germany / Remote |
 |  | Datadog | [Accounts Payable Analyst](https://careers.datadoghq.com/detail/8257324/?gh_jid=8257324) | New York, New York, USA |
 |  | Datadog | [FP&A Analyst GTM](https://careers.datadoghq.com/detail/8312438/?gh_jid=8312438) | New York, New York, USA |
 |  | Datadog | [FP&A Analyst R&D](https://careers.datadoghq.com/detail/8204554/?gh_jid=8204554) | New York, New York, USA |
@@ -220,7 +221,7 @@ Last checked: 2026-11-17 19:47:37 UTC
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Chicago, Atlanta, US-Remote, Toro |
-|  | Stripe | [Risk Operations Analyst - RBO](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
+|  | Stripe | [Risk Operations Analyst - User Operations Policy](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
 |  | Stripe | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8128744) | San Francisco, Seattle, New York |
 |  | Stripe | [University Recruiter (Fixed Term)](https://stripe.com/jobs/search?gh_jid=8226211) | San Francisco, New York, Seattle, US-Remote |
@@ -228,6 +229,7 @@ Last checked: 2026-11-17 19:47:37 UTC
 |  | The Trade Desk | [Associate General Counsel, Commercial CTV & Advertising](https://job-boards.greenhouse.io/thetradedesk/jobs/4682475007) | Chicago; Irvine; Los Angeles; New York; San Francisco; San Jose |
 |  | The Trade Desk | [Associate General Counsel, Product & Privacy](https://job-boards.greenhouse.io/thetradedesk/jobs/5154942007) | Chicago; Irvine; Los Angeles; New York; San Francisco; San Jose |
 |  | Unify | [Sales Development Representative](https://jobs.ashbyhq.com/unify/9ba552ad-dc0c-44ce-be05-b28c12b27018) | San Francisco Office / New York Office |
+|  | Vanta | [Business Development Representative [French Fluency]](https://jobs.ashbyhq.com/vanta/10098ac6-b0c1-4ba6-9903-6c5ebe85fe1e) | Dublin, Ireland / Remote |
 |  | Vanta | [Business Development Representative [German Fluency]](https://jobs.ashbyhq.com/vanta/cb338edc-a332-4f01-ab3f-b3e45ade44ba) | Dublin, Ireland / Remote |
 |  | Vanta | [Business Development Representative, DACH](https://jobs.ashbyhq.com/vanta/7d5ac715-c4ba-45d5-a390-665a93f618cd) | London, UK / Remote |
 
@@ -243,34 +245,34 @@ Last checked: 2026-11-17 19:47:37 UTC
 | Blackstone (Campus) | 15 | 0 | OK |
 | Point72 | 199 | 10 | OK |
 | General Atlantic | 12 | 1 | OK |
-| Anthropic | 660 | 10 | OK |
-| Stripe | 791 | 9 | OK |
-| Datadog | 380 | 7 | OK |
+| Anthropic | 659 | 10 | OK |
+| Stripe | 789 | 10 | OK |
+| Datadog | 382 | 7 | OK |
 | Palantir | 301 | 16 | OK |
 | Ramp | 181 | 14 | OK |
-| iCapital | 225 | 10 | OK |
-| AlphaSights | 66 | 13 | OK |
+| iCapital | 226 | 10 | OK |
+| AlphaSights | 65 | 13 | OK |
 | Jane Street | 215 | 6 | OK |
 | Schonfeld | 72 | 4 | OK |
-| Robinhood | 167 | 0 | OK |
-| SoFi | 49 | 0 | OK |
-| Affirm | 220 | 6 | OK |
-| Brex | 273 | 3 | OK |
+| Robinhood | 165 | 0 | OK |
+| SoFi | 51 | 0 | OK |
+| Affirm | 221 | 6 | OK |
+| Brex | 266 | 3 | OK |
 | Betterment | 25 | 3 | OK |
 | Clear Street | 39 | 7 | OK |
 | Scale AI | 167 | 0 | OK |
 | Dataiku | 13 | 0 | OK |
 | MongoDB | 394 | 3 | OK |
-| Oscar Health | 179 | 11 | OK |
+| Oscar Health | 185 | 11 | OK |
 | The Trade Desk | 105 | 2 | OK |
 | Guidepoint | 108 | 6 | OK |
-| Gusto | 80 | 4 | OK |
-| Flatiron Health | 23 | 3 | OK |
-| OpenAI | 837 | 16 | OK |
-| Perplexity | 148 | 4 | OK |
-| Notion | 164 | 10 | OK |
-| Harvey | 384 | 21 | OK |
+| Gusto | 79 | 4 | OK |
+| Flatiron Health | 20 | 3 | OK |
+| OpenAI | 836 | 17 | OK |
+| Perplexity | 147 | 4 | OK |
+| Notion | 167 | 10 | OK |
+| Harvey | 383 | 21 | OK |
 | Kalshi | 43 | 2 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 127 | 7 | OK |
-| Vanta | 79 | 3 | OK |
+| Vanta | 77 | 3 | OK |
