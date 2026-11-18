@@ -1,13 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-11-18 02:23:41 UTC
+Last checked: 2026-11-18 10:41:30 UTC
 
-226 matching roles open. ð = found in the latest run.
+225 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | OpenAI | [Privacy Operations Analyst](https://jobs.ashbyhq.com/openai/6b8c6731-9bf0-4a0a-8e2f-46662f5a5073) | Dublin, Ireland / Remote |
-| ð | Stripe | [Executive Programs Coordinator](https://stripe.com/jobs/search?gh_jid=8376777) | Remote in the US |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
@@ -80,14 +78,13 @@ Last checked: 2026-11-18 02:23:41 UTC
 |  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8715494002) | New York, New York, United States |
 |  | Gusto | [Enhanced Due Diligence Investigations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8275011) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
-|  | Gusto | [Fraud Investigations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8275021) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
 |  | Gusto | [People Tech Business Systems Analyst](https://job-boards.greenhouse.io/gusto/jobs/8257482) | Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid |
 |  | Gusto | [Security Operations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8348189) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
 |  | Harvey | [Associate Commercial Counsel, London](https://jobs.ashbyhq.com/harvey/0a8ca756-7d41-46cc-8cde-960af47658b2) | London / Remote |
@@ -155,6 +152,7 @@ Last checked: 2026-11-18 02:23:41 UTC
 |  | OpenAI | [Onboarding Coordinator - APAC](https://jobs.ashbyhq.com/openai/70eba6e4-73e0-4cf9-a0d5-e49caeca9d7b) | Singapore / Remote |
 |  | OpenAI | [Operations Analyst, User Safety & Risk Operations](https://jobs.ashbyhq.com/openai/daabc150-f22c-421e-b30d-1a50fb4cede3) | San Francisco / Remote |
 |  | OpenAI | [Partnerships & External Affairs Associate, Global Affairs](https://jobs.ashbyhq.com/openai/a00fce27-16ef-47f0-a584-a1ea37adbc96) | San Francisco / Remote |
+|  | OpenAI | [Privacy Operations Analyst](https://jobs.ashbyhq.com/openai/6b8c6731-9bf0-4a0a-8e2f-46662f5a5073) | Dublin, Ireland / Remote |
 |  | OpenAI | [Recruiting Coordinator - Contract](https://jobs.ashbyhq.com/openai/dbd5ae8a-7c01-4f17-be39-b8caa8fd95d5) | San Francisco / New York City / Seattle / Remote |
 |  | OpenAI | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | San Francisco / Remote |
 |  | OpenAI | [Technical Operations Analyst, User Safety & Risk Operations](https://jobs.ashbyhq.com/openai/7b867d19-f018-4c08-8183-d2358b733ee5) | San Francisco / Remote |
@@ -218,6 +216,7 @@ Last checked: 2026-11-18 02:23:41 UTC
 |  | Schonfeld | [Regulatory Reporting Associate](https://job-boards.greenhouse.io/schonfeld/jobs/8226258) | New York, New York, United States |
 |  | Schonfeld | [Systematic Portfolio Strategy and Risk Analyst (NYC or Miami)](https://job-boards.greenhouse.io/schonfeld/jobs/7402926) | Miami, Florida, United States; New York, New York, United States |
 |  | Stripe | [AMER Data Analyst - Sales Strategy and Operations](https://stripe.com/jobs/search?gh_jid=8354566) | Chicago, US Remote, SF, NYC, Seattle |
+|  | Stripe | [Executive Programs Coordinator](https://stripe.com/jobs/search?gh_jid=8376777) | Remote in the US |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
 |  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Chicago, Atlanta, US-Remote, Toro |
@@ -243,18 +242,18 @@ Last checked: 2026-11-18 02:23:41 UTC
 | BlackRock | 40 | 0 | OK |
 | Blackstone | 20 | 6 | OK |
 | Blackstone (Campus) | 15 | 0 | OK |
-| Point72 | 199 | 10 | OK |
+| Point72 | 200 | 10 | OK |
 | General Atlantic | 12 | 1 | OK |
-| Anthropic | 659 | 10 | OK |
+| Anthropic | 656 | 10 | OK |
 | Stripe | 789 | 10 | OK |
-| Datadog | 382 | 7 | OK |
+| Datadog | 381 | 7 | OK |
 | Palantir | 301 | 16 | OK |
 | Ramp | 181 | 14 | OK |
 | iCapital | 226 | 10 | OK |
 | AlphaSights | 65 | 13 | OK |
 | Jane Street | 215 | 6 | OK |
 | Schonfeld | 72 | 4 | OK |
-| Robinhood | 165 | 0 | OK |
+| Robinhood | 166 | 0 | OK |
 | SoFi | 51 | 0 | OK |
 | Affirm | 221 | 6 | OK |
 | Brex | 266 | 3 | OK |
@@ -264,11 +263,11 @@ Last checked: 2026-11-18 02:23:41 UTC
 | Dataiku | 13 | 0 | OK |
 | MongoDB | 394 | 3 | OK |
 | Oscar Health | 185 | 11 | OK |
-| The Trade Desk | 105 | 2 | OK |
-| Guidepoint | 108 | 6 | OK |
-| Gusto | 79 | 4 | OK |
+| The Trade Desk | 106 | 2 | OK |
+| Guidepoint | 109 | 6 | OK |
+| Gusto | 78 | 3 | OK |
 | Flatiron Health | 20 | 3 | OK |
-| OpenAI | 836 | 17 | OK |
+| OpenAI | 837 | 17 | OK |
 | Perplexity | 147 | 4 | OK |
 | Notion | 167 | 10 | OK |
 | Harvey | 383 | 21 | OK |
