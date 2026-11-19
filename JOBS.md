@@ -1,12 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-11-19 01:27:56 UTC
+Last checked: 2026-11-19 09:28:50 UTC
 
-225 matching roles open. ð = found in the latest run.
+224 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Brex | [Screening & Transaction Monitoring Associate](https://www.brex.com/careers/8950667002?gh_jid=8950667002) | New York, New York, United States |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
@@ -53,6 +52,7 @@ Last checked: 2026-11-19 01:27:56 UTC
 |  | Brex | [Analyst, Banking Operations (Domestic)](https://www.brex.com/careers/8924533002?gh_jid=8924533002) | New York, New York, United States |
 |  | Brex | [Finance Associate](https://www.brex.com/careers/8606825002?gh_jid=8606825002) | New York, New York, United States |
 |  | Brex | [Fraud Strategy Associate](https://www.brex.com/careers/8907584002?gh_jid=8907584002) | New York, New York, United States |
+|  | Brex | [Screening & Transaction Monitoring Associate](https://www.brex.com/careers/8950667002?gh_jid=8950667002) | New York, New York, United States |
 |  | Clear Street | [Associate - Client Onboarding](https://job-boards.greenhouse.io/clearstreet/jobs/8227249) | New York, NY |
 |  | Clear Street | [Associate - Tax Operations](https://job-boards.greenhouse.io/clearstreet/jobs/8249141) | New York, NY |
 |  | Clear Street | [Associate - Trade Surveillance](https://job-boards.greenhouse.io/clearstreet/jobs/7561417) | New York, NY |
@@ -149,7 +149,6 @@ Last checked: 2026-11-19 01:27:56 UTC
 |  | OpenAI | [BIM Designer & Coordinator: Civil](https://jobs.ashbyhq.com/openai/66453891-c75a-41c9-a7de-d0c67f23db4e) | US - Remote / Remote |
 |  | OpenAI | [Compensation Operations Analyst](https://jobs.ashbyhq.com/openai/31df540f-4062-46e8-918f-b747a90c7052) | San Francisco / Remote |
 |  | OpenAI | [Enterprise Account Associate - EMEA (German Speaking)](https://jobs.ashbyhq.com/openai/6c88bfaa-7f1b-4175-82f1-6d484a516ca8) | Dublin, Ireland / Remote |
-|  | OpenAI | [Onboarding Coordinator - APAC](https://jobs.ashbyhq.com/openai/70eba6e4-73e0-4cf9-a0d5-e49caeca9d7b) | Singapore / Remote |
 |  | OpenAI | [Operations Analyst, User Safety & Risk Operations](https://jobs.ashbyhq.com/openai/daabc150-f22c-421e-b30d-1a50fb4cede3) | San Francisco / Remote |
 |  | OpenAI | [Partnerships & External Affairs Associate, Global Affairs](https://jobs.ashbyhq.com/openai/a00fce27-16ef-47f0-a584-a1ea37adbc96) | San Francisco / Remote |
 |  | OpenAI | [Privacy Operations Analyst](https://jobs.ashbyhq.com/openai/6b8c6731-9bf0-4a0a-8e2f-46662f5a5073) | Dublin, Ireland / Remote |
@@ -244,8 +243,8 @@ Last checked: 2026-11-19 01:27:56 UTC
 | Blackstone (Campus) | 14 | 0 | OK |
 | Point72 | 202 | 10 | OK |
 | General Atlantic | 12 | 1 | OK |
-| Anthropic | 644 | 10 | OK |
-| Stripe | 785 | 10 | OK |
+| Anthropic | 638 | 10 | OK |
+| Stripe | 783 | 10 | OK |
 | Datadog | 380 | 7 | OK |
 | Palantir | 306 | 16 | OK |
 | Ramp | 182 | 14 | OK |
@@ -261,17 +260,17 @@ Last checked: 2026-11-19 01:27:56 UTC
 | Clear Street | 38 | 7 | OK |
 | Scale AI | 167 | 0 | OK |
 | Dataiku | 13 | 0 | OK |
-| MongoDB | 403 | 3 | OK |
-| Oscar Health | 193 | 11 | OK |
-| The Trade Desk | 109 | 2 | OK |
+| MongoDB | 404 | 3 | OK |
+| Oscar Health | 194 | 11 | OK |
+| The Trade Desk | 110 | 2 | OK |
 | Guidepoint | 105 | 6 | OK |
 | Gusto | 82 | 3 | OK |
 | Flatiron Health | 21 | 3 | OK |
-| OpenAI | 835 | 17 | OK |
+| OpenAI | 833 | 16 | OK |
 | Perplexity | 147 | 4 | OK |
 | Notion | 168 | 10 | OK |
 | Harvey | 392 | 21 | OK |
-| Kalshi | 43 | 2 | OK |
+| Kalshi | 42 | 2 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 125 | 7 | OK |
 | Vanta | 73 | 3 | OK |
