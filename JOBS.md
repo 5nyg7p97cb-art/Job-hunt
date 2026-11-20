@@ -1,14 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-11-20 01:13:55 UTC
+Last checked: 2026-11-20 09:09:22 UTC
 
-222 matching roles open. ð = found in the latest run.
+221 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Affirm | [Capital Markets Specialist I (2027 Early Career Program)](https://job-boards.greenhouse.io/affirm/jobs/8205833003) | New York, New York, United States |
-| ð | Affirm | [Internal Auditor I (2027 Early Career Program)](https://job-boards.greenhouse.io/affirm/jobs/8206173003) | New York, New York, United States |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
+|  | Affirm | [Capital Markets Specialist I (2027 Early Career Program)](https://job-boards.greenhouse.io/affirm/jobs/8205833003) | New York, New York, United States |
+|  | Affirm | [Internal Auditor I (2027 Early Career Program)](https://job-boards.greenhouse.io/affirm/jobs/8206173003) | New York, New York, United States |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
@@ -34,7 +34,6 @@ Last checked: 2026-11-20 01:13:55 UTC
 |  | Anthropic | [Safeguards Enforcement Analyst, Access Controls & Identity](https://job-boards.greenhouse.io/anthropic/jobs/5319626008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Account Takeover & Credential Abuse](https://job-boards.greenhouse.io/anthropic/jobs/5319624008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Bio Harms](https://job-boards.greenhouse.io/anthropic/jobs/5319696008) | San Francisco, CA / New York City, NY / Washington, DC |
-|  | Anthropic | [Safeguards Enforcement Analyst, Conventional Weapons](https://job-boards.greenhouse.io/anthropic/jobs/5410006008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Integrity & Authenticity](https://job-boards.greenhouse.io/anthropic/jobs/5311149008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Betterment | [Business Development Representative](https://www.betterment.com/careers/current-openings/job?gh_jid=8195434&gh_jid=8195434) | Betterment HQ - New York City |
 |  | Betterment | [Capital Markets Associate](https://www.betterment.com/careers/current-openings/job?gh_jid=8351132&gh_jid=8351132) | Betterment HQ - New York City |
@@ -241,33 +240,33 @@ Last checked: 2026-11-20 01:13:55 UTC
 | Blackstone (Campus) | 14 | 0 | OK |
 | Point72 | 202 | 10 | OK |
 | General Atlantic | 12 | 1 | OK |
-| Anthropic | 637 | 10 | OK |
-| Stripe | 772 | 9 | OK |
-| Datadog | 380 | 6 | OK |
+| Anthropic | 637 | 9 | OK |
+| Stripe | 773 | 9 | OK |
+| Datadog | 383 | 6 | OK |
 | Palantir | 307 | 17 | OK |
 | Ramp | 185 | 14 | OK |
 | iCapital | 233 | 10 | OK |
 | AlphaSights | 67 | 13 | OK |
-| Jane Street | 215 | 6 | OK |
+| Jane Street | 216 | 6 | OK |
 | Schonfeld | 72 | 4 | OK |
 | Robinhood | 166 | 0 | OK |
 | SoFi | 54 | 0 | OK |
-| Affirm | 227 | 7 | OK |
+| Affirm | 225 | 7 | OK |
 | Brex | 249 | 4 | OK |
 | Betterment | 26 | 3 | OK |
 | Clear Street | 34 | 6 | OK |
 | Scale AI | 168 | 0 | OK |
 | Dataiku | 13 | 0 | OK |
-| MongoDB | 415 | 3 | OK |
+| MongoDB | 413 | 3 | OK |
 | Oscar Health | 188 | 9 | OK |
-| The Trade Desk | 113 | 2 | OK |
+| The Trade Desk | 114 | 2 | OK |
 | Guidepoint | 106 | 6 | OK |
-| Gusto | 83 | 2 | OK |
+| Gusto | 82 | 2 | OK |
 | Flatiron Health | 21 | 3 | OK |
-| OpenAI | 849 | 17 | OK |
+| OpenAI | 853 | 17 | OK |
 | Perplexity | 148 | 4 | OK |
-| Notion | 167 | 10 | OK |
-| Harvey | 390 | 21 | OK |
+| Notion | 168 | 10 | OK |
+| Harvey | 388 | 21 | OK |
 | Kalshi | 41 | 2 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 125 | 7 | OK |
