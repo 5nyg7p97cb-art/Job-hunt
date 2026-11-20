@@ -1,11 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-11-20 18:00:23 UTC
+Last checked: 2026-11-20 23:57:42 UTC
 
-218 matching roles open. ð = found in the latest run.
+220 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Affirm | [Software Engineer I, Fullstack (Disputes Platform)](https://job-boards.greenhouse.io/affirm/jobs/8196691003) | Remote Canada |
+| ð | Palantir | [Supply Chain Security Analyst](https://jobs.lever.co/palantir/7600fb76-e25e-418c-bf83-d2b1444f2dc6) | New York, NY |
+| ð | Ramp | [Associate, GTM Operations](https://jobs.ashbyhq.com/ramp/b18f851e-8784-452f-9eb1-43b57e8c2871) | New York, NY (HQ) / San Francisco, CA / Remote |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
@@ -75,8 +78,8 @@ Last checked: 2026-11-20 18:00:23 UTC
 |  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -152,7 +155,6 @@ Last checked: 2026-11-20 18:00:23 UTC
 |  | OpenAI | [Risk & Fraud Analyst](https://jobs.ashbyhq.com/openai/72a513ec-d75c-48d5-9fa5-7eac3d7d12b2) | San Francisco / Remote |
 |  | OpenAI | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | San Francisco / Remote |
 |  | OpenAI | [Technical Operations Analyst, User Safety & Risk Operations](https://jobs.ashbyhq.com/openai/7b867d19-f018-4c08-8183-d2358b733ee5) | San Francisco / Remote |
-|  | Oscar Health | [Actuarial Analyst, Valuation](https://oscarhealth.com/careers/jobs?gh_jid=8303593) | New York, New York, United States |
 |  | Oscar Health | [Analyst, Risk Adjustment](https://oscarhealth.com/careers/jobs?gh_jid=8303591) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://oscarhealth.com/careers/jobs?gh_jid=8023759) | Remote |
 |  | Oscar Health | [Associate, Member and Provider Programs](https://oscarhealth.com/careers/jobs?gh_jid=8303620) | New York, New York, United States |
@@ -232,39 +234,39 @@ Last checked: 2026-11-20 18:00:23 UTC
 | Bilt | 28 | 6 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 43 | 0 | OK |
+| BlackRock | 41 | 0 | OK |
 | Blackstone | 20 | 6 | OK |
 | Blackstone (Campus) | 14 | 0 | OK |
 | Point72 | 202 | 10 | OK |
 | General Atlantic | 12 | 1 | OK |
-| Anthropic | 639 | 9 | OK |
-| Stripe | 778 | 8 | OK |
+| Anthropic | 634 | 9 | OK |
+| Stripe | 781 | 8 | OK |
 | Datadog | 382 | 6 | OK |
-| Palantir | 306 | 17 | OK |
-| Ramp | 185 | 14 | OK |
-| iCapital | 232 | 10 | OK |
+| Palantir | 308 | 18 | OK |
+| Ramp | 187 | 15 | OK |
+| iCapital | 235 | 10 | OK |
 | AlphaSights | 67 | 13 | OK |
 | Jane Street | 216 | 6 | OK |
-| Schonfeld | 72 | 4 | OK |
-| Robinhood | 166 | 0 | OK |
-| SoFi | 54 | 0 | OK |
-| Affirm | 219 | 5 | OK |
-| Brex | 245 | 4 | OK |
+| Schonfeld | 70 | 4 | OK |
+| Robinhood | 163 | 0 | OK |
+| SoFi | 53 | 0 | OK |
+| Affirm | 218 | 6 | OK |
+| Brex | 249 | 4 | OK |
 | Betterment | 26 | 3 | OK |
 | Clear Street | 34 | 6 | OK |
-| Scale AI | 167 | 0 | OK |
+| Scale AI | 168 | 0 | OK |
 | Dataiku | 13 | 0 | OK |
-| MongoDB | 414 | 3 | OK |
-| Oscar Health | 177 | 9 | OK |
-| The Trade Desk | 115 | 2 | OK |
-| Guidepoint | 109 | 6 | OK |
+| MongoDB | 417 | 3 | OK |
+| Oscar Health | 180 | 8 | OK |
+| The Trade Desk | 118 | 2 | OK |
+| Guidepoint | 108 | 6 | OK |
 | Gusto | 82 | 2 | OK |
 | Flatiron Health | 23 | 3 | OK |
-| OpenAI | 853 | 17 | OK |
-| Perplexity | 148 | 4 | OK |
+| OpenAI | 852 | 17 | OK |
+| Perplexity | 151 | 4 | OK |
 | Notion | 169 | 10 | OK |
-| Harvey | 386 | 21 | OK |
+| Harvey | 383 | 21 | OK |
 | Kalshi | 41 | 2 | OK |
 | Unify | 13 | 1 | OK |
-| Cohere | 125 | 7 | OK |
+| Cohere | 124 | 7 | OK |
 | Vanta | 69 | 3 | OK |
