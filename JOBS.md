@@ -1,13 +1,13 @@
 # Entry-level openings
 
-Last checked: 2026-11-19 18:38:50 UTC
+Last checked: 2026-11-20 01:13:55 UTC
 
-224 matching roles open. ð = found in the latest run.
+222 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | OpenAI | [Risk & Fraud Analyst](https://jobs.ashbyhq.com/openai/72a513ec-d75c-48d5-9fa5-7eac3d7d12b2) | San Francisco / Remote |
-| ð | Palantir | [Site Reliability Operations Analyst - Legal](https://jobs.lever.co/palantir/773bb739-f011-4202-88d7-362a562df0d3) | New York, NY |
+| ð | Affirm | [Capital Markets Specialist I (2027 Early Career Program)](https://job-boards.greenhouse.io/affirm/jobs/8205833003) | New York, New York, United States |
+| ð | Affirm | [Internal Auditor I (2027 Early Career Program)](https://job-boards.greenhouse.io/affirm/jobs/8206173003) | New York, New York, United States |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
@@ -55,7 +55,6 @@ Last checked: 2026-11-19 18:38:50 UTC
 |  | Brex | [Finance Associate](https://www.brex.com/careers/8606825002?gh_jid=8606825002) | New York, New York, United States |
 |  | Brex | [Fraud Strategy Associate](https://www.brex.com/careers/8907584002?gh_jid=8907584002) | New York, New York, United States |
 |  | Brex | [Screening & Transaction Monitoring Associate](https://www.brex.com/careers/8950667002?gh_jid=8950667002) | New York, New York, United States |
-|  | Clear Street | [Associate - Client Onboarding](https://job-boards.greenhouse.io/clearstreet/jobs/8227249) | New York, NY |
 |  | Clear Street | [Associate - Tax Operations](https://job-boards.greenhouse.io/clearstreet/jobs/8249141) | New York, NY |
 |  | Clear Street | [Associate - Trade Surveillance](https://job-boards.greenhouse.io/clearstreet/jobs/7561417) | New York, NY |
 |  | Clear Street | [Associate Associate - Equity Research](https://job-boards.greenhouse.io/clearstreet/jobs/8381024) | New York, NY |
@@ -75,7 +74,6 @@ Last checked: 2026-11-19 18:38:50 UTC
 |  | Datadog | [FP&A Analyst, Cloud Finance](https://careers.datadoghq.com/detail/8267437/?gh_jid=8267437) | New York, New York, USA |
 |  | Datadog | [People Solutions Coordinator (NYC)](https://careers.datadoghq.com/detail/7728298/?gh_jid=7728298) | New York, New York, USA |
 |  | Datadog | [Recruiting Coordinator](https://careers.datadoghq.com/detail/8247346/?gh_jid=8247346) | Boston, Massachusetts, USA; New York, New York, USA |
-|  | Datadog | [Strategic Finance Analyst](https://careers.datadoghq.com/detail/8257306/?gh_jid=8257306) | New York, New York, USA |
 |  | Flatiron Health | [Associate, Abstraction Training - Instructional Designer](https://flatiron.com/careers/open-positions/job?gh_jid=8292596) | NY office |
 |  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
@@ -86,7 +84,6 @@ Last checked: 2026-11-19 18:38:50 UTC
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8715494002) | New York, New York, United States |
-|  | Gusto | [Enhanced Due Diligence Investigations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8275011) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
 |  | Gusto | [People Tech Business Systems Analyst](https://job-boards.greenhouse.io/gusto/jobs/8257482) | Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid |
 |  | Gusto | [Security Operations Analyst](https://job-boards.greenhouse.io/gusto/jobs/8348189) | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid |
 |  | Harvey | [Associate Commercial Counsel, London](https://jobs.ashbyhq.com/harvey/0a8ca756-7d41-46cc-8cde-960af47658b2) | London / Remote |
@@ -155,6 +152,7 @@ Last checked: 2026-11-19 18:38:50 UTC
 |  | OpenAI | [Partnerships & External Affairs Associate, Global Affairs](https://jobs.ashbyhq.com/openai/a00fce27-16ef-47f0-a584-a1ea37adbc96) | San Francisco / Remote |
 |  | OpenAI | [Privacy Operations Analyst](https://jobs.ashbyhq.com/openai/6b8c6731-9bf0-4a0a-8e2f-46662f5a5073) | Dublin, Ireland / Remote |
 |  | OpenAI | [Recruiting Coordinator - Contract](https://jobs.ashbyhq.com/openai/dbd5ae8a-7c01-4f17-be39-b8caa8fd95d5) | San Francisco / New York City / Seattle / Remote |
+|  | OpenAI | [Risk & Fraud Analyst](https://jobs.ashbyhq.com/openai/72a513ec-d75c-48d5-9fa5-7eac3d7d12b2) | San Francisco / Remote |
 |  | OpenAI | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | San Francisco / Remote |
 |  | OpenAI | [Technical Operations Analyst, User Safety & Risk Operations](https://jobs.ashbyhq.com/openai/7b867d19-f018-4c08-8183-d2358b733ee5) | San Francisco / Remote |
 |  | Oscar Health | [Actuarial Analyst, Valuation](https://oscarhealth.com/careers/jobs?gh_jid=8303593) | New York, New York, United States |
@@ -176,6 +174,7 @@ Last checked: 2026-11-19 18:38:50 UTC
 |  | Palantir | [Product Designer, New Grad](https://jobs.lever.co/palantir/4c0fb3a1-8256-4d14-9a27-23727235752e) | New York, NY |
 |  | Palantir | [Product Designer, New Grad - US Government](https://jobs.lever.co/palantir/5f7a90e7-f927-47bf-90ed-52d17c58ae02) | New York, NY |
 |  | Palantir | [Site Reliability Operations Analyst - Commercial](https://jobs.lever.co/palantir/5174e95b-2e0a-46f8-8db7-e2c837a0ac94) | New York, NY |
+|  | Palantir | [Site Reliability Operations Analyst - Legal](https://jobs.lever.co/palantir/773bb739-f011-4202-88d7-362a562df0d3) | New York, NY |
 |  | Palantir | [Software Engineer, New Grad](https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92) | New York, NY |
 |  | Palantir | [Software Engineer, New Grad - Defense](https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278) | New York, NY |
 |  | Palantir | [Software Engineer, New Grad - Infrastructure](https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4) | New York, NY |
@@ -217,7 +216,6 @@ Last checked: 2026-11-19 18:38:50 UTC
 |  | Stripe | [AMER Data Analyst - Sales Strategy and Operations](https://stripe.com/jobs/search?gh_jid=8354566) | Chicago, US Remote, SF, NYC, Seattle |
 |  | Stripe | [Accounts Receivable Analyst](https://stripe.com/jobs/search?gh_jid=8375966) | SEA, NYC |
 |  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8231575) | SF, SEA, CHI, NYC |
-|  | Stripe | [Finance & Strategy, Corporate Finance Analyst](https://stripe.com/jobs/search?gh_jid=8249865) | New York, NY |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Chicago, Atlanta, US-Remote, Toro |
 |  | Stripe | [Risk Operations Analyst - Restricted Business Operations](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
@@ -243,34 +241,34 @@ Last checked: 2026-11-19 18:38:50 UTC
 | Blackstone (Campus) | 14 | 0 | OK |
 | Point72 | 202 | 10 | OK |
 | General Atlantic | 12 | 1 | OK |
-| Anthropic | 640 | 10 | OK |
-| Stripe | 780 | 10 | OK |
-| Datadog | 377 | 7 | OK |
+| Anthropic | 637 | 10 | OK |
+| Stripe | 772 | 9 | OK |
+| Datadog | 380 | 6 | OK |
 | Palantir | 307 | 17 | OK |
-| Ramp | 183 | 14 | OK |
-| iCapital | 232 | 10 | OK |
-| AlphaSights | 66 | 13 | OK |
+| Ramp | 185 | 14 | OK |
+| iCapital | 233 | 10 | OK |
+| AlphaSights | 67 | 13 | OK |
 | Jane Street | 215 | 6 | OK |
 | Schonfeld | 72 | 4 | OK |
-| Robinhood | 165 | 0 | OK |
-| SoFi | 53 | 0 | OK |
-| Affirm | 225 | 5 | OK |
-| Brex | 261 | 4 | OK |
-| Betterment | 25 | 3 | OK |
-| Clear Street | 38 | 7 | OK |
-| Scale AI | 167 | 0 | OK |
+| Robinhood | 166 | 0 | OK |
+| SoFi | 54 | 0 | OK |
+| Affirm | 227 | 7 | OK |
+| Brex | 249 | 4 | OK |
+| Betterment | 26 | 3 | OK |
+| Clear Street | 34 | 6 | OK |
+| Scale AI | 168 | 0 | OK |
 | Dataiku | 13 | 0 | OK |
-| MongoDB | 407 | 3 | OK |
-| Oscar Health | 191 | 9 | OK |
-| The Trade Desk | 112 | 2 | OK |
-| Guidepoint | 105 | 6 | OK |
-| Gusto | 82 | 3 | OK |
+| MongoDB | 415 | 3 | OK |
+| Oscar Health | 188 | 9 | OK |
+| The Trade Desk | 113 | 2 | OK |
+| Guidepoint | 106 | 6 | OK |
+| Gusto | 83 | 2 | OK |
 | Flatiron Health | 21 | 3 | OK |
-| OpenAI | 840 | 17 | OK |
-| Perplexity | 147 | 4 | OK |
-| Notion | 169 | 10 | OK |
-| Harvey | 393 | 21 | OK |
+| OpenAI | 849 | 17 | OK |
+| Perplexity | 148 | 4 | OK |
+| Notion | 167 | 10 | OK |
+| Harvey | 390 | 21 | OK |
 | Kalshi | 41 | 2 | OK |
 | Unify | 11 | 1 | OK |
 | Cohere | 125 | 7 | OK |
-| Vanta | 73 | 3 | OK |
+| Vanta | 69 | 3 | OK |
