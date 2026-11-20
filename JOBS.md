@@ -1,18 +1,16 @@
 # Entry-level openings
 
-Last checked: 2026-11-20 09:09:22 UTC
+Last checked: 2026-11-20 18:00:23 UTC
 
-221 matching roles open. ð = found in the latest run.
+218 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Capital Markets Specialist I (2027 Early Career Program)](https://job-boards.greenhouse.io/affirm/jobs/8205833003) | New York, New York, United States |
-|  | Affirm | [Internal Auditor I (2027 Early Career Program)](https://job-boards.greenhouse.io/affirm/jobs/8206173003) | New York, New York, United States |
-|  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
+|  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | AlphaSights | [Analyst, Surveys](https://www.alphasights.com/careers/open-roles?gh_jid=8383826) | New York |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -77,8 +75,8 @@ Last checked: 2026-11-20 09:09:22 UTC
 |  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -158,10 +156,10 @@ Last checked: 2026-11-20 09:09:22 UTC
 |  | Oscar Health | [Analyst, Risk Adjustment](https://oscarhealth.com/careers/jobs?gh_jid=8303591) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://oscarhealth.com/careers/jobs?gh_jid=8023759) | Remote |
 |  | Oscar Health | [Associate, Member and Provider Programs](https://oscarhealth.com/careers/jobs?gh_jid=8303620) | New York, New York, United States |
-|  | Oscar Health | [Associate, Network Contracting (Northeast Region)](https://oscarhealth.com/careers/jobs?gh_jid=8145032) | New York, New York, United States |
 |  | Oscar Health | [Associate, Pricing Configuration](https://oscarhealth.com/careers/jobs?gh_jid=8374121) | New York, New York, United States |
 |  | Oscar Health | [Associate, Service Transformation](https://oscarhealth.com/careers/jobs?gh_jid=8349789) | New York, New York, United States |
 |  | Oscar Health | [Associate, Strategic Finance](https://oscarhealth.com/careers/jobs?gh_jid=8011066) | New York, New York, United States |
+|  | Oscar Health | [Operations Analyst, Plan Loading](https://oscarhealth.com/careers/jobs?gh_jid=8286491) | Remote |
 |  | Oscar Health | [Operations Engineer I](https://oscarhealth.com/careers/jobs?gh_jid=8301410) | New York, New York, United States |
 |  | Palantir | [Compliance Analyst](https://jobs.lever.co/palantir/c6f9eaaf-b397-476f-8b7d-c511cfb7e5c6) | New York, NY |
 |  | Palantir | [Forward Deployed Infrastructure Engineer, New Grad - US Government](https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8) | New York, NY |
@@ -219,7 +217,6 @@ Last checked: 2026-11-20 09:09:22 UTC
 |  | Stripe | [Risk Operations Analyst - Restricted Business Operations](https://stripe.com/jobs/search?gh_jid=8175824) | Remote |
 |  | Stripe | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York |
 |  | Stripe | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8128744) | San Francisco, Seattle, New York |
-|  | Stripe | [University Recruiter (Fixed Term)](https://stripe.com/jobs/search?gh_jid=8226211) | San Francisco, New York, Seattle, US-Remote |
 |  | Stripe | [Workplace Design Coordinator](https://stripe.com/jobs/search?gh_jid=8275261) | SF, NYC, SEA, TOR |
 |  | The Trade Desk | [Associate General Counsel, Commercial CTV & Advertising](https://job-boards.greenhouse.io/thetradedesk/jobs/4682475007) | Chicago; Irvine; Los Angeles; New York; San Francisco; San Jose |
 |  | The Trade Desk | [Associate General Counsel, Product & Privacy](https://job-boards.greenhouse.io/thetradedesk/jobs/5154942007) | Chicago; Irvine; Los Angeles; New York; San Francisco; San Jose |
@@ -235,39 +232,39 @@ Last checked: 2026-11-20 09:09:22 UTC
 | Bilt | 28 | 6 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 44 | 0 | OK |
+| BlackRock | 43 | 0 | OK |
 | Blackstone | 20 | 6 | OK |
 | Blackstone (Campus) | 14 | 0 | OK |
 | Point72 | 202 | 10 | OK |
 | General Atlantic | 12 | 1 | OK |
-| Anthropic | 637 | 9 | OK |
-| Stripe | 773 | 9 | OK |
-| Datadog | 383 | 6 | OK |
-| Palantir | 307 | 17 | OK |
+| Anthropic | 639 | 9 | OK |
+| Stripe | 778 | 8 | OK |
+| Datadog | 382 | 6 | OK |
+| Palantir | 306 | 17 | OK |
 | Ramp | 185 | 14 | OK |
-| iCapital | 233 | 10 | OK |
+| iCapital | 232 | 10 | OK |
 | AlphaSights | 67 | 13 | OK |
 | Jane Street | 216 | 6 | OK |
 | Schonfeld | 72 | 4 | OK |
 | Robinhood | 166 | 0 | OK |
 | SoFi | 54 | 0 | OK |
-| Affirm | 225 | 7 | OK |
-| Brex | 249 | 4 | OK |
+| Affirm | 219 | 5 | OK |
+| Brex | 245 | 4 | OK |
 | Betterment | 26 | 3 | OK |
 | Clear Street | 34 | 6 | OK |
-| Scale AI | 168 | 0 | OK |
+| Scale AI | 167 | 0 | OK |
 | Dataiku | 13 | 0 | OK |
-| MongoDB | 413 | 3 | OK |
-| Oscar Health | 188 | 9 | OK |
-| The Trade Desk | 114 | 2 | OK |
-| Guidepoint | 106 | 6 | OK |
+| MongoDB | 414 | 3 | OK |
+| Oscar Health | 177 | 9 | OK |
+| The Trade Desk | 115 | 2 | OK |
+| Guidepoint | 109 | 6 | OK |
 | Gusto | 82 | 2 | OK |
-| Flatiron Health | 21 | 3 | OK |
+| Flatiron Health | 23 | 3 | OK |
 | OpenAI | 853 | 17 | OK |
 | Perplexity | 148 | 4 | OK |
-| Notion | 168 | 10 | OK |
-| Harvey | 388 | 21 | OK |
+| Notion | 169 | 10 | OK |
+| Harvey | 386 | 21 | OK |
 | Kalshi | 41 | 2 | OK |
-| Unify | 11 | 1 | OK |
+| Unify | 13 | 1 | OK |
 | Cohere | 125 | 7 | OK |
 | Vanta | 69 | 3 | OK |
