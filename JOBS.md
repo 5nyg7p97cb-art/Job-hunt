@@ -1,17 +1,17 @@
 # Entry-level openings
 
-Last checked: 2026-11-20 23:57:42 UTC
+Last checked: 2026-11-21 06:57:46 UTC
 
-220 matching roles open. ð = found in the latest run.
+222 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Affirm | [Software Engineer I, Fullstack (Disputes Platform)](https://job-boards.greenhouse.io/affirm/jobs/8196691003) | Remote Canada |
-| ð | Palantir | [Supply Chain Security Analyst](https://jobs.lever.co/palantir/7600fb76-e25e-418c-bf83-d2b1444f2dc6) | New York, NY |
-| ð | Ramp | [Associate, GTM Operations](https://jobs.ashbyhq.com/ramp/b18f851e-8784-452f-9eb1-43b57e8c2871) | New York, NY (HQ) / San Francisco, CA / Remote |
+| ð | Affirm | [Software Engineer I, Backend (Streaming Infra)](https://job-boards.greenhouse.io/affirm/jobs/8201471003) | Remote Canada |
+| ð | Affirm | [Software Engineer I, Backend (Streaming Infra)](https://job-boards.greenhouse.io/affirm/jobs/8201469003) | Remote US |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
+|  | Affirm | [Software Engineer I, Fullstack (Disputes Platform)](https://job-boards.greenhouse.io/affirm/jobs/8196691003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | AlphaSights | [Analyst, Surveys](https://www.alphasights.com/careers/open-roles?gh_jid=8383826) | New York |
@@ -179,6 +179,7 @@ Last checked: 2026-11-20 23:57:42 UTC
 |  | Palantir | [Software Engineer, New Grad - Infrastructure](https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4) | New York, NY |
 |  | Palantir | [Software Engineer, New Grad - Production Infrastructure](https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a) | New York, NY |
 |  | Palantir | [Software Engineer, New Grad - Query Engines](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac) | New York, NY |
+|  | Palantir | [Supply Chain Security Analyst](https://jobs.lever.co/palantir/7600fb76-e25e-418c-bf83-d2b1444f2dc6) | New York, NY |
 |  | Palantir | [Talent Coordinator](https://jobs.lever.co/palantir/4186c7e2-1fc4-4049-81fb-fa98efb9d1de) | New York, NY |
 |  | Perplexity | [Business Development Representative](https://jobs.ashbyhq.com/Perplexity/a5b97109-222d-49e1-b2ac-e101487a5ddd) | San Francisco / New York City / Remote |
 |  | Perplexity | [Payroll Analyst](https://jobs.ashbyhq.com/Perplexity/5080dab5-7eb7-4cb2-9e2c-c61531fd3ad1) | San Francisco / Remote (United States) / Remote |
@@ -195,6 +196,7 @@ Last checked: 2026-11-20 23:57:42 UTC
 |  | Point72 | [Technical Business Analyst](https://boards.greenhouse.io/point72/jobs/8877421002?gh_jid=8877421002) | New York |
 |  | Point72 | [Trader/Quant Analyst](https://boards.greenhouse.io/point72/jobs/8375066002?gh_jid=8375066002) | Stamford, New York |
 |  | Ramp | [Analyst, Deal Operations](https://jobs.ashbyhq.com/ramp/7e531974-caac-46a2-804e-c6c3140bfda4) | San Francisco, CA / Remote |
+|  | Ramp | [Associate, GTM Operations](https://jobs.ashbyhq.com/ramp/b18f851e-8784-452f-9eb1-43b57e8c2871) | New York, NY (HQ) / San Francisco, CA / Remote |
 |  | Ramp | [Associate, Strategic Finance](https://jobs.ashbyhq.com/ramp/606475af-b74f-42c4-978a-dde138a86ac7) | New York, NY (HQ) / San Francisco, CA / Remote |
 |  | Ramp | [Business Development Representative / Ontario, Canada](https://jobs.ashbyhq.com/ramp/cce684de-191d-4a8a-bc42-7ded3ccd47af) | Toronto, ON / Remote |
 |  | Ramp | [Customer Experience Associate](https://jobs.ashbyhq.com/ramp/d64609dd-c391-45a2-bfdb-c1bb34e8f93c) | New York, NY (HQ) / Remote (US) / Denver, CO / Miami, FL / Remote |
@@ -239,8 +241,8 @@ Last checked: 2026-11-20 23:57:42 UTC
 | Blackstone (Campus) | 14 | 0 | OK |
 | Point72 | 202 | 10 | OK |
 | General Atlantic | 12 | 1 | OK |
-| Anthropic | 634 | 9 | OK |
-| Stripe | 781 | 8 | OK |
+| Anthropic | 633 | 9 | OK |
+| Stripe | 778 | 8 | OK |
 | Datadog | 382 | 6 | OK |
 | Palantir | 308 | 18 | OK |
 | Ramp | 187 | 15 | OK |
@@ -250,11 +252,11 @@ Last checked: 2026-11-20 23:57:42 UTC
 | Schonfeld | 70 | 4 | OK |
 | Robinhood | 163 | 0 | OK |
 | SoFi | 53 | 0 | OK |
-| Affirm | 218 | 6 | OK |
+| Affirm | 222 | 8 | OK |
 | Brex | 249 | 4 | OK |
 | Betterment | 26 | 3 | OK |
 | Clear Street | 34 | 6 | OK |
-| Scale AI | 168 | 0 | OK |
+| Scale AI | 169 | 0 | OK |
 | Dataiku | 13 | 0 | OK |
 | MongoDB | 417 | 3 | OK |
 | Oscar Health | 180 | 8 | OK |
@@ -264,8 +266,8 @@ Last checked: 2026-11-20 23:57:42 UTC
 | Flatiron Health | 23 | 3 | OK |
 | OpenAI | 852 | 17 | OK |
 | Perplexity | 151 | 4 | OK |
-| Notion | 169 | 10 | OK |
-| Harvey | 383 | 21 | OK |
+| Notion | 170 | 10 | OK |
+| Harvey | 388 | 21 | OK |
 | Kalshi | 41 | 2 | OK |
 | Unify | 13 | 1 | OK |
 | Cohere | 124 | 7 | OK |
