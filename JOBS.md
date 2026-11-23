@@ -1,16 +1,17 @@
 # Entry-level openings
 
-Last checked: 2026-11-23 03:05:32 UTC
+Last checked: 2026-11-23 12:28:56 UTC
 
-222 matching roles open. ð = found in the latest run.
+223 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Dataiku | [Business Development Representative](https://job-boards.greenhouse.io/dataiku/jobs/6266597004) | United States, New York |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
-|  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Backend (Streaming Infra)](https://job-boards.greenhouse.io/affirm/jobs/8201469003) | Remote US |
+|  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Streaming Infra)](https://job-boards.greenhouse.io/affirm/jobs/8201471003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Backend (Streaming Infra)](https://job-boards.greenhouse.io/affirm/jobs/8201469003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Disputes Platform)](https://job-boards.greenhouse.io/affirm/jobs/8196691003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
@@ -78,8 +79,8 @@ Last checked: 2026-11-23 03:05:32 UTC
 |  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -239,36 +240,36 @@ Last checked: 2026-11-23 03:05:32 UTC
 | BlackRock | 41 | 0 | OK |
 | Blackstone | 20 | 6 | OK |
 | Blackstone (Campus) | 14 | 0 | OK |
-| Point72 | 203 | 10 | OK |
+| Point72 | 202 | 10 | OK |
 | General Atlantic | 12 | 1 | OK |
-| Anthropic | 636 | 9 | OK |
-| Stripe | 778 | 8 | OK |
-| Datadog | 383 | 6 | OK |
+| Anthropic | 634 | 9 | OK |
+| Stripe | 776 | 8 | OK |
+| Datadog | 385 | 6 | OK |
 | Palantir | 308 | 18 | OK |
 | Ramp | 187 | 15 | OK |
 | iCapital | 235 | 10 | OK |
 | AlphaSights | 67 | 13 | OK |
 | Jane Street | 216 | 6 | OK |
-| Schonfeld | 70 | 4 | OK |
+| Schonfeld | 71 | 4 | OK |
 | Robinhood | 163 | 0 | OK |
 | SoFi | 53 | 0 | OK |
-| Affirm | 222 | 8 | OK |
-| Brex | 249 | 4 | OK |
+| Affirm | 219 | 8 | OK |
+| Brex | 248 | 4 | OK |
 | Betterment | 26 | 3 | OK |
 | Clear Street | 34 | 6 | OK |
-| Scale AI | 166 | 0 | OK |
-| Dataiku | 13 | 0 | OK |
-| MongoDB | 417 | 3 | OK |
+| Scale AI | 162 | 0 | OK |
+| Dataiku | 15 | 1 | OK |
+| MongoDB | 418 | 3 | OK |
 | Oscar Health | 180 | 8 | OK |
-| The Trade Desk | 118 | 2 | OK |
-| Guidepoint | 108 | 6 | OK |
-| Gusto | 83 | 2 | OK |
+| The Trade Desk | 119 | 2 | OK |
+| Guidepoint | 105 | 6 | OK |
+| Gusto | 84 | 2 | OK |
 | Flatiron Health | 23 | 3 | OK |
 | OpenAI | 852 | 17 | OK |
 | Perplexity | 151 | 4 | OK |
 | Notion | 170 | 10 | OK |
-| Harvey | 390 | 21 | OK |
+| Harvey | 393 | 21 | OK |
 | Kalshi | 41 | 2 | OK |
 | Unify | 13 | 1 | OK |
-| Cohere | 124 | 7 | OK |
+| Cohere | 123 | 7 | OK |
 | Vanta | 69 | 3 | OK |
