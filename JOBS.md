@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-11-22 22:28:17 UTC
+Last checked: 2026-11-23 03:05:32 UTC
 
 222 matching roles open. ð = found in the latest run.
 
@@ -239,11 +239,11 @@ Last checked: 2026-11-22 22:28:17 UTC
 | BlackRock | 41 | 0 | OK |
 | Blackstone | 20 | 6 | OK |
 | Blackstone (Campus) | 14 | 0 | OK |
-| Point72 | 202 | 10 | OK |
+| Point72 | 203 | 10 | OK |
 | General Atlantic | 12 | 1 | OK |
 | Anthropic | 636 | 9 | OK |
 | Stripe | 778 | 8 | OK |
-| Datadog | 382 | 6 | OK |
+| Datadog | 383 | 6 | OK |
 | Palantir | 308 | 18 | OK |
 | Ramp | 187 | 15 | OK |
 | iCapital | 235 | 10 | OK |
@@ -262,7 +262,7 @@ Last checked: 2026-11-22 22:28:17 UTC
 | Oscar Health | 180 | 8 | OK |
 | The Trade Desk | 118 | 2 | OK |
 | Guidepoint | 108 | 6 | OK |
-| Gusto | 82 | 2 | OK |
+| Gusto | 83 | 2 | OK |
 | Flatiron Health | 23 | 3 | OK |
 | OpenAI | 852 | 17 | OK |
 | Perplexity | 151 | 4 | OK |
