@@ -1,16 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-11-24 00:19:40 UTC
+Last checked: 2026-11-24 10:23:55 UTC
 
 225 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Brex | [Credit Policy & Governance Associate](https://www.brex.com/careers/8957623002?gh_jid=8957623002) | New York, New York, United States |
-| ð | Harvey | [Recruiting Coordinator](https://jobs.ashbyhq.com/harvey/2b574e64-b3f4-43d7-bcbf-c1210c055f59) | Toronto / Remote |
-| ð | Oscar Health | [Associate, Payment Integrity](https://oscarhealth.com/careers/jobs?gh_jid=8394175) | New York, New York, United States |
-| ð | Oscar Health | [Associate, Payment Integrity](https://oscarhealth.com/careers/jobs?gh_jid=8412428) | Remote |
-| ð | Ramp | [Associate, GTM Finance](https://jobs.ashbyhq.com/ramp/b5bd9c30-4bc3-435e-aec1-43405474d317) | New York, NY (HQ) / San Francisco, CA / Remote |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Capital Markets Specialist I (2027 Early Career Program)](https://job-boards.greenhouse.io/affirm/jobs/8205833003) | New York, New York, United States |
 |  | Affirm | [Internal Auditor I (2027 Early Career Program)](https://job-boards.greenhouse.io/affirm/jobs/8206173003) | New York, New York, United States |
@@ -59,6 +54,7 @@ Last checked: 2026-11-24 00:19:40 UTC
 |  | Blackstone | [Credit Secondaries Analyst - Strategic Partners](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Credit-Secondaries-Analyst---Strategic-Partners_43090-3) | New York |
 |  | Blackstone | [Public Affairs, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Public-Affairs--Associate_43586) | New York |
 |  | Brex | [Analyst, Banking Operations (Domestic)](https://www.brex.com/careers/8924533002?gh_jid=8924533002) | New York, New York, United States |
+|  | Brex | [Credit Policy & Governance Associate](https://www.brex.com/careers/8957623002?gh_jid=8957623002) | New York, New York, United States |
 |  | Brex | [Finance Associate](https://www.brex.com/careers/8606825002?gh_jid=8606825002) | New York, New York, United States |
 |  | Brex | [Fraud Strategy Associate](https://www.brex.com/careers/8907584002?gh_jid=8907584002) | New York, New York, United States |
 |  | Brex | [Screening & Transaction Monitoring Associate](https://www.brex.com/careers/8950667002?gh_jid=8950667002) | New York, New York, United States |
@@ -85,8 +81,8 @@ Last checked: 2026-11-24 00:19:40 UTC
 |  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
 |  | Flatiron Health | [Payroll & Equity Associate](https://flatiron.com/careers/open-positions/job?gh_jid=7918913) | NY office |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -107,6 +103,7 @@ Last checked: 2026-11-24 00:19:40 UTC
 |  | Harvey | [Deal Operations Analyst](https://jobs.ashbyhq.com/harvey/16b67976-02a3-4179-9eca-afc86c551b8a) | Chicago / Remote |
 |  | Harvey | [Deal Operations Analyst](https://jobs.ashbyhq.com/harvey/41e581a5-b5ee-47cb-94e5-6224f1559e4d) | Dallas / Remote |
 |  | Harvey | [Marketing Coordinator, Brand Partnerships](https://jobs.ashbyhq.com/harvey/ba8a6b0a-f791-4d06-8f1a-b960825cd7f8) | New York / Remote |
+|  | Harvey | [Recruiting Coordinator](https://jobs.ashbyhq.com/harvey/2b574e64-b3f4-43d7-bcbf-c1210c055f59) | Toronto / Remote |
 |  | Harvey | [Sales Compensation Analyst](https://jobs.ashbyhq.com/harvey/817fb895-ce20-4711-afd5-aec1ed1edc6d) | Dublin / Remote |
 |  | Harvey | [Sales Development Representative](https://jobs.ashbyhq.com/harvey/a009e4a8-518e-4d92-a0f4-92f2e2dcee7a) | New York / Remote |
 |  | Harvey | [Sales Development Representative](https://jobs.ashbyhq.com/harvey/08d3d70d-80a6-429d-8a27-d5efd41372f5) | San Francisco / Remote |
@@ -163,6 +160,8 @@ Last checked: 2026-11-24 00:19:40 UTC
 |  | OpenAI | [Technical Operations Analyst, User Safety & Risk Operations](https://jobs.ashbyhq.com/openai/7b867d19-f018-4c08-8183-d2358b733ee5) | San Francisco / Remote |
 |  | Oscar Health | [Associate, Medical Economics](https://oscarhealth.com/careers/jobs?gh_jid=8023759) | Remote |
 |  | Oscar Health | [Associate, Member and Provider Programs](https://oscarhealth.com/careers/jobs?gh_jid=8303620) | New York, New York, United States |
+|  | Oscar Health | [Associate, Payment Integrity](https://oscarhealth.com/careers/jobs?gh_jid=8394175) | New York, New York, United States |
+|  | Oscar Health | [Associate, Payment Integrity](https://oscarhealth.com/careers/jobs?gh_jid=8412428) | Remote |
 |  | Oscar Health | [Associate, Pricing Configuration](https://oscarhealth.com/careers/jobs?gh_jid=8374121) | New York, New York, United States |
 |  | Oscar Health | [Associate, Service Transformation](https://oscarhealth.com/careers/jobs?gh_jid=8349789) | New York, New York, United States |
 |  | Oscar Health | [Associate, Strategic Finance](https://oscarhealth.com/careers/jobs?gh_jid=8011066) | New York, New York, United States |
@@ -201,6 +200,7 @@ Last checked: 2026-11-24 00:19:40 UTC
 |  | Point72 | [Technical Business Analyst](https://boards.greenhouse.io/point72/jobs/8877421002?gh_jid=8877421002) | New York |
 |  | Point72 | [Trader/Quant Analyst](https://boards.greenhouse.io/point72/jobs/8375066002?gh_jid=8375066002) | Stamford, New York |
 |  | Ramp | [Analyst, Deal Operations](https://jobs.ashbyhq.com/ramp/7e531974-caac-46a2-804e-c6c3140bfda4) | San Francisco, CA / Remote |
+|  | Ramp | [Associate, GTM Finance](https://jobs.ashbyhq.com/ramp/b5bd9c30-4bc3-435e-aec1-43405474d317) | New York, NY (HQ) / San Francisco, CA / Remote |
 |  | Ramp | [Associate, GTM Operations](https://jobs.ashbyhq.com/ramp/b18f851e-8784-452f-9eb1-43b57e8c2871) | New York, NY (HQ) / San Francisco, CA / Remote |
 |  | Ramp | [Business Development Representative / Ontario, Canada](https://jobs.ashbyhq.com/ramp/cce684de-191d-4a8a-bc42-7ded3ccd47af) | Toronto, ON / Remote |
 |  | Ramp | [Customer Experience Associate](https://jobs.ashbyhq.com/ramp/d64609dd-c391-45a2-bfdb-c1bb34e8f93c) | New York, NY (HQ) / Remote (US) / Denver, CO / Miami, FL / Remote |
@@ -242,36 +242,36 @@ Last checked: 2026-11-24 00:19:40 UTC
 | BlackRock | 44 | 0 | OK |
 | Blackstone | 19 | 6 | OK |
 | Blackstone (Campus) | 14 | 0 | OK |
-| Point72 | 201 | 10 | OK |
+| Point72 | 202 | 10 | OK |
 | General Atlantic | 12 | 1 | OK |
-| Anthropic | 631 | 9 | OK |
-| Stripe | 770 | 7 | OK |
-| Datadog | 384 | 6 | OK |
+| Anthropic | 630 | 9 | OK |
+| Stripe | 771 | 7 | OK |
+| Datadog | 383 | 6 | OK |
 | Palantir | 306 | 18 | OK |
-| Ramp | 181 | 15 | OK |
+| Ramp | 180 | 15 | OK |
 | iCapital | 235 | 10 | OK |
 | AlphaSights | 67 | 13 | OK |
-| Jane Street | 216 | 6 | OK |
+| Jane Street | 217 | 6 | OK |
 | Schonfeld | 66 | 4 | OK |
-| Robinhood | 160 | 0 | OK |
-| SoFi | 56 | 0 | OK |
-| Affirm | 220 | 10 | OK |
-| Brex | 260 | 5 | OK |
+| Robinhood | 159 | 0 | OK |
+| SoFi | 54 | 0 | OK |
+| Affirm | 218 | 10 | OK |
+| Brex | 263 | 5 | OK |
 | Betterment | 25 | 3 | OK |
 | Clear Street | 33 | 5 | OK |
-| Scale AI | 160 | 0 | OK |
+| Scale AI | 159 | 0 | OK |
 | Dataiku | 15 | 1 | OK |
 | MongoDB | 421 | 3 | OK |
 | Oscar Health | 178 | 9 | OK |
 | The Trade Desk | 122 | 2 | OK |
 | Guidepoint | 105 | 6 | OK |
-| Gusto | 84 | 2 | OK |
-| Flatiron Health | 22 | 3 | OK |
-| OpenAI | 854 | 16 | OK |
+| Gusto | 85 | 2 | OK |
+| Flatiron Health | 24 | 3 | OK |
+| OpenAI | 863 | 16 | OK |
 | Perplexity | 151 | 4 | OK |
 | Notion | 172 | 10 | OK |
-| Harvey | 393 | 22 | OK |
+| Harvey | 395 | 22 | OK |
 | Kalshi | 41 | 2 | OK |
 | Unify | 13 | 1 | OK |
 | Cohere | 125 | 7 | OK |
-| Vanta | 68 | 3 | OK |
+| Vanta | 67 | 3 | OK |
