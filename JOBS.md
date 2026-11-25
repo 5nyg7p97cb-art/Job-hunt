@@ -1,11 +1,14 @@
 # Entry-level openings
 
-Last checked: 2026-11-25 14:54:39 UTC
+Last checked: 2026-11-25 23:35:29 UTC
 
-219 matching roles open. ð = found in the latest run.
+223 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
+| ð | Cohere | [Payroll Analyst](https://jobs.ashbyhq.com/cohere/e0c52579-05a3-4a54-b960-258cf67eb81e) | United States / Canada / Remote |
+| ð | Kalshi | [Surveillance Analyst](https://jobs.ashbyhq.com/kalshi/48ec9ba9-63cb-49c3-8471-ab9a638d9702) | New York Office |
+| ð | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8397987) | SEA, SF, NYC, CHI |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Capital Markets Specialist I (2027 Early Career Program)](https://job-boards.greenhouse.io/affirm/jobs/8205833003) | New York, New York, United States |
 |  | Affirm | [Compensation Analyst I](https://job-boards.greenhouse.io/affirm/jobs/8200669003) | Remote US |
@@ -80,8 +83,8 @@ Last checked: 2026-11-25 14:54:39 UTC
 |  | Flatiron Health | [Associate, Abstraction Training - Instructional Designer](https://flatiron.com/careers/open-positions/job?gh_jid=8292596) | NY office |
 |  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -218,6 +221,7 @@ Last checked: 2026-11-25 14:54:39 UTC
 |  | Stripe | [Accounts Receivable Analyst](https://stripe.com/jobs/search?gh_jid=8375966) | SEA, NYC |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Chicago, Atlanta, US-Remote, Toro |
 |  | Stripe | [Risk Operations Analyst - Restricted Business Operations](https://stripe.com/jobs/search?gh_jid=8175824) | Chicago, Atlanta, US-Remote, Toro |
+|  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
 |  | Stripe | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8128744) | San Francisco, Seattle, New York |
 |  | The Trade Desk | [Associate General Counsel, Commercial CTV & Advertising](https://job-boards.greenhouse.io/thetradedesk/jobs/4682475007) | Chicago; Irvine; Los Angeles; New York; San Francisco; San Jose |
 |  | The Trade Desk | [Associate General Counsel, Product & Privacy](https://job-boards.greenhouse.io/thetradedesk/jobs/5154942007) | Chicago; Irvine; Los Angeles; New York; San Francisco; San Jose |
@@ -236,36 +240,36 @@ Last checked: 2026-11-25 14:54:39 UTC
 | BlackRock | 48 | 0 | OK |
 | Blackstone | 18 | 6 | OK |
 | Blackstone (Campus) | 14 | 0 | OK |
-| Point72 | 199 | 10 | OK |
+| Point72 | 200 | 10 | OK |
 | General Atlantic | 11 | 1 | OK |
 | Anthropic | 635 | 9 | OK |
-| Stripe | 771 | 5 | OK |
-| Datadog | 387 | 5 | OK |
+| Stripe | 772 | 7 | OK |
+| Datadog | 392 | 5 | OK |
 | Palantir | 305 | 18 | OK |
-| Ramp | 182 | 15 | OK |
+| Ramp | 183 | 15 | OK |
 | iCapital | 234 | 10 | OK |
-| AlphaSights | 68 | 13 | OK |
-| Jane Street | 217 | 6 | OK |
-| Schonfeld | 65 | 4 | OK |
+| AlphaSights | 69 | 13 | OK |
+| Jane Street | 219 | 6 | OK |
+| Schonfeld | 67 | 4 | OK |
 | Robinhood | 161 | 0 | OK |
-| SoFi | 56 | 0 | OK |
-| Affirm | 215 | 11 | OK |
-| Brex | 261 | 6 | OK |
+| SoFi | 57 | 0 | OK |
+| Affirm | 213 | 11 | OK |
+| Brex | 266 | 6 | OK |
 | Betterment | 23 | 3 | OK |
-| Clear Street | 33 | 5 | OK |
-| Scale AI | 157 | 0 | OK |
+| Clear Street | 32 | 5 | OK |
+| Scale AI | 158 | 0 | OK |
 | Dataiku | 16 | 1 | OK |
-| MongoDB | 420 | 3 | OK |
-| Oscar Health | 183 | 9 | OK |
+| MongoDB | 422 | 3 | OK |
+| Oscar Health | 178 | 9 | OK |
 | The Trade Desk | 126 | 2 | OK |
-| Guidepoint | 105 | 6 | OK |
+| Guidepoint | 106 | 6 | OK |
 | Gusto | 86 | 2 | OK |
 | Flatiron Health | 22 | 2 | OK |
-| OpenAI | 877 | 17 | OK |
-| Perplexity | 151 | 4 | OK |
-| Notion | 173 | 10 | OK |
-| Harvey | 389 | 19 | OK |
-| Kalshi | 39 | 1 | OK |
+| OpenAI | 876 | 17 | OK |
+| Perplexity | 149 | 4 | OK |
+| Notion | 174 | 10 | OK |
+| Harvey | 388 | 19 | OK |
+| Kalshi | 43 | 2 | OK |
 | Unify | 13 | 1 | OK |
-| Cohere | 122 | 6 | OK |
+| Cohere | 122 | 7 | OK |
 | Vanta | 61 | 3 | OK |
