@@ -1,24 +1,24 @@
 # Entry-level openings
 
-Last checked: 2026-11-24 20:51:49 UTC
+Last checked: 2026-11-25 04:07:57 UTC
 
 223 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Affirm | [Compensation Analyst I](https://job-boards.greenhouse.io/affirm/jobs/8200669003) | Remote US |
-| ð | Brex | [Field Marketing Coordinator, Upmarket](https://www.brex.com/careers/8960878002?gh_jid=8960878002) | Remote |
-| ð | OpenAI | [Associate General Counsel, Security & National Security](https://jobs.ashbyhq.com/openai/faaf4418-8fea-4781-95b7-8cfc40f8c818) | San Francisco / Remote |
+| ð | Anthropic | [Safeguards Enforcement Analyst, Targeting, Tracking & Surveillance](https://job-boards.greenhouse.io/anthropic/jobs/5494145008) | Boston, MA; San Francisco, CA / Seattle, WA / New York City, NY / Washington, DC |
+| ð | Oscar Health | [Associate, Authorization Services Regulatory Program Operations](https://oscarhealth.com/careers/jobs?gh_jid=8414717) | New York, New York, United States |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Capital Markets Specialist I (2027 Early Career Program)](https://job-boards.greenhouse.io/affirm/jobs/8205833003) | New York, New York, United States |
+|  | Affirm | [Compensation Analyst I](https://job-boards.greenhouse.io/affirm/jobs/8200669003) | Remote US |
 |  | Affirm | [Internal Auditor I (2027 Early Career Program)](https://job-boards.greenhouse.io/affirm/jobs/8206173003) | New York, New York, United States |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Backend (Streaming Infra)](https://job-boards.greenhouse.io/affirm/jobs/8201471003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Backend (Streaming Infra)](https://job-boards.greenhouse.io/affirm/jobs/8201469003) | Remote US |
+|  | Affirm | [Software Engineer I, Backend (Streaming Infra)](https://job-boards.greenhouse.io/affirm/jobs/8201471003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Disputes Platform)](https://job-boards.greenhouse.io/affirm/jobs/8196691003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
 |  | AlphaSights | [Analyst, Surveys](https://www.alphasights.com/careers/open-roles?gh_jid=8383826) | New York |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -39,8 +39,7 @@ Last checked: 2026-11-24 20:51:49 UTC
 |  | Anthropic | [Protective Intelligence Analyst](https://job-boards.greenhouse.io/anthropic/jobs/5422952008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Access Controls & Identity](https://job-boards.greenhouse.io/anthropic/jobs/5319626008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Account Takeover & Credential Abuse](https://job-boards.greenhouse.io/anthropic/jobs/5319624008) | San Francisco, CA / New York City, NY / Washington, DC |
-|  | Anthropic | [Safeguards Enforcement Analyst, Bio Harms](https://job-boards.greenhouse.io/anthropic/jobs/5319696008) | San Francisco, CA / New York City, NY / Washington, DC |
-|  | Anthropic | [Safeguards Enforcement Analyst, Integrity & Authenticity](https://job-boards.greenhouse.io/anthropic/jobs/5311149008) | San Francisco, CA / New York City, NY / Washington, DC |
+|  | Anthropic | [Safeguards Enforcement Analyst, Cyber Harm](https://job-boards.greenhouse.io/anthropic/jobs/5311159008) | Boston, MA; San Francisco, CA / Seattle, WA / New York City, NY / Washington, DC |
 |  | Betterment | [Business Development Representative](https://www.betterment.com/careers/current-openings/job?gh_jid=8195434&gh_jid=8195434) | Betterment HQ - New York City |
 |  | Betterment | [Capital Markets Associate](https://www.betterment.com/careers/current-openings/job?gh_jid=8351132&gh_jid=8351132) | Betterment HQ - New York City |
 |  | Betterment | [Compliance Associate](https://www.betterment.com/careers/current-openings/job?gh_jid=8327765&gh_jid=8327765) | Betterment HQ - New York City |
@@ -58,6 +57,7 @@ Last checked: 2026-11-24 20:51:49 UTC
 |  | Blackstone | [Public Affairs, Analyst](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Public-Affairs--Associate_43586) | New York |
 |  | Brex | [Analyst, Banking Operations (Domestic)](https://www.brex.com/careers/8924533002?gh_jid=8924533002) | New York, New York, United States |
 |  | Brex | [Credit Policy & Governance Associate](https://www.brex.com/careers/8957623002?gh_jid=8957623002) | New York, New York, United States |
+|  | Brex | [Field Marketing Coordinator, Upmarket](https://www.brex.com/careers/8960878002?gh_jid=8960878002) | Remote |
 |  | Brex | [Finance Associate](https://www.brex.com/careers/8606825002?gh_jid=8606825002) | New York, New York, United States |
 |  | Brex | [Fraud Strategy Associate](https://www.brex.com/careers/8907584002?gh_jid=8907584002) | New York, New York, United States |
 |  | Brex | [Screening & Transaction Monitoring Associate](https://www.brex.com/careers/8950667002?gh_jid=8950667002) | New York, New York, United States |
@@ -82,8 +82,8 @@ Last checked: 2026-11-24 20:51:49 UTC
 |  | Flatiron Health | [Associate, Abstraction Training - Instructional Designer](https://flatiron.com/careers/open-positions/job?gh_jid=8292596) | NY office |
 |  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -128,7 +128,6 @@ Last checked: 2026-11-24 20:51:49 UTC
 |  | Jane Street | [Campus Recruiter, Technology](https://www.janestreet.com/join-jane-street/apply/8345570002?gh_jid=8345570002) | New York, New York, United States |
 |  | Jane Street | [Fundamental Research Analyst](https://www.janestreet.com/join-jane-street/apply/8347286002?gh_jid=8347286002) | New York, New York, United States |
 |  | Jane Street | [Recruiting Coordinator](https://www.janestreet.com/join-jane-street/apply/8560087002?gh_jid=8560087002) | New York, New York, United States |
-|  | Kalshi | [Product Analyst](https://jobs.ashbyhq.com/kalshi/30675a37-75df-4c2d-8641-3c19a9ade9f7) | New York Office |
 |  | Kalshi | [Trading Systems Analyst](https://jobs.ashbyhq.com/kalshi/95c9e8d7-493b-4dcf-91b5-02e47732a626) | New York Office |
 |  | MongoDB | [Candidate Experience Coordinator, Contract](https://www.mongodb.com/careers/job/?gh_jid=8359939) | Austin; New York City; San Francisco; United States |
 |  | MongoDB | [Financial Analyst, P&T](https://www.mongodb.com/careers/job/?gh_jid=8328622) | New York City |
@@ -149,6 +148,7 @@ Last checked: 2026-11-24 20:51:49 UTC
 |  | OpenAI | [Account Associate - Singapore (Bahasa-speaking)](https://jobs.ashbyhq.com/openai/1da72072-cf6e-4f5c-acbf-d4f2a2a74612) | Singapore / Remote |
 |  | OpenAI | [Account Associate - Singapore (Mandarin-speaking)](https://jobs.ashbyhq.com/openai/974fff14-f2d7-4a99-8740-eb8dc5300d82) | Singapore / Remote |
 |  | OpenAI | [Account Associate, Japan](https://jobs.ashbyhq.com/openai/2f3f416d-cc2a-4836-bcff-daee80c94e95) | Tokyo, Japan / Remote |
+|  | OpenAI | [Associate General Counsel, Security & National Security](https://jobs.ashbyhq.com/openai/faaf4418-8fea-4781-95b7-8cfc40f8c818) | San Francisco / Remote |
 |  | OpenAI | [BIM Designer & Coordinator: Civil](https://jobs.ashbyhq.com/openai/66453891-c75a-41c9-a7de-d0c67f23db4e) | US - Remote / Remote |
 |  | OpenAI | [Compensation Operations Analyst](https://jobs.ashbyhq.com/openai/31df540f-4062-46e8-918f-b747a90c7052) | San Francisco / Remote |
 |  | OpenAI | [Enterprise Account Associate - EMEA (German Speaking)](https://jobs.ashbyhq.com/openai/6c88bfaa-7f1b-4175-82f1-6d484a516ca8) | Dublin, Ireland / Remote |
@@ -240,36 +240,36 @@ Last checked: 2026-11-24 20:51:49 UTC
 | BlackRock | 48 | 0 | OK |
 | Blackstone | 18 | 6 | OK |
 | Blackstone (Campus) | 14 | 0 | OK |
-| Point72 | 202 | 10 | OK |
+| Point72 | 199 | 10 | OK |
 | General Atlantic | 12 | 1 | OK |
-| Anthropic | 632 | 9 | OK |
-| Stripe | 770 | 5 | OK |
-| Datadog | 386 | 6 | OK |
+| Anthropic | 636 | 9 | OK |
+| Stripe | 771 | 5 | OK |
+| Datadog | 388 | 6 | OK |
 | Palantir | 305 | 18 | OK |
-| Ramp | 180 | 15 | OK |
-| iCapital | 233 | 10 | OK |
+| Ramp | 182 | 15 | OK |
+| iCapital | 236 | 10 | OK |
 | AlphaSights | 68 | 13 | OK |
 | Jane Street | 217 | 6 | OK |
 | Schonfeld | 66 | 4 | OK |
-| Robinhood | 157 | 0 | OK |
-| SoFi | 54 | 0 | OK |
-| Affirm | 216 | 11 | OK |
-| Brex | 264 | 6 | OK |
+| Robinhood | 162 | 0 | OK |
+| SoFi | 57 | 0 | OK |
+| Affirm | 215 | 11 | OK |
+| Brex | 261 | 6 | OK |
 | Betterment | 23 | 3 | OK |
 | Clear Street | 33 | 5 | OK |
-| Scale AI | 158 | 0 | OK |
+| Scale AI | 157 | 0 | OK |
 | Dataiku | 15 | 1 | OK |
 | MongoDB | 419 | 3 | OK |
-| Oscar Health | 177 | 8 | OK |
+| Oscar Health | 183 | 9 | OK |
 | The Trade Desk | 125 | 2 | OK |
-| Guidepoint | 105 | 6 | OK |
-| Gusto | 84 | 2 | OK |
-| Flatiron Health | 22 | 2 | OK |
-| OpenAI | 872 | 17 | OK |
+| Guidepoint | 104 | 6 | OK |
+| Gusto | 85 | 2 | OK |
+| Flatiron Health | 21 | 2 | OK |
+| OpenAI | 877 | 17 | OK |
 | Perplexity | 151 | 4 | OK |
 | Notion | 172 | 10 | OK |
-| Harvey | 393 | 22 | OK |
-| Kalshi | 40 | 2 | OK |
+| Harvey | 394 | 22 | OK |
+| Kalshi | 39 | 1 | OK |
 | Unify | 13 | 1 | OK |
-| Cohere | 122 | 6 | OK |
-| Vanta | 63 | 3 | OK |
+| Cohere | 123 | 6 | OK |
+| Vanta | 61 | 3 | OK |
