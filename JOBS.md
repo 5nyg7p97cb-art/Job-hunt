@@ -1,13 +1,11 @@
 # Entry-level openings
 
-Last checked: 2026-11-25 04:07:57 UTC
+Last checked: 2026-11-25 14:54:39 UTC
 
-223 matching roles open. ð = found in the latest run.
+219 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Anthropic | [Safeguards Enforcement Analyst, Targeting, Tracking & Surveillance](https://job-boards.greenhouse.io/anthropic/jobs/5494145008) | Boston, MA; San Francisco, CA / Seattle, WA / New York City, NY / Washington, DC |
-| ð | Oscar Health | [Associate, Authorization Services Regulatory Program Operations](https://oscarhealth.com/careers/jobs?gh_jid=8414717) | New York, New York, United States |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Capital Markets Specialist I (2027 Early Career Program)](https://job-boards.greenhouse.io/affirm/jobs/8205833003) | New York, New York, United States |
 |  | Affirm | [Compensation Analyst I](https://job-boards.greenhouse.io/affirm/jobs/8200669003) | Remote US |
@@ -40,6 +38,7 @@ Last checked: 2026-11-25 04:07:57 UTC
 |  | Anthropic | [Safeguards Enforcement Analyst, Access Controls & Identity](https://job-boards.greenhouse.io/anthropic/jobs/5319626008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Account Takeover & Credential Abuse](https://job-boards.greenhouse.io/anthropic/jobs/5319624008) | San Francisco, CA / New York City, NY / Washington, DC |
 |  | Anthropic | [Safeguards Enforcement Analyst, Cyber Harm](https://job-boards.greenhouse.io/anthropic/jobs/5311159008) | Boston, MA; San Francisco, CA / Seattle, WA / New York City, NY / Washington, DC |
+|  | Anthropic | [Safeguards Enforcement Analyst, Targeting, Tracking & Surveillance](https://job-boards.greenhouse.io/anthropic/jobs/5494145008) | Boston, MA; San Francisco, CA / Seattle, WA / New York City, NY / Washington, DC |
 |  | Betterment | [Business Development Representative](https://www.betterment.com/careers/current-openings/job?gh_jid=8195434&gh_jid=8195434) | Betterment HQ - New York City |
 |  | Betterment | [Capital Markets Associate](https://www.betterment.com/careers/current-openings/job?gh_jid=8351132&gh_jid=8351132) | Betterment HQ - New York City |
 |  | Betterment | [Compliance Associate](https://www.betterment.com/careers/current-openings/job?gh_jid=8327765&gh_jid=8327765) | Betterment HQ - New York City |
@@ -72,7 +71,6 @@ Last checked: 2026-11-25 04:07:57 UTC
 |  | Cohere | [Data Partnerships Coordinator (1-year contract)](https://jobs.ashbyhq.com/cohere/6d2d5e2e-46bd-4da5-9e03-573578424976) | Toronto / Canada / United States / New York / Ottawa / Montreal / Remote |
 |  | Cohere | [Public Sector Delivery Analyst](https://jobs.ashbyhq.com/cohere/9be116c1-c1df-49bd-8e90-31d41b62645f) | Ottawa / Remote |
 |  | Cohere | [Talent Coordinator](https://jobs.ashbyhq.com/cohere/74373c60-3ce9-48fd-ae8d-5235fa24c682) | Germany / Remote |
-|  | Datadog | [Accounts Payable Analyst](https://careers.datadoghq.com/detail/8257324/?gh_jid=8257324) | New York, New York, USA |
 |  | Datadog | [FP&A Analyst GTM](https://careers.datadoghq.com/detail/8312438/?gh_jid=8312438) | New York, New York, USA |
 |  | Datadog | [FP&A Analyst R&D](https://careers.datadoghq.com/detail/8204554/?gh_jid=8204554) | New York, New York, USA |
 |  | Datadog | [FP&A Analyst, Cloud Finance](https://careers.datadoghq.com/detail/8267437/?gh_jid=8267437) | New York, New York, USA |
@@ -108,9 +106,6 @@ Last checked: 2026-11-25 04:07:57 UTC
 |  | Harvey | [Sales Compensation Analyst](https://jobs.ashbyhq.com/harvey/817fb895-ce20-4711-afd5-aec1ed1edc6d) | Dublin / Remote |
 |  | Harvey | [Sales Development Representative](https://jobs.ashbyhq.com/harvey/a009e4a8-518e-4d92-a0f4-92f2e2dcee7a) | New York / Remote |
 |  | Harvey | [Sales Development Representative](https://jobs.ashbyhq.com/harvey/08d3d70d-80a6-429d-8a27-d5efd41372f5) | San Francisco / Remote |
-|  | Harvey | [Sales Development Representative  (German Speaking)](https://jobs.ashbyhq.com/harvey/62570156-bb6a-42b5-aae4-ea544d9f1beb) | Munich / Remote |
-|  | Harvey | [Sales Development Representative (English Speaking)](https://jobs.ashbyhq.com/harvey/98572b27-b6fc-4682-a441-62874eb10265) | Dublin / Remote |
-|  | Harvey | [Sales Development Representative (German Speaking)](https://jobs.ashbyhq.com/harvey/3adf9734-7339-4b21-b361-96288a9a6224) | Dublin / Remote |
 |  | Harvey | [Sales Development Representative, ANZ](https://jobs.ashbyhq.com/harvey/b8a9dded-d9f4-4295-8216-fdc93beec6d1) | Sydney / Remote |
 |  | iCapital | [Business Process Analyst, UiPath Developer - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8853762002) | New York, New York, United States |
 |  | iCapital | [Compliance Officer, IAS / Registered Funds - Associate](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8935366002) | New York, New York, United States |
@@ -159,6 +154,7 @@ Last checked: 2026-11-25 04:07:57 UTC
 |  | OpenAI | [Risk & Fraud Analyst](https://jobs.ashbyhq.com/openai/72a513ec-d75c-48d5-9fa5-7eac3d7d12b2) | San Francisco / Remote |
 |  | OpenAI | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | San Francisco / Remote |
 |  | OpenAI | [Technical Operations Analyst, User Safety & Risk Operations](https://jobs.ashbyhq.com/openai/7b867d19-f018-4c08-8183-d2358b733ee5) | San Francisco / Remote |
+|  | Oscar Health | [Associate, Authorization Services Regulatory Program Operations](https://oscarhealth.com/careers/jobs?gh_jid=8414717) | New York, New York, United States |
 |  | Oscar Health | [Associate, Medical Economics](https://oscarhealth.com/careers/jobs?gh_jid=8023759) | Remote |
 |  | Oscar Health | [Associate, Member and Provider Programs](https://oscarhealth.com/careers/jobs?gh_jid=8303620) | New York, New York, United States |
 |  | Oscar Health | [Associate, Payment Integrity](https://oscarhealth.com/careers/jobs?gh_jid=8412428) | Remote |
@@ -241,35 +237,35 @@ Last checked: 2026-11-25 04:07:57 UTC
 | Blackstone | 18 | 6 | OK |
 | Blackstone (Campus) | 14 | 0 | OK |
 | Point72 | 199 | 10 | OK |
-| General Atlantic | 12 | 1 | OK |
-| Anthropic | 636 | 9 | OK |
+| General Atlantic | 11 | 1 | OK |
+| Anthropic | 635 | 9 | OK |
 | Stripe | 771 | 5 | OK |
-| Datadog | 388 | 6 | OK |
+| Datadog | 387 | 5 | OK |
 | Palantir | 305 | 18 | OK |
 | Ramp | 182 | 15 | OK |
-| iCapital | 236 | 10 | OK |
+| iCapital | 234 | 10 | OK |
 | AlphaSights | 68 | 13 | OK |
 | Jane Street | 217 | 6 | OK |
-| Schonfeld | 66 | 4 | OK |
-| Robinhood | 162 | 0 | OK |
-| SoFi | 57 | 0 | OK |
+| Schonfeld | 65 | 4 | OK |
+| Robinhood | 161 | 0 | OK |
+| SoFi | 56 | 0 | OK |
 | Affirm | 215 | 11 | OK |
 | Brex | 261 | 6 | OK |
 | Betterment | 23 | 3 | OK |
 | Clear Street | 33 | 5 | OK |
 | Scale AI | 157 | 0 | OK |
-| Dataiku | 15 | 1 | OK |
-| MongoDB | 419 | 3 | OK |
+| Dataiku | 16 | 1 | OK |
+| MongoDB | 420 | 3 | OK |
 | Oscar Health | 183 | 9 | OK |
-| The Trade Desk | 125 | 2 | OK |
-| Guidepoint | 104 | 6 | OK |
-| Gusto | 85 | 2 | OK |
-| Flatiron Health | 21 | 2 | OK |
+| The Trade Desk | 126 | 2 | OK |
+| Guidepoint | 105 | 6 | OK |
+| Gusto | 86 | 2 | OK |
+| Flatiron Health | 22 | 2 | OK |
 | OpenAI | 877 | 17 | OK |
 | Perplexity | 151 | 4 | OK |
-| Notion | 172 | 10 | OK |
-| Harvey | 394 | 22 | OK |
+| Notion | 173 | 10 | OK |
+| Harvey | 389 | 19 | OK |
 | Kalshi | 39 | 1 | OK |
 | Unify | 13 | 1 | OK |
-| Cohere | 123 | 6 | OK |
+| Cohere | 122 | 6 | OK |
 | Vanta | 61 | 3 | OK |
