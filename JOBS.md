@@ -1,20 +1,17 @@
 # Entry-level openings
 
-Last checked: 2026-11-25 23:35:29 UTC
+Last checked: 2026-11-26 05:28:13 UTC
 
 223 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
-| ð | Cohere | [Payroll Analyst](https://jobs.ashbyhq.com/cohere/e0c52579-05a3-4a54-b960-258cf67eb81e) | United States / Canada / Remote |
-| ð | Kalshi | [Surveillance Analyst](https://jobs.ashbyhq.com/kalshi/48ec9ba9-63cb-49c3-8471-ab9a638d9702) | New York Office |
-| ð | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8397987) | SEA, SF, NYC, CHI |
 |  | Affirm | [Analyst, Early Career (Full Stack)](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | New York, New York, United States; San Francisco, California, United States |
 |  | Affirm | [Capital Markets Specialist I (2027 Early Career Program)](https://job-boards.greenhouse.io/affirm/jobs/8205833003) | New York, New York, United States |
 |  | Affirm | [Compensation Analyst I](https://job-boards.greenhouse.io/affirm/jobs/8200669003) | Remote US |
 |  | Affirm | [Internal Auditor I (2027 Early Career Program)](https://job-boards.greenhouse.io/affirm/jobs/8206173003) | New York, New York, United States |
-|  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Streaming Infra)](https://job-boards.greenhouse.io/affirm/jobs/8201469003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Streaming Infra)](https://job-boards.greenhouse.io/affirm/jobs/8201471003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Fullstack (Disputes Platform)](https://job-boards.greenhouse.io/affirm/jobs/8196691003) | Remote Canada |
@@ -72,6 +69,7 @@ Last checked: 2026-11-25 23:35:29 UTC
 |  | Cohere | [Business Development Representative](https://jobs.ashbyhq.com/cohere/dbe76343-a8ae-445c-b2f9-c5a304d54f6a) | Dubai / Remote |
 |  | Cohere | [Business Development Representative](https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89) | United Kingdom / Remote |
 |  | Cohere | [Data Partnerships Coordinator (1-year contract)](https://jobs.ashbyhq.com/cohere/6d2d5e2e-46bd-4da5-9e03-573578424976) | Toronto / Canada / United States / New York / Ottawa / Montreal / Remote |
+|  | Cohere | [Payroll Analyst](https://jobs.ashbyhq.com/cohere/e0c52579-05a3-4a54-b960-258cf67eb81e) | United States / Canada / Remote |
 |  | Cohere | [Public Sector Delivery Analyst](https://jobs.ashbyhq.com/cohere/9be116c1-c1df-49bd-8e90-31d41b62645f) | Ottawa / Remote |
 |  | Cohere | [Talent Coordinator](https://jobs.ashbyhq.com/cohere/74373c60-3ce9-48fd-ae8d-5235fa24c682) | Germany / Remote |
 |  | Datadog | [FP&A Analyst GTM](https://careers.datadoghq.com/detail/8312438/?gh_jid=8312438) | New York, New York, USA |
@@ -126,6 +124,7 @@ Last checked: 2026-11-25 23:35:29 UTC
 |  | Jane Street | [Campus Recruiter, Technology](https://www.janestreet.com/join-jane-street/apply/8345570002?gh_jid=8345570002) | New York, New York, United States |
 |  | Jane Street | [Fundamental Research Analyst](https://www.janestreet.com/join-jane-street/apply/8347286002?gh_jid=8347286002) | New York, New York, United States |
 |  | Jane Street | [Recruiting Coordinator](https://www.janestreet.com/join-jane-street/apply/8560087002?gh_jid=8560087002) | New York, New York, United States |
+|  | Kalshi | [Surveillance Analyst](https://jobs.ashbyhq.com/kalshi/48ec9ba9-63cb-49c3-8471-ab9a638d9702) | New York Office |
 |  | Kalshi | [Trading Systems Analyst](https://jobs.ashbyhq.com/kalshi/95c9e8d7-493b-4dcf-91b5-02e47732a626) | New York Office |
 |  | MongoDB | [Candidate Experience Coordinator, Contract](https://www.mongodb.com/careers/job/?gh_jid=8359939) | Austin; New York City; San Francisco; United States |
 |  | MongoDB | [Financial Analyst, P&T](https://www.mongodb.com/careers/job/?gh_jid=8328622) | New York City |
@@ -219,6 +218,7 @@ Last checked: 2026-11-25 23:35:29 UTC
 |  | Schonfeld | [Systematic Portfolio Strategy and Risk Analyst (NYC or Miami)](https://job-boards.greenhouse.io/schonfeld/jobs/7402926) | Miami, Florida, United States; New York, New York, United States |
 |  | Stripe | [AMER Data Analyst - Sales Strategy and Operations](https://stripe.com/jobs/search?gh_jid=8354566) | Chicago, US Remote, SF, NYC, Seattle |
 |  | Stripe | [Accounts Receivable Analyst](https://stripe.com/jobs/search?gh_jid=8375966) | SEA, NYC |
+|  | Stripe | [Finance & Strategy Analyst](https://stripe.com/jobs/search?gh_jid=8397987) | SEA, SF, NYC, CHI |
 |  | Stripe | [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921) | Chicago, Atlanta, US-Remote, Toro |
 |  | Stripe | [Risk Operations Analyst - Restricted Business Operations](https://stripe.com/jobs/search?gh_jid=8175824) | Chicago, Atlanta, US-Remote, Toro |
 |  | Stripe | [Security Analyst](https://stripe.com/jobs/search?gh_jid=8142302) | US Remote |
@@ -244,14 +244,14 @@ Last checked: 2026-11-25 23:35:29 UTC
 | General Atlantic | 11 | 1 | OK |
 | Anthropic | 635 | 9 | OK |
 | Stripe | 772 | 7 | OK |
-| Datadog | 392 | 5 | OK |
+| Datadog | 391 | 5 | OK |
 | Palantir | 305 | 18 | OK |
 | Ramp | 183 | 15 | OK |
 | iCapital | 234 | 10 | OK |
 | AlphaSights | 69 | 13 | OK |
 | Jane Street | 219 | 6 | OK |
 | Schonfeld | 67 | 4 | OK |
-| Robinhood | 161 | 0 | OK |
+| Robinhood | 163 | 0 | OK |
 | SoFi | 57 | 0 | OK |
 | Affirm | 213 | 11 | OK |
 | Brex | 266 | 6 | OK |
@@ -259,16 +259,16 @@ Last checked: 2026-11-25 23:35:29 UTC
 | Clear Street | 32 | 5 | OK |
 | Scale AI | 158 | 0 | OK |
 | Dataiku | 16 | 1 | OK |
-| MongoDB | 422 | 3 | OK |
+| MongoDB | 423 | 3 | OK |
 | Oscar Health | 178 | 9 | OK |
 | The Trade Desk | 126 | 2 | OK |
 | Guidepoint | 106 | 6 | OK |
 | Gusto | 86 | 2 | OK |
 | Flatiron Health | 22 | 2 | OK |
 | OpenAI | 876 | 17 | OK |
-| Perplexity | 149 | 4 | OK |
+| Perplexity | 150 | 4 | OK |
 | Notion | 174 | 10 | OK |
-| Harvey | 388 | 19 | OK |
+| Harvey | 390 | 19 | OK |
 | Kalshi | 43 | 2 | OK |
 | Unify | 13 | 1 | OK |
 | Cohere | 122 | 7 | OK |
