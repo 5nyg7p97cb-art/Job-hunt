@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-11-26 05:28:13 UTC
+Last checked: 2026-11-26 15:45:04 UTC
 
-223 matching roles open. ð = found in the latest run.
+222 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -10,13 +10,13 @@ Last checked: 2026-11-26 05:28:13 UTC
 |  | Affirm | [Capital Markets Specialist I (2027 Early Career Program)](https://job-boards.greenhouse.io/affirm/jobs/8205833003) | New York, New York, United States |
 |  | Affirm | [Compensation Analyst I](https://job-boards.greenhouse.io/affirm/jobs/8200669003) | Remote US |
 |  | Affirm | [Internal Auditor I (2027 Early Career Program)](https://job-boards.greenhouse.io/affirm/jobs/8206173003) | New York, New York, United States |
-|  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
-|  | Affirm | [Software Engineer I, Backend (Streaming Infra)](https://job-boards.greenhouse.io/affirm/jobs/8201469003) | Remote US |
+|  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Backend (Streaming Infra)](https://job-boards.greenhouse.io/affirm/jobs/8201471003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Backend (Streaming Infra)](https://job-boards.greenhouse.io/affirm/jobs/8201469003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Disputes Platform)](https://job-boards.greenhouse.io/affirm/jobs/8196691003) | Remote Canada |
-|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017342003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Fullstack (Search)](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Remote US |
 |  | AlphaSights | [Analyst, Surveys](https://www.alphasights.com/careers/open-roles?gh_jid=8383826) | New York |
 |  | AlphaSights | [Associate Legal Counsel](https://www.alphasights.com/careers/open-roles?gh_jid=8029313) | New York |
 |  | AlphaSights | [Associate, Client Service, 2027](https://www.alphasights.com/careers/open-roles?gh_jid=7785340) | New York |
@@ -77,12 +77,11 @@ Last checked: 2026-11-26 05:28:13 UTC
 |  | Datadog | [FP&A Analyst, Cloud Finance](https://careers.datadoghq.com/detail/8267437/?gh_jid=8267437) | New York, New York, USA |
 |  | Datadog | [People Solutions Coordinator (NYC)](https://careers.datadoghq.com/detail/7728298/?gh_jid=7728298) | New York, New York, USA |
 |  | Datadog | [Recruiting Coordinator](https://careers.datadoghq.com/detail/8247346/?gh_jid=8247346) | Boston, Massachusetts, USA; New York, New York, USA |
-|  | Dataiku | [Business Development Representative](https://job-boards.greenhouse.io/dataiku/jobs/6266597004) | United States, New York |
 |  | Flatiron Health | [Associate, Abstraction Training - Instructional Designer](https://flatiron.com/careers/open-positions/job?gh_jid=8292596) | NY office |
 |  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -239,30 +238,30 @@ Last checked: 2026-11-26 05:28:13 UTC
 | Evercore (Professionals) | 0 | 0 | OK |
 | BlackRock | 48 | 0 | OK |
 | Blackstone | 18 | 6 | OK |
-| Blackstone (Campus) | 14 | 0 | OK |
+| Blackstone (Campus) | 13 | 0 | OK |
 | Point72 | 200 | 10 | OK |
 | General Atlantic | 11 | 1 | OK |
-| Anthropic | 635 | 9 | OK |
-| Stripe | 772 | 7 | OK |
+| Anthropic | 634 | 9 | OK |
+| Stripe | 769 | 7 | OK |
 | Datadog | 391 | 5 | OK |
 | Palantir | 305 | 18 | OK |
 | Ramp | 183 | 15 | OK |
 | iCapital | 234 | 10 | OK |
-| AlphaSights | 69 | 13 | OK |
+| AlphaSights | 70 | 13 | OK |
 | Jane Street | 219 | 6 | OK |
 | Schonfeld | 67 | 4 | OK |
 | Robinhood | 163 | 0 | OK |
 | SoFi | 57 | 0 | OK |
-| Affirm | 213 | 11 | OK |
+| Affirm | 210 | 11 | OK |
 | Brex | 266 | 6 | OK |
 | Betterment | 23 | 3 | OK |
 | Clear Street | 32 | 5 | OK |
 | Scale AI | 158 | 0 | OK |
-| Dataiku | 16 | 1 | OK |
-| MongoDB | 423 | 3 | OK |
+| Dataiku | 15 | 0 | OK |
+| MongoDB | 420 | 3 | OK |
 | Oscar Health | 178 | 9 | OK |
-| The Trade Desk | 126 | 2 | OK |
-| Guidepoint | 106 | 6 | OK |
+| The Trade Desk | 125 | 2 | OK |
+| Guidepoint | 105 | 6 | OK |
 | Gusto | 86 | 2 | OK |
 | Flatiron Health | 22 | 2 | OK |
 | OpenAI | 876 | 17 | OK |
@@ -271,5 +270,5 @@ Last checked: 2026-11-26 05:28:13 UTC
 | Harvey | 390 | 19 | OK |
 | Kalshi | 43 | 2 | OK |
 | Unify | 13 | 1 | OK |
-| Cohere | 122 | 7 | OK |
+| Cohere | 123 | 7 | OK |
 | Vanta | 61 | 3 | OK |
