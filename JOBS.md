@@ -1,6 +1,6 @@
 # Entry-level openings
 
-Last checked: 2026-11-26 15:45:04 UTC
+Last checked: 2026-11-27 00:32:46 UTC
 
 222 matching roles open. ð = found in the latest run.
 
@@ -10,8 +10,8 @@ Last checked: 2026-11-26 15:45:04 UTC
 |  | Affirm | [Capital Markets Specialist I (2027 Early Career Program)](https://job-boards.greenhouse.io/affirm/jobs/8205833003) | New York, New York, United States |
 |  | Affirm | [Compensation Analyst I](https://job-boards.greenhouse.io/affirm/jobs/8200669003) | Remote US |
 |  | Affirm | [Internal Auditor I (2027 Early Career Program)](https://job-boards.greenhouse.io/affirm/jobs/8206173003) | New York, New York, United States |
-|  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181185003) | Remote Canada |
+|  | Affirm | [Software Engineer I, Backend (Continuous Delivery)](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | Remote US |
 |  | Affirm | [Software Engineer I, Backend (Streaming Infra)](https://job-boards.greenhouse.io/affirm/jobs/8201471003) | Remote Canada |
 |  | Affirm | [Software Engineer I, Backend (Streaming Infra)](https://job-boards.greenhouse.io/affirm/jobs/8201469003) | Remote US |
 |  | Affirm | [Software Engineer I, Fullstack (Disputes Platform)](https://job-boards.greenhouse.io/affirm/jobs/8196691003) | Remote Canada |
@@ -242,23 +242,23 @@ Last checked: 2026-11-26 15:45:04 UTC
 | Point72 | 200 | 10 | OK |
 | General Atlantic | 11 | 1 | OK |
 | Anthropic | 634 | 9 | OK |
-| Stripe | 769 | 7 | OK |
-| Datadog | 391 | 5 | OK |
+| Stripe | 768 | 7 | OK |
+| Datadog | 390 | 5 | OK |
 | Palantir | 305 | 18 | OK |
 | Ramp | 183 | 15 | OK |
 | iCapital | 234 | 10 | OK |
 | AlphaSights | 70 | 13 | OK |
 | Jane Street | 219 | 6 | OK |
 | Schonfeld | 67 | 4 | OK |
-| Robinhood | 163 | 0 | OK |
-| SoFi | 57 | 0 | OK |
-| Affirm | 210 | 11 | OK |
+| Robinhood | 161 | 0 | OK |
+| SoFi | 58 | 0 | OK |
+| Affirm | 216 | 11 | OK |
 | Brex | 266 | 6 | OK |
 | Betterment | 23 | 3 | OK |
 | Clear Street | 32 | 5 | OK |
 | Scale AI | 158 | 0 | OK |
 | Dataiku | 15 | 0 | OK |
-| MongoDB | 420 | 3 | OK |
+| MongoDB | 421 | 3 | OK |
 | Oscar Health | 178 | 9 | OK |
 | The Trade Desk | 125 | 2 | OK |
 | Guidepoint | 105 | 6 | OK |
@@ -267,7 +267,7 @@ Last checked: 2026-11-26 15:45:04 UTC
 | OpenAI | 876 | 17 | OK |
 | Perplexity | 150 | 4 | OK |
 | Notion | 174 | 10 | OK |
-| Harvey | 390 | 19 | OK |
+| Harvey | 391 | 19 | OK |
 | Kalshi | 43 | 2 | OK |
 | Unify | 13 | 1 | OK |
 | Cohere | 123 | 7 | OK |
