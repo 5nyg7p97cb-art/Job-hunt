@@ -1,8 +1,8 @@
 # Entry-level openings
 
-Last checked: 2026-11-27 09:03:10 UTC
+Last checked: 2026-11-27 18:54:22 UTC
 
-222 matching roles open. ð = found in the latest run.
+221 matching roles open. ð = found in the latest run.
 
 | | Company | Role | Location |
 |---|---|---|---|
@@ -71,7 +71,6 @@ Last checked: 2026-11-27 09:03:10 UTC
 |  | Cohere | [Data Partnerships Coordinator (1-year contract)](https://jobs.ashbyhq.com/cohere/6d2d5e2e-46bd-4da5-9e03-573578424976) | Toronto / Canada / United States / New York / Ottawa / Montreal / Remote |
 |  | Cohere | [Payroll Analyst](https://jobs.ashbyhq.com/cohere/e0c52579-05a3-4a54-b960-258cf67eb81e) | United States / Canada / Remote |
 |  | Cohere | [Public Sector Delivery Analyst](https://jobs.ashbyhq.com/cohere/9be116c1-c1df-49bd-8e90-31d41b62645f) | Ottawa / Remote |
-|  | Cohere | [Talent Coordinator](https://jobs.ashbyhq.com/cohere/74373c60-3ce9-48fd-ae8d-5235fa24c682) | Germany / Remote |
 |  | Datadog | [FP&A Analyst GTM](https://careers.datadoghq.com/detail/8312438/?gh_jid=8312438) | New York, New York, USA |
 |  | Datadog | [FP&A Analyst R&D](https://careers.datadoghq.com/detail/8204554/?gh_jid=8204554) | New York, New York, USA |
 |  | Datadog | [FP&A Analyst, Cloud Finance](https://careers.datadoghq.com/detail/8267437/?gh_jid=8267437) | New York, New York, USA |
@@ -80,8 +79,8 @@ Last checked: 2026-11-27 09:03:10 UTC
 |  | Flatiron Health | [Associate, Abstraction Training - Instructional Designer](https://flatiron.com/careers/open-positions/job?gh_jid=8292596) | NY office |
 |  | Flatiron Health | [Associate, Life Sciences Partnerships](https://flatiron.com/careers/open-positions/job?gh_jid=8122311) | NY office |
 |  | General Atlantic | [Analyst, Portfolio Management](https://job-boards.greenhouse.io/generalatlantic/jobs/6178950004) | New York - Park Avenue |
-|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8627071002) | New York, New York, United States |
+|  | Guidepoint | [Business Development Associate](https://job-boards.greenhouse.io/guidepoint/jobs/8747990002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715362002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Associate (December 2026 Graduates)](https://job-boards.greenhouse.io/guidepoint/jobs/8714637002) | New York, New York, United States |
 |  | Guidepoint | [Client Service Healthcare Associate (Class of 2027)](https://job-boards.greenhouse.io/guidepoint/jobs/8715889002) | New York, New York, United States |
@@ -236,29 +235,29 @@ Last checked: 2026-11-27 09:03:10 UTC
 | Bilt | 30 | 6 | OK |
 | Evercore (Students & Grads) | 0 | 0 | OK |
 | Evercore (Professionals) | 0 | 0 | OK |
-| BlackRock | 48 | 0 | OK |
+| BlackRock | 47 | 0 | OK |
 | Blackstone | 18 | 6 | OK |
 | Blackstone (Campus) | 13 | 0 | OK |
 | Point72 | 200 | 10 | OK |
 | General Atlantic | 11 | 1 | OK |
 | Anthropic | 634 | 9 | OK |
-| Stripe | 767 | 7 | OK |
+| Stripe | 768 | 7 | OK |
 | Datadog | 390 | 5 | OK |
 | Palantir | 305 | 18 | OK |
 | Ramp | 183 | 15 | OK |
-| iCapital | 234 | 10 | OK |
-| AlphaSights | 70 | 13 | OK |
+| iCapital | 233 | 10 | OK |
+| AlphaSights | 69 | 13 | OK |
 | Jane Street | 219 | 6 | OK |
-| Schonfeld | 67 | 4 | OK |
+| Schonfeld | 66 | 4 | OK |
 | Robinhood | 161 | 0 | OK |
-| SoFi | 58 | 0 | OK |
-| Affirm | 216 | 11 | OK |
+| SoFi | 57 | 0 | OK |
+| Affirm | 218 | 11 | OK |
 | Brex | 266 | 6 | OK |
-| Betterment | 23 | 3 | OK |
-| Clear Street | 32 | 5 | OK |
+| Betterment | 22 | 3 | OK |
+| Clear Street | 31 | 5 | OK |
 | Scale AI | 158 | 0 | OK |
 | Dataiku | 15 | 0 | OK |
-| MongoDB | 421 | 3 | OK |
+| MongoDB | 424 | 3 | OK |
 | Oscar Health | 178 | 9 | OK |
 | The Trade Desk | 125 | 2 | OK |
 | Guidepoint | 105 | 6 | OK |
@@ -267,8 +266,8 @@ Last checked: 2026-11-27 09:03:10 UTC
 | OpenAI | 876 | 17 | OK |
 | Perplexity | 150 | 4 | OK |
 | Notion | 174 | 10 | OK |
-| Harvey | 390 | 19 | OK |
+| Harvey | 387 | 19 | OK |
 | Kalshi | 43 | 2 | OK |
 | Unify | 13 | 1 | OK |
-| Cohere | 123 | 7 | OK |
+| Cohere | 122 | 6 | OK |
 | Vanta | 61 | 3 | OK |
